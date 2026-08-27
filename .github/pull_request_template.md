@@ -9,5 +9,5 @@
 - [ ] Kompilacja Przewodnika MG: `python3 scripts/build_dungeon_masters_guide.py`
 
 ## Zgodność ze Standardami DevEx
-- [ ] Zmiany przestrzegają zasad czystości root (`devex-standards`)
+- [ ] Zmiany są zgodne z wytycznymi w `.agents/rules/project.md`
 - [ ] Zastosowano konwencję Conventional Commits
