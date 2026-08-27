@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-dimensional-travel](boon-of-dimensional-travel.md)
+
+---
+
 # Dar podróży przez wymiary
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-dimensional-travel

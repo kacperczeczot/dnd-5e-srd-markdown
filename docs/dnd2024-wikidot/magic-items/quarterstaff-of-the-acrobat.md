@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [quarterstaff-of-the-acrobat](quarterstaff-of-the-acrobat.md)
+
+---
+
 # Quarterstaff of the Acrobat
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:quarterstaff-of-the-acrobat

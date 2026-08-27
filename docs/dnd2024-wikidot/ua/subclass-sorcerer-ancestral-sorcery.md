@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-ancestral-sorcery](subclass-sorcerer-ancestral-sorcery.md)
+
+---
+
 # Ancestral Sorcery (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-sorcerer-ancestral-sorcery

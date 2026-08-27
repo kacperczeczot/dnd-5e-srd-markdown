@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [chill-touch](chill-touch.md)
+
+---
+
 # Chill Touch
 
 **Source URL:** http://dnd2024.wikidot.com/spell:chill-touch

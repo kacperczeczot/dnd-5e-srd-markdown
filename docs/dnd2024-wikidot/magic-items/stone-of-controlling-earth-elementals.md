@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [stone-of-controlling-earth-elementals](stone-of-controlling-earth-elementals.md)
+
+---
+
 # Stone of Controlling Earth Elementals
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:stone-of-controlling-earth-elementals

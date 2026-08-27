@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dominate-monster](dominate-monster.md)
+
+---
+
 # Dominate Monster
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dominate-monster

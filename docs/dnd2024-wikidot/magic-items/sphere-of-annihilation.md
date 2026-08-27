@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sphere-of-annihilation](sphere-of-annihilation.md)
+
+---
+
 # Sphere of Annihilation
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sphere-of-annihilation

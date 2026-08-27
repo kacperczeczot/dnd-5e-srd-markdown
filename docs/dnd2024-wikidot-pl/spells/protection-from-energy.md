@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-energy](protection-from-energy.md)
+
+---
+
 # Ochrona przed energią
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:protection-from-energy

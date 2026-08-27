@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-elemental-command](ring-of-elemental-command.md)
+
+---
+
 # Pierścień władzy nad żywiołami
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-elemental-command

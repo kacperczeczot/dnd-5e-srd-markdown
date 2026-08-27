@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [bane](bane.md)
+
+---
+
 # Zguba
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:bane

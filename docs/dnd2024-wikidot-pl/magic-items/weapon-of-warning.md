@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [weapon-of-warning](weapon-of-warning.md)
+
+---
+
 # Broń ostrzegawcza
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:weapon-of-warning

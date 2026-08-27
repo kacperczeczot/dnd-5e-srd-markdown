@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dissonant-whispers](dissonant-whispers.md)
+
+---
+
 # Dissonant Whispers
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dissonant-whispers

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [haste](haste.md)
+
+---
+
 # Haste
 
 **Source URL:** http://dnd2024.wikidot.com/spell:haste

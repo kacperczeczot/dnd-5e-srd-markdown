@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [enspelled-staff](enspelled-staff.md)
+
+---
+
 # Zaklęty kostur
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:enspelled-staff

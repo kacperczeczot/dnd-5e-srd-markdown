@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [archery](archery.md)
+
+---
+
 # Strzelectwo
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:archery

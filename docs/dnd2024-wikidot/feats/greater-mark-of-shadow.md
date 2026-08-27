@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-shadow](greater-mark-of-shadow.md)
+
+---
+
 # Greater Mark of Shadow
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-mark-of-shadow

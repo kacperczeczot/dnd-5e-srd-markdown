@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [soldier](soldier.md)
+
+---
+
 # Żołnierz
 
 **URL źródła:** http://dnd2024.wikidot.com/background:soldier

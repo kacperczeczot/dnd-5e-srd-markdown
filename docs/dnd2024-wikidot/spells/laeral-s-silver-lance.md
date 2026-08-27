@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [laeral-s-silver-lance](laeral-s-silver-lance.md)
+
+---
+
 # Laeral's Silver Lance
 
 **Source URL:** http://dnd2024.wikidot.com/spell:laeral-s-silver-lance

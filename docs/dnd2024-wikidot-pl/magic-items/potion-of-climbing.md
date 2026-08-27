@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-climbing](potion-of-climbing.md)
+
+---
+
 # Mikstura wspinaczki
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-climbing

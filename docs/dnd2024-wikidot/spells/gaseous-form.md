@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gaseous-form](gaseous-form.md)
+
+---
+
 # Gaseous Form
 
 **Source URL:** http://dnd2024.wikidot.com/spell:gaseous-form

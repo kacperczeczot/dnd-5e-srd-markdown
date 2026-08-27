@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [simulacrum](simulacrum.md)
+
+---
+
 # Simulacrum
 
 **Source URL:** http://dnd2024.wikidot.com/spell:simulacrum

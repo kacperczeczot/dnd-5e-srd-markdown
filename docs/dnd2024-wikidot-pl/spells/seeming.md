@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [seeming](seeming.md)
+
+---
+
 # Pozory
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:seeming

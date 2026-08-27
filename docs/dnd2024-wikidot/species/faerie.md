@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [faerie](faerie.md)
+
+---
+
 # Faerie
 
 **Source URL:** http://dnd2024.wikidot.com/species:faerie

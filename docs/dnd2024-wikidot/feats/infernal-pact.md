@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [infernal-pact](infernal-pact.md)
+
+---
+
 # Infernal Pact
 
 **Source URL:** http://dnd2024.wikidot.com/feat:infernal-pact

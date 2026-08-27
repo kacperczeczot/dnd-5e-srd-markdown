@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [incendiary-cloud](incendiary-cloud.md)
+
+---
+
 # Incendiary Cloud
 
 **Source URL:** http://dnd2024.wikidot.com/spell:incendiary-cloud

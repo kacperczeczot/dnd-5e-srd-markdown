@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-truesight](boon-of-truesight.md)
+
+---
+
 # Dar prawdziwego widzenia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-truesight

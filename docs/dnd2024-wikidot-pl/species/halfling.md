@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [halfling](halfling.md)
+
+---
+
 # Nizołek
 
 **URL źródła:** http://dnd2024.wikidot.com/species:halfling

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [entertainer](entertainer.md)
+
+---
+
 # Entertainer
 
 **Source URL:** http://dnd2024.wikidot.com/background:entertainer

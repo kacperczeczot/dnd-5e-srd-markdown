@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mind-blank](mind-blank.md)
+
+---
+
 # Czysty umysł
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mind-blank

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-scribing](feat-greater-mark-of-scribing.md)
+
+---
+
 # Greater Mark of Scribing (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-scribing

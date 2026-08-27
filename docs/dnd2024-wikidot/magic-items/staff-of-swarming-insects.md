@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-swarming-insects](staff-of-swarming-insects.md)
+
+---
+
 # Staff of Swarming Insects
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-swarming-insects

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-vadalis-heir](house-vadalis-heir.md)
+
+---
+
 # House Vadalis Heir
 
 **Source URL:** http://dnd2024.wikidot.com/background:house-vadalis-heir

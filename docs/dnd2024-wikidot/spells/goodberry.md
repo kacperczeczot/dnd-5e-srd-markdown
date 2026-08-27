@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [goodberry](goodberry.md)
+
+---
+
 # Goodberry
 
 **Source URL:** http://dnd2024.wikidot.com/spell:goodberry

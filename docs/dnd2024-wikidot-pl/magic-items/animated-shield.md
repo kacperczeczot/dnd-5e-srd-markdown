@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [animated-shield](animated-shield.md)
+
+---
+
 # Ożywiona tarcza
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:animated-shield

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-wild-heart](barbarian-path-of-the-wild-heart.md)
+
+---
+
 # Path of the Wild Heart
 
 **Class:** barbarian

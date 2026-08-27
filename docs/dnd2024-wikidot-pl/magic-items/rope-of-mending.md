@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-mending](rope-of-mending.md)
+
+---
+
 # Sznur naprawy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rope-of-mending

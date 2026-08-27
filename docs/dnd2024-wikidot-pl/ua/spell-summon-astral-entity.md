@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-summon-astral-entity](spell-summon-astral-entity.md)
+
+---
+
 # Przywołanie astralnej istoty (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-summon-astral-entity

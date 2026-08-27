@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [mythalkeeper](mythalkeeper.md)
+
+---
+
 # Strażnik mythali
 
 **URL źródła:** http://dnd2024.wikidot.com/background:mythalkeeper

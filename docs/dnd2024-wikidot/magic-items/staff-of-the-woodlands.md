@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-woodlands](staff-of-the-woodlands.md)
+
+---
+
 # Staff of the Woodlands
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-the-woodlands

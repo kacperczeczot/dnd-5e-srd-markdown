@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-faithful-hound](mordenkainen-s-faithful-hound.md)
+
+---
+
 # Wierny ogar Mordenkainena
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-faithful-hound

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [investigator](investigator.md)
+
+---
+
 # Investigator
 
 **Source URL:** http://dnd2024.wikidot.com/background:investigator

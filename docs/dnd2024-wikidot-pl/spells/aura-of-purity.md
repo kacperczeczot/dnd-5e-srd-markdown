@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [aura-of-purity](aura-of-purity.md)
+
+---
+
 # Aura czystości
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-purity

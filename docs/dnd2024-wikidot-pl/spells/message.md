@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [message](message.md)
+
+---
+
 # Wiadomość
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:message

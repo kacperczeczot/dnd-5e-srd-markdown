@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [geas](geas.md)
+
+---
+
 # Geas
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:geas

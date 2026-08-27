@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [speak-with-dead](speak-with-dead.md)
+
+---
+
 # Speak with Dead
 
 **Source URL:** http://dnd2024.wikidot.com/spell:speak-with-dead

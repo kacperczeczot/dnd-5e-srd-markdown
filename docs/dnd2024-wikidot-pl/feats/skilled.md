@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [skilled](skilled.md)
+
+---
+
 # Uzdolniony
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:skilled

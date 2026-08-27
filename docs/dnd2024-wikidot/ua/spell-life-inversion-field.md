@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-life-inversion-field](spell-life-inversion-field.md)
+
+---
+
 # Life Inversion Field (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-life-inversion-field

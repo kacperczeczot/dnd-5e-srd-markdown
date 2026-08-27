@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [find-traps](find-traps.md)
+
+---
+
 # Find Traps
 
 **Source URL:** http://dnd2024.wikidot.com/spell:find-traps

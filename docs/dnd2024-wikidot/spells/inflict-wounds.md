@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [inflict-wounds](inflict-wounds.md)
+
+---
+
 # Inflict Wounds
 
 **Source URL:** http://dnd2024.wikidot.com/spell:inflict-wounds

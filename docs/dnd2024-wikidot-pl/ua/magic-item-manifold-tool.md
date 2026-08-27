@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-manifold-tool](magic-item-manifold-tool.md)
+
+---
+
 # Wielofunkcyjne narzędzie (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:magic-item-manifold-tool

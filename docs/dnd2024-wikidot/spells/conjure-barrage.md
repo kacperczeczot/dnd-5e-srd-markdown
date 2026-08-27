@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-barrage](conjure-barrage.md)
+
+---
+
 # Conjure Barrage
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-barrage

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [true-seeing](true-seeing.md)
+
+---
+
 # Prawdziwe widzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:true-seeing

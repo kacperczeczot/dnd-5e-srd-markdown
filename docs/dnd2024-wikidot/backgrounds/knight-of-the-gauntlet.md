@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [knight-of-the-gauntlet](knight-of-the-gauntlet.md)
+
+---
+
 # Knight Of The Gauntlet
 
 **Source URL:** http://dnd2024.wikidot.com/background:knight-of-the-gauntlet

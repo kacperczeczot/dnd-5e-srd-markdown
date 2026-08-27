@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [trident-of-fish-command](trident-of-fish-command.md)
+
+---
+
 # Trident of Fish Command
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:trident-of-fish-command

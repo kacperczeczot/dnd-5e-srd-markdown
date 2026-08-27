@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [blind-fighting](blind-fighting.md)
+
+---
+
 # Walka w ślepej
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:blind-fighting

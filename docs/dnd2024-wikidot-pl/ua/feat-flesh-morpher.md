@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-flesh-morpher](feat-flesh-morpher.md)
+
+---
+
 # Kształtownik ciała (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-flesh-morpher

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-magnificent-mansion](mordenkainen-s-magnificent-mansion.md)
+
+---
+
 # Wspaniała posiadłość Mordenkainena
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-magnificent-mansion

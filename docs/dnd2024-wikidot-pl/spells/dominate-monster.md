@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dominate-monster](dominate-monster.md)
+
+---
+
 # Dominacja nad potworem
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dominate-monster

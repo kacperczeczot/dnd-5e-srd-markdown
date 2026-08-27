@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dirge](dirge.md)
+
+---
+
 # Dirge
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dirge

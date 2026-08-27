@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [circle-of-death](circle-of-death.md)
+
+---
+
 # Krąg śmierci
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:circle-of-death

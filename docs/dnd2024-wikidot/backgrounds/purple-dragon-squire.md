@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [purple-dragon-squire](purple-dragon-squire.md)
+
+---
+
 # Purple Dragon Squire
 
 **Source URL:** http://dnd2024.wikidot.com/background:purple-dragon-squire

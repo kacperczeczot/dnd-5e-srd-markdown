@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guardian-of-faith](guardian-of-faith.md)
+
+---
+
 # Guardian of Faith
 
 **Source URL:** http://dnd2024.wikidot.com/spell:guardian-of-faith

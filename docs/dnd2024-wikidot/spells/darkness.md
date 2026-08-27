@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [darkness](darkness.md)
+
+---
+
 # Darkness
 
 **Source URL:** http://dnd2024.wikidot.com/spell:darkness

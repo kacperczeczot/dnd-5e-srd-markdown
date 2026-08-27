@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [charger](charger.md)
+
+---
+
 # Szarża
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:charger

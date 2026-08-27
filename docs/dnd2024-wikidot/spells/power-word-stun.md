@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-stun](power-word-stun.md)
+
+---
+
 # Power Word Stun
 
 **Source URL:** http://dnd2024.wikidot.com/spell:power-word-stun

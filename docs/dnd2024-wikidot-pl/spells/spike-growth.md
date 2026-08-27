@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spike-growth](spike-growth.md)
+
+---
+
 # Wzrost kolców
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spike-growth

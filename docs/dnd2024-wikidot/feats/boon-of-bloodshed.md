@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-bloodshed](boon-of-bloodshed.md)
+
+---
+
 # Boon of Bloodshed
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-bloodshed

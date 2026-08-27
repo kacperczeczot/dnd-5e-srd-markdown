@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [magen-handbell](magen-handbell.md)
+
+---
+
 # Dzwonek magena
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:magen-handbell

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [void-star](void-star.md)
+
+---
+
 # Gwiazda pustki
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:void-star

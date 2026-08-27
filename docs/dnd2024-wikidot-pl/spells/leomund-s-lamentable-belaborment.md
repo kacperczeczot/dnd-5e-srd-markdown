@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [leomund-s-lamentable-belaborment](leomund-s-lamentable-belaborment.md)
+
+---
+
 # Żałosne docinki Leomunda
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:leomund-s-lamentable-belaborment

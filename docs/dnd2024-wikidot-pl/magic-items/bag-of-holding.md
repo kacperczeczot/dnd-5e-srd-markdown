@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-holding](bag-of-holding.md)
+
+---
+
 # Torba przechowywania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bag-of-holding

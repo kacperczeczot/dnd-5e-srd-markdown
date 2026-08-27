@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dissonant-whispers](dissonant-whispers.md)
+
+---
+
 # Fałszywe podszepty
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dissonant-whispers

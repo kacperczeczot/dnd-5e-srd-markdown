@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [starry-wisp](starry-wisp.md)
+
+---
+
 # Gwiezdna iskra
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:starry-wisp

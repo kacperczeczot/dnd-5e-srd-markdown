@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [hermit](hermit.md)
+
+---
+
 # Pustelnik
 
 **URL źródła:** http://dnd2024.wikidot.com/background:hermit

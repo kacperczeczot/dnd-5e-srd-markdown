@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [stone-of-good-luck-luckstone](stone-of-good-luck-luckstone.md)
+
+---
+
 # Stone of Good Luck (Luckstone)
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:stone-of-good-luck-luckstone

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-pestilence](pipes-of-pestilence.md)
+
+---
+
 # Fletnie zarazy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:pipes-of-pestilence

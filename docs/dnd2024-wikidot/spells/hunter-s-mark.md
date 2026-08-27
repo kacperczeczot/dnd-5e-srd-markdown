@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hunter-s-mark](hunter-s-mark.md)
+
+---
+
 # Hunter's Mark
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hunter-s-mark

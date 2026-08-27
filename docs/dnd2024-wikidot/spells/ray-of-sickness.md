@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-sickness](ray-of-sickness.md)
+
+---
+
 # Ray of Sickness
 
 **Source URL:** http://dnd2024.wikidot.com/spell:ray-of-sickness

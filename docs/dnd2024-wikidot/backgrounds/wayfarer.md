@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [wayfarer](wayfarer.md)
+
+---
+
 # Wayfarer
 
 **Source URL:** http://dnd2024.wikidot.com/background:wayfarer

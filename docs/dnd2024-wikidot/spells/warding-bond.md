@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [warding-bond](warding-bond.md)
+
+---
+
 # Warding Bond
 
 **Source URL:** http://dnd2024.wikidot.com/spell:warding-bond

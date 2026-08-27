@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-furious-storm](boon-of-the-furious-storm.md)
+
+---
+
 # Dar wściekłej burzy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-the-furious-storm

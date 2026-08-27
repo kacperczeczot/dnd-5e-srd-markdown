@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [divine-favor](divine-favor.md)
+
+---
+
 # Divine Favor
 
 **Source URL:** http://dnd2024.wikidot.com/spell:divine-favor

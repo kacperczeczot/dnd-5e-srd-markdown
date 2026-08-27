@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [elixir-of-health](elixir-of-health.md)
+
+---
+
 # Elixir of Health
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:elixir-of-health

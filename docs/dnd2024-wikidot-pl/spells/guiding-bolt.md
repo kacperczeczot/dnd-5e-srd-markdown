@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guiding-bolt](guiding-bolt.md)
+
+---
+
 # Pocisk wiodący
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:guiding-bolt

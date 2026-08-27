@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [locate-animals-or-plants](locate-animals-or-plants.md)
+
+---
+
 # Odnalezienie zwierząt lub roślin
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:locate-animals-or-plants

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [sailor](sailor.md)
+
+---
+
 # Sailor
 
 **Source URL:** http://dnd2024.wikidot.com/background:sailor

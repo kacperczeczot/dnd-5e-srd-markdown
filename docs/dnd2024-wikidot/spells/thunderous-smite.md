@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thunderous-smite](thunderous-smite.md)
+
+---
+
 # Thunderous Smite
 
 **Source URL:** http://dnd2024.wikidot.com/spell:thunderous-smite

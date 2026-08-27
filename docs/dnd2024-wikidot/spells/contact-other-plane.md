@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [contact-other-plane](contact-other-plane.md)
+
+---
+
 # Contact Other Plane
 
 **Source URL:** http://dnd2024.wikidot.com/spell:contact-other-plane

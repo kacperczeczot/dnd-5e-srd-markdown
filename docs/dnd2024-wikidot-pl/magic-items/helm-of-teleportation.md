@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-teleportation](helm-of-teleportation.md)
+
+---
+
 # Hełm teleportacji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:helm-of-teleportation

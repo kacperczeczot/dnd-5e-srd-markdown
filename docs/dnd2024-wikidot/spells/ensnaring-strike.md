@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ensnaring-strike](ensnaring-strike.md)
+
+---
+
 # Ensnaring Strike
 
 **Source URL:** http://dnd2024.wikidot.com/spell:ensnaring-strike

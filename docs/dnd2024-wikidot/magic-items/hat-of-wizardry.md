@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-wizardry](hat-of-wizardry.md)
+
+---
+
 # Hat of Wizardry
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:hat-of-wizardry

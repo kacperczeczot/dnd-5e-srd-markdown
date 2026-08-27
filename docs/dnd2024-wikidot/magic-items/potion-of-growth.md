@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-growth](potion-of-growth.md)
+
+---
+
 # Potion of Growth
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-growth

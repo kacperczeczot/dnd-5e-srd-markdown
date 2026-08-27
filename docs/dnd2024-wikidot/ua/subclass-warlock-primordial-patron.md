@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-primordial-patron](subclass-warlock-primordial-patron.md)
+
+---
+
 # Primordial Patron (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-warlock-primordial-patron

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [aberrant-heir](aberrant-heir.md)
+
+---
+
 # Dziedzic aberracji
 
 **URL źródła:** http://dnd2024.wikidot.com/background:aberrant-heir

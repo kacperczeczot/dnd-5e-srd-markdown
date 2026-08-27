@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shining-smite](shining-smite.md)
+
+---
+
 # Lśniące ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:shining-smite

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [darkvision](darkvision.md)
+
+---
+
 # Darkvision
 
 **Source URL:** http://dnd2024.wikidot.com/spell:darkvision

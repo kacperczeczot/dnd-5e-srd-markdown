@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [compelled-duel](compelled-duel.md)
+
+---
+
 # Prowokacja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:compelled-duel

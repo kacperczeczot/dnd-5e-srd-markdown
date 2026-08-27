@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [otilukes-resilient-sphere](otilukes-resilient-sphere.md)
+
+---
+
 # Sprężysta sfera Otiluke’a
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:otilukes-resilient-sphere

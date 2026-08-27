@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-paladin-oath-of-the-spellguard](subclass-paladin-oath-of-the-spellguard.md)
+
+---
+
 # Przysięga Strażnika Czarów (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-paladin-oath-of-the-spellguard

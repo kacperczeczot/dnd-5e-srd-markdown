@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spike-growth](spike-growth.md)
+
+---
+
 # Spike Growth
 
 **Source URL:** http://dnd2024.wikidot.com/spell:spike-growth

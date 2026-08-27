@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [healer](healer.md)
+
+---
+
 # Healer
 
 **Source URL:** http://dnd2024.wikidot.com/feat:healer

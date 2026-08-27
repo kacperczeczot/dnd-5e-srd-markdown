@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-etherealness](oil-of-etherealness.md)
+
+---
+
 # Oil of Etherealness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:oil-of-etherealness

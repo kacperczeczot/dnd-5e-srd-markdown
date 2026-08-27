@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-adaptation](necklace-of-adaptation.md)
+
+---
+
 # Naszyjnik przystosowania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:necklace-of-adaptation

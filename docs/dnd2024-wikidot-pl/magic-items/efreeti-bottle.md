@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [efreeti-bottle](efreeti-bottle.md)
+
+---
+
 # Butelka efreetiego
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:efreeti-bottle

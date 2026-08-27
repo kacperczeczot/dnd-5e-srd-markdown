@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shillelagh](shillelagh.md)
+
+---
+
 # Shillelagh
 
 **Source URL:** http://dnd2024.wikidot.com/spell:shillelagh

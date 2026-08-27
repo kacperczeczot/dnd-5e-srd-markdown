@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fortitude](boon-of-fortitude.md)
+
+---
+
 # Boon of Fortitude
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-fortitude

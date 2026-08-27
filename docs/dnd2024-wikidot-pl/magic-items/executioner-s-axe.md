@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [executioner-s-axe](executioner-s-axe.md)
+
+---
+
 # Topór kata
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:executioner-s-axe

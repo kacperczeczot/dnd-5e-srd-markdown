@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [lightly-armored](lightly-armored.md)
+
+---
+
 # Lekko opancerzony
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:lightly-armored

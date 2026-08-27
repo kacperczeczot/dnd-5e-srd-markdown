@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [heroes-feast](heroes-feast.md)
+
+---
+
 # Heroes' Feast
 
 **Source URL:** http://dnd2024.wikidot.com/spell:heroes-feast

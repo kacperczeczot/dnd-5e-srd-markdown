@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [jallarzi-s-storm-of-radiance](jallarzi-s-storm-of-radiance.md)
+
+---
+
 # Burza blasku Jallarzi
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:jallarzi-s-storm-of-radiance

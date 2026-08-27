@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [true-seeing](true-seeing.md)
+
+---
+
 # True Seeing
 
 **Source URL:** http://dnd2024.wikidot.com/spell:true-seeing

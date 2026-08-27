@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [deck-of-illusions](deck-of-illusions.md)
+
+---
+
 # Talia iluzji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:deck-of-illusions

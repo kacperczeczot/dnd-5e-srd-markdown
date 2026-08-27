@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-climbing](rope-of-climbing.md)
+
+---
+
 # Rope of Climbing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rope-of-climbing

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-medani-heir](house-medani-heir.md)
+
+---
+
 # House Medani Heir
 
 **Source URL:** http://dnd2024.wikidot.com/background:house-medani-heir

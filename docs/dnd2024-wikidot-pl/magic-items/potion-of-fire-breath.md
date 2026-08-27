@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-fire-breath](potion-of-fire-breath.md)
+
+---
+
 # Mikstura ognistego oddechu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-fire-breath

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [feign-death](feign-death.md)
+
+---
+
 # Feign Death
 
 **Source URL:** http://dnd2024.wikidot.com/spell:feign-death

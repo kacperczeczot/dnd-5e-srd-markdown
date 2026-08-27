@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [death-ward](death-ward.md)
+
+---
+
 # Osłona przed śmiercią
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:death-ward

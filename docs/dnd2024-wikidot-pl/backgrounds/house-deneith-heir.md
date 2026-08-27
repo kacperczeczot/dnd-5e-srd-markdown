@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-deneith-heir](house-deneith-heir.md)
+
+---
+
 # Dziedzic rodu Deneith
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-deneith-heir

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-blazing-dawn](boon-of-blazing-dawn.md)
+
+---
+
 # Boon of Blazing Dawn
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-blazing-dawn

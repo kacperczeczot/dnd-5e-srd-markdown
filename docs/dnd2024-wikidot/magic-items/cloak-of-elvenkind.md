@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-elvenkind](cloak-of-elvenkind.md)
+
+---
+
 # Cloak of Elvenkind
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cloak-of-elvenkind

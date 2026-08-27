@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [fey-sentinel](fey-sentinel.md)
+
+---
+
 # Strażnik fey
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:fey-sentinel

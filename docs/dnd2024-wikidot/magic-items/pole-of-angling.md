@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pole-of-angling](pole-of-angling.md)
+
+---
+
 # Pole of Angling
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:pole-of-angling

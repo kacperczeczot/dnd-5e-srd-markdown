@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [artificer-battle-smith](artificer-battle-smith.md)
+
+---
+
 # Battle Smith
 
 **Class:** artificer

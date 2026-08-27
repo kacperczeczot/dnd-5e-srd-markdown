@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [resistance](resistance.md)
+
+---
+
 # Resistance
 
 **Source URL:** http://dnd2024.wikidot.com/spell:resistance

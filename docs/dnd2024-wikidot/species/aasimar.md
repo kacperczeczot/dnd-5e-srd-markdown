@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [aasimar](aasimar.md)
+
+---
+
 # Aasimar
 
 **Source URL:** http://dnd2024.wikidot.com/species:aasimar

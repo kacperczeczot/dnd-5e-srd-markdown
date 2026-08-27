@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [legend-lore](legend-lore.md)
+
+---
+
 # Legendarna wiedza
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:legend-lore

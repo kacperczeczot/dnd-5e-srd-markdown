@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [bloodlust](bloodlust.md)
+
+---
+
 # Bloodlust
 
 **Source URL:** http://dnd2024.wikidot.com/feat:bloodlust

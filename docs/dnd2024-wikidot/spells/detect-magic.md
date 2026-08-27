@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [detect-magic](detect-magic.md)
+
+---
+
 # Detect Magic
 
 **Source URL:** http://dnd2024.wikidot.com/spell:detect-magic

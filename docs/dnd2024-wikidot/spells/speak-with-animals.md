@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [speak-with-animals](speak-with-animals.md)
+
+---
+
 # Speak with Animals
 
 **Source URL:** http://dnd2024.wikidot.com/spell:speak-with-animals

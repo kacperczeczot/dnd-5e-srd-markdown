@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-pyrotechnics](wand-of-pyrotechnics.md)
+
+---
+
 # Różdżka pirotechniki
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-pyrotechnics

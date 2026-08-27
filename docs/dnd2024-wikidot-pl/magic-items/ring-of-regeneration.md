@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-regeneration](ring-of-regeneration.md)
+
+---
+
 # Pierścień regeneracji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-regeneration

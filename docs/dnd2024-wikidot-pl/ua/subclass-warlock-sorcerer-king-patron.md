@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-sorcerer-king-patron](subclass-warlock-sorcerer-king-patron.md)
+
+---
+
 # Patron Króla-Czarownika (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-warlock-sorcerer-king-patron

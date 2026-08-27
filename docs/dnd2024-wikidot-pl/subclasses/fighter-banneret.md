@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [fighter-banneret](fighter-banneret.md)
+
+---
+
 # Chorąży
 
 **Klasa:** Wojownik

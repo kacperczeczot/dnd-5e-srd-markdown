@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [jump](jump.md)
+
+---
+
 # Skok
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:jump

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-tasha-s-mind-whip2](spell-tasha-s-mind-whip2.md)
+
+---
+
 # Mentalny bicz Tashy (UA9 — 02.10.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-tasha-s-mind-whip2

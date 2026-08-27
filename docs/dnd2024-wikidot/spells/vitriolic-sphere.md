@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [vitriolic-sphere](vitriolic-sphere.md)
+
+---
+
 # Vitriolic Sphere
 
 **Source URL:** http://dnd2024.wikidot.com/spell:vitriolic-sphere

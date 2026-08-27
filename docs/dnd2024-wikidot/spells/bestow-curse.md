@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [bestow-curse](bestow-curse.md)
+
+---
+
 # Bestow Curse
 
 **Source URL:** http://dnd2024.wikidot.com/spell:bestow-curse

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [hermit](hermit.md)
+
+---
+
 # Hermit
 
 **Source URL:** http://dnd2024.wikidot.com/background:hermit

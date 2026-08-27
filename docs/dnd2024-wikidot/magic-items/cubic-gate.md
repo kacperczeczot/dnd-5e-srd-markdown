@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cubic-gate](cubic-gate.md)
+
+---
+
 # Cubic Gate
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cubic-gate

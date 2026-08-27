@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mass-healing-word](mass-healing-word.md)
+
+---
+
 # Masowe kojące słowo
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mass-healing-word

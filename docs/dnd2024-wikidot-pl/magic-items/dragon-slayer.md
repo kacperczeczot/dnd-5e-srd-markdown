@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-slayer](dragon-slayer.md)
+
+---
+
 # Pogromca smoków
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dragon-slayer

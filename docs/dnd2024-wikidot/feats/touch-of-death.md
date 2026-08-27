@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [touch-of-death](touch-of-death.md)
+
+---
+
 # Touch of Death
 
 **Source URL:** http://dnd2024.wikidot.com/feat:touch-of-death

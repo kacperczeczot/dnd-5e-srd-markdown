@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [knock](knock.md)
+
+---
+
 # Knock
 
 **Source URL:** http://dnd2024.wikidot.com/spell:knock

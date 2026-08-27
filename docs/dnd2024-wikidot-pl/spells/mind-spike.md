@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mind-spike](mind-spike.md)
+
+---
+
 # Kolec umysłu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mind-spike

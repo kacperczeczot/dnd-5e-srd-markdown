@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [animate-dead](animate-dead.md)
+
+---
+
 # Animate Dead
 
 **Source URL:** http://dnd2024.wikidot.com/spell:animate-dead

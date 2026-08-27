@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [zone-of-truth](zone-of-truth.md)
+
+---
+
 # Strefa prawdy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:zone-of-truth

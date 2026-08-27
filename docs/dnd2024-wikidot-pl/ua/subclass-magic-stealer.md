@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-magic-stealer](subclass-magic-stealer.md)
+
+---
+
 # Złodziej magii (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-magic-stealer

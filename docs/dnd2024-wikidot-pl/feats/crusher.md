@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [crusher](crusher.md)
+
+---
+
 # Miażdżyciel
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:crusher

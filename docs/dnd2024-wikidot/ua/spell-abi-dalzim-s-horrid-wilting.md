@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-abi-dalzim-s-horrid-wilting](spell-abi-dalzim-s-horrid-wilting.md)
+
+---
+
 # Abi-Dalzim's Horrid Wilting (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-abi-dalzim-s-horrid-wilting

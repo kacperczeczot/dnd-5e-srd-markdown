@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [armor-of-resistance](armor-of-resistance.md)
+
+---
+
 # Armor of Resistance
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:armor-of-resistance

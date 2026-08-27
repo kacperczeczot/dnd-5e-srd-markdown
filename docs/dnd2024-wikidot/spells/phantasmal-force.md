@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-force](phantasmal-force.md)
+
+---
+
 # Phantasmal Force
 
 **Source URL:** http://dnd2024.wikidot.com/spell:phantasmal-force

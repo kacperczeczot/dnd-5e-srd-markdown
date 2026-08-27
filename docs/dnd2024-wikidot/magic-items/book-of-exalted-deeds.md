@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-exalted-deeds](book-of-exalted-deeds.md)
+
+---
+
 # Book of Exalted Deeds
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:book-of-exalted-deeds

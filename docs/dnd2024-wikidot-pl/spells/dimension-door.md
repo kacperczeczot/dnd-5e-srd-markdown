@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dimension-door](dimension-door.md)
+
+---
+
 # Drzwi przez wymiary
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dimension-door

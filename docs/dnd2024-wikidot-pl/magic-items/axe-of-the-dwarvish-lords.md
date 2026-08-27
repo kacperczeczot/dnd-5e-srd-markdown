@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [axe-of-the-dwarvish-lords](axe-of-the-dwarvish-lords.md)
+
+---
+
 # Topór krasnoludzkich władców
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:axe-of-the-dwarvish-lords

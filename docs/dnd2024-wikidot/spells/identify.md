@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [identify](identify.md)
+
+---
+
 # Identify
 
 **Source URL:** http://dnd2024.wikidot.com/spell:identify

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-making](feat-mark-of-making.md)
+
+---
+
 # Piętno tworzenia (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-mark-of-making

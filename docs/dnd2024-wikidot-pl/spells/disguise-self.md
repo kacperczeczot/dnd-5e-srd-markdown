@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [disguise-self](disguise-self.md)
+
+---
+
 # Przebranie siebie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:disguise-self

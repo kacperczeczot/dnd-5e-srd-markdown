@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [wand](wand.md)
+
+---
+
 # Przedmioty magiczne — różdżki
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand

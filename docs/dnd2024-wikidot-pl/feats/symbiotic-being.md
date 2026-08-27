@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [symbiotic-being](symbiotic-being.md)
+
+---
+
 # Istota symbiotyczna
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:symbiotic-being

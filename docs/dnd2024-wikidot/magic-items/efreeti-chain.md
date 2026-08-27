@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [efreeti-chain](efreeti-chain.md)
+
+---
+
 # Efreeti Chain
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:efreeti-chain

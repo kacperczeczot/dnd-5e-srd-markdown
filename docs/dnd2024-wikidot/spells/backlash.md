@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [backlash](backlash.md)
+
+---
+
 # Backlash
 
 **Source URL:** http://dnd2024.wikidot.com/spell:backlash

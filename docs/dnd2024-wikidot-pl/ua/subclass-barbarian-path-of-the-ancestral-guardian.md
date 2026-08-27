@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-ancestral-guardian](subclass-barbarian-path-of-the-ancestral-guardian.md)
+
+---
+
 # Ścieżka Strażnika Przodków (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-barbarian-path-of-the-ancestral-guardian

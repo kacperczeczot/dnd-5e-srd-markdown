@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-protection](cloak-of-protection.md)
+
+---
+
 # Płaszcz ochrony
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cloak-of-protection

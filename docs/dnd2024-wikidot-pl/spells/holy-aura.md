@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [holy-aura](holy-aura.md)
+
+---
+
 # Święta aura
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:holy-aura

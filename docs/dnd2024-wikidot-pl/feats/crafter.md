@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [crafter](crafter.md)
+
+---
+
 # Rzemieślnik
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:crafter

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [death-ward](death-ward.md)
+
+---
+
 # Death Ward
 
 **Source URL:** http://dnd2024.wikidot.com/spell:death-ward

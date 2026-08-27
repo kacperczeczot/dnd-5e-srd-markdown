@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [playing-the-game](playing-the-game.md)
+
+---
+
 # Zasady gry
 
 ## Rytm gry

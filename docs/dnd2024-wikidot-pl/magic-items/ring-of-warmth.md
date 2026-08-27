@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-warmth](ring-of-warmth.md)
+
+---
+
 # Pierścień ciepła
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-warmth

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-telekinesis](ring-of-telekinesis.md)
+
+---
+
 # Ring of Telekinesis
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-telekinesis

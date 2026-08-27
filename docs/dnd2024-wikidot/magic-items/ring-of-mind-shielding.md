@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-mind-shielding](ring-of-mind-shielding.md)
+
+---
+
 # Ring of Mind Shielding
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-mind-shielding

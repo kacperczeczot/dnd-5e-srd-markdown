@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [rogue](rogue.md)
+
+---
+
 # Rogue
 
 **Class:** rogue

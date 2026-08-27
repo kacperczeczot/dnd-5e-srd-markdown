@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-stone](wall-of-stone.md)
+
+---
+
 # Wall of Stone
 
 **Source URL:** http://dnd2024.wikidot.com/spell:wall-of-stone

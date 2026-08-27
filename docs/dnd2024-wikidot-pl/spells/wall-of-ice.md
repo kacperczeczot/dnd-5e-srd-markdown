@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-ice](wall-of-ice.md)
+
+---
+
 # Ściana lodu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-ice

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cap-of-water-breathing](cap-of-water-breathing.md)
+
+---
+
 # Cap of Water Breathing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cap-of-water-breathing

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [acid-splash](acid-splash.md)
+
+---
+
 # Acid Splash
 
 **Source URL:** http://dnd2024.wikidot.com/spell:acid-splash

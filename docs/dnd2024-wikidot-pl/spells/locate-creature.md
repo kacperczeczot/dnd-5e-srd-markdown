@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [locate-creature](locate-creature.md)
+
+---
+
 # Odnalezienie istoty
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:locate-creature

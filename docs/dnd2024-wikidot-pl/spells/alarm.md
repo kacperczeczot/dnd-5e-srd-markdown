@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [alarm](alarm.md)
+
+---
+
 # Alarm
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:alarm

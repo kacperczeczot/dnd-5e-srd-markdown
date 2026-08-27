@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thaumaturgy](thaumaturgy.md)
+
+---
+
 # Taumaturgia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:thaumaturgy

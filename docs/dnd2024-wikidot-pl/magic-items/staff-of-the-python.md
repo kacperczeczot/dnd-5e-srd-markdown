@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-python](staff-of-the-python.md)
+
+---
+
 # Kostur dusiciela
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-the-python

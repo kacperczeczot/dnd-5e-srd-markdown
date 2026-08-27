@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [light](light.md)
+
+---
+
 # Światło
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:light

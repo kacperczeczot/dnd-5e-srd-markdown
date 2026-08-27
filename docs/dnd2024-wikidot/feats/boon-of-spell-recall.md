@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-spell-recall](boon-of-spell-recall.md)
+
+---
+
 # Boon of Spell Recall
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-spell-recall

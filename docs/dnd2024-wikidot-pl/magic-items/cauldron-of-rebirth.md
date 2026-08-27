@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cauldron-of-rebirth](cauldron-of-rebirth.md)
+
+---
+
 # Kocioł odrodzenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cauldron-of-rebirth

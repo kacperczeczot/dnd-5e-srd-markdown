@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [ring](ring.md)
+
+---
+
 # Przedmioty magiczne — pierścienie
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring

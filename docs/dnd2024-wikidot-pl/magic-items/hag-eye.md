@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hag-eye](hag-eye.md)
+
+---
+
 # Oko wiedźmy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:hag-eye

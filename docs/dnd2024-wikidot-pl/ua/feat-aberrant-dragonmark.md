@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-aberrant-dragonmark](feat-aberrant-dragonmark.md)
+
+---
+
 # Aberacyjne piętno smoka (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-aberrant-dragonmark

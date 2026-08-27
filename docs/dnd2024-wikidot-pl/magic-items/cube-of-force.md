@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cube-of-force](cube-of-force.md)
+
+---
+
 # Kostka siły
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cube-of-force

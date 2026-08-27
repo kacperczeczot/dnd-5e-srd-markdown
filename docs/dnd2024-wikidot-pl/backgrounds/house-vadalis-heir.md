@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-vadalis-heir](house-vadalis-heir.md)
+
+---
+
 # Dziedzic rodu Vadalis
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-vadalis-heir

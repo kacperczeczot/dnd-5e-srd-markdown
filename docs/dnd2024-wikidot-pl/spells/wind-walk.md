@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wind-walk](wind-walk.md)
+
+---
+
 # Spacer na wietrze
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wind-walk

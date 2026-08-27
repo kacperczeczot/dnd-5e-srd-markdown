@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-evasion](ring-of-evasion.md)
+
+---
+
 # Ring of Evasion
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-evasion

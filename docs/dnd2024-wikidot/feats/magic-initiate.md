@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [magic-initiate](magic-initiate.md)
+
+---
+
 # Magic Initiate
 
 **Source URL:** http://dnd2024.wikidot.com/feat:magic-initiate

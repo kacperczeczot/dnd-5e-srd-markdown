@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-sentinel](feat-mark-of-sentinel.md)
+
+---
+
 # Mark of Sentinel (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-mark-of-sentinel

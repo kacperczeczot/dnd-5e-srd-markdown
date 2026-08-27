@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hallucinatory-terrain](hallucinatory-terrain.md)
+
+---
+
 # Hallucinatory Terrain
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hallucinatory-terrain

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [greater-invisibility](greater-invisibility.md)
+
+---
+
 # Większa niewidzialność
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:greater-invisibility

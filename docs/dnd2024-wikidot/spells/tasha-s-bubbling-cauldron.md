@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tasha-s-bubbling-cauldron](tasha-s-bubbling-cauldron.md)
+
+---
+
 # Tasha's Bubbling Cauldron
 
 **Source URL:** http://dnd2024.wikidot.com/spell:tasha-s-bubbling-cauldron

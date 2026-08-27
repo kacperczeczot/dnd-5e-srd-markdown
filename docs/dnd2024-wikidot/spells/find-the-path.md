@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [find-the-path](find-the-path.md)
+
+---
+
 # Find the Path
 
 **Source URL:** http://dnd2024.wikidot.com/spell:find-the-path

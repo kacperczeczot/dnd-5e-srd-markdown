@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fate](boon-of-fate.md)
+
+---
+
 # Boon of Fate
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-fate

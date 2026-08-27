@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-ego-whip](spell-ego-whip.md)
+
+---
+
 # Bicz ego (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-ego-whip

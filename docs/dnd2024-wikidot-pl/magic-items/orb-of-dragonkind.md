@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [orb-of-dragonkind](orb-of-dragonkind.md)
+
+---
+
 # Smocza kula
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:orb-of-dragonkind

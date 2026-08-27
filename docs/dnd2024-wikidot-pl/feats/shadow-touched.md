@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [shadow-touched](shadow-touched.md)
+
+---
+
 # Dotknięty cieniem
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:shadow-touched

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hunter-s-mark](hunter-s-mark.md)
+
+---
+
 # Znak łowcy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:hunter-s-mark

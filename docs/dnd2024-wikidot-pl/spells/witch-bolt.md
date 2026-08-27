@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [witch-bolt](witch-bolt.md)
+
+---
+
 # Wiedźmi pocisk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:witch-bolt

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [feats](feats.md)
+
+---
+
 # Atuty
 
 ## Opisy atutów

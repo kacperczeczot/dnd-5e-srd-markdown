@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-valhalla](horn-of-valhalla.md)
+
+---
+
 # Horn of Valhalla
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:horn-of-valhalla

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [reliquary-of-twilight](reliquary-of-twilight.md)
+
+---
+
 # Reliquary of Twilight
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:reliquary-of-twilight

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [genie-magic](genie-magic.md)
+
+---
+
 # Genie Magic
 
 **Source URL:** http://dnd2024.wikidot.com/feat:genie-magic

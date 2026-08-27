@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [farmer](farmer.md)
+
+---
+
 # Farmer
 
 **Source URL:** http://dnd2024.wikidot.com/background:farmer

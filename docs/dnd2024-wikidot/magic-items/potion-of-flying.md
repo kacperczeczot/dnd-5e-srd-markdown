@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-flying](potion-of-flying.md)
+
+---
+
 # Potion of Flying
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-flying

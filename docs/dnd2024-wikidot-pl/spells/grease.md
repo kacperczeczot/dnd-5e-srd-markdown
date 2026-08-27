@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [grease](grease.md)
+
+---
+
 # Tłuszcz
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:grease

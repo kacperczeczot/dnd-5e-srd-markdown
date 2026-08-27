@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-three-wishes](ring-of-three-wishes.md)
+
+---
+
 # Pierścień trzech życzeń
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-three-wishes

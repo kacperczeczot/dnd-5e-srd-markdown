@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [en](README.md) > [spells](spells.md)
+
+---
+
 ﻿# Spells
 
 ## Gaining Spells

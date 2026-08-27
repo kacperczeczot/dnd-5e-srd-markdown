@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-haunting](pipes-of-haunting.md)
+
+---
+
 # Pipes of Haunting
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:pipes-of-haunting

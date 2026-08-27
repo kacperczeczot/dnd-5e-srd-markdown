@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [swift-quiver](swift-quiver.md)
+
+---
+
 # Swift Quiver
 
 **Source URL:** http://dnd2024.wikidot.com/spell:swift-quiver

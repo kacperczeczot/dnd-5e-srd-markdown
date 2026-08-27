@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-psion2](class-psion2.md)
+
+---
+
 # Psion (UA9 - 02.10.2025)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:class-psion2

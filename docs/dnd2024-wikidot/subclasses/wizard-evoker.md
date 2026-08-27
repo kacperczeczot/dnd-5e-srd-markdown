@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [wizard-evoker](wizard-evoker.md)
+
+---
+
 # Evoker
 
 **Class:** wizard

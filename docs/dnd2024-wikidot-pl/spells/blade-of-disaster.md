@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blade-of-disaster](blade-of-disaster.md)
+
+---
+
 # Ostrze katastrofy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:blade-of-disaster

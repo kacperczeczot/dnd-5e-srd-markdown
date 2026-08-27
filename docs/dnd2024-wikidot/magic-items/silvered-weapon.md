@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [silvered-weapon](silvered-weapon.md)
+
+---
+
 # Silvered Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:silvered-weapon

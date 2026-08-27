@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-lock](arcane-lock.md)
+
+---
+
 # Magiczny zamek
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:arcane-lock

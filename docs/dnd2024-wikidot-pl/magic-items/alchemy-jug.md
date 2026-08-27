@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [alchemy-jug](alchemy-jug.md)
+
+---
+
 # Dzban alchemiczny
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:alchemy-jug

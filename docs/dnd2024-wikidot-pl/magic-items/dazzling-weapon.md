@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dazzling-weapon](dazzling-weapon.md)
+
+---
+
 # Oślepiająca broń
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dazzling-weapon

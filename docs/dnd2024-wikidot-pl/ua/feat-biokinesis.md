@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-biokinesis](feat-biokinesis.md)
+
+---
+
 # Biokineza (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-biokinesis

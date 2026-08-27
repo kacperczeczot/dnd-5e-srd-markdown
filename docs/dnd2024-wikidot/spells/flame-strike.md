@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [flame-strike](flame-strike.md)
+
+---
+
 # Flame Strike
 
 **Source URL:** http://dnd2024.wikidot.com/spell:flame-strike

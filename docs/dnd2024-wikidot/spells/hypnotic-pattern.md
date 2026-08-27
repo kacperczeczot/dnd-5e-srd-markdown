@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hypnotic-pattern](hypnotic-pattern.md)
+
+---
+
 # Hypnotic Pattern
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hypnotic-pattern

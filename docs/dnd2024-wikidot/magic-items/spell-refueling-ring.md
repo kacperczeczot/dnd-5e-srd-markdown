@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spell-refueling-ring](spell-refueling-ring.md)
+
+---
+
 # Spell-Refueling Ring
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:spell-refueling-ring

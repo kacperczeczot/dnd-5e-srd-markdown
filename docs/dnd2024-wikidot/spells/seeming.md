@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [seeming](seeming.md)
+
+---
+
 # Seeming
 
 **Source URL:** http://dnd2024.wikidot.com/spell:seeming

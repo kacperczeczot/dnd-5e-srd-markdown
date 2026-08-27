@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [light-bringer](light-bringer.md)
+
+---
+
 # Niosący światło
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:light-bringer

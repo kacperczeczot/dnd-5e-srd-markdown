@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-mind-reading](potion-of-mind-reading.md)
+
+---
+
 # Mikstura czytania myśli
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-mind-reading

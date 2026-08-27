@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-useful-items](robe-of-useful-items.md)
+
+---
+
 # Szata przydatnych przedmiotów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:robe-of-useful-items

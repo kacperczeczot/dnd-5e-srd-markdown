@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [thunderous-greatclub](thunderous-greatclub.md)
+
+---
+
 # Thunderous Greatclub
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:thunderous-greatclub

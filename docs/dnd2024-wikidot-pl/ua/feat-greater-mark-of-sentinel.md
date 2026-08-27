@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-sentinel](feat-greater-mark-of-sentinel.md)
+
+---
+
 # Większe piętno strażnika (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-sentinel

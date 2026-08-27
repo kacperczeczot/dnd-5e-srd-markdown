@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [enhance-ability](enhance-ability.md)
+
+---
+
 # Wzmocnienie cechy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:enhance-ability

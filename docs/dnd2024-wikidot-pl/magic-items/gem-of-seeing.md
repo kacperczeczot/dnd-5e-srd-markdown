@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gem-of-seeing](gem-of-seeing.md)
+
+---
+
 # Klejnot widzenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:gem-of-seeing

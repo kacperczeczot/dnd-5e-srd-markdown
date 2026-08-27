@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [divine-smite](divine-smite.md)
+
+---
+
 # Boskie ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:divine-smite

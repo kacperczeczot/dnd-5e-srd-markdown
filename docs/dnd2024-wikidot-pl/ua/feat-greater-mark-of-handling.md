@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-handling](feat-greater-mark-of-handling.md)
+
+---
+
 # Większe piętno opiekuna (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-handling

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [forbiddance](forbiddance.md)
+
+---
+
 # Wyłączenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:forbiddance

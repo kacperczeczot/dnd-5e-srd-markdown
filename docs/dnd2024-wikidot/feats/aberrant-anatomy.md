@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [aberrant-anatomy](aberrant-anatomy.md)
+
+---
+
 # Aberrant Anatomy
 
 **Source URL:** http://dnd2024.wikidot.com/feat:aberrant-anatomy

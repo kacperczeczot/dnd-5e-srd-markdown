@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mass-suggestion](mass-suggestion.md)
+
+---
+
 # Mass Suggestion
 
 **Source URL:** http://dnd2024.wikidot.com/spell:mass-suggestion

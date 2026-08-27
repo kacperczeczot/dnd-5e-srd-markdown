@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-dryness](dust-of-dryness.md)
+
+---
+
 # Dust of Dryness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dust-of-dryness

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dominate-person](dominate-person.md)
+
+---
+
 # Dominacja nad osobą
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dominate-person

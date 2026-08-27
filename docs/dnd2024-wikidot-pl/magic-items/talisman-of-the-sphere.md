@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [talisman-of-the-sphere](talisman-of-the-sphere.md)
+
+---
+
 # Talizman kuli
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:talisman-of-the-sphere

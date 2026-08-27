@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [gameplay-toolbox](gameplay-toolbox.md)
+
+---
+
 # Narzędzia rozgrywki
 
 ## Tempo podróży

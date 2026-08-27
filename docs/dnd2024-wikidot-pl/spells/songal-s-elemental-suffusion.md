@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [songal-s-elemental-suffusion](songal-s-elemental-suffusion.md)
+
+---
+
 # Żywiołowe nasycenie Songala
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:songal-s-elemental-suffusion

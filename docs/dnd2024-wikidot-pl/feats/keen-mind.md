@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [keen-mind](keen-mind.md)
+
+---
+
 # Bystry umysł
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:keen-mind

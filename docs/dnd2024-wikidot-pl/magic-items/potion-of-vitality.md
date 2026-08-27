@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-vitality](potion-of-vitality.md)
+
+---
+
 # Mikstura witalności
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-vitality

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spiked-shield](spiked-shield.md)
+
+---
+
 # Spiked Shield
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:spiked-shield

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-answering](sword-of-answering.md)
+
+---
+
 # Sword of Answering
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sword-of-answering

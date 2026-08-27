@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [underhanded](underhanded.md)
+
+---
+
 # Podstępny (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:underhanded

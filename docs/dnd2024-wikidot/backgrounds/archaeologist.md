@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [archaeologist](archaeologist.md)
+
+---
+
 # Archaeologist
 
 **Source URL:** http://dnd2024.wikidot.com/background:archaeologist

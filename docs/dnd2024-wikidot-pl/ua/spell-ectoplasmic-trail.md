@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-ectoplasmic-trail](spell-ectoplasmic-trail.md)
+
+---
+
 # Ektoplazmowy ślad (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-ectoplasmic-trail

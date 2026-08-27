@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [winged-boots](winged-boots.md)
+
+---
+
 # Skrzydlate buty
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:winged-boots

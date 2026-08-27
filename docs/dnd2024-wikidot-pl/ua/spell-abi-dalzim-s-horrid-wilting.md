@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-abi-dalzim-s-horrid-wilting](spell-abi-dalzim-s-horrid-wilting.md)
+
+---
+
 # Ohydne więdnięcie Abi-Dalzima (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-abi-dalzim-s-horrid-wilting

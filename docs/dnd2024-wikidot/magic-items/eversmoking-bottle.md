@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eversmoking-bottle](eversmoking-bottle.md)
+
+---
+
 # Eversmoking Bottle
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:eversmoking-bottle

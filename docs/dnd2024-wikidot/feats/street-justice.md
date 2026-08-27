@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [street-justice](street-justice.md)
+
+---
+
 # Street Justice
 
 **Source URL:** http://dnd2024.wikidot.com/feat:street-justice

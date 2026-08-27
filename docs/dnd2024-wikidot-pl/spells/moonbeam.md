@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [moonbeam](moonbeam.md)
+
+---
+
 # Księżycowy promień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:moonbeam

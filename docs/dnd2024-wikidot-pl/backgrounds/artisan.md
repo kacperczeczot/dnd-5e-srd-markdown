@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [artisan](artisan.md)
+
+---
+
 # Rzemieślnik
 
 **URL źródła:** http://dnd2024.wikidot.com/background:artisan

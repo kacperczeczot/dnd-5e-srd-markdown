@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-scale-mail](dragon-scale-mail.md)
+
+---
+
 # Zbroja z łusek smoka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dragon-scale-mail

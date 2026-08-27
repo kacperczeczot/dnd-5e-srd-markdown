@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-paralysis](wand-of-paralysis.md)
+
+---
+
 # Wand of Paralysis
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-paralysis

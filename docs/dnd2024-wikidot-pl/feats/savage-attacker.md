@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [savage-attacker](savage-attacker.md)
+
+---
+
 # Brutalny napastnik
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:savage-attacker

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [charger](charger.md)
+
+---
+
 # Charger
 
 **Source URL:** http://dnd2024.wikidot.com/feat:charger

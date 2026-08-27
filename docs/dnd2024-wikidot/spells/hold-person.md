@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hold-person](hold-person.md)
+
+---
+
 # Hold Person
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hold-person

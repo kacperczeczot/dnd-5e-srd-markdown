@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-warlock-invocations](class-warlock-invocations.md)
+
+---
+
 # Warlock Invocations (UA13)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:class-warlock-invocations

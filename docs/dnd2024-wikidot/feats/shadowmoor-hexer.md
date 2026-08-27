@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [shadowmoor-hexer](shadowmoor-hexer.md)
+
+---
+
 # Shadowmoor Hexer
 
 **Source URL:** http://dnd2024.wikidot.com/feat:shadowmoor-hexer

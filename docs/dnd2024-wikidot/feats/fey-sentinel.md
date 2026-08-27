@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [fey-sentinel](fey-sentinel.md)
+
+---
+
 # Fey Sentinel
 
 **Source URL:** http://dnd2024.wikidot.com/feat:fey-sentinel

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-power](staff-of-power.md)
+
+---
+
 # Kostur mocy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-power

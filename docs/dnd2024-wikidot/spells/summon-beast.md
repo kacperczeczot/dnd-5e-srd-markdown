@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [summon-beast](summon-beast.md)
+
+---
+
 # Summon Beast
 
 **Source URL:** http://dnd2024.wikidot.com/spell:summon-beast

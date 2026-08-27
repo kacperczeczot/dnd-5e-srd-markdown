@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guiding-bolt](guiding-bolt.md)
+
+---
+
 # Guiding Bolt
 
 **Source URL:** http://dnd2024.wikidot.com/spell:guiding-bolt

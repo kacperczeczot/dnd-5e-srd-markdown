@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-thunder-and-lightning](staff-of-thunder-and-lightning.md)
+
+---
+
 # Staff of Thunder and Lightning
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-thunder-and-lightning

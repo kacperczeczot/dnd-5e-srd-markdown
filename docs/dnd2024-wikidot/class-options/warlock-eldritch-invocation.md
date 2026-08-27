@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [class-options](README.md) > [warlock-eldritch-invocation](warlock-eldritch-invocation.md)
+
+---
+
 # Eldritch Invocation
 
 **Source URL:** http://dnd2024.wikidot.com/warlock:eldritch-invocation

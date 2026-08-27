@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-magic-detection](wand-of-magic-detection.md)
+
+---
+
 # Wand of Magic Detection
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-magic-detection

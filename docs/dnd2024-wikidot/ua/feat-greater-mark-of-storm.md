@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-storm](feat-greater-mark-of-storm.md)
+
+---
+
 # Greater Mark of Storm (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-storm

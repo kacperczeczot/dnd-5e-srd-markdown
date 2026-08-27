@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-alertness](rod-of-alertness.md)
+
+---
+
 # Rod of Alertness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rod-of-alertness

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [brooch-of-shielding](brooch-of-shielding.md)
+
+---
+
 # Brosza osłony
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:brooch-of-shielding

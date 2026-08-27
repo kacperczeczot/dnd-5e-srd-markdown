@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-many-spells](hat-of-many-spells.md)
+
+---
+
 # Hat of Many Spells
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:hat-of-many-spells

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mislead](mislead.md)
+
+---
+
 # Zmyłka
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mislead

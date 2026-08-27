@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [martial-weapon-training](martial-weapon-training.md)
+
+---
+
 # Szkolenie w broni bojowej
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:martial-weapon-training

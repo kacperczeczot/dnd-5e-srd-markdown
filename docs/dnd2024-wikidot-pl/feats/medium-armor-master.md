@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [medium-armor-master](medium-armor-master.md)
+
+---
+
 # Mistrz średniego pancerza
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:medium-armor-master

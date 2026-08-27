@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blink](blink.md)
+
+---
+
 # Mignięcie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:blink

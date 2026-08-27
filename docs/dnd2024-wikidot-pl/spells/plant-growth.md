@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [plant-growth](plant-growth.md)
+
+---
+
 # Rozrost roślin
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:plant-growth

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [yolande-s-regal-presence](yolande-s-regal-presence.md)
+
+---
+
 # Yolande's Regal Presence
 
 **Source URL:** http://dnd2024.wikidot.com/spell:yolande-s-regal-presence

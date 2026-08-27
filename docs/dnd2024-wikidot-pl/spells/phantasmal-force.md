@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-force](phantasmal-force.md)
+
+---
+
 # Urojona siła
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:phantasmal-force

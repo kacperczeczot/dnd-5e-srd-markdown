@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-bodily-health](manual-of-bodily-health.md)
+
+---
+
 # Almanach dobrego zdrowia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:manual-of-bodily-health

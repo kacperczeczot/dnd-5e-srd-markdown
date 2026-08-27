@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-sickness](ray-of-sickness.md)
+
+---
+
 # Promień zatrucia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-sickness

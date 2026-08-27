@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-ancestral-guardian](subclass-barbarian-path-of-the-ancestral-guardian.md)
+
+---
+
 # Path of the Ancestral Guardian (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-barbarian-path-of-the-ancestral-guardian

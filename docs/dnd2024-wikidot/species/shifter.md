@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [shifter](shifter.md)
+
+---
+
 # Shifter
 
 **Source URL:** http://dnd2024.wikidot.com/species:shifter

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-of-the-cavalier](shield-of-the-cavalier.md)
+
+---
+
 # Tarcza kawalerii
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:shield-of-the-cavalier

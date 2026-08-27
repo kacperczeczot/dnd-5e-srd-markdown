@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [doomtide](doomtide.md)
+
+---
+
 # Doomtide
 
 **Source URL:** http://dnd2024.wikidot.com/spell:doomtide

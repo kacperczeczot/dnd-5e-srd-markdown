@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [swift-quiver](swift-quiver.md)
+
+---
+
 # Automatyczny kołczan
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:swift-quiver

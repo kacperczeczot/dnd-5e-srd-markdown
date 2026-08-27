@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-terror](boon-of-terror.md)
+
+---
+
 # Boon of Terror
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-terror

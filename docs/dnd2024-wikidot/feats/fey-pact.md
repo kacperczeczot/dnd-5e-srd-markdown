@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [fey-pact](fey-pact.md)
+
+---
+
 # Fey Pact
 
 **Source URL:** http://dnd2024.wikidot.com/feat:fey-pact

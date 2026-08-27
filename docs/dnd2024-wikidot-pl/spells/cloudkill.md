@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cloudkill](cloudkill.md)
+
+---
+
 # Zabójcza chmura
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:cloudkill

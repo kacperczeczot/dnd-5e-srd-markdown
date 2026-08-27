@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-conjurer2](subclass-wizard-conjurer2.md)
+
+---
+
 # Przywoływacz (UA8 — 18.09.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-wizard-conjurer2

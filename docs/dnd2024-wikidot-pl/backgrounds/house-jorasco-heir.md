@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-jorasco-heir](house-jorasco-heir.md)
+
+---
+
 # Dziedzic rodu Jorasco
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-jorasco-heir

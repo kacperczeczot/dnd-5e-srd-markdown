@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-frost](staff-of-frost.md)
+
+---
+
 # Kostur mrozu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-frost

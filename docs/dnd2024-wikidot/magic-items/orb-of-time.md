@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [orb-of-time](orb-of-time.md)
+
+---
+
 # Orb of Time
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:orb-of-time

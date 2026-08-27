@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-secrets](wand-of-secrets.md)
+
+---
+
 # Różdżka tajemnic
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-secrets

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball-of-true-seeing](crystal-ball-of-true-seeing.md)
+
+---
+
 # Crystal Ball of True Seeing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:crystal-ball-of-true-seeing

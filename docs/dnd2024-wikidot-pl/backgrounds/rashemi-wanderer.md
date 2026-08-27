@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [rashemi-wanderer](rashemi-wanderer.md)
+
+---
+
 # Rashemiński wędrowiec
 
 **URL źródła:** http://dnd2024.wikidot.com/background:rashemi-wanderer

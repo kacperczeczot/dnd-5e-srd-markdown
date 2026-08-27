@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [lordly-resolve](lordly-resolve.md)
+
+---
+
 # Lordly Resolve
 
 **Source URL:** http://dnd2024.wikidot.com/feat:lordly-resolve

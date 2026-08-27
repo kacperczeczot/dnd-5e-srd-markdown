@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cast-off-armor](cast-off-armor.md)
+
+---
+
 # Zbroja szybkiego zdejmowania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cast-off-armor

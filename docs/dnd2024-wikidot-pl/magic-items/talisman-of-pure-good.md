@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [talisman-of-pure-good](talisman-of-pure-good.md)
+
+---
+
 # Talizman czystej dobroci
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:talisman-of-pure-good

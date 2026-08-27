@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-lock](arcane-lock.md)
+
+---
+
 # Arcane Lock
 
 **Source URL:** http://dnd2024.wikidot.com/spell:arcane-lock

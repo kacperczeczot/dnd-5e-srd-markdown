@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-the-winding-path](boots-of-the-winding-path.md)
+
+---
+
 # Boots of the Winding Path
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:boots-of-the-winding-path

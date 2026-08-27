@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [meld-into-stone](meld-into-stone.md)
+
+---
+
 # Wtopienie w kamień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:meld-into-stone

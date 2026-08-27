@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-the-pact-keeper](rod-of-the-pact-keeper.md)
+
+---
+
 # Berło strażnika paktu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rod-of-the-pact-keeper

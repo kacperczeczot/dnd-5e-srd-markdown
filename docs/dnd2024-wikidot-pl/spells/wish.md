@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wish](wish.md)
+
+---
+
 # Życzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wish

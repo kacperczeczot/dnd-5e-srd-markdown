@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [lightning-arrow](lightning-arrow.md)
+
+---
+
 # Lightning Arrow
 
 **Source URL:** http://dnd2024.wikidot.com/spell:lightning-arrow

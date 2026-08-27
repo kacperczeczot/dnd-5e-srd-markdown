@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [vampire-devotee](vampire-devotee.md)
+
+---
+
 # Sługa wampira
 
 **URL źródła:** http://dnd2024.wikidot.com/background:vampire-devotee

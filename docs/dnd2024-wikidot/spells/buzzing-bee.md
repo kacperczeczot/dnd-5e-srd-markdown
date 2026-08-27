@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [buzzing-bee](buzzing-bee.md)
+
+---
+
 # Buzzing Bee
 
 **Source URL:** http://dnd2024.wikidot.com/spell:buzzing-bee

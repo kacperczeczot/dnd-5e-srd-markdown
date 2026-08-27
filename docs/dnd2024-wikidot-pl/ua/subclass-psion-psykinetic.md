@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-psykinetic](subclass-psion-psykinetic.md)
+
+---
+
 # Psykinetyk (UA5 — 27.05.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-psion-psykinetic

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [otiluke-s-freezing-sphere](otiluke-s-freezing-sphere.md)
+
+---
+
 # Otiluke's Freezing Sphere
 
 **Source URL:** http://dnd2024.wikidot.com/spell:otiluke-s-freezing-sphere

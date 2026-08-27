@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-phiarlan-heir](house-phiarlan-heir.md)
+
+---
+
 # House Phiarlan Heir
 
 **Source URL:** http://dnd2024.wikidot.com/background:house-phiarlan-heir

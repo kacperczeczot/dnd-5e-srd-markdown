@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-passage](mark-of-passage.md)
+
+---
+
 # Piętno przemijania
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-passage

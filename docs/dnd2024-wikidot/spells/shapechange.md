@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shapechange](shapechange.md)
+
+---
+
 # Shapechange
 
 **Source URL:** http://dnd2024.wikidot.com/spell:shapechange

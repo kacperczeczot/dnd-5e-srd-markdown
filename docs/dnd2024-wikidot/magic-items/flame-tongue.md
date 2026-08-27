@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [flame-tongue](flame-tongue.md)
+
+---
+
 # Flame Tongue
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:flame-tongue

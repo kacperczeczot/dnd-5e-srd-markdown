@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [clockwork-amulet](clockwork-amulet.md)
+
+---
+
 # Zegarowy amulet
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:clockwork-amulet

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-telekinetic-crush](spell-telekinetic-crush.md)
+
+---
+
 # Telekinetyczne zgniecenie (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-telekinetic-crush

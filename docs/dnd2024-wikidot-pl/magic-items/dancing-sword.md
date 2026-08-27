@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dancing-sword](dancing-sword.md)
+
+---
+
 # Tańczący miecz
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dancing-sword

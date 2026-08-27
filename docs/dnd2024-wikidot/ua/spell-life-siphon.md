@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-life-siphon](spell-life-siphon.md)
+
+---
+
 # Life Siphon (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-life-siphon

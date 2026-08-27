@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [lupin](lupin.md)
+
+---
+
 # Lupin
 
 **Source URL:** http://dnd2024.wikidot.com/species:lupin

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [charm-person](charm-person.md)
+
+---
+
 # Charm Person
 
 **Source URL:** http://dnd2024.wikidot.com/spell:charm-person

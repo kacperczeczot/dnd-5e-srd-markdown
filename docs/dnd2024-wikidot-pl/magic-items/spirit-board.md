@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spirit-board](spirit-board.md)
+
+---
+
 # Tablica spirytów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:spirit-board

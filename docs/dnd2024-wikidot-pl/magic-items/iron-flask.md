@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [iron-flask](iron-flask.md)
+
+---
+
 # Żelazna manierka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:iron-flask

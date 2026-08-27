@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-the-eagle](eyes-of-the-eagle.md)
+
+---
+
 # Eyes of the Eagle
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:eyes-of-the-eagle

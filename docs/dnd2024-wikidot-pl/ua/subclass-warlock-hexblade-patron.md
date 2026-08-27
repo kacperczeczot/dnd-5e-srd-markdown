@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-hexblade-patron](subclass-warlock-hexblade-patron.md)
+
+---
+
 # Patron Klątwy Ostrza (UA4 — 06.05.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-warlock-hexblade-patron

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [fairy-trickster](fairy-trickster.md)
+
+---
+
 # Fairy Trickster
 
 **Source URL:** http://dnd2024.wikidot.com/feat:fairy-trickster

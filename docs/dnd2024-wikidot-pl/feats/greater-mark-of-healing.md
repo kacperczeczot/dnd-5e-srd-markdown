@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-healing](greater-mark-of-healing.md)
+
+---
+
 # Większe piętno leczenia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:greater-mark-of-healing

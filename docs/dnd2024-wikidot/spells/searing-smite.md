@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [searing-smite](searing-smite.md)
+
+---
+
 # Searing Smite
 
 **Source URL:** http://dnd2024.wikidot.com/spell:searing-smite

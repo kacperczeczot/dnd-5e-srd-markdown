@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-mind-shielding](ring-of-mind-shielding.md)
+
+---
+
 # Pierścień osłony umysłu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-mind-shielding

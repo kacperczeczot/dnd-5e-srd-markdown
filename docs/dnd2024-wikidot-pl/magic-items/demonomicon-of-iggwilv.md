@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [demonomicon-of-iggwilv](demonomicon-of-iggwilv.md)
+
+---
+
 # Demonomikon Iggwilv
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:demonomicon-of-iggwilv

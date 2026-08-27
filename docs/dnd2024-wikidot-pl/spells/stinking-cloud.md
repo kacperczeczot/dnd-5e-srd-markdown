@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [stinking-cloud](stinking-cloud.md)
+
+---
+
 # Śmierdząca chmura
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:stinking-cloud

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ruby-of-the-war-mage](ruby-of-the-war-mage.md)
+
+---
+
 # Ruby of the War Mage
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ruby-of-the-war-mage

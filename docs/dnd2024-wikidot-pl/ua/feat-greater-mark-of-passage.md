@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-passage](feat-greater-mark-of-passage.md)
+
+---
+
 # Większe piętno przemijania (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-passage

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sovereign-glue](sovereign-glue.md)
+
+---
+
 # Klej absolutny
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sovereign-glue

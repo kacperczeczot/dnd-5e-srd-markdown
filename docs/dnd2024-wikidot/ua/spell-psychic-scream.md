@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-psychic-scream](spell-psychic-scream.md)
+
+---
+
 # Psychic Scream (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-psychic-scream

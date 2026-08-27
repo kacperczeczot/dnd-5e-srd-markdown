@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [brooch-of-shielding](brooch-of-shielding.md)
+
+---
+
 # Brooch of Shielding
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:brooch-of-shielding

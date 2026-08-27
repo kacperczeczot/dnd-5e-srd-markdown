@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-feather-falling](ring-of-feather-falling.md)
+
+---
+
 # Pierścień piórkospadania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-feather-falling

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-devotion](paladin-oath-of-devotion.md)
+
+---
+
 # Oath of Devotion
 
 **Class:** paladin

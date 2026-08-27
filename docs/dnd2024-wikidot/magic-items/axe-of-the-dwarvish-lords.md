@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [axe-of-the-dwarvish-lords](axe-of-the-dwarvish-lords.md)
+
+---
+
 # Axe of the Dwarvish Lords
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:axe-of-the-dwarvish-lords

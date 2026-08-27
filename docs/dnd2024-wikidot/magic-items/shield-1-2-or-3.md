@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-1-2-or-3](shield-1-2-or-3.md)
+
+---
+
 # Shield, +1, +2, or +3
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:shield-1-2-or-3

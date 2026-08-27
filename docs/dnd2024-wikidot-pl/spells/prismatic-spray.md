@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [prismatic-spray](prismatic-spray.md)
+
+---
+
 # Pryzmatyczny rozprysk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:prismatic-spray

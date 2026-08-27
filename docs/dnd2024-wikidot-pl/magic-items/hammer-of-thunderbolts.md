@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hammer-of-thunderbolts](hammer-of-thunderbolts.md)
+
+---
+
 # Młot piorunów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:hammer-of-thunderbolts

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [transport-via-plants](transport-via-plants.md)
+
+---
+
 # Podróż przez rośliny
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:transport-via-plants

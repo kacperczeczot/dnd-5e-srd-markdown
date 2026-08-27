@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [true-resurrection](true-resurrection.md)
+
+---
+
 # Prawdziwe zmartwychwstanie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:true-resurrection

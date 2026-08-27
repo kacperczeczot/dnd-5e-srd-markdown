@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-shooting-stars](ring-of-shooting-stars.md)
+
+---
+
 # Pierścień spadających gwiazd
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-shooting-stars

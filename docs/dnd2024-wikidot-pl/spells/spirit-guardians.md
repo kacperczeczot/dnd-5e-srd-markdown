@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spirit-guardians](spirit-guardians.md)
+
+---
+
 # Duchowi strażnicy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spirit-guardians

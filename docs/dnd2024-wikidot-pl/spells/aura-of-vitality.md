@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [aura-of-vitality](aura-of-vitality.md)
+
+---
+
 # Aura witalności
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-vitality

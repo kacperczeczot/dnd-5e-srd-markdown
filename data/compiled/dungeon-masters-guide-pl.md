@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [compiled](README.md) > [dungeon-masters-guide-pl](dungeon-masters-guide-pl.md)
+
+---
+
 # Podręcznik Mistrza Gry
 
 > **Wydanie skompilowane.** Ten tom łączy SRD 5.2.1 oraz treści z dnd2024.wikidot oznaczone *Podręcznik Mistrza Gry*. Struktura odpowiada PMG 2024 tam, gdzie mamy źródła. **Pominięto** (brak scrapu w repozytorium): rozdz. 1 *Podstawy*, rozdz. 4 *Tworzenie przygód*, rozdz. 5 *Tworzenie kampanii*, *Greyhawk*, rozdz. 6 *Kosmologia* oraz sekcje PMG bez odpowiednika w SRD/wikidot (tematy skarbów, tabele klejnotów i dzieł sztuki, losowe przedmioty magiczne, pościgi, drzwi, lochy, osiedla itd.). Dodatek A to pełny *Słownik reguł* SRD; dodatek B — zasady bloków statystyk bez listy potworów.

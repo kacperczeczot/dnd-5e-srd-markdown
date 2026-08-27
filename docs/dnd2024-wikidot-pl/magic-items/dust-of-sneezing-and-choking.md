@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-sneezing-and-choking](dust-of-sneezing-and-choking.md)
+
+---
+
 # Pył kichania i duszenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dust-of-sneezing-and-choking

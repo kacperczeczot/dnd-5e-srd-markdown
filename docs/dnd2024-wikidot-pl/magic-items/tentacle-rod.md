@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tentacle-rod](tentacle-rod.md)
+
+---
+
 # Berło macki
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:tentacle-rod

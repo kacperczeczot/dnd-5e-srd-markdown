@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-animals](conjure-animals.md)
+
+---
+
 # Przywołanie zwierząt
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:conjure-animals

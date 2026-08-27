@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-poison-mastery](boon-of-poison-mastery.md)
+
+---
+
 # Dar mistrzostwa trucizn
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-poison-mastery

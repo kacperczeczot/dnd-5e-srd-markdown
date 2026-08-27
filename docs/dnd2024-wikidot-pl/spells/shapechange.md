@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shapechange](shapechange.md)
+
+---
+
 # Zmiennokształtność
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:shapechange

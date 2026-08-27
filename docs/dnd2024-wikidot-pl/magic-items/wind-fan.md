@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wind-fan](wind-fan.md)
+
+---
+
 # Wachlarz wiatru
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wind-fan

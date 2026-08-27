@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-lyrandar-heir](house-lyrandar-heir.md)
+
+---
+
 # Dziedzic rodu Lyrandar
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-lyrandar-heir

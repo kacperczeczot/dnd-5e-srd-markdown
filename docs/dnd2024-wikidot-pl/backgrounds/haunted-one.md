@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [haunted-one](haunted-one.md)
+
+---
+
 # Nawiedzony
 
 **URL źródła:** http://dnd2024.wikidot.com/background:haunted-one

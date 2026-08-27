@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [berserker-axe](berserker-axe.md)
+
+---
+
 # Topór berserkera
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:berserker-axe

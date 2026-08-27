@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [walloping-ammunition](walloping-ammunition.md)
+
+---
+
 # Walloping Ammunition
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:walloping-ammunition

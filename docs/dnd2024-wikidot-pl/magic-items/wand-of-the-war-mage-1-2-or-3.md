@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-the-war-mage-1-2-or-3](wand-of-the-war-mage-1-2-or-3.md)
+
+---
+
 # Różdżka wojennego maga +1, +2 lub +3
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-the-war-mage-1-2-or-3

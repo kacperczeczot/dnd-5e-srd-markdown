@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-sentinel](mark-of-sentinel.md)
+
+---
+
 # Piętno strażnika
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-sentinel

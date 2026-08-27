@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [thrown-weapon-fighting](thrown-weapon-fighting.md)
+
+---
+
 # Thrown Weapon Fighting
 
 **Source URL:** http://dnd2024.wikidot.com/feat:thrown-weapon-fighting

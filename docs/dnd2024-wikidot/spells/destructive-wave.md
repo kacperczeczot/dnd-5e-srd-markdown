@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [destructive-wave](destructive-wave.md)
+
+---
+
 # Destructive Wave
 
 **Source URL:** http://dnd2024.wikidot.com/spell:destructive-wave

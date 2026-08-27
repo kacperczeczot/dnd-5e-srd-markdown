@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fortune-s-favor](boon-of-fortune-s-favor.md)
+
+---
+
 # Boon of Fortune's Favor
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-fortune-s-favor

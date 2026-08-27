@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [time-stop](time-stop.md)
+
+---
+
 # Time Stop
 
 **Source URL:** http://dnd2024.wikidot.com/spell:time-stop

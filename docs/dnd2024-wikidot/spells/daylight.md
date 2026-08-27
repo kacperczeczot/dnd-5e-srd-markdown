@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [daylight](daylight.md)
+
+---
+
 # Daylight
 
 **Source URL:** http://dnd2024.wikidot.com/spell:daylight

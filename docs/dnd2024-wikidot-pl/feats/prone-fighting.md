@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [prone-fighting](prone-fighting.md)
+
+---
+
 # Walka w leżeniu
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:prone-fighting

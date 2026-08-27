@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tree-stride](tree-stride.md)
+
+---
+
 # Spacer między drzewami
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:tree-stride

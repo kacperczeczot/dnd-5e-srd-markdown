@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shield-of-faith](shield-of-faith.md)
+
+---
+
 # Tarcza wiary
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:shield-of-faith

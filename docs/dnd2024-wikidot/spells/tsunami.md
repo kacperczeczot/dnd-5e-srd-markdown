@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tsunami](tsunami.md)
+
+---
+
 # Tsunami
 
 **Source URL:** http://dnd2024.wikidot.com/spell:tsunami

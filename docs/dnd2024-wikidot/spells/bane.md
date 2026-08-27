@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [bane](bane.md)
+
+---
+
 # Bane
 
 **Source URL:** http://dnd2024.wikidot.com/spell:bane

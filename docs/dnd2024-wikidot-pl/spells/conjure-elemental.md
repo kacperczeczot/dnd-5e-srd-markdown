@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-elemental](conjure-elemental.md)
+
+---
+
 # Przywołanie żywiołaka
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:conjure-elemental

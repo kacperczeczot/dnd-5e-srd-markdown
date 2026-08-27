@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [etherealness](etherealness.md)
+
+---
+
 # Etherealness
 
 **Source URL:** http://dnd2024.wikidot.com/spell:etherealness

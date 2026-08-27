@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [silence](silence.md)
+
+---
+
 # Silence
 
 **Source URL:** http://dnd2024.wikidot.com/spell:silence

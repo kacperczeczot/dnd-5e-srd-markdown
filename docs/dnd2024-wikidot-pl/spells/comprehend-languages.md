@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [comprehend-languages](comprehend-languages.md)
+
+---
+
 # Rozumienie języków
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:comprehend-languages

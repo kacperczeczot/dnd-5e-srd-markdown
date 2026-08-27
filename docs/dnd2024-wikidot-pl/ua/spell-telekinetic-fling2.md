@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-telekinetic-fling2](spell-telekinetic-fling2.md)
+
+---
+
 # Telekinetyczne miotnięcie (UA9 — 02.10.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-telekinetic-fling2

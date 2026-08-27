@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [necromancy-school](necromancy-school.md)
+
+---
+
 # Necromancy Spells
 
 **Source URL:** http://dnd2024.wikidot.com/spell:necromancy-school

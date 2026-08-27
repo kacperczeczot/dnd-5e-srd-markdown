@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [lightning-bolt](lightning-bolt.md)
+
+---
+
 # Piorun
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:lightning-bolt

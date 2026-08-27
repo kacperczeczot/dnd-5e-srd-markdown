@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-web](wand-of-web.md)
+
+---
+
 # Wand of Web
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-web

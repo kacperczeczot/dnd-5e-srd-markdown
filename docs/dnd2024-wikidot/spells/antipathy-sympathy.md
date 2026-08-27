@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [antipathy-sympathy](antipathy-sympathy.md)
+
+---
+
 # Antipathy/Sympathy
 
 **Source URL:** http://dnd2024.wikidot.com/spell:antipathy-sympathy

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [nature-s-mantle](nature-s-mantle.md)
+
+---
+
 # Nature's Mantle
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:nature-s-mantle

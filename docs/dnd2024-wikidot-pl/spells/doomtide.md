@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [doomtide](doomtide.md)
+
+---
+
 # Fala zagłady
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:doomtide

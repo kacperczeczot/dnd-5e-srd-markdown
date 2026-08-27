@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-elemental-command](ring-of-elemental-command.md)
+
+---
+
 # Ring of Elemental Command
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-elemental-command

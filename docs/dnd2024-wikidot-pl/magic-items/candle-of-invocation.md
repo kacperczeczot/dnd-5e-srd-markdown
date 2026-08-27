@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [candle-of-invocation](candle-of-invocation.md)
+
+---
+
 # Świeca przywołania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:candle-of-invocation

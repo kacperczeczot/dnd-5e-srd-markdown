@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sticks-to-snakes](sticks-to-snakes.md)
+
+---
+
 # Sticks to Snakes
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sticks-to-snakes

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [maze](maze.md)
+
+---
+
 # Maze
 
 **Source URL:** http://dnd2024.wikidot.com/spell:maze

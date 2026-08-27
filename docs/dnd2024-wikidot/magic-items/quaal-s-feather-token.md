@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [quaal-s-feather-token](quaal-s-feather-token.md)
+
+---
+
 # Quaal's Feather Token
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:quaal-s-feather-token

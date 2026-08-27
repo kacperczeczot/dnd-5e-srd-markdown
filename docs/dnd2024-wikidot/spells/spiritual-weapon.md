@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spiritual-weapon](spiritual-weapon.md)
+
+---
+
 # Spiritual Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/spell:spiritual-weapon

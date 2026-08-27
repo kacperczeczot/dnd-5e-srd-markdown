@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [durable](durable.md)
+
+---
+
 # Wytrzymały
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:durable

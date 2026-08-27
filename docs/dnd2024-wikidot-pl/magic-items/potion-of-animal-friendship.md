@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-animal-friendship](potion-of-animal-friendship.md)
+
+---
+
 # Mikstura przyjaźni ze zwierzętami
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-animal-friendship

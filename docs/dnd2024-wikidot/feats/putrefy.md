@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [putrefy](putrefy.md)
+
+---
+
 # Putrefy
 
 **Source URL:** http://dnd2024.wikidot.com/feat:putrefy

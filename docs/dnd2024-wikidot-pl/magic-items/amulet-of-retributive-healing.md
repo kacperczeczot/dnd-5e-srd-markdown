@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [amulet-of-retributive-healing](amulet-of-retributive-healing.md)
+
+---
+
 # Amulet odwetowego leczenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:amulet-of-retributive-healing

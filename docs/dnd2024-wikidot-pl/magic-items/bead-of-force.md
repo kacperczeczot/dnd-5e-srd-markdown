@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bead-of-force](bead-of-force.md)
+
+---
+
 # Koralik mocy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bead-of-force

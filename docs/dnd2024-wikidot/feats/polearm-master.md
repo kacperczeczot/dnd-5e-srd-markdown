@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [polearm-master](polearm-master.md)
+
+---
+
 # Polearm Master
 
 **Source URL:** http://dnd2024.wikidot.com/feat:polearm-master

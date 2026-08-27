@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [misc](README.md) > [class-multiclassing](class-multiclassing.md)
+
+---
+
 # Multiclassing
 
 **Source URL:** http://dnd2024.wikidot.com/class:multiclassing

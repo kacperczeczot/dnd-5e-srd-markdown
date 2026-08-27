@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-killer](phantasmal-killer.md)
+
+---
+
 # Urojony zabójca
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:phantasmal-killer

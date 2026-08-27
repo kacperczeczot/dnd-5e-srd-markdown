@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-scion-of-the-three](rogue-scion-of-the-three.md)
+
+---
+
 # Potomek Trójcy
 
 **Klasa:** Łotr

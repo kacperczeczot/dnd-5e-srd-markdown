@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ioun-stone](ioun-stone.md)
+
+---
+
 # Ioun Stone
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ioun-stone

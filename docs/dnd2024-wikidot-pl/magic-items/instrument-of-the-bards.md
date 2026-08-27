@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-the-bards](instrument-of-the-bards.md)
+
+---
+
 # Instrument bardów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:instrument-of-the-bards

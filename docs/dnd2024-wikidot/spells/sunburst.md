@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sunburst](sunburst.md)
+
+---
+
 # Sunburst
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sunburst

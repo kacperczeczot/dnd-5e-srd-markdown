@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [fork-of-eddy-summoning](fork-of-eddy-summoning.md)
+
+---
+
 # Fork of Eddy Summoning
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:fork-of-eddy-summoning

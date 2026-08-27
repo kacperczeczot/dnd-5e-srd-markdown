@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [forcecage](forcecage.md)
+
+---
+
 # Cela mocy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:forcecage

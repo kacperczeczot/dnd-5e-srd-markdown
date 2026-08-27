@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [find-familiar](find-familiar.md)
+
+---
+
 # Znalezienie chowańca
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:find-familiar

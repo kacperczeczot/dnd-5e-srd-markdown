@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-gloom-stalker](ranger-gloom-stalker.md)
+
+---
+
 # Mroczny Tropiciel
 
 **Klasa:** Łowca

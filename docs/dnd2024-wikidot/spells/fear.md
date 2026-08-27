@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fear](fear.md)
+
+---
+
 # Fear
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fear

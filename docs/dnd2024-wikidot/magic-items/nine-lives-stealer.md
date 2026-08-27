@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [nine-lives-stealer](nine-lives-stealer.md)
+
+---
+
 # Nine Lives Stealer
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:nine-lives-stealer

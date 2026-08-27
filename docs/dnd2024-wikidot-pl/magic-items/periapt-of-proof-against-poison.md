@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-proof-against-poison](periapt-of-proof-against-poison.md)
+
+---
+
 # Talizman ochrony przed trucizną
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:periapt-of-proof-against-poison

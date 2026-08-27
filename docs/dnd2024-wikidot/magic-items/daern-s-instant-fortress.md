@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [daern-s-instant-fortress](daern-s-instant-fortress.md)
+
+---
+
 # Daern's Instant Fortress
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:daern-s-instant-fortress

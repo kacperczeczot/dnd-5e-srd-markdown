@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-wounding](sword-of-wounding.md)
+
+---
+
 # Miecz ran
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sword-of-wounding

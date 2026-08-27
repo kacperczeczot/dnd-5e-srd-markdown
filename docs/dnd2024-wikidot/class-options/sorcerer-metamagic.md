@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [class-options](README.md) > [sorcerer-metamagic](sorcerer-metamagic.md)
+
+---
+
 # Metamagic
 
 **Source URL:** http://dnd2024.wikidot.com/sorcerer:metamagic

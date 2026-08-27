@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [burning-hands](burning-hands.md)
+
+---
+
 # Burning Hands
 
 **Source URL:** http://dnd2024.wikidot.com/spell:burning-hands

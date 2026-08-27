@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [iron-bands-of-bilarro](iron-bands-of-bilarro.md)
+
+---
+
 # Żelazne obręcze
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:iron-bands-of-bilarro

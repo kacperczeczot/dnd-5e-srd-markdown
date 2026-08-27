@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-speed](potion-of-speed.md)
+
+---
+
 # Mikstura szybkości
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-speed

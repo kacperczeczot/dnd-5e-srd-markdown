@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cure-wounds](cure-wounds.md)
+
+---
+
 # Leczenie ran
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:cure-wounds

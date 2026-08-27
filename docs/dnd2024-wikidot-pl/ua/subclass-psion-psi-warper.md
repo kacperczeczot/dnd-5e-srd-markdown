@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-psi-warper](subclass-psion-psi-warper.md)
+
+---
+
 # Zniekształcacz psi (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-psion-psi-warper

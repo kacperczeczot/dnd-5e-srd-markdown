@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-scribing](instrument-of-scribing.md)
+
+---
+
 # Instrument zapisu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:instrument-of-scribing

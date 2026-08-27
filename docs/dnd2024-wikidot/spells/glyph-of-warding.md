@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [glyph-of-warding](glyph-of-warding.md)
+
+---
+
 # Glyph of Warding
 
 **Source URL:** http://dnd2024.wikidot.com/spell:glyph-of-warding

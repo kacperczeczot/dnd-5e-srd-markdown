@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-disruption](mace-of-disruption.md)
+
+---
+
 # Buława wstrząsu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mace-of-disruption

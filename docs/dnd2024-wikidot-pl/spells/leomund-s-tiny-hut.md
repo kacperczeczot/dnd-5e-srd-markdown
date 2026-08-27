@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [leomund-s-tiny-hut](leomund-s-tiny-hut.md)
+
+---
+
 # Chatka Leomunda
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:leomund-s-tiny-hut

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [sharp-eye](sharp-eye.md)
+
+---
+
 # Bystry wzrok
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:sharp-eye

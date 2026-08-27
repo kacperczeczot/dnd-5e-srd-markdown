@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [adamantine-weapon](adamantine-weapon.md)
+
+---
+
 # Adamantine Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:adamantine-weapon

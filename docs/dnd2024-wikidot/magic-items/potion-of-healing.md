@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-healing](potion-of-healing.md)
+
+---
+
 # Potion of Healing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-healing

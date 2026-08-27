@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blinding-smite](blinding-smite.md)
+
+---
+
 # Oślepiające ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:blinding-smite

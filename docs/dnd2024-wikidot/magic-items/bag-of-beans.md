@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-beans](bag-of-beans.md)
+
+---
+
 # Bag of Beans
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:bag-of-beans

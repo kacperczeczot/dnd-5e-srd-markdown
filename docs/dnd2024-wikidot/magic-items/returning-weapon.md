@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [returning-weapon](returning-weapon.md)
+
+---
+
 # Returning Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:returning-weapon

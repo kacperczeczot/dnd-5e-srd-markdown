@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-heroism](potion-of-heroism.md)
+
+---
+
 # Potion of Heroism
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-heroism

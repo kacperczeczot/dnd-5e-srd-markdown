@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spiked-shield](spiked-shield.md)
+
+---
+
 # Kolczasta tarcza
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:spiked-shield

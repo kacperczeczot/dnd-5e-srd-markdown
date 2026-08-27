@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [vorpal-sword](vorpal-sword.md)
+
+---
+
 # Vorpal Sword
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:vorpal-sword

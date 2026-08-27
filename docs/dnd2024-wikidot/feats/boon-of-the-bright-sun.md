@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-bright-sun](boon-of-the-bright-sun.md)
+
+---
+
 # Boon of the Bright Sun
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-the-bright-sun

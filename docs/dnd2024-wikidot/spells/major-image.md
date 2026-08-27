@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [major-image](major-image.md)
+
+---
+
 # Major Image
 
 **Source URL:** http://dnd2024.wikidot.com/spell:major-image

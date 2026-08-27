@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [broom-of-flying](broom-of-flying.md)
+
+---
+
 # Latająca miotła
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:broom-of-flying

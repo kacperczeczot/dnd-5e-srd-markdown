@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [control-weather](control-weather.md)
+
+---
+
 # Control Weather
 
 **Source URL:** http://dnd2024.wikidot.com/spell:control-weather

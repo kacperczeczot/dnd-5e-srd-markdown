@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-tricks](bag-of-tricks.md)
+
+---
+
 # Torba sztuczek
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bag-of-tricks

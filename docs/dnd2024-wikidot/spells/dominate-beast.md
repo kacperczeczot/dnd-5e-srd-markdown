@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dominate-beast](dominate-beast.md)
+
+---
+
 # Dominate Beast
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dominate-beast

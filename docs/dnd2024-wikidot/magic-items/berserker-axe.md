@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [berserker-axe](berserker-axe.md)
+
+---
+
 # Berserker Axe
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:berserker-axe

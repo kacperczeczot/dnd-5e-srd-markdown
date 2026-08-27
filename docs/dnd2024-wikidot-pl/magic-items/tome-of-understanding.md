@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-understanding](tome-of-understanding.md)
+
+---
+
 # Księga zrozumienia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:tome-of-understanding

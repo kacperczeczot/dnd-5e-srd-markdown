@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [heavy-armor-master](heavy-armor-master.md)
+
+---
+
 # Heavy Armor Master
 
 **Source URL:** http://dnd2024.wikidot.com/feat:heavy-armor-master

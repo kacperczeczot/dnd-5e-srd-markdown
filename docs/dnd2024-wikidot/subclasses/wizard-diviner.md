@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [wizard-diviner](wizard-diviner.md)
+
+---
+
 # Diviner
 
 **Class:** wizard

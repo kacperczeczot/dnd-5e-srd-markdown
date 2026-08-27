@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mystery-key](mystery-key.md)
+
+---
+
 # Tajemniczy klucz
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mystery-key

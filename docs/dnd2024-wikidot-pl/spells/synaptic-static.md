@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [synaptic-static](synaptic-static.md)
+
+---
+
 # Synaptyczna statyka
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:synaptic-static

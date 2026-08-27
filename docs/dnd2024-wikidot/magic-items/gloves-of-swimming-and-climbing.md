@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-swimming-and-climbing](gloves-of-swimming-and-climbing.md)
+
+---
+
 # Gloves of Swimming and Climbing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:gloves-of-swimming-and-climbing

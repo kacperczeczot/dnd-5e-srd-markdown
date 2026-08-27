@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-purple-dragon-knight](subclass-fighter-purple-dragon-knight.md)
+
+---
+
 # Purple Dragon Knight (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-fighter-purple-dragon-knight

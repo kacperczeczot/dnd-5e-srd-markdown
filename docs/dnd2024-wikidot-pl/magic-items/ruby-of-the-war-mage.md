@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ruby-of-the-war-mage](ruby-of-the-war-mage.md)
+
+---
+
 # Rubin wojennego maga
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ruby-of-the-war-mage

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [ranger](ranger.md)
+
+---
+
 # Łowca
 
 **Klasa:** Łowca

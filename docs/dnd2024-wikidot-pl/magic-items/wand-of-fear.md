@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-fear](wand-of-fear.md)
+
+---
+
 # Różdżka strachu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-fear

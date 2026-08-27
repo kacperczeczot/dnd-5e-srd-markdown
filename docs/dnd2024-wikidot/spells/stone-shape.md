@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [stone-shape](stone-shape.md)
+
+---
+
 # Stone Shape
 
 **Source URL:** http://dnd2024.wikidot.com/spell:stone-shape

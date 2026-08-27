@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cloud-of-daggers](cloud-of-daggers.md)
+
+---
+
 # Chmura sztyletów
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:cloud-of-daggers

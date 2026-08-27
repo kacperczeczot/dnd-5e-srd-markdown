@@ -1,3 +1,7 @@
+[Strona główna](../README.md) > [scripts](README.md) > [bastions_settings_fr_eberron_pl](bastions_settings_fr_eberron_pl.md)
+
+---
+
 # Zapomniane Krainy: obiekty Bohaterów Faerûn
 
 | Poziom | Specjalny obiekt | Wymaganie wstępne | Rozkaz |

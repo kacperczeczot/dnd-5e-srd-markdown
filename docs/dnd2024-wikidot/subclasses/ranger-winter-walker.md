@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-winter-walker](ranger-winter-walker.md)
+
+---
+
 # Winter Walker
 
 **Class:** ranger

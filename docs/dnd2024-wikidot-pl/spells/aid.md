@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [aid](aid.md)
+
+---
+
 # Pomoc
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:aid

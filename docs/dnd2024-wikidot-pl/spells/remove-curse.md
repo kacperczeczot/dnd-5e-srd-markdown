@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [remove-curse](remove-curse.md)
+
+---
+
 # Zdjęcie klątwy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:remove-curse

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-psionic-blast](spell-psionic-blast.md)
+
+---
+
 # Psioniczny wybuch (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-psionic-blast

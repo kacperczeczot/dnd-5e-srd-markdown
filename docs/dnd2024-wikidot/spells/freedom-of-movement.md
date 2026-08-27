@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [freedom-of-movement](freedom-of-movement.md)
+
+---
+
 # Freedom of Movement
 
 **Source URL:** http://dnd2024.wikidot.com/spell:freedom-of-movement

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [raise-dead](raise-dead.md)
+
+---
+
 # Wskrzeszenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:raise-dead

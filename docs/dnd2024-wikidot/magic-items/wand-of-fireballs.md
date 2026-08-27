@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-fireballs](wand-of-fireballs.md)
+
+---
+
 # Wand of Fireballs
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-fireballs

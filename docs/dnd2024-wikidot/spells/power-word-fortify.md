@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-fortify](power-word-fortify.md)
+
+---
+
 # Power Word Fortify
 
 **Source URL:** http://dnd2024.wikidot.com/spell:power-word-fortify

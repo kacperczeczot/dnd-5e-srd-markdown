@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-assassin](rogue-assassin.md)
+
+---
+
 # Skrytobójca
 
 **Klasa:** Łotr

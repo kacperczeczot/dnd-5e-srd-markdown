@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-silent-alarm](horn-of-silent-alarm.md)
+
+---
+
 # Horn of Silent Alarm
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:horn-of-silent-alarm

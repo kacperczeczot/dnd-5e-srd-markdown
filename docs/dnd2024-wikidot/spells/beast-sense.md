@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [beast-sense](beast-sense.md)
+
+---
+
 # Beast Sense
 
 **Source URL:** http://dnd2024.wikidot.com/spell:beast-sense

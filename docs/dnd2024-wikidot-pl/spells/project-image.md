@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [project-image](project-image.md)
+
+---
+
 # Projekcja obrazu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:project-image

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [staff](staff.md)
+
+---
+
 # Przedmioty magiczne — kostury
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff

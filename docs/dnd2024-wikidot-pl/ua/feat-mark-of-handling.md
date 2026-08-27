@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-handling](feat-mark-of-handling.md)
+
+---
+
 # Piętno opiekuna (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-mark-of-handling

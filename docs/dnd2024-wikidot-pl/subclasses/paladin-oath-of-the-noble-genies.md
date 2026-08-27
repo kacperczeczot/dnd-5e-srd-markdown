@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-the-noble-genies](paladin-oath-of-the-noble-genies.md)
+
+---
+
 # Przysięga Szlachetnych Dżinów
 
 **Klasa:** Paladyn

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [tyro-of-the-gauntlet](tyro-of-the-gauntlet.md)
+
+---
+
 # Nowicjusz Rękawicy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:tyro-of-the-gauntlet

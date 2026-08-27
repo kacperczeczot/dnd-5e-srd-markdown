@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mithral-armor](mithral-armor.md)
+
+---
+
 # Mithral Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:mithral-armor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wraps-of-unarmed-power](wraps-of-unarmed-power.md)
+
+---
+
 # Opaski siły bez broni
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wraps-of-unarmed-power

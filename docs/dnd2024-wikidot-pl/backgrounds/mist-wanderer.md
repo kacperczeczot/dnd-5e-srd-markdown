@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [mist-wanderer](mist-wanderer.md)
+
+---
+
 # Wędrowiec Mgły
 
 **URL źródła:** http://dnd2024.wikidot.com/background:mist-wanderer

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [harkon-s-bite](harkon-s-bite.md)
+
+---
+
 # Harkon's Bite
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:harkon-s-bite

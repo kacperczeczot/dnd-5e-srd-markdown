@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [plane-shift](plane-shift.md)
+
+---
+
 # Plane Shift
 
 **Source URL:** http://dnd2024.wikidot.com/spell:plane-shift

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-aberrant-mark](greater-aberrant-mark.md)
+
+---
+
 # Większe aberracyjne piętno
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:greater-aberrant-mark

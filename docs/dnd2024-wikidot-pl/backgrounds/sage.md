@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [sage](sage.md)
+
+---
+
 # Mędrzec
 
 **URL źródła:** http://dnd2024.wikidot.com/background:sage

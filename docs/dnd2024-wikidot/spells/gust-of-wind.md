@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gust-of-wind](gust-of-wind.md)
+
+---
+
 # Gust of Wind
 
 **Source URL:** http://dnd2024.wikidot.com/spell:gust-of-wind

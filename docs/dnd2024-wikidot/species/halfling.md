@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [halfling](halfling.md)
+
+---
+
 # Halfling
 
 **Source URL:** http://dnd2024.wikidot.com/species:halfling

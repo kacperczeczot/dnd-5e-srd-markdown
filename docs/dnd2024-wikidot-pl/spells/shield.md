@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shield](shield.md)
+
+---
+
 # Tarcza
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:shield

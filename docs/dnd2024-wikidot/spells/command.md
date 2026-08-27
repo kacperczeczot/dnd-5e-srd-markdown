@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [command](command.md)
+
+---
+
 # Command
 
 **Source URL:** http://dnd2024.wikidot.com/spell:command

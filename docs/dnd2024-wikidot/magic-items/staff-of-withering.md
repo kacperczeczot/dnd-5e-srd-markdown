@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-withering](staff-of-withering.md)
+
+---
+
 # Staff of Withering
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-withering

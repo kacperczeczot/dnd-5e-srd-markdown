@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-exquisite-radiance](boon-of-exquisite-radiance.md)
+
+---
+
 # Dar wytwornego blasku
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-exquisite-radiance

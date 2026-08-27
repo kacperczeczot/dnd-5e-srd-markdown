@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-defiled-sorcery](subclass-sorcerer-defiled-sorcery.md)
+
+---
+
 # Defiled Sorcery (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-sorcerer-defiled-sorcery

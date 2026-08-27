@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-slipperiness](oil-of-slipperiness.md)
+
+---
+
 # Oil of Slipperiness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:oil-of-slipperiness

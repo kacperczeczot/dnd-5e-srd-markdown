@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [vampire-touched](vampire-touched.md)
+
+---
+
 # Dotknięty wampiryzmem
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:vampire-touched

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-ghallanda-heir](house-ghallanda-heir.md)
+
+---
+
 # House Ghallanda Heir
 
 **Source URL:** http://dnd2024.wikidot.com/background:house-ghallanda-heir

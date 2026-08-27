@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [disintegrate](disintegrate.md)
+
+---
+
 # Disintegrate
 
 **Source URL:** http://dnd2024.wikidot.com/spell:disintegrate

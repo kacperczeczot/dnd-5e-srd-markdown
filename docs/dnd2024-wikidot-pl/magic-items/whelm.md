@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [whelm](whelm.md)
+
+---
+
 # Whelm
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:whelm

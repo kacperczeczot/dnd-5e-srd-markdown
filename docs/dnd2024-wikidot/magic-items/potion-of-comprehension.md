@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-comprehension](potion-of-comprehension.md)
+
+---
+
 # Potion of Comprehension
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-comprehension

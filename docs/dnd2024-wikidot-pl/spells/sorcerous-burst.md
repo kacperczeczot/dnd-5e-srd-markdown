@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sorcerous-burst](sorcerous-burst.md)
+
+---
+
 # Czarodziejski wybuch
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:sorcerous-burst

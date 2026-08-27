@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arms-of-hadar](arms-of-hadar.md)
+
+---
+
 # Ramiona Hadara
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:arms-of-hadar

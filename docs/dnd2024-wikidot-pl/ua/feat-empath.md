@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-empath](feat-empath.md)
+
+---
+
 # Empat (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-empath

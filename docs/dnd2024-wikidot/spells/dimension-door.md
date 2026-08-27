@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dimension-door](dimension-door.md)
+
+---
+
 # Dimension Door
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dimension-door

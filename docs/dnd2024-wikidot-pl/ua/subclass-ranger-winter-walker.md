@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-ranger-winter-walker](subclass-ranger-winter-walker.md)
+
+---
+
 # Wędrowiec Zimy (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-ranger-winter-walker

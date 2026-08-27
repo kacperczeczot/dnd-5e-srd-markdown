@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [wizard-illusionist](wizard-illusionist.md)
+
+---
+
 # Illusionist
 
 **Class:** wizard

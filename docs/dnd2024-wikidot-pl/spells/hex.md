@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hex](hex.md)
+
+---
+
 # Urok
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:hex

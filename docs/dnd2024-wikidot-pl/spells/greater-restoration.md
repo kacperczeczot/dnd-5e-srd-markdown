@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [greater-restoration](greater-restoration.md)
+
+---
+
 # Większe przywrócenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:greater-restoration

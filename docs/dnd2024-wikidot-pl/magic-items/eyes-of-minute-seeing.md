@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-minute-seeing](eyes-of-minute-seeing.md)
+
+---
+
 # Soczewki drobnego widzenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:eyes-of-minute-seeing

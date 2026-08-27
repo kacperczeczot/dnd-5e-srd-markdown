@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [perfume-of-bewitching](perfume-of-bewitching.md)
+
+---
+
 # Perfume of Bewitching
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:perfume-of-bewitching

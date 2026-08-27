@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-gainful-exercise](manual-of-gainful-exercise.md)
+
+---
+
 # Almanach tężyzny fizycznej
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:manual-of-gainful-exercise

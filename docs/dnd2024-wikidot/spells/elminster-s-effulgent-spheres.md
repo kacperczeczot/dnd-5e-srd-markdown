@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [elminster-s-effulgent-spheres](elminster-s-effulgent-spheres.md)
+
+---
+
 # Elminster's Effulgent Spheres
 
 **Source URL:** http://dnd2024.wikidot.com/spell:elminster-s-effulgent-spheres

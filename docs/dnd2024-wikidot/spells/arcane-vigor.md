@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-vigor](arcane-vigor.md)
+
+---
+
 # Arcane Vigor
 
 **Source URL:** http://dnd2024.wikidot.com/spell:arcane-vigor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-hospitality](greater-mark-of-hospitality.md)
+
+---
+
 # Greater Mark of Hospitality
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-mark-of-hospitality

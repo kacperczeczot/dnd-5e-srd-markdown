@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [compiled](README.md) > [dungeon-masters-guide-en](dungeon-masters-guide-en.md)
+
+---
+
 # Dungeon Master's Guide
 
 > **Compiled edition.** This book merges SRD 5.2.1 and dnd2024.wikidot content tagged *Dungeon Master's Guide*. It follows the 2024 DMG chapter outline where sources exist. **Not included** (no scrape in this repository): ch. 1 *The Basics*, ch. 4 *Creating Adventures*, ch. 5 *Creating Campaigns*, *Greyhawk*, ch. 6 *Cosmology*, and DMG-only sections such as *Treasure Themes*, gemstone/art-object/random magic item tables, *Chases*, *Doors*, *Dungeons*, *Settlements*, and similar narrative DMG chapters. Appendix A is the full SRD *Rules Glossary*; Appendix B covers stat block rules without creature lists.

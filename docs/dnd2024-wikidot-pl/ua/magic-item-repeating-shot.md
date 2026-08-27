@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-repeating-shot](magic-item-repeating-shot.md)
+
+---
+
 # Powtarzalny wystrzał (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:magic-item-repeating-shot

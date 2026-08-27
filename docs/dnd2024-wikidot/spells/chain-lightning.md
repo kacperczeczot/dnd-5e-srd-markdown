@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [chain-lightning](chain-lightning.md)
+
+---
+
 # Chain Lightning
 
 **Source URL:** http://dnd2024.wikidot.com/spell:chain-lightning

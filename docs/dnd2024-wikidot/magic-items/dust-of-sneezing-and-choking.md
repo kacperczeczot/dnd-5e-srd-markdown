@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-sneezing-and-choking](dust-of-sneezing-and-choking.md)
+
+---
+
 # Dust of Sneezing and Choking
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dust-of-sneezing-and-choking

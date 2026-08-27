@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spider-climb](spider-climb.md)
+
+---
+
 # Pajęcza wspinaczka
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spider-climb

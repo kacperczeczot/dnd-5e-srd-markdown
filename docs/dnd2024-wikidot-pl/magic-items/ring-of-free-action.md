@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-free-action](ring-of-free-action.md)
+
+---
+
 # Pierścień swobody ruchu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-free-action

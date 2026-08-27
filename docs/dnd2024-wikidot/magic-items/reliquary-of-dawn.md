@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [reliquary-of-dawn](reliquary-of-dawn.md)
+
+---
+
 # Reliquary of Dawn
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:reliquary-of-dawn

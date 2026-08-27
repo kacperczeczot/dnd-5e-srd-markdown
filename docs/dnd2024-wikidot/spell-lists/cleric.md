@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spell-lists](README.md) > [cleric](cleric.md)
+
+---
+
 # Cleric Spell List
 
 **Class:** cleric

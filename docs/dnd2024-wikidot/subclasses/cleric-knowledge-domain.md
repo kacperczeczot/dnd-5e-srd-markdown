@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-knowledge-domain](cleric-knowledge-domain.md)
+
+---
+
 # Knowledge Domain
 
 **Class:** cleric

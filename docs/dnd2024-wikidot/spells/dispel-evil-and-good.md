@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dispel-evil-and-good](dispel-evil-and-good.md)
+
+---
+
 # Dispel Evil and Good
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dispel-evil-and-good

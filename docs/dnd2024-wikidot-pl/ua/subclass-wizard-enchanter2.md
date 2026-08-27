@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-enchanter2](subclass-wizard-enchanter2.md)
+
+---
+
 # Urokownik (UA8 — 18.09.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-wizard-enchanter2

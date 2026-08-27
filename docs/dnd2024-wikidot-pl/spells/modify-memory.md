@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [modify-memory](modify-memory.md)
+
+---
+
 # Podmiana wspomnień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:modify-memory

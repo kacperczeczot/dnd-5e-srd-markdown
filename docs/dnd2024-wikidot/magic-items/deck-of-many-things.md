@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [deck-of-many-things](deck-of-many-things.md)
+
+---
+
 # Deck of Many Things
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:deck-of-many-things

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [dead-magic-dweller](dead-magic-dweller.md)
+
+---
+
 # Dead Magic Dweller
 
 **Source URL:** http://dnd2024.wikidot.com/background:dead-magic-dweller

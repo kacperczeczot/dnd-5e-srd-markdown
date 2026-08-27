@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-enemy-detection](wand-of-enemy-detection.md)
+
+---
+
 # Różdżka wykrywania wroga
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-enemy-detection

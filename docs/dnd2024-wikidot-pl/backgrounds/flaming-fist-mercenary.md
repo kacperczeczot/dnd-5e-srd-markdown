@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [flaming-fist-mercenary](flaming-fist-mercenary.md)
+
+---
+
 # Najemnik Płonącej Pięści
 
 **URL źródła:** http://dnd2024.wikidot.com/background:flaming-fist-mercenary

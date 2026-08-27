@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [delayed-blast-fireball](delayed-blast-fireball.md)
+
+---
+
 # Opóźniona kula ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:delayed-blast-fireball

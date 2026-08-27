@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [carpet-of-flying](carpet-of-flying.md)
+
+---
+
 # Dywan latający
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:carpet-of-flying

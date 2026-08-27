@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sacred-flame](sacred-flame.md)
+
+---
+
 # Święty płomień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:sacred-flame

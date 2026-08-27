@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-telepath](subclass-psion-telepath.md)
+
+---
+
 # Telepath (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-psion-telepath

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-slayer](dragon-slayer.md)
+
+---
+
 # Dragon Slayer
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dragon-slayer

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-flowers](staff-of-flowers.md)
+
+---
+
 # Staff of Flowers
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-flowers

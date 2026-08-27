@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ice-storm](ice-storm.md)
+
+---
+
 # Ice Storm
 
 **Source URL:** http://dnd2024.wikidot.com/spell:ice-storm

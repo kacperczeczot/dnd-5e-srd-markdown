@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [spellfire-spark](spellfire-spark.md)
+
+---
+
 # Iskra ognia czarów
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:spellfire-spark

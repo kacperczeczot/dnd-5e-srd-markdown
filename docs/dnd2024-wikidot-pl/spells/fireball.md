@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fireball](fireball.md)
+
+---
+
 # Kula ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:fireball

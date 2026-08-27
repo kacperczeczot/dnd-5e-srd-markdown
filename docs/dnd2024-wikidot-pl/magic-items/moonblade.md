@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [moonblade](moonblade.md)
+
+---
+
 # Klinga księżycowa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:moonblade

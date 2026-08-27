@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [grasping-vine](grasping-vine.md)
+
+---
+
 # Grasping Vine
 
 **Source URL:** http://dnd2024.wikidot.com/spell:grasping-vine

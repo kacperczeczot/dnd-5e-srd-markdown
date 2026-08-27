@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [criminal](criminal.md)
+
+---
+
 # Criminal
 
 **Source URL:** http://dnd2024.wikidot.com/background:criminal

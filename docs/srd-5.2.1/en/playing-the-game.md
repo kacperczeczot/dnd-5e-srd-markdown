@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [en](README.md) > [playing-the-game](playing-the-game.md)
+
+---
+
 # Playing the Game
 
 ## Rhythm of Play

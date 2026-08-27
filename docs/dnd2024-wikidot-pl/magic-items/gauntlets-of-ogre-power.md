@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gauntlets-of-ogre-power](gauntlets-of-ogre-power.md)
+
+---
+
 # Rękawice olbrzymiej siły
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:gauntlets-of-ogre-power

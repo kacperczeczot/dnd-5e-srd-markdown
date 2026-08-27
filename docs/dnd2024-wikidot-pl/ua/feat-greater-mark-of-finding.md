@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-finding](feat-greater-mark-of-finding.md)
+
+---
+
 # Większe piętno tropienia (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-finding

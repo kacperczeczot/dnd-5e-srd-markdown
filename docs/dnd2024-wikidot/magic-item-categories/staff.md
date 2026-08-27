@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [staff](staff.md)
+
+---
+
 # Magic Items - Staff
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff

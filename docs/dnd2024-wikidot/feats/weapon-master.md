@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [weapon-master](weapon-master.md)
+
+---
+
 # Weapon Master
 
 **Source URL:** http://dnd2024.wikidot.com/feat:weapon-master

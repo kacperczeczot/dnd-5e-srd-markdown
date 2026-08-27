@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-x-ray-vision](ring-of-x-ray-vision.md)
+
+---
+
 # Pierścień widzenia rentgenowskiego
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-x-ray-vision

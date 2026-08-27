@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [tough](tough.md)
+
+---
+
 # Twardziel
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:tough

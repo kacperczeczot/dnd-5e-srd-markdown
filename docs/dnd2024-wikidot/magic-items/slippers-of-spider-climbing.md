@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [slippers-of-spider-climbing](slippers-of-spider-climbing.md)
+
+---
+
 # Slippers of Spider Climbing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:slippers-of-spider-climbing

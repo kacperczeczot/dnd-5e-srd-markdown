@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [searing-smite](searing-smite.md)
+
+---
+
 # Palące ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:searing-smite

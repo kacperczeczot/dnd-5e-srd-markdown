@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [giant-slayer](giant-slayer.md)
+
+---
+
 # Giant Slayer
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:giant-slayer

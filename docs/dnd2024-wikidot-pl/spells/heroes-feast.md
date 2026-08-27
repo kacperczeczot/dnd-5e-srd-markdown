@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [heroes-feast](heroes-feast.md)
+
+---
+
 # Uczta bohaterów
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:heroes-feast

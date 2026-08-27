@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-of-missile-attraction](shield-of-missile-attraction.md)
+
+---
+
 # Shield of Missile Attraction
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:shield-of-missile-attraction

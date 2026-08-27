@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [eyebite](eyebite.md)
+
+---
+
 # Kąśliwy wzrok
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:eyebite

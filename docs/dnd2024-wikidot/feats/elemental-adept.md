@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [elemental-adept](elemental-adept.md)
+
+---
+
 # Elemental Adept
 
 **Source URL:** http://dnd2024.wikidot.com/feat:elemental-adept

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sentinel-shield](sentinel-shield.md)
+
+---
+
 # Tarcza strażnika
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sentinel-shield

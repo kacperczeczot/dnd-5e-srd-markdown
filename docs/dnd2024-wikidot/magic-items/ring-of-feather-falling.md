@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-feather-falling](ring-of-feather-falling.md)
+
+---
+
 # Ring of Feather Falling
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-feather-falling

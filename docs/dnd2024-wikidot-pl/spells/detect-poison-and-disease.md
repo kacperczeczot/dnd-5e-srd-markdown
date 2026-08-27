@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [detect-poison-and-disease](detect-poison-and-disease.md)
+
+---
+
 # Wykrycie trucizny i choroby
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:detect-poison-and-disease

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [amulet-of-the-planes](amulet-of-the-planes.md)
+
+---
+
 # Amulet obieżysfera
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:amulet-of-the-planes

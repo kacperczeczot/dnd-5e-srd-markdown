@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-irresistible-offense](boon-of-irresistible-offense.md)
+
+---
+
 # Dar nieodpartej ofensywy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-irresistible-offense

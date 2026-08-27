@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [entangle](entangle.md)
+
+---
+
 # Oplątanie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:entangle

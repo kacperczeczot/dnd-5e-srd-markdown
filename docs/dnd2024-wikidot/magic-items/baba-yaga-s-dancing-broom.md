@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [baba-yaga-s-dancing-broom](baba-yaga-s-dancing-broom.md)
+
+---
+
 # Baba Yaga's Dancing Broom
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:baba-yaga-s-dancing-broom

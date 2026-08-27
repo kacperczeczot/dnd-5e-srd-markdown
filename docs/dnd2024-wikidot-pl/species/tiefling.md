@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [tiefling](tiefling.md)
+
+---
+
 # Diabelstwo
 
 **URL źródła:** http://dnd2024.wikidot.com/species:tiefling

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [programmed-illusion](programmed-illusion.md)
+
+---
+
 # Zaplanowana iluzja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:programmed-illusion

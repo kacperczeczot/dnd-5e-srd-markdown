@@ -1,3 +1,7 @@
+[Strona główna](../README.md) > [scripts](README.md) > [bastions_facilities_pl_part2](bastions_facilities_pl_part2.md)
+
+---
+
 ### Laboratorium []()
 
 *Obiekt bastionu, 9. poziom*

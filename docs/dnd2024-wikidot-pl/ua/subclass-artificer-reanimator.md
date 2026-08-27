@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-reanimator](subclass-artificer-reanimator.md)
+
+---
+
 # Reanimator (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-artificer-reanimator

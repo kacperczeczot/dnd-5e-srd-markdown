@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guardian-of-faith](guardian-of-faith.md)
+
+---
+
 # Strażnik wiary
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:guardian-of-faith

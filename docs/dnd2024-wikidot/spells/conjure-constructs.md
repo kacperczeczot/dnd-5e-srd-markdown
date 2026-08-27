@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-constructs](conjure-constructs.md)
+
+---
+
 # Conjure Constructs
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-constructs

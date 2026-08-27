@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [classes](classes.md)
+
+---
+
 # Klasy
 
 ## Barbarzyńca

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cape-of-the-mountebank](cape-of-the-mountebank.md)
+
+---
+
 # Peleryna szarlatana
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cape-of-the-mountebank

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [evocation-school](evocation-school.md)
+
+---
+
 # Czary wywoływania
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:evocation-school

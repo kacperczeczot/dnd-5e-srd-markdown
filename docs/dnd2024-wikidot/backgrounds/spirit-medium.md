@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [spirit-medium](spirit-medium.md)
+
+---
+
 # Spirit Medium
 
 **Source URL:** http://dnd2024.wikidot.com/background:spirit-medium

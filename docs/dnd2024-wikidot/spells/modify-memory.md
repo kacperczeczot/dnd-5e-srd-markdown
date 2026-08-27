@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [modify-memory](modify-memory.md)
+
+---
+
 # Modify Memory
 
 **Source URL:** http://dnd2024.wikidot.com/spell:modify-memory

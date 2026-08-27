@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [locate-object](locate-object.md)
+
+---
+
 # Odnalezienie obiektu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:locate-object

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-prayer-beads](necklace-of-prayer-beads.md)
+
+---
+
 # Necklace of Prayer Beads
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:necklace-of-prayer-beads

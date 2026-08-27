@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [emerald-enclave-caretaker](emerald-enclave-caretaker.md)
+
+---
+
 # Opiekun Szmaragdowego Enklawy
 
 **URL źródła:** http://dnd2024.wikidot.com/background:emerald-enclave-caretaker

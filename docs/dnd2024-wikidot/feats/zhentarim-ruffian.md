@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [zhentarim-ruffian](zhentarim-ruffian.md)
+
+---
+
 # Zhentarim Ruffian
 
 **Source URL:** http://dnd2024.wikidot.com/feat:zhentarim-ruffian

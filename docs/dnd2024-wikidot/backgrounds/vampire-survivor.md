@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [vampire-survivor](vampire-survivor.md)
+
+---
+
 # Vampire Survivor
 
 **Source URL:** http://dnd2024.wikidot.com/background:vampire-survivor

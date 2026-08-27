@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [weapon](weapon.md)
+
+---
+
 # Przedmioty magiczne — bronie
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:weapon

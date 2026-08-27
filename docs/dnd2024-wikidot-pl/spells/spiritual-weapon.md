@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spiritual-weapon](spiritual-weapon.md)
+
+---
+
 # Duchowa broń
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spiritual-weapon

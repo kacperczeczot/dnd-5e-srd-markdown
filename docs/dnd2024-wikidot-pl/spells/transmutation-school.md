@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [transmutation-school](transmutation-school.md)
+
+---
+
 # Czary przemian
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:transmutation-school

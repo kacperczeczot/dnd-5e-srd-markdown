@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-handling](mark-of-handling.md)
+
+---
+
 # Mark of Handling
 
 **Source URL:** http://dnd2024.wikidot.com/feat:mark-of-handling

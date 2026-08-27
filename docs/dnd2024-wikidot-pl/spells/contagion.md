@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [contagion](contagion.md)
+
+---
+
 # Zaraza
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:contagion

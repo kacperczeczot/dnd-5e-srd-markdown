@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blur](blur.md)
+
+---
+
 # Blur
 
 **Source URL:** http://dnd2024.wikidot.com/spell:blur

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-venom](subclass-monk-warrior-of-venom.md)
+
+---
+
 # Warrior of Venom (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-monk-warrior-of-venom

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [smoldering-armor](smoldering-armor.md)
+
+---
+
 # Dymiąca zbroja
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:smoldering-armor

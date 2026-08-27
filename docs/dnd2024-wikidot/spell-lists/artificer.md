@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spell-lists](README.md) > [artificer](artificer.md)
+
+---
+
 # Artificer Spell List
 
 **Class:** artificer

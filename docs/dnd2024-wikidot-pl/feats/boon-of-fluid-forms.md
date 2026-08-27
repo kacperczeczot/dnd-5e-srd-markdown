@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fluid-forms](boon-of-fluid-forms.md)
+
+---
+
 # Dar płynnych form
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-fluid-forms

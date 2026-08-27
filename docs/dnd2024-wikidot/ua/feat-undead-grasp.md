@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-undead-grasp](feat-undead-grasp.md)
+
+---
+
 # Undead Grasp (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-undead-grasp

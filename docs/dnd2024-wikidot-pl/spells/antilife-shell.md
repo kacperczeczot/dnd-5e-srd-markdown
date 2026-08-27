@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [antilife-shell](antilife-shell.md)
+
+---
+
 # Bariera przeciw życiu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:antilife-shell

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [spellfire-initiate](spellfire-initiate.md)
+
+---
+
 # Inicjowany spellfire
 
 **URL źródła:** http://dnd2024.wikidot.com/background:spellfire-initiate

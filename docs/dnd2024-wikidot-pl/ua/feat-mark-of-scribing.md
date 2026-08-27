@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-scribing](feat-mark-of-scribing.md)
+
+---
+
 # Piętno pisma (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-mark-of-scribing

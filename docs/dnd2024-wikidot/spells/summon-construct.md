@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [summon-construct](summon-construct.md)
+
+---
+
 # Summon Construct
 
 **Source URL:** http://dnd2024.wikidot.com/spell:summon-construct

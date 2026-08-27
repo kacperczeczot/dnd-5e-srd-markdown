@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hold-monster](hold-monster.md)
+
+---
+
 # Hold Monster
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hold-monster

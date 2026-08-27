@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-hospitality](feat-greater-mark-of-hospitality.md)
+
+---
+
 # Większe piętno gościnności (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-hospitality

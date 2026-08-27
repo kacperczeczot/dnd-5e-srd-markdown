@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-arcane-trickster](rogue-arcane-trickster.md)
+
+---
+
 # Mistyczny oszust
 
 **Klasa:** Łotr

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [javelin-of-lightning](javelin-of-lightning.md)
+
+---
+
 # Oszczep błyskawicy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:javelin-of-lightning

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-knowledge-domain](subclass-cleric-knowledge-domain.md)
+
+---
+
 # Domena wiedzy (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-cleric-knowledge-domain

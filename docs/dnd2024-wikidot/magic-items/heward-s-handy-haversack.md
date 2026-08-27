@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [heward-s-handy-haversack](heward-s-handy-haversack.md)
+
+---
+
 # Heward's Handy Haversack
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:heward-s-handy-haversack

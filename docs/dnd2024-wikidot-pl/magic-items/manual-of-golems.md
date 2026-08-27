@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-golems](manual-of-golems.md)
+
+---
+
 # Podręcznik do budowy golema
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:manual-of-golems

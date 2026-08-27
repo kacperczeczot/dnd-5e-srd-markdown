@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-wound-closure](periapt-of-wound-closure.md)
+
+---
+
 # Periapt of Wound Closure
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:periapt-of-wound-closure

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjuration-school](conjuration-school.md)
+
+---
+
 # Czary przywoływania
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:conjuration-school

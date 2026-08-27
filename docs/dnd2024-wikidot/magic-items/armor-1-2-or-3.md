@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [armor-1-2-or-3](armor-1-2-or-3.md)
+
+---
+
 # Armor, +1, +2, or +3
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:armor-1-2-or-3

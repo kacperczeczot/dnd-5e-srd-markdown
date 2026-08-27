@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-armorer](subclass-artificer-armorer.md)
+
+---
+
 # Armorer (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-artificer-armorer

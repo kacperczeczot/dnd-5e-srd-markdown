@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [teleport](teleport.md)
+
+---
+
 # Teleportacja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:teleport

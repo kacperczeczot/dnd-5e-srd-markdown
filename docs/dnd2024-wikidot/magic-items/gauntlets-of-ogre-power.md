@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gauntlets-of-ogre-power](gauntlets-of-ogre-power.md)
+
+---
+
 # Gauntlets of Ogre Power
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:gauntlets-of-ogre-power

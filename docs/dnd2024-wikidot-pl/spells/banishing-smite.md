@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [banishing-smite](banishing-smite.md)
+
+---
+
 # Wypędzające ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:banishing-smite

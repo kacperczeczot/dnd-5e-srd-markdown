@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-comprehending-languages](helm-of-comprehending-languages.md)
+
+---
+
 # Hełm rozumienia języków
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:helm-of-comprehending-languages

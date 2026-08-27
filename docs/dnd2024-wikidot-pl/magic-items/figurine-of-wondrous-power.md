@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [figurine-of-wondrous-power](figurine-of-wondrous-power.md)
+
+---
+
 # Figurka cudownej mocy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:figurine-of-wondrous-power

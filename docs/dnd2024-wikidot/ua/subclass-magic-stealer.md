@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-magic-stealer](subclass-magic-stealer.md)
+
+---
+
 # Magic Stealer (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-magic-stealer

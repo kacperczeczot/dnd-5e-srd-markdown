@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [trinket](trinket.md)
+
+---
+
 # Drobiazg
 
 **URL źródła:** http://dnd2024.wikidot.com/equipment:trinket

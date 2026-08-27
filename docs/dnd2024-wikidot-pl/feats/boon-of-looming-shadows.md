@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-looming-shadows](boon-of-looming-shadows.md)
+
+---
+
 # Dar grożących cieni
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-looming-shadows

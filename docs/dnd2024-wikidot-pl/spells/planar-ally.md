@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [planar-ally](planar-ally.md)
+
+---
+
 # Sferalny sojusznik
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:planar-ally

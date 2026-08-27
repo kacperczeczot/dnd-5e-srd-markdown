@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [bard-college-of-lore](bard-college-of-lore.md)
+
+---
+
 # College of Lore
 
 **Class:** bard

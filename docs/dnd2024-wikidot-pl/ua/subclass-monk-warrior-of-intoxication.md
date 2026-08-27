@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-intoxication](subclass-monk-warrior-of-intoxication.md)
+
+---
+
 # Wojownik Upojenia (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-monk-warrior-of-intoxication

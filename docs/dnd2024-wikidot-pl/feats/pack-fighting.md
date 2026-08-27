@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [pack-fighting](pack-fighting.md)
+
+---
+
 # Walka stadna
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:pack-fighting

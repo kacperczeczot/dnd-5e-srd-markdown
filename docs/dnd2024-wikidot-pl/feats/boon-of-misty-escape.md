@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-misty-escape](boon-of-misty-escape.md)
+
+---
+
 # Dar mglistej ucieczki
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-misty-escape

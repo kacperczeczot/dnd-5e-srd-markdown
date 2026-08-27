@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [spell-sniper](spell-sniper.md)
+
+---
+
 # Snajper czarów
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:spell-sniper

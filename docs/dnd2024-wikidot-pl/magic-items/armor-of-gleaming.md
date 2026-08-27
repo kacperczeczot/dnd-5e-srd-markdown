@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [armor-of-gleaming](armor-of-gleaming.md)
+
+---
+
 # Zbroja lśniąca
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:armor-of-gleaming

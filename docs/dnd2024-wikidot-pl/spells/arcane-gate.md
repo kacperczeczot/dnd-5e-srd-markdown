@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-gate](arcane-gate.md)
+
+---
+
 # Magiczne wrota
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:arcane-gate

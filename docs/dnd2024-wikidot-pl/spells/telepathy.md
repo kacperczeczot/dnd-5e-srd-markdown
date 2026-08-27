@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [telepathy](telepathy.md)
+
+---
+
 # Telepatia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:telepathy

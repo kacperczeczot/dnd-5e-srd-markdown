@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dimensional-shackles](dimensional-shackles.md)
+
+---
+
 # Dimensional Shackles
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dimensional-shackles

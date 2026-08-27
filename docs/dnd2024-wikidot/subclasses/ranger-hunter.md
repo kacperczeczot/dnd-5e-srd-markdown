@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-hunter](ranger-hunter.md)
+
+---
+
 # Hunter
 
 **Class:** ranger

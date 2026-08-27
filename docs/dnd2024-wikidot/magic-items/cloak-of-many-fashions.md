@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-many-fashions](cloak-of-many-fashions.md)
+
+---
+
 # Cloak of Many Fashions
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cloak-of-many-fashions

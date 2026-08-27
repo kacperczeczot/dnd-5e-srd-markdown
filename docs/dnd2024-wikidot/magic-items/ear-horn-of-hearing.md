@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ear-horn-of-hearing](ear-horn-of-hearing.md)
+
+---
+
 # Ear Horn of Hearing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ear-horn-of-hearing

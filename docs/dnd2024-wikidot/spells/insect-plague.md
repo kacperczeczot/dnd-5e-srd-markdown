@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [insect-plague](insect-plague.md)
+
+---
+
 # Insect Plague
 
 **Source URL:** http://dnd2024.wikidot.com/spell:insect-plague

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-deathly-presence](feat-deathly-presence.md)
+
+---
+
 # Obecność śmierci (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-deathly-presence

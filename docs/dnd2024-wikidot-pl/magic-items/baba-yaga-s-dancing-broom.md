@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [baba-yaga-s-dancing-broom](baba-yaga-s-dancing-broom.md)
+
+---
+
 # Tańcząca miotła Baby Jagi
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:baba-yaga-s-dancing-broom

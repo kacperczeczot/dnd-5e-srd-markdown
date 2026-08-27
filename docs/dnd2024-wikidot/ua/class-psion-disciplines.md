@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-psion-disciplines](class-psion-disciplines.md)
+
+---
+
 # Psionic Discipline Options (UA5)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:class-psion-disciplines

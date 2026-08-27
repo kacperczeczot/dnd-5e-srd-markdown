@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [tactical-combatant](tactical-combatant.md)
+
+---
+
 # Taktyczny wojownik
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:tactical-combatant

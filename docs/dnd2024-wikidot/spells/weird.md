@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [weird](weird.md)
+
+---
+
 # Weird
 
 **Source URL:** http://dnd2024.wikidot.com/spell:weird

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [treacherous-allure](treacherous-allure.md)
+
+---
+
 # Treacherous Allure
 
 **Source URL:** http://dnd2024.wikidot.com/feat:treacherous-allure

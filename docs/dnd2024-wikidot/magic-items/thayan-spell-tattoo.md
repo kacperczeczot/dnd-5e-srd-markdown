@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [thayan-spell-tattoo](thayan-spell-tattoo.md)
+
+---
+
 # Thayan Spell Tattoo
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:thayan-spell-tattoo

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-binding](wand-of-binding.md)
+
+---
+
 # Wand of Binding
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-binding

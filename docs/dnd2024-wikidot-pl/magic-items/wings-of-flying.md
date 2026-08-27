@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wings-of-flying](wings-of-flying.md)
+
+---
+
 # Skrzydła przestworzy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wings-of-flying

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [belt-of-dwarvenkind](belt-of-dwarvenkind.md)
+
+---
+
 # Belt of Dwarvenkind
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:belt-of-dwarvenkind

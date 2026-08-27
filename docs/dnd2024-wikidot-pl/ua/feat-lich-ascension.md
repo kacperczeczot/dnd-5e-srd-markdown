@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-lich-ascension](feat-lich-ascension.md)
+
+---
+
 # Wniebowstąpienie licha (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-lich-ascension

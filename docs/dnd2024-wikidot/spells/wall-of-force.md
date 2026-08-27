@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-force](wall-of-force.md)
+
+---
+
 # Wall of Force
 
 **Source URL:** http://dnd2024.wikidot.com/spell:wall-of-force

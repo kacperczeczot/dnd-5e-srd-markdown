@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [sorcerer-shadow-sorcery](sorcerer-shadow-sorcery.md)
+
+---
+
 # Shadow Sorcery
 
 **Class:** sorcerer

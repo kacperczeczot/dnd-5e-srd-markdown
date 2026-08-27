@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [gnome](gnome.md)
+
+---
+
 # Gnom
 
 **URL źródła:** http://dnd2024.wikidot.com/species:gnome

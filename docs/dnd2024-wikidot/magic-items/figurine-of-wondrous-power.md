@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [figurine-of-wondrous-power](figurine-of-wondrous-power.md)
+
+---
+
 # Figurine of Wondrous Power
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:figurine-of-wondrous-power

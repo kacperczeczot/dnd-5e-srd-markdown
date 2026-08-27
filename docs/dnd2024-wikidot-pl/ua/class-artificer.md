@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-artificer](class-artificer.md)
+
+---
+
 # Wynalazca (UA1 — 17.12.2024)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:class-artificer

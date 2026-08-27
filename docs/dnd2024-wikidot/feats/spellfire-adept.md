@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [spellfire-adept](spellfire-adept.md)
+
+---
+
 # Spellfire Adept
 
 **Source URL:** http://dnd2024.wikidot.com/feat:spellfire-adept

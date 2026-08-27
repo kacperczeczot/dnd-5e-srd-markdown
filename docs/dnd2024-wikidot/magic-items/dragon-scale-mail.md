@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-scale-mail](dragon-scale-mail.md)
+
+---
+
 # Dragon Scale Mail
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dragon-scale-mail

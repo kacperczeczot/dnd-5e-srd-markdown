@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sending](sending.md)
+
+---
+
 # Sending
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sending

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-devouring](bag-of-devouring.md)
+
+---
+
 # Wór gębowy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bag-of-devouring

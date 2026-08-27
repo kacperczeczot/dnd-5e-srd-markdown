@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [reverse-gravity](reverse-gravity.md)
+
+---
+
 # Odwrócenie grawitacji
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:reverse-gravity

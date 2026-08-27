@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [buzzing-bee](buzzing-bee.md)
+
+---
+
 # Brzęcząca pszczoła
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:buzzing-bee

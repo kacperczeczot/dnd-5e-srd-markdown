@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [survivor](survivor.md)
+
+---
+
 # Ocalały
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:survivor

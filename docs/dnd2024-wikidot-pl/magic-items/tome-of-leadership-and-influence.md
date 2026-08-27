@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-leadership-and-influence](tome-of-leadership-and-influence.md)
+
+---
+
 # Księga przywództwa i wpływu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:tome-of-leadership-and-influence

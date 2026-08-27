@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [dwarf](dwarf.md)
+
+---
+
 # Krasnolud
 
 **URL źródła:** http://dnd2024.wikidot.com/species:dwarf

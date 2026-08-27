@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [staggering-smite](staggering-smite.md)
+
+---
+
 # Wstrząsające ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:staggering-smite

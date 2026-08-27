@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-hospitality](mark-of-hospitality.md)
+
+---
+
 # Piętno gościnności
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-hospitality

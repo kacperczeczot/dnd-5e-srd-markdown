@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [chill-touch](chill-touch.md)
+
+---
+
 # Przeszywający dotyk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:chill-touch

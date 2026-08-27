@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [rary-s-telepathic-bond](rary-s-telepathic-bond.md)
+
+---
+
 # Rary's Telepathic Bond
 
 **Source URL:** http://dnd2024.wikidot.com/spell:rary-s-telepathic-bond

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [pass-without-trace](pass-without-trace.md)
+
+---
+
 # Pass without Trace
 
 **Source URL:** http://dnd2024.wikidot.com/spell:pass-without-trace

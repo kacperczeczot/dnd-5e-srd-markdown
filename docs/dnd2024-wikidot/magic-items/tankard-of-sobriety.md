@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tankard-of-sobriety](tankard-of-sobriety.md)
+
+---
+
 # Tankard of Sobriety
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:tankard-of-sobriety

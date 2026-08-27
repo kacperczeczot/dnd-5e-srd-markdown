@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [pact-seeker](pact-seeker.md)
+
+---
+
 # Pact Seeker
 
 **Source URL:** http://dnd2024.wikidot.com/background:pact-seeker

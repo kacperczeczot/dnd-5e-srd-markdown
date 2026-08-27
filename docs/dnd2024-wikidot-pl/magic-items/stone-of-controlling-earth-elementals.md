@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [stone-of-controlling-earth-elementals](stone-of-controlling-earth-elementals.md)
+
+---
+
 # Kamień władania żywiołakami ziemi
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:stone-of-controlling-earth-elementals

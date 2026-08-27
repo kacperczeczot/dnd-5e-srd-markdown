@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-invisibility](cloak-of-invisibility.md)
+
+---
+
 # Płaszcz niewidzialności
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cloak-of-invisibility

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-finding](greater-mark-of-finding.md)
+
+---
+
 # Greater Mark of Finding
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-mark-of-finding

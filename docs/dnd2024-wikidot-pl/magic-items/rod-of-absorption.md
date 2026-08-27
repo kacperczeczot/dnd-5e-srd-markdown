@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-absorption](rod-of-absorption.md)
+
+---
+
 # Berło absorpcji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rod-of-absorption

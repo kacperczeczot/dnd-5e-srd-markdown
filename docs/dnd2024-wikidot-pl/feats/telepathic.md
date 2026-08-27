@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [telepathic](telepathic.md)
+
+---
+
 # Telepata
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:telepathic

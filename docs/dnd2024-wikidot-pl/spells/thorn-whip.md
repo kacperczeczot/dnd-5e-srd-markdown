@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thorn-whip](thorn-whip.md)
+
+---
+
 # Cierniowy bicz
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:thorn-whip

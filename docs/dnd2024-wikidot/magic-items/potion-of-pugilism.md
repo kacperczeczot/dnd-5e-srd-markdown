@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-pugilism](potion-of-pugilism.md)
+
+---
+
 # Potion of Pugilism
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-pugilism

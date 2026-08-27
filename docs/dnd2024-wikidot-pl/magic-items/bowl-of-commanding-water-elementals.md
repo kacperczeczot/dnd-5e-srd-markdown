@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bowl-of-commanding-water-elementals](bowl-of-commanding-water-elementals.md)
+
+---
+
 # Czara przyzywania żywiołaków wody
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bowl-of-commanding-water-elementals

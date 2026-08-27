@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [elemental-adept](elemental-adept.md)
+
+---
+
 # Adept żywiołów
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:elemental-adept

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [nine-lives-stealer](nine-lives-stealer.md)
+
+---
+
 # Zabójca dziewięciu żyć
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:nine-lives-stealer

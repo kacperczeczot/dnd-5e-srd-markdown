@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-sword](mordenkainen-s-sword.md)
+
+---
+
 # Mordenkainen's Sword
 
 **Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-sword

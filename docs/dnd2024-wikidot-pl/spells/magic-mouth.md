@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [magic-mouth](magic-mouth.md)
+
+---
+
 # Magiczne usta
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:magic-mouth

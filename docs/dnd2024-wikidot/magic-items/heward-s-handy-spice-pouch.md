@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [heward-s-handy-spice-pouch](heward-s-handy-spice-pouch.md)
+
+---
+
 # Heward's Handy Spice Pouch
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:heward-s-handy-spice-pouch

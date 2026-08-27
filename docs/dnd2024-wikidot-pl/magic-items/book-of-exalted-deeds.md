@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-exalted-deeds](book-of-exalted-deeds.md)
+
+---
+
 # Księga wzniosłych czynów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:book-of-exalted-deeds

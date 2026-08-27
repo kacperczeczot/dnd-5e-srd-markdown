@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pearl-of-power](pearl-of-power.md)
+
+---
+
 # Perła mocy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:pearl-of-power

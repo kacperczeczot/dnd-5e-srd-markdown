@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [friends](friends.md)
+
+---
+
 # Friends
 
 **Source URL:** http://dnd2024.wikidot.com/spell:friends

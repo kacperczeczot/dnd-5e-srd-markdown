@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [noble](noble.md)
+
+---
+
 # Noble
 
 **Source URL:** http://dnd2024.wikidot.com/background:noble

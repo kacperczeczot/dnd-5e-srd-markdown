@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-rulership](rod-of-rulership.md)
+
+---
+
 # Rod of Rulership
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rod-of-rulership

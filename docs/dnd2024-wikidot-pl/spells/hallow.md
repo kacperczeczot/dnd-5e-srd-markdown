@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hallow](hallow.md)
+
+---
+
 # Konsekracja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:hallow

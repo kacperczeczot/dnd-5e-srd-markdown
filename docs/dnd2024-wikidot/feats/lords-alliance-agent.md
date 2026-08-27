@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [lords-alliance-agent](lords-alliance-agent.md)
+
+---
+
 # Lords' Alliance Agent
 
 **Source URL:** http://dnd2024.wikidot.com/feat:lords-alliance-agent

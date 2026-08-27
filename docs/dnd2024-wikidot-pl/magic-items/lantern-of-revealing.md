@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [lantern-of-revealing](lantern-of-revealing.md)
+
+---
+
 # Latarnia ujawniania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:lantern-of-revealing

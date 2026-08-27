@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [homunculus-servant](homunculus-servant.md)
+
+---
+
 # Sługa homunkulusa
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:homunculus-servant

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [flame-blade](flame-blade.md)
+
+---
+
 # Flame Blade
 
 **Source URL:** http://dnd2024.wikidot.com/spell:flame-blade

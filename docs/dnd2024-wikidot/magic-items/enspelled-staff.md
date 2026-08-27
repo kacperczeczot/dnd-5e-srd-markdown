@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [enspelled-staff](enspelled-staff.md)
+
+---
+
 # Enspelled Staff
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:enspelled-staff

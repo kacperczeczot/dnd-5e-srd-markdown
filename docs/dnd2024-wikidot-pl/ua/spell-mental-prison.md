@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-mental-prison](spell-mental-prison.md)
+
+---
+
 # Mentalne więzienie (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-mental-prison

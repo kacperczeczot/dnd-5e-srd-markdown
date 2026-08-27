@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [veteran-s-cane](veteran-s-cane.md)
+
+---
+
 # Veteran's Cane
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:veteran-s-cane

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [consumable](consumable.md)
+
+---
+
 # Jednorazowe przedmioty magiczne
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:consumable

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-djinni-summoning](ring-of-djinni-summoning.md)
+
+---
+
 # Ring of Djinni Summoning
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-djinni-summoning

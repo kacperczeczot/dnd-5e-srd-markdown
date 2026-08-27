@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-spell-storing](ring-of-spell-storing.md)
+
+---
+
 # Pierścień przechowywania czarów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-spell-storing

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [true-polymorph](true-polymorph.md)
+
+---
+
 # Prawdziwa polimorfia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:true-polymorph

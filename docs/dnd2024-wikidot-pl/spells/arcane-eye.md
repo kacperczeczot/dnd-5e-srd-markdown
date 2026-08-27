@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-eye](arcane-eye.md)
+
+---
+
 # Magiczne oko
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:arcane-eye

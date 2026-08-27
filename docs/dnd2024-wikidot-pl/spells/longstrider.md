@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [longstrider](longstrider.md)
+
+---
+
 # Szybkonogi
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:longstrider

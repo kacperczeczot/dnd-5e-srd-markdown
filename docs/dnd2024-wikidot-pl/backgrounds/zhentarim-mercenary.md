@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [zhentarim-mercenary](zhentarim-mercenary.md)
+
+---
+
 # Najemnik Zhentarim
 
 **URL źródła:** http://dnd2024.wikidot.com/background:zhentarim-mercenary

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-bard-college-of-spirits](subclass-bard-college-of-spirits.md)
+
+---
+
 # College of Spirits (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-bard-college-of-spirits

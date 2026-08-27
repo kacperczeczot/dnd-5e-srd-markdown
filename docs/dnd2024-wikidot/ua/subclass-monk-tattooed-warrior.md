@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-tattooed-warrior](subclass-monk-tattooed-warrior.md)
+
+---
+
 # Tattooed Warrior (UA6 - 26.06.25)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-monk-tattooed-warrior

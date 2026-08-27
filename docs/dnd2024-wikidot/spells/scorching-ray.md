@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [scorching-ray](scorching-ray.md)
+
+---
+
 # Scorching Ray
 
 **Source URL:** http://dnd2024.wikidot.com/spell:scorching-ray

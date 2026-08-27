@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [harper-pin](harper-pin.md)
+
+---
+
 # Harper Pin
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:harper-pin

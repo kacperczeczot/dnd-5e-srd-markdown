@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-fortify](power-word-fortify.md)
+
+---
+
 # Słowo mocy: Wzmocnij
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:power-word-fortify

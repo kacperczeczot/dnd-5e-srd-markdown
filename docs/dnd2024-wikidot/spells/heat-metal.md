@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [heat-metal](heat-metal.md)
+
+---
+
 # Heat Metal
 
 **Source URL:** http://dnd2024.wikidot.com/spell:heat-metal

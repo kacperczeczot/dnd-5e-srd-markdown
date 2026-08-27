@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-undead-grasp](feat-undead-grasp.md)
+
+---
+
 # Chwyt nieumarłego (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-undead-grasp

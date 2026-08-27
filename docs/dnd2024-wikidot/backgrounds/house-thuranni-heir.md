@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-thuranni-heir](house-thuranni-heir.md)
+
+---
+
 # House Thuranni Heir
 
 **Source URL:** http://dnd2024.wikidot.com/background:house-thuranni-heir

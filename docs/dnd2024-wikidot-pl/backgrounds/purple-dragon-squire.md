@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [purple-dragon-squire](purple-dragon-squire.md)
+
+---
+
 # Giermek Fioletowych Smoków
 
 **URL źródła:** http://dnd2024.wikidot.com/background:purple-dragon-squire

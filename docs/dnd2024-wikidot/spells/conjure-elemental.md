@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-elemental](conjure-elemental.md)
+
+---
+
 # Conjure Elemental
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-elemental

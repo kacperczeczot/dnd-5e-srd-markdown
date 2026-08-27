@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [prismatic-wall](prismatic-wall.md)
+
+---
+
 # Prismatic Wall
 
 **Source URL:** http://dnd2024.wikidot.com/spell:prismatic-wall

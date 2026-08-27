@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-vigor](arcane-vigor.md)
+
+---
+
 # Tajemna witalność
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:arcane-vigor

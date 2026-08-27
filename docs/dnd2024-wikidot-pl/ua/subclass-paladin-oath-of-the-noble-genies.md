@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-paladin-oath-of-the-noble-genies](subclass-paladin-oath-of-the-noble-genies.md)
+
+---
+
 # Przysięga Szlachetnych Dżinów (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-paladin-oath-of-the-noble-genies

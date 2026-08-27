@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fire-bolt](fire-bolt.md)
+
+---
+
 # Ognisty pocisk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:fire-bolt

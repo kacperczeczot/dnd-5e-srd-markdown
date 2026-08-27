@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [sorcerer-spellfire-sorcery](sorcerer-spellfire-sorcery.md)
+
+---
+
 # Magia Ognia Czarów
 
 **Klasa:** Zaklinacz

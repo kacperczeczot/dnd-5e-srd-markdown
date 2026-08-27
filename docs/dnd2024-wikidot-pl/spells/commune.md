@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [commune](commune.md)
+
+---
+
 # Kontakt z bóstwem
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:commune

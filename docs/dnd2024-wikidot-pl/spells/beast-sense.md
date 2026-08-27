@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [beast-sense](beast-sense.md)
+
+---
+
 # Zwierzęce zmysły
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:beast-sense

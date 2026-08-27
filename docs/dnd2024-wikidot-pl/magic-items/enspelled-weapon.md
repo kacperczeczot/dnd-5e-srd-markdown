@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [enspelled-weapon](enspelled-weapon.md)
+
+---
+
 # Zaklęta broń
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:enspelled-weapon

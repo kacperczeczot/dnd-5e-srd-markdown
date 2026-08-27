@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [imprisonment](imprisonment.md)
+
+---
+
 # Uwięzienie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:imprisonment

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [moderately-armored](moderately-armored.md)
+
+---
+
 # Średnio opancerzony
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:moderately-armored

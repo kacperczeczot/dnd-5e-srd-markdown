@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-water-walking](ring-of-water-walking.md)
+
+---
+
 # Ring of Water Walking
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-water-walking

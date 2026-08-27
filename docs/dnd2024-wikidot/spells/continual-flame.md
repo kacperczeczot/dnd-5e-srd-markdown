@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [continual-flame](continual-flame.md)
+
+---
+
 # Continual Flame
 
 **Source URL:** http://dnd2024.wikidot.com/spell:continual-flame

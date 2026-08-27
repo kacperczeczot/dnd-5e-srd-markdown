@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-cannith-heir](house-cannith-heir.md)
+
+---
+
 # Dziedzic rodu Cannith
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-cannith-heir

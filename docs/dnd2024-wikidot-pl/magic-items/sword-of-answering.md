@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-answering](sword-of-answering.md)
+
+---
+
 # Miecz odpowiedzi
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sword-of-answering

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-fireballs](wand-of-fireballs.md)
+
+---
+
 # Różdżka kul ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-fireballs

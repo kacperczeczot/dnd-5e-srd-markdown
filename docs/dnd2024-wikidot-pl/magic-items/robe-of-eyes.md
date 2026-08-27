@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-eyes](robe-of-eyes.md)
+
+---
+
 # Szata oczu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:robe-of-eyes

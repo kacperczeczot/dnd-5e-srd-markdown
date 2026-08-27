@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [belt-of-giant-strength](belt-of-giant-strength.md)
+
+---
+
 # Pas olbrzymiej siły
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:belt-of-giant-strength

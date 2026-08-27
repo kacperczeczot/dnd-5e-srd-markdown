@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [continual-flame](continual-flame.md)
+
+---
+
 # Wieczny ogień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:continual-flame

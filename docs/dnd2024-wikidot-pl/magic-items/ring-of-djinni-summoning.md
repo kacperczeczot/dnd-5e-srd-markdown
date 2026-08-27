@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-djinni-summoning](ring-of-djinni-summoning.md)
+
+---
+
 # Pierścień przyzywania dżina
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-djinni-summoning

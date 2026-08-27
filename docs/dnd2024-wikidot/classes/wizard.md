@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [wizard](wizard.md)
+
+---
+
 # Wizard
 
 **Class:** wizard

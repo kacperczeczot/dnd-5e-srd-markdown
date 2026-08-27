@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [philter-of-love](philter-of-love.md)
+
+---
+
 # Eliksir miłości
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:philter-of-love

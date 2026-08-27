@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sylvan-talon](sylvan-talon.md)
+
+---
+
 # Leśny szpon
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sylvan-talon

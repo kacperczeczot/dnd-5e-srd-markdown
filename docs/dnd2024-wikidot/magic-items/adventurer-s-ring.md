@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [adventurer-s-ring](adventurer-s-ring.md)
+
+---
+
 # Adventurer's Ring
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:adventurer-s-ring

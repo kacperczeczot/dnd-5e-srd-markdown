@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cloud-of-daggers](cloud-of-daggers.md)
+
+---
+
 # Cloud Of Daggers
 
 **Source URL:** http://dnd2024.wikidot.com/spell:cloud-of-daggers

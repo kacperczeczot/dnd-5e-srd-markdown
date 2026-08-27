@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-health](periapt-of-health.md)
+
+---
+
 # Periapt of Health
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:periapt-of-health

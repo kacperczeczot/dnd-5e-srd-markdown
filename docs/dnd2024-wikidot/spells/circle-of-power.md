@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [circle-of-power](circle-of-power.md)
+
+---
+
 # Circle Of Power
 
 **Source URL:** http://dnd2024.wikidot.com/spell:circle-of-power

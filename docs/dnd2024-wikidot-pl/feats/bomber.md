@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [bomber](bomber.md)
+
+---
+
 # Bombardier
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:bomber

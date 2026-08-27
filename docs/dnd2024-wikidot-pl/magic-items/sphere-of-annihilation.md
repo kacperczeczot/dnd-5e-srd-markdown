@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sphere-of-annihilation](sphere-of-annihilation.md)
+
+---
+
 # Kula anihilacji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sphere-of-annihilation

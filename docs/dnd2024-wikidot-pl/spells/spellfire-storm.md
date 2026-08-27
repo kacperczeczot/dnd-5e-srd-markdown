@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spellfire-storm](spellfire-storm.md)
+
+---
+
 # Burza ognia czarów
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spellfire-storm

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-storm-herald](subclass-barbarian-path-of-the-storm-herald.md)
+
+---
+
 # Ścieżka Herolda Burzy (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-barbarian-path-of-the-storm-herald

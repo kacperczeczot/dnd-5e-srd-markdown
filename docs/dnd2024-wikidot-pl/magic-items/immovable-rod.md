@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [immovable-rod](immovable-rod.md)
+
+---
+
 # Berło nie do ruszenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:immovable-rod

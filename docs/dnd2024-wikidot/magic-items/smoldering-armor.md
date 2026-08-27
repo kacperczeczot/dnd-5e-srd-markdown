@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [smoldering-armor](smoldering-armor.md)
+
+---
+
 # Smoldering Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:smoldering-armor

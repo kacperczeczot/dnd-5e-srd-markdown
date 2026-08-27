@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-striding-and-springing](boots-of-striding-and-springing.md)
+
+---
+
 # Buty kroków i skoków
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:boots-of-striding-and-springing

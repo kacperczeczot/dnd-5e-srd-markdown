@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-kill](power-word-kill.md)
+
+---
+
 # Power Word Kill
 
 **Source URL:** http://dnd2024.wikidot.com/spell:power-word-kill

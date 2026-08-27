@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-trickery-domain](cleric-trickery-domain.md)
+
+---
+
 # Trickery Domain
 
 **Class:** cleric

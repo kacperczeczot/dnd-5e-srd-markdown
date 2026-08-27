@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-killer](phantasmal-killer.md)
+
+---
+
 # Phantasmal Killer
 
 **Source URL:** http://dnd2024.wikidot.com/spell:phantasmal-killer

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [word-of-radiance](word-of-radiance.md)
+
+---
+
 # Słowo promienistości
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:word-of-radiance

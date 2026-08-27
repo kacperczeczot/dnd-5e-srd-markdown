@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [lock-of-trickery](lock-of-trickery.md)
+
+---
+
 # Zamek podstępu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:lock-of-trickery

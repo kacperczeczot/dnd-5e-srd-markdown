@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-terror](mace-of-terror.md)
+
+---
+
 # Buława grozy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mace-of-terror

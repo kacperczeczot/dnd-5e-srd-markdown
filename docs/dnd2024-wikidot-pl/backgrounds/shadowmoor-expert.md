@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [shadowmoor-expert](shadowmoor-expert.md)
+
+---
+
 # Ekspert Shadowmoor
 
 **URL źródła:** http://dnd2024.wikidot.com/background:shadowmoor-expert

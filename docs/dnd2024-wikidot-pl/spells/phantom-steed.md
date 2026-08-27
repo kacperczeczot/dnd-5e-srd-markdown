@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [phantom-steed](phantom-steed.md)
+
+---
+
 # Widmowy wierzchowiec
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:phantom-steed

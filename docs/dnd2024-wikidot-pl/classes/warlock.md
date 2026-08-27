@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [warlock](warlock.md)
+
+---
+
 # Czarownik
 
 **Klasa:** Czarownik

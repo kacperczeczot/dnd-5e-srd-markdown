@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [polearm-master](polearm-master.md)
+
+---
+
 # Mistrz broni drzewcowej
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:polearm-master

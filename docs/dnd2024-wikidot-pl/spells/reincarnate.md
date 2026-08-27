@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [reincarnate](reincarnate.md)
+
+---
+
 # Reinkarnacja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:reincarnate

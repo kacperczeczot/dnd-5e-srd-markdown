@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [portable-hole](portable-hole.md)
+
+---
+
 # Przenośna dziura
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:portable-hole

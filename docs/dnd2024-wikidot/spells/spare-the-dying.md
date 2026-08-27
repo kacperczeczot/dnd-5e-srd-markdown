@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spare-the-dying](spare-the-dying.md)
+
+---
+
 # Spare the Dying
 
 **Source URL:** http://dnd2024.wikidot.com/spell:spare-the-dying

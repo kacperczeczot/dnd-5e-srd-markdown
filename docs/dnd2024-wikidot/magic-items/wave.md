@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wave](wave.md)
+
+---
+
 # Wave
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wave

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ensnaring-strike](ensnaring-strike.md)
+
+---
+
 # Pętające uderzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:ensnaring-strike

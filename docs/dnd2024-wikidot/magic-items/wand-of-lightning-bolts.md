@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-lightning-bolts](wand-of-lightning-bolts.md)
+
+---
+
 # Wand of Lightning Bolts
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-lightning-bolts

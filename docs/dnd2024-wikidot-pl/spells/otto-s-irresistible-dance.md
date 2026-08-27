@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [otto-s-irresistible-dance](otto-s-irresistible-dance.md)
+
+---
+
 # Nieodparty taniec Ottona
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:otto-s-irresistible-dance

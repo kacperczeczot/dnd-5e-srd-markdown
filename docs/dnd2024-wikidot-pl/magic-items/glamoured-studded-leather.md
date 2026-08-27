@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [glamoured-studded-leather](glamoured-studded-leather.md)
+
+---
+
 # Zaczarowana ćwiekowana skóra
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:glamoured-studded-leather

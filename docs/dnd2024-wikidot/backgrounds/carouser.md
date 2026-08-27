@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [carouser](carouser.md)
+
+---
+
 # Carouser
 
 **Source URL:** http://dnd2024.wikidot.com/background:carouser

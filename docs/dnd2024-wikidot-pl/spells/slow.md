@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [slow](slow.md)
+
+---
+
 # Spowolnienie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:slow

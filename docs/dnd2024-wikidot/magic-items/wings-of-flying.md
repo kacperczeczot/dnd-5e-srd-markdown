@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wings-of-flying](wings-of-flying.md)
+
+---
+
 # Wings of Flying
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wings-of-flying

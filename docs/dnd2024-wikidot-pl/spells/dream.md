@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dream](dream.md)
+
+---
+
 # Sen
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dream

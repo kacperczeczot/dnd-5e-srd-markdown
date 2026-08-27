@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [medium-armor-master](medium-armor-master.md)
+
+---
+
 # Medium Armor Master
 
 **Source URL:** http://dnd2024.wikidot.com/feat:medium-armor-master

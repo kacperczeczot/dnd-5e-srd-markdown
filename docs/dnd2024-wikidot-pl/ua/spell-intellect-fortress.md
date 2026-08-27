@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-intellect-fortress](spell-intellect-fortress.md)
+
+---
+
 # Twierdza intelektu (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-intellect-fortress

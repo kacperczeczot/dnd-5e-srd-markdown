@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-passage](greater-mark-of-passage.md)
+
+---
+
 # Greater Mark of Passage
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-mark-of-passage

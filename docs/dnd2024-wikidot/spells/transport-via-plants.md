@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [transport-via-plants](transport-via-plants.md)
+
+---
+
 # Transport via Plants
 
 **Source URL:** http://dnd2024.wikidot.com/spell:transport-via-plants

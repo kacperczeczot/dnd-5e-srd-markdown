@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [watchers](watchers.md)
+
+---
+
 # Obserwatorzy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:watchers

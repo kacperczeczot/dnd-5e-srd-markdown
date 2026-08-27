@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gentle-repose](gentle-repose.md)
+
+---
+
 # Gentle Repose
 
 **Source URL:** http://dnd2024.wikidot.com/spell:gentle-repose

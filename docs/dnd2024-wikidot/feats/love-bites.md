@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [love-bites](love-bites.md)
+
+---
+
 # Love Bites
 
 **Source URL:** http://dnd2024.wikidot.com/feat:love-bites

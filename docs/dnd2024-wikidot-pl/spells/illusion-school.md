@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [illusion-school](illusion-school.md)
+
+---
+
 # Czary iluzji
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:illusion-school

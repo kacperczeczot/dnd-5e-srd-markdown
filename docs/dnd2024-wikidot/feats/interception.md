@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [interception](interception.md)
+
+---
+
 # Interception
 
 **Source URL:** http://dnd2024.wikidot.com/feat:interception

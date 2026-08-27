@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [searing-orb](searing-orb.md)
+
+---
+
 # Żarząca kula
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:searing-orb

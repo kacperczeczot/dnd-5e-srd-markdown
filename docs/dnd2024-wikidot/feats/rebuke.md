@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [rebuke](rebuke.md)
+
+---
+
 # Rebuke
 
 **Source URL:** http://dnd2024.wikidot.com/feat:rebuke

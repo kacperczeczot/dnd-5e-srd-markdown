@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-unwavering-devotion](feat-boon-of-unwavering-devotion.md)
+
+---
+
 # Boon of Unwavering Devotion (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-boon-of-unwavering-devotion

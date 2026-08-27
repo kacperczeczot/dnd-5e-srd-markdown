@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [glyph-of-warding](glyph-of-warding.md)
+
+---
+
 # Glif strażniczy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:glyph-of-warding

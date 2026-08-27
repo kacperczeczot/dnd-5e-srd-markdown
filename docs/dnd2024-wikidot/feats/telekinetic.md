@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [telekinetic](telekinetic.md)
+
+---
+
 # Telekinetic
 
 **Source URL:** http://dnd2024.wikidot.com/feat:telekinetic

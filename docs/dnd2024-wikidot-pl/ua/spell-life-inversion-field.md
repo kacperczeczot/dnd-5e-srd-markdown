@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-life-inversion-field](spell-life-inversion-field.md)
+
+---
+
 # Pole odwrócenia życia (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-life-inversion-field

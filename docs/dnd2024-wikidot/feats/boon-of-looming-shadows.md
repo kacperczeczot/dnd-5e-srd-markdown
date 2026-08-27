@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-looming-shadows](boon-of-looming-shadows.md)
+
+---
+
 # Boon of Looming Shadows
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-looming-shadows

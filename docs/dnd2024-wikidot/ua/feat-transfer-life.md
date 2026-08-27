@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-transfer-life](feat-transfer-life.md)
+
+---
+
 # Transfer Life (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-transfer-life

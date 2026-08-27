@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [trident-of-fish-command](trident-of-fish-command.md)
+
+---
+
 # Trójząb władania rybami
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:trident-of-fish-command

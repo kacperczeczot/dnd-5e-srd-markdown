@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tenser-s-floating-disk](tenser-s-floating-disk.md)
+
+---
+
 # Wędrujący dysk Tensera
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:tenser-s-floating-disk

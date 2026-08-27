@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [human](human.md)
+
+---
+
 # Human
 
 **Source URL:** http://dnd2024.wikidot.com/species:human

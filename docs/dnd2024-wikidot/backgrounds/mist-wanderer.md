@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [mist-wanderer](mist-wanderer.md)
+
+---
+
 # Mist Wanderer
 
 **Source URL:** http://dnd2024.wikidot.com/background:mist-wanderer

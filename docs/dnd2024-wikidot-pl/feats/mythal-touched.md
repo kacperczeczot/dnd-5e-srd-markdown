@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mythal-touched](mythal-touched.md)
+
+---
+
 # Dotknięty mythalem
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mythal-touched

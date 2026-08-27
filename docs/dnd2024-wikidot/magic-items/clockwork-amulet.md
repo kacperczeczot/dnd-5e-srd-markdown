@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [clockwork-amulet](clockwork-amulet.md)
+
+---
+
 # Clockwork Amulet
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:clockwork-amulet

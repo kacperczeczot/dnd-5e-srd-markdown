@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [move-earth](move-earth.md)
+
+---
+
 # Poruszenie ziemi
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:move-earth

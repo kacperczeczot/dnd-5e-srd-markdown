@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [living-shadow](living-shadow.md)
+
+---
+
 # Living Shadow
 
 **Source URL:** http://dnd2024.wikidot.com/feat:living-shadow

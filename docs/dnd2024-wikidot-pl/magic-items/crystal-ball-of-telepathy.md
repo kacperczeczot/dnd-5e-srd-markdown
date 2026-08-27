@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball-of-telepathy](crystal-ball-of-telepathy.md)
+
+---
+
 # Kula kryształowa telepatii
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:crystal-ball-of-telepathy

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-vermin](hat-of-vermin.md)
+
+---
+
 # Kapelusz robactwa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:hat-of-vermin

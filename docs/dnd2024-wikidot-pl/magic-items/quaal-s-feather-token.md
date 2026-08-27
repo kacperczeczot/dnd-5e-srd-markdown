@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [quaal-s-feather-token](quaal-s-feather-token.md)
+
+---
+
 # Piórko Quaala
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:quaal-s-feather-token

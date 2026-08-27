@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-detection](feat-greater-mark-of-detection.md)
+
+---
+
 # Greater Mark of Detection (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-detection

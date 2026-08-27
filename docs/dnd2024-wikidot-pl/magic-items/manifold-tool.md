@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [manifold-tool](manifold-tool.md)
+
+---
+
 # Narzędzie wielofunkcyjne
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:manifold-tool

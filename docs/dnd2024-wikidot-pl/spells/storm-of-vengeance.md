@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [storm-of-vengeance](storm-of-vengeance.md)
+
+---
+
 # Burza zemsty
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:storm-of-vengeance

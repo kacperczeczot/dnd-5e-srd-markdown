@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [plane-shift](plane-shift.md)
+
+---
+
 # Sferalny przeskok
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:plane-shift

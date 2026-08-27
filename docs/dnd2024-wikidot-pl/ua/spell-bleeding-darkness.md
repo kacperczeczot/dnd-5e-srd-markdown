@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-bleeding-darkness](spell-bleeding-darkness.md)
+
+---
+
 # Krwawiąca ciemność (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-bleeding-darkness

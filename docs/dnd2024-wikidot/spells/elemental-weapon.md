@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [elemental-weapon](elemental-weapon.md)
+
+---
+
 # Elemental Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/spell:elemental-weapon

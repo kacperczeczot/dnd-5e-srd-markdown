@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-radiant-weapon](magic-item-radiant-weapon.md)
+
+---
+
 # Radiant Weapon (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:magic-item-radiant-weapon

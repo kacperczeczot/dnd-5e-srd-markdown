@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [en](README.md) > [character-origins](character-origins.md)
+
+---
+
 # Character Origins
 
 ## Character Backgrounds

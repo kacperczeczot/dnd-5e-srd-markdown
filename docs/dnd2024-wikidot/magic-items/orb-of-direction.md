@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [orb-of-direction](orb-of-direction.md)
+
+---
+
 # Orb of Direction
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:orb-of-direction

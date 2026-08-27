@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shocking-grasp](shocking-grasp.md)
+
+---
+
 # Shocking Grasp
 
 **Source URL:** http://dnd2024.wikidot.com/spell:shocking-grasp

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-spell-storing](ring-of-spell-storing.md)
+
+---
+
 # Ring of Spell Storing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-spell-storing

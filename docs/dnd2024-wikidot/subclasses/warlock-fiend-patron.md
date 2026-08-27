@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [warlock-fiend-patron](warlock-fiend-patron.md)
+
+---
+
 # Fiend Patron
 
 **Class:** warlock

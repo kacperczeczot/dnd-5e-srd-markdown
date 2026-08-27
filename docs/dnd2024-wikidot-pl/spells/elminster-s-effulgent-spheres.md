@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [elminster-s-effulgent-spheres](elminster-s-effulgent-spheres.md)
+
+---
+
 # Lśniące kule Elminstera
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:elminster-s-effulgent-spheres

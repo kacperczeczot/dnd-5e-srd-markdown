@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pot-of-awakening](pot-of-awakening.md)
+
+---
+
 # Pot of Awakening
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:pot-of-awakening

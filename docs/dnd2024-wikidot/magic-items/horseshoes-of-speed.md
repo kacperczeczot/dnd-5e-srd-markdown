@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [horseshoes-of-speed](horseshoes-of-speed.md)
+
+---
+
 # Horseshoes of Speed
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:horseshoes-of-speed

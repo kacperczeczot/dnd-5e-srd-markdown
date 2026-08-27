@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [lesser-restoration](lesser-restoration.md)
+
+---
+
 # Lesser Restoration
 
 **Source URL:** http://dnd2024.wikidot.com/spell:lesser-restoration

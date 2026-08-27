@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [finger-of-death](finger-of-death.md)
+
+---
+
 # Finger of Death
 
 **Source URL:** http://dnd2024.wikidot.com/spell:finger-of-death

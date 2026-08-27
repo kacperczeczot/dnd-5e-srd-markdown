@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ebonbane](ebonbane.md)
+
+---
+
 # Ebonbane
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ebonbane

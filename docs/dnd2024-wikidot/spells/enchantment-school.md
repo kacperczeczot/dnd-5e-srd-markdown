@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [enchantment-school](enchantment-school.md)
+
+---
+
 # Enchantment Spells
 
 **Source URL:** http://dnd2024.wikidot.com/spell:enchantment-school

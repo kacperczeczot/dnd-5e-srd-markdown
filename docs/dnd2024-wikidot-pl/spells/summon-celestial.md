@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [summon-celestial](summon-celestial.md)
+
+---
+
 # Przywołanie niebiańskiego
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:summon-celestial

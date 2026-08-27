@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [commune-with-nature](commune-with-nature.md)
+
+---
+
 # Kontakt z naturą
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:commune-with-nature

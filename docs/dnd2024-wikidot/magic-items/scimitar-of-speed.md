@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [scimitar-of-speed](scimitar-of-speed.md)
+
+---
+
 # Scimitar of Speed
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:scimitar-of-speed

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-celestial](conjure-celestial.md)
+
+---
+
 # Conjure Celestial
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-celestial

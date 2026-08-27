@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [scarab-of-protection](scarab-of-protection.md)
+
+---
+
 # Scarab of Protection
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:scarab-of-protection

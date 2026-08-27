@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-quickness-of-action](manual-of-quickness-of-action.md)
+
+---
+
 # Manual of Quickness of Action
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:manual-of-quickness-of-action

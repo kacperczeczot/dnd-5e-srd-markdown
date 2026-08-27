@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [rod](rod.md)
+
+---
+
 # Przedmioty magiczne — berła
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rod

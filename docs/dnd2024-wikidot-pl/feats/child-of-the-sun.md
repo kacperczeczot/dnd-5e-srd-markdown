@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [child-of-the-sun](child-of-the-sun.md)
+
+---
+
 # Dziecko słońca
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:child-of-the-sun

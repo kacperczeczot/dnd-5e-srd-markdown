@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-potent-dragonmark](feat-potent-dragonmark.md)
+
+---
+
 # Potent Dragonmark (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-potent-dragonmark

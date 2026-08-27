@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [holy-star-of-mystra](holy-star-of-mystra.md)
+
+---
+
 # Święta gwiazda Mystry
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:holy-star-of-mystra

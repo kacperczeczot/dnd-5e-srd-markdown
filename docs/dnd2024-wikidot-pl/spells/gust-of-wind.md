@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gust-of-wind](gust-of-wind.md)
+
+---
+
 # Poryw wiatru
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:gust-of-wind

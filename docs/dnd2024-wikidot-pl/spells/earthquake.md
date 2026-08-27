@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [earthquake](earthquake.md)
+
+---
+
 # Trzęsienie ziemi
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:earthquake

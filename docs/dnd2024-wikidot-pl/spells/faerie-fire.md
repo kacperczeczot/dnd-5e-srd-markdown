@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [faerie-fire](faerie-fire.md)
+
+---
+
 # Blask faerie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:faerie-fire

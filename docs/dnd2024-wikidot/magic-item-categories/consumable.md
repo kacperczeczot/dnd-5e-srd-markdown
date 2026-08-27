@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [consumable](consumable.md)
+
+---
+
 # Consumable
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:consumable

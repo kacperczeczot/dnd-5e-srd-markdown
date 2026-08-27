@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [inspiring-leader](inspiring-leader.md)
+
+---
+
 # Inspirujący przywódca
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:inspiring-leader

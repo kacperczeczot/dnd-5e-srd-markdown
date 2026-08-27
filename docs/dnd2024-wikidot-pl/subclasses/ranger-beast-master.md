@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-beast-master](ranger-beast-master.md)
+
+---
+
 # Władca zwierząt
 
 **Klasa:** Łowca

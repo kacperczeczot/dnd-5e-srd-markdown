@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [silent-image](silent-image.md)
+
+---
+
 # Milczący obraz
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:silent-image

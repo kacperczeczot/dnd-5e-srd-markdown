@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pipe-of-smoke-monsters](pipe-of-smoke-monsters.md)
+
+---
+
 # Fajka dymnych potworów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:pipe-of-smoke-monsters

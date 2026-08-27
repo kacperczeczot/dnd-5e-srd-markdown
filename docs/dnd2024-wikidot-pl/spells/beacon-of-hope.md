@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [beacon-of-hope](beacon-of-hope.md)
+
+---
+
 # Promień nadziei
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:beacon-of-hope

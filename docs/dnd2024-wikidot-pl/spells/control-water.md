@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [control-water](control-water.md)
+
+---
+
 # Kontrola wody
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:control-water

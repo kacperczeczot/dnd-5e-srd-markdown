@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-warding](feat-greater-mark-of-warding.md)
+
+---
+
 # Greater Mark of Warding (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-warding

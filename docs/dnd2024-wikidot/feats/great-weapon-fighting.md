@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [great-weapon-fighting](great-weapon-fighting.md)
+
+---
+
 # Great Weapon Fighting
 
 **Source URL:** http://dnd2024.wikidot.com/feat:great-weapon-fighting

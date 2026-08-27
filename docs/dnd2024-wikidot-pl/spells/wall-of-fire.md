@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-fire](wall-of-fire.md)
+
+---
+
 # Ściana ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-fire

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hallow](hallow.md)
+
+---
+
 # Hallow
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hallow

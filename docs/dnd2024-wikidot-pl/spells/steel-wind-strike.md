@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [steel-wind-strike](steel-wind-strike.md)
+
+---
+
 # Uderzenie stalowego wiatru
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:steel-wind-strike

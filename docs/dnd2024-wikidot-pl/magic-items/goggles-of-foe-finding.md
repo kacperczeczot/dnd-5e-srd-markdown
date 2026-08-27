@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [goggles-of-foe-finding](goggles-of-foe-finding.md)
+
+---
+
 # Okulary namierzania wrogów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:goggles-of-foe-finding

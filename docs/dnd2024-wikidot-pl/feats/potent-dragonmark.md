@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [potent-dragonmark](potent-dragonmark.md)
+
+---
+
 # Potężne piętno smoka
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:potent-dragonmark

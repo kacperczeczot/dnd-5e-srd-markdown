@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [insidious-rhythm](insidious-rhythm.md)
+
+---
+
 # Insidious Rhythm
 
 **Source URL:** http://dnd2024.wikidot.com/spell:insidious-rhythm

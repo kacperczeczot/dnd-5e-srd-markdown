@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-atmokinesis](feat-atmokinesis.md)
+
+---
+
 # Atmokinesis (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-atmokinesis

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [war-caster](war-caster.md)
+
+---
+
 # War Caster
 
 **Source URL:** http://dnd2024.wikidot.com/feat:war-caster

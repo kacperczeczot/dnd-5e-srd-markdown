@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [confusion](confusion.md)
+
+---
+
 # Zamęt
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:confusion

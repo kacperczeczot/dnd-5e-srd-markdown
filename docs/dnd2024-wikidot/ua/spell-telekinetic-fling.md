@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-telekinetic-fling](spell-telekinetic-fling.md)
+
+---
+
 # Telekinetic Fling (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-telekinetic-fling

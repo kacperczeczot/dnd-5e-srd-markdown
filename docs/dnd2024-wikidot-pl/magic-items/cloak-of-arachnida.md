@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-arachnida](cloak-of-arachnida.md)
+
+---
+
 # Płaszcz pajęczy
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cloak-of-arachnida

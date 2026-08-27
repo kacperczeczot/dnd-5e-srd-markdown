@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [rebuke](rebuke.md)
+
+---
+
 # Potępienie
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:rebuke

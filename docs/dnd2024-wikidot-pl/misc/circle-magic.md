@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [misc](README.md) > [circle-magic](circle-magic.md)
+
+---
+
 # Magia kręgu
 
 **URL źródła:** http://dnd2024.wikidot.com/circle-magic

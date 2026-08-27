@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cap-of-vanishing](cap-of-vanishing.md)
+
+---
+
 # Cap of Vanishing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cap-of-vanishing

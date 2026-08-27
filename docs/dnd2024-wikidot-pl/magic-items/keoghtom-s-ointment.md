@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [keoghtom-s-ointment](keoghtom-s-ointment.md)
+
+---
+
 # Maść Keoghtoma
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:keoghtom-s-ointment

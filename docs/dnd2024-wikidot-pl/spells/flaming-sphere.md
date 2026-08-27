@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [flaming-sphere](flaming-sphere.md)
+
+---
+
 # Płomienna kula
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:flaming-sphere

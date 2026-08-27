@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [wizard-bladesinger](wizard-bladesinger.md)
+
+---
+
 # Śpiewak Ostrzy
 
 **Klasa:** Mag

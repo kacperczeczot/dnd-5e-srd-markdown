@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-minor-elementals](conjure-minor-elementals.md)
+
+---
+
 # Przywołanie mniejszych żywiołaków
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:conjure-minor-elementals

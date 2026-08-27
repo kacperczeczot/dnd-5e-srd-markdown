@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [class-options](README.md) > [sorcerer-metamagic](sorcerer-metamagic.md)
+
+---
+
 # Metamagia
 
 **Klasa:** Zaklinacz

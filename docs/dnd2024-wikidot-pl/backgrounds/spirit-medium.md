@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [spirit-medium](spirit-medium.md)
+
+---
+
 # Medium duchów
 
 **URL źródła:** http://dnd2024.wikidot.com/background:spirit-medium

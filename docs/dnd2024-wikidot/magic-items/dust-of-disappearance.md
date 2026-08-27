@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-disappearance](dust-of-disappearance.md)
+
+---
+
 # Dust of Disappearance
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dust-of-disappearance

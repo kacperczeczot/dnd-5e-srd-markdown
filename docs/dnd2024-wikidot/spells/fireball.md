@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fireball](fireball.md)
+
+---
+
 # Fireball
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fireball

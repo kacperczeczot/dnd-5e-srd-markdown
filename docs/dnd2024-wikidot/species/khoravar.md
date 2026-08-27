@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [khoravar](khoravar.md)
+
+---
+
 # Khoravar
 
 **Source URL:** http://dnd2024.wikidot.com/species:khoravar

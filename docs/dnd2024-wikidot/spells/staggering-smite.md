@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [staggering-smite](staggering-smite.md)
+
+---
+
 # Staggering Smite
 
 **Source URL:** http://dnd2024.wikidot.com/spell:staggering-smite

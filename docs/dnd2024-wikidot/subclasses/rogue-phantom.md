@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-phantom](rogue-phantom.md)
+
+---
+
 # Phantom
 
 **Class:** rogue

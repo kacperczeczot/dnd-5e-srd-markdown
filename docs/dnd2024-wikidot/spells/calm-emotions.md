@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [calm-emotions](calm-emotions.md)
+
+---
+
 # Calm Emotions
 
 **Source URL:** http://dnd2024.wikidot.com/spell:calm-emotions

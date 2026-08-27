@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mariner-s-armor](mariner-s-armor.md)
+
+---
+
 # Mariner's Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:mariner-s-armor

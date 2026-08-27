@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mending](mending.md)
+
+---
+
 # Naprawa
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mending

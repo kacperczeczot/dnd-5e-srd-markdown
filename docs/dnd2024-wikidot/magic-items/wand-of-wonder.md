@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-wonder](wand-of-wonder.md)
+
+---
+
 # Wand of Wonder
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-wonder

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-bladesinger](subclass-wizard-bladesinger.md)
+
+---
+
 # Bladesinger (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-wizard-bladesinger

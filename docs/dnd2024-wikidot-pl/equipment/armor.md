@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [armor](armor.md)
+
+---
+
 # Pancerz
 
 **URL źródła:** http://dnd2024.wikidot.com/equipment:armor

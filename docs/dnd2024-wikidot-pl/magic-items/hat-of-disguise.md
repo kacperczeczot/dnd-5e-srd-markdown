@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-disguise](hat-of-disguise.md)
+
+---
+
 # Kapelusz przebrania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:hat-of-disguise

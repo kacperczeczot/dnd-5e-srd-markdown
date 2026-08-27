@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [true-strike](true-strike.md)
+
+---
+
 # Prawdziwe uderzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:true-strike

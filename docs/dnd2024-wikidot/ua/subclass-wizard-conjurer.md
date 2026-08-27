@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-conjurer](subclass-wizard-conjurer.md)
+
+---
+
 # Conjurer (UA6 - 26.06.25)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-wizard-conjurer

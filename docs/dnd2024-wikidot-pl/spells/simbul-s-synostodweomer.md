@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [simbul-s-synostodweomer](simbul-s-synostodweomer.md)
+
+---
+
 # Synostodweomer Simbul
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:simbul-s-synostodweomer

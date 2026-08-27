@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-healing](staff-of-healing.md)
+
+---
+
 # Kostur leczenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-healing

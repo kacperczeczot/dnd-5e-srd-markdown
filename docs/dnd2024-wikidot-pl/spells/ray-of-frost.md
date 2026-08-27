@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-frost](ray-of-frost.md)
+
+---
+
 # Promień mrozu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-frost

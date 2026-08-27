@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [revivify](revivify.md)
+
+---
+
 # Ożywienie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:revivify

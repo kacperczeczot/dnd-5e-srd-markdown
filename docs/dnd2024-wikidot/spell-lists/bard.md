@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spell-lists](README.md) > [bard](bard.md)
+
+---
+
 # Bard Spell List
 
 **Class:** bard

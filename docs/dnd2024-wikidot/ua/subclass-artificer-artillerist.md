@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-artillerist](subclass-artificer-artillerist.md)
+
+---
+
 # Artillerist (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-artificer-artillerist

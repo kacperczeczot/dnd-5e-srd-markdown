@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ice-knife](ice-knife.md)
+
+---
+
 # Ice Knife
 
 **Source URL:** http://dnd2024.wikidot.com/spell:ice-knife

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-mending](rope-of-mending.md)
+
+---
+
 # Rope of Mending
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rope-of-mending

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-lament](subclass-barbarian-path-of-lament.md)
+
+---
+
 # Ścieżka Żałoby (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-barbarian-path-of-lament

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [treacherous-allure](treacherous-allure.md)
+
+---
+
 # Zdradliwy urok
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:treacherous-allure

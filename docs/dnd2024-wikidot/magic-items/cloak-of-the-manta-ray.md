@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-the-manta-ray](cloak-of-the-manta-ray.md)
+
+---
+
 # Cloak of the Manta Ray
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cloak-of-the-manta-ray

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [calm-emotions](calm-emotions.md)
+
+---
+
 # Wyciszenie emocji
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:calm-emotions

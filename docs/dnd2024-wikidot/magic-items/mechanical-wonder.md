@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mechanical-wonder](mechanical-wonder.md)
+
+---
+
 # Mechanical Wonder
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:mechanical-wonder

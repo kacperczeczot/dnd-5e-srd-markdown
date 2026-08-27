@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mirror-image](mirror-image.md)
+
+---
+
 # Lustrzane odbicia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mirror-image

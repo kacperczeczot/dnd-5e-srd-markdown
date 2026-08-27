@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-healing](mark-of-healing.md)
+
+---
+
 # Piętno leczenia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-healing

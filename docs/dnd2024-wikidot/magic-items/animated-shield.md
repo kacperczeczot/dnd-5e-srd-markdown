@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [animated-shield](animated-shield.md)
+
+---
+
 # Animated Shield
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:animated-shield

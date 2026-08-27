@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-warding](mark-of-warding.md)
+
+---
+
 # Mark of Warding
 
 **Source URL:** http://dnd2024.wikidot.com/feat:mark-of-warding

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [warlock-great-old-one-patron](warlock-great-old-one-patron.md)
+
+---
+
 # Great Old One Patron
 
 **Class:** warlock

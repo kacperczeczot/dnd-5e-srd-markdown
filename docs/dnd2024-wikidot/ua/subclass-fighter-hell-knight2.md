@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-hell-knight2](subclass-fighter-hell-knight2.md)
+
+---
+
 # Hell Knight (UA14 18.06.2026)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-fighter-hell-knight2

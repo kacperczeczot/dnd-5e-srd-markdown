@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [insect-plague](insect-plague.md)
+
+---
+
 # Plaga owadów
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:insect-plague

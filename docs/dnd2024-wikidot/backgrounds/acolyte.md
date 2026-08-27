@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [acolyte](acolyte.md)
+
+---
+
 # Acolyte
 
 **Source URL:** http://dnd2024.wikidot.com/background:acolyte

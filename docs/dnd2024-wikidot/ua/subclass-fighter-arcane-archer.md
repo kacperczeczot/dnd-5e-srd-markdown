@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-arcane-archer](subclass-fighter-arcane-archer.md)
+
+---
+
 # Arcane Archer (UA6 - 26.06.25)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-fighter-arcane-archer

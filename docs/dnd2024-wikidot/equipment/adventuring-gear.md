@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [adventuring-gear](adventuring-gear.md)
+
+---
+
 # Adventuring Gear
 
 **Source URL:** http://dnd2024.wikidot.com/equipment:adventuring-gear

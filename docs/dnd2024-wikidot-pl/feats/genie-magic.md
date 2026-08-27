@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [genie-magic](genie-magic.md)
+
+---
+
 # Magia dżinów
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:genie-magic

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spare-the-dying](spare-the-dying.md)
+
+---
+
 # Powstrzymanie śmierci
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:spare-the-dying

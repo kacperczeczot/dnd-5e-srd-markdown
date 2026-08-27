@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-gladiator](subclass-fighter-gladiator.md)
+
+---
+
 # Gladiator (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-fighter-gladiator

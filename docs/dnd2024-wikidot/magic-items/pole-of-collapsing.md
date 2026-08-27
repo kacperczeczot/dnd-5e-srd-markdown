@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pole-of-collapsing](pole-of-collapsing.md)
+
+---
+
 # Pole of Collapsing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:pole-of-collapsing

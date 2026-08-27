@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-psykineticist](feat-psykineticist.md)
+
+---
+
 # Psykineticysta (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-psykineticist

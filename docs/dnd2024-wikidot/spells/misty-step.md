@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [misty-step](misty-step.md)
+
+---
+
 # Misty Step
 
 **Source URL:** http://dnd2024.wikidot.com/spell:misty-step

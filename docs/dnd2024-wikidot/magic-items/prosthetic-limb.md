@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [prosthetic-limb](prosthetic-limb.md)
+
+---
+
 # Prosthetic Limb
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:prosthetic-limb

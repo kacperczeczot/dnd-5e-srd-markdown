@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cone-of-cold](cone-of-cold.md)
+
+---
+
 # Cone Of Cold
 
 **Source URL:** http://dnd2024.wikidot.com/spell:cone-of-cold

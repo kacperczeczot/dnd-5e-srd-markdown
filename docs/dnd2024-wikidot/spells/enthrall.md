@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [enthrall](enthrall.md)
+
+---
+
 # Enthrall
 
 **Source URL:** http://dnd2024.wikidot.com/spell:enthrall

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-prayer-beads](necklace-of-prayer-beads.md)
+
+---
+
 # Naszyjnik modlitewny
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:necklace-of-prayer-beads

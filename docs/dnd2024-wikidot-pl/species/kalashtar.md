@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [kalashtar](kalashtar.md)
+
+---
+
 # Kalashtar
 
 **URL źródła:** http://dnd2024.wikidot.com/species:kalashtar

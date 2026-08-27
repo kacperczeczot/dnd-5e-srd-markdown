@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [saddle-of-the-cavalier](saddle-of-the-cavalier.md)
+
+---
+
 # Saddle of the Cavalier
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:saddle-of-the-cavalier

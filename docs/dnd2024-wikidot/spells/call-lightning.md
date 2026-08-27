@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [call-lightning](call-lightning.md)
+
+---
+
 # Call Lightning
 
 **Source URL:** http://dnd2024.wikidot.com/spell:call-lightning

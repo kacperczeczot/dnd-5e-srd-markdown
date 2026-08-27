@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [crusader-s-mantle](crusader-s-mantle.md)
+
+---
+
 # Crusader's Mantle
 
 **Source URL:** http://dnd2024.wikidot.com/spell:crusader-s-mantle

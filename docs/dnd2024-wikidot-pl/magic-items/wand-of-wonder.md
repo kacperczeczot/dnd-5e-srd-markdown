@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-wonder](wand-of-wonder.md)
+
+---
+
 # Różdżka cudów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-wonder

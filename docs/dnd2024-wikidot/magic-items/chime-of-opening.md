@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [chime-of-opening](chime-of-opening.md)
+
+---
+
 # Chime of Opening
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:chime-of-opening

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [vampiric-touch](vampiric-touch.md)
+
+---
+
 # Vampiric Touch
 
 **Source URL:** http://dnd2024.wikidot.com/spell:vampiric-touch

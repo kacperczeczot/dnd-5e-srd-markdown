@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hag-eye](hag-eye.md)
+
+---
+
 # Hag Eye
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:hag-eye

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-levitation](boots-of-levitation.md)
+
+---
+
 # Buty lewitacji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:boots-of-levitation

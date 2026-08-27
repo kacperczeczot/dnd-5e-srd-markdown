@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [charlatan](charlatan.md)
+
+---
+
 # Szarlatan
 
 **URL źródła:** http://dnd2024.wikidot.com/background:charlatan

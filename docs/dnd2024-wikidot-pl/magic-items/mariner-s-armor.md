@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mariner-s-armor](mariner-s-armor.md)
+
+---
+
 # Zbroja żeglarza
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mariner-s-armor

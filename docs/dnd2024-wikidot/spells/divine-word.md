@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [divine-word](divine-word.md)
+
+---
+
 # Divine Word
 
 **Source URL:** http://dnd2024.wikidot.com/spell:divine-word

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [befuddlement](befuddlement.md)
+
+---
+
 # Befuddlement
 
 **Source URL:** http://dnd2024.wikidot.com/spell:befuddlement

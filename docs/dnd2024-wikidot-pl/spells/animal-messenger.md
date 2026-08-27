@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [animal-messenger](animal-messenger.md)
+
+---
+
 # Zwierzęcy posłaniec
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:animal-messenger

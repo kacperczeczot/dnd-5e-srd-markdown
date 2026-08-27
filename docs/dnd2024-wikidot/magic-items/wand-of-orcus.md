@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-orcus](wand-of-orcus.md)
+
+---
+
 # Wand of Orcus
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-orcus

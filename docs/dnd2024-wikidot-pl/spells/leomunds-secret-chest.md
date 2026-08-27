@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [leomunds-secret-chest](leomunds-secret-chest.md)
+
+---
+
 # Sekretny kufer Leomunda
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:leomunds-secret-chest

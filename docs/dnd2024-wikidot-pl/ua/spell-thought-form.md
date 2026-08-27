@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-thought-form](spell-thought-form.md)
+
+---
+
 # Forma myśli (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:spell-thought-form

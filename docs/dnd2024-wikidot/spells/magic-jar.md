@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [magic-jar](magic-jar.md)
+
+---
+
 # Magic Jar
 
 **Source URL:** http://dnd2024.wikidot.com/spell:magic-jar

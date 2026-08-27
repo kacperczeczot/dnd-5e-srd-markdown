@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [oathbow](oathbow.md)
+
+---
+
 # Oathbow
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:oathbow

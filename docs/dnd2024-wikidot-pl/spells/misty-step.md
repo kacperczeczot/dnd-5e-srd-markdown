@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [misty-step](misty-step.md)
+
+---
+
 # Krok przez mgłę
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:misty-step

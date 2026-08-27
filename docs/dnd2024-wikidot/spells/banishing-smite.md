@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [banishing-smite](banishing-smite.md)
+
+---
+
 # Banishing Smite
 
 **Source URL:** http://dnd2024.wikidot.com/spell:banishing-smite

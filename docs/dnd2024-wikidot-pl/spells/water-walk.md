@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [water-walk](water-walk.md)
+
+---
+
 # Spacer po wodzie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:water-walk

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [incendiary-cloud](incendiary-cloud.md)
+
+---
+
 # Chmura żaru
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:incendiary-cloud

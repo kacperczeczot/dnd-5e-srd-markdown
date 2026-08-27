@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [nystul-s-magic-aura](nystul-s-magic-aura.md)
+
+---
+
 # Nystul's Magic Aura
 
 **Source URL:** http://dnd2024.wikidot.com/spell:nystul-s-magic-aura

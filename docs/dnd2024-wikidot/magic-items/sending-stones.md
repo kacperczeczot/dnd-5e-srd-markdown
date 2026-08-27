@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sending-stones](sending-stones.md)
+
+---
+
 # Sending Stones
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sending-stones

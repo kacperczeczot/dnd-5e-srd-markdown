@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spider-climb](spider-climb.md)
+
+---
+
 # Spider Climb
 
 **Source URL:** http://dnd2024.wikidot.com/spell:spider-climb

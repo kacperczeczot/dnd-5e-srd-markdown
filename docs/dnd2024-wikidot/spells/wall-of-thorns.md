@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-thorns](wall-of-thorns.md)
+
+---
+
 # Wall of Thorns
 
 **Source URL:** http://dnd2024.wikidot.com/spell:wall-of-thorns

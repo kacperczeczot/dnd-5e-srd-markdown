@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [order-s-resilience](order-s-resilience.md)
+
+---
+
 # Odporność Zakonu
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:order-s-resilience

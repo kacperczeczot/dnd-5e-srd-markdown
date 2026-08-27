@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gate](gate.md)
+
+---
+
 # Brama
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:gate

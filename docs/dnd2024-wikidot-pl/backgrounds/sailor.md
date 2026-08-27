@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [sailor](sailor.md)
+
+---
+
 # Marynarz
 
 **URL źródła:** http://dnd2024.wikidot.com/background:sailor

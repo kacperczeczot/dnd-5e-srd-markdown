@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [merchant](merchant.md)
+
+---
+
 # Kupiec
 
 **URL źródła:** http://dnd2024.wikidot.com/background:merchant

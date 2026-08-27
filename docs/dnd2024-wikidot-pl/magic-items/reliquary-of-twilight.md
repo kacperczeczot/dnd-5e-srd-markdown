@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [reliquary-of-twilight](reliquary-of-twilight.md)
+
+---
+
 # Relikwiarz zmierzchu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:reliquary-of-twilight

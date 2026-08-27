@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [prestidigitation](prestidigitation.md)
+
+---
+
 # Kuglarstwo
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:prestidigitation

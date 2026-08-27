@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [witch-bolt](witch-bolt.md)
+
+---
+
 # Witch Bolt
 
 **Source URL:** http://dnd2024.wikidot.com/spell:witch-bolt

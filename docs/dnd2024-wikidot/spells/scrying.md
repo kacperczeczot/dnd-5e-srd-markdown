@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [scrying](scrying.md)
+
+---
+
 # Scrying
 
 **Source URL:** http://dnd2024.wikidot.com/spell:scrying

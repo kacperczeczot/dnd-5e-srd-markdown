@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [vampire-hunter](vampire-hunter.md)
+
+---
+
 # Vampire Hunter
 
 **Source URL:** http://dnd2024.wikidot.com/feat:vampire-hunter

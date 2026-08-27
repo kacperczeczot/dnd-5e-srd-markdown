@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-making](greater-mark-of-making.md)
+
+---
+
 # Większe piętno tworzenia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:greater-mark-of-making

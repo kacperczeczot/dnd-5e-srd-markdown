@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [artificer](artificer.md)
+
+---
+
 # Artificer
 
 **Class:** artificer

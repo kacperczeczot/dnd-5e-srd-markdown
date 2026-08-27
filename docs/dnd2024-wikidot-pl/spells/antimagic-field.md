@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [antimagic-field](antimagic-field.md)
+
+---
+
 # Pole antymagii
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:antimagic-field

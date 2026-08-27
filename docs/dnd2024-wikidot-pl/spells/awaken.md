@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [awaken](awaken.md)
+
+---
+
 # Przebudzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:awaken

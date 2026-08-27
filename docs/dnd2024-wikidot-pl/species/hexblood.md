@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [hexblood](hexblood.md)
+
+---
+
 # Hexblood
 
 **URL źródła:** http://dnd2024.wikidot.com/species:hexblood

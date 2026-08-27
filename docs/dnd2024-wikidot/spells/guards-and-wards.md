@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guards-and-wards](guards-and-wards.md)
+
+---
+
 # Guards and Wards
 
 **Source URL:** http://dnd2024.wikidot.com/spell:guards-and-wards

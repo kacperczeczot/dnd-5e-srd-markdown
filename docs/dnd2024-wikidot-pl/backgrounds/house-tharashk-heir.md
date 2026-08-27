@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-tharashk-heir](house-tharashk-heir.md)
+
+---
+
 # Dziedzic rodu Tharashk
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-tharashk-heir

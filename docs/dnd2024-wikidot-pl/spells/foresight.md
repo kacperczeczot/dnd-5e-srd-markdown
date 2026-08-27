@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [foresight](foresight.md)
+
+---
+
 # Profetyzm
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:foresight

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [sharpshooter](sharpshooter.md)
+
+---
+
 # Ostrzelec
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:sharpshooter

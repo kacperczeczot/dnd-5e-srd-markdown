@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-rulership](rod-of-rulership.md)
+
+---
+
 # Berło przywództwa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rod-of-rulership

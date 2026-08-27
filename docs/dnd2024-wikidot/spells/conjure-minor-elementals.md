@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-minor-elementals](conjure-minor-elementals.md)
+
+---
+
 # Conjure Minor Elementals
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-minor-elementals

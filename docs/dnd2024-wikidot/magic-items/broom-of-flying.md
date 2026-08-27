@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [broom-of-flying](broom-of-flying.md)
+
+---
+
 # Broom of Flying
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:broom-of-flying

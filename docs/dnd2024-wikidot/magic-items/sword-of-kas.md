@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-kas](sword-of-kas.md)
+
+---
+
 # Sword of Kas
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sword-of-kas

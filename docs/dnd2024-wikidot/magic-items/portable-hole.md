@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [portable-hole](portable-hole.md)
+
+---
+
 # Portable Hole
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:portable-hole

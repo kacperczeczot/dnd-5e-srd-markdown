@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-the-mystic-arts](subclass-monk-warrior-of-the-mystic-arts.md)
+
+---
+
 # Wojownik Mistycznych Sztuk (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-monk-warrior-of-the-mystic-arts

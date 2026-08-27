@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [purple-dragon-rook](purple-dragon-rook.md)
+
+---
+
 # Purple Dragon Rook
 
 **Source URL:** http://dnd2024.wikidot.com/feat:purple-dragon-rook

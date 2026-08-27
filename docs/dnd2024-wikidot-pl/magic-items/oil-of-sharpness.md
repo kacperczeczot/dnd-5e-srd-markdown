@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-sharpness](oil-of-sharpness.md)
+
+---
+
 # Olej ostrości
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:oil-of-sharpness

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-finding](mark-of-finding.md)
+
+---
+
 # Piętno tropienia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-finding

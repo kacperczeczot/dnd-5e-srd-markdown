@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gem-of-brightness](gem-of-brightness.md)
+
+---
+
 # Klejnot blasku
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:gem-of-brightness

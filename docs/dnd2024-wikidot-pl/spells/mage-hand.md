@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mage-hand](mage-hand.md)
+
+---
+
 # Magiczna dłoń
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mage-hand

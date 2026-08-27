@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [spellfire-spark](spellfire-spark.md)
+
+---
+
 # Spellfire Spark
 
 **Source URL:** http://dnd2024.wikidot.com/feat:spellfire-spark

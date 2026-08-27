@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cubic-gate](cubic-gate.md)
+
+---
+
 # Sześcienna brama
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:cubic-gate

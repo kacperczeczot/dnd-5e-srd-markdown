@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-world-tree](barbarian-path-of-the-world-tree.md)
+
+---
+
 # Path of the World Tree
 
 **Class:** barbarian

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [grasping-vine](grasping-vine.md)
+
+---
+
 # Chwytne pnącze
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:grasping-vine

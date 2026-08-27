@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-bountiful-health](boon-of-bountiful-health.md)
+
+---
+
 # Dar obfitego zdrowia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-bountiful-health

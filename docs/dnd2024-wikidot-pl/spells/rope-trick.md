@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [rope-trick](rope-trick.md)
+
+---
+
 # Sztuczka z liną
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:rope-trick

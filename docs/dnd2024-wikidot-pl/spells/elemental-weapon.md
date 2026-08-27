@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [elemental-weapon](elemental-weapon.md)
+
+---
+
 # Broń żywiołu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:elemental-weapon

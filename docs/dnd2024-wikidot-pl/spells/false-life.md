@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [false-life](false-life.md)
+
+---
+
 # Fałszywe życie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:false-life

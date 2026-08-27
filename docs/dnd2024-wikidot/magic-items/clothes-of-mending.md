@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [clothes-of-mending](clothes-of-mending.md)
+
+---
+
 # Clothes of Mending
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:clothes-of-mending

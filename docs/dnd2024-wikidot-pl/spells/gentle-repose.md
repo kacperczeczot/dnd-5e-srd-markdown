@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [gentle-repose](gentle-repose.md)
+
+---
+
 # Bezpieczny spoczynek
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:gentle-repose

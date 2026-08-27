@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [demon-armor](demon-armor.md)
+
+---
+
 # Demon Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:demon-armor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [entangle](entangle.md)
+
+---
+
 # Entangle
 
 **Source URL:** http://dnd2024.wikidot.com/spell:entangle

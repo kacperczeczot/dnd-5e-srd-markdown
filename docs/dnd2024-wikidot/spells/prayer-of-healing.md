@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [prayer-of-healing](prayer-of-healing.md)
+
+---
+
 # Prayer of Healing
 
 **Source URL:** http://dnd2024.wikidot.com/spell:prayer-of-healing

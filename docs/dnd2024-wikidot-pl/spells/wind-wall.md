@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wind-wall](wind-wall.md)
+
+---
+
 # Ściana wichru
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wind-wall

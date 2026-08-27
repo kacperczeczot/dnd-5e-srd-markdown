@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [shadowmasters-exile](shadowmasters-exile.md)
+
+---
+
 # Shadowmasters Exile
 
 **Source URL:** http://dnd2024.wikidot.com/background:shadowmasters-exile

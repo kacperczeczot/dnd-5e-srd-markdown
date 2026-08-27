@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-atoner-s-grace](feat-atoner-s-grace.md)
+
+---
+
 # Łaska pokutnika (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-atoner-s-grace

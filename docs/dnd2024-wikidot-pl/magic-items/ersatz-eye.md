@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ersatz-eye](ersatz-eye.md)
+
+---
+
 # Sztuczne oko
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ersatz-eye

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-absorption](rod-of-absorption.md)
+
+---
+
 # Rod of Absorption
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rod-of-absorption

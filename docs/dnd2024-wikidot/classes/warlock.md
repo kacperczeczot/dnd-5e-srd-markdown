@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [warlock](warlock.md)
+
+---
+
 # Warlock
 
 **Class:** warlock

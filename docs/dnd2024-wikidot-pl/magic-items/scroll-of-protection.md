@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [scroll-of-protection](scroll-of-protection.md)
+
+---
+
 # Zwój ochrony
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:scroll-of-protection

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-returning-weapon](magic-item-returning-weapon.md)
+
+---
+
 # Returning Weapon (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:magic-item-returning-weapon

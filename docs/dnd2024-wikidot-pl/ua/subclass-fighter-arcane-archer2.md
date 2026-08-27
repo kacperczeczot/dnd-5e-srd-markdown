@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-arcane-archer2](subclass-fighter-arcane-archer2.md)
+
+---
+
 # Łucznik arkaniczny (UA8 — 18.09.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-fighter-arcane-archer2

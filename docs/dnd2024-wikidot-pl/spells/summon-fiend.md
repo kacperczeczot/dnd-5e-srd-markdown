@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [summon-fiend](summon-fiend.md)
+
+---
+
 # Przywołanie czarta
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:summon-fiend

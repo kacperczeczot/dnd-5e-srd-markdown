@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-terror](mace-of-terror.md)
+
+---
+
 # Mace of Terror
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:mace-of-terror

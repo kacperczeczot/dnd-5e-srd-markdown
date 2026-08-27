@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-harbinger-of-doom](feat-harbinger-of-doom.md)
+
+---
+
 # Zwiastun zagłady (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-harbinger-of-doom

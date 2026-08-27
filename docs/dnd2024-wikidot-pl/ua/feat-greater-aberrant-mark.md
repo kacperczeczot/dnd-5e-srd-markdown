@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-aberrant-mark](feat-greater-aberrant-mark.md)
+
+---
+
 # Większe aberracyjne piętno (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-aberrant-mark

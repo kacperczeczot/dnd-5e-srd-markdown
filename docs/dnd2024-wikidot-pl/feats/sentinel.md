@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [sentinel](sentinel.md)
+
+---
+
 # Strażnik
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:sentinel

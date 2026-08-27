@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-evil-and-good](protection-from-evil-and-good.md)
+
+---
+
 # Protection from Evil and Good
 
 **Source URL:** http://dnd2024.wikidot.com/spell:protection-from-evil-and-good

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [symbol](symbol.md)
+
+---
+
 # Symbol
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:symbol

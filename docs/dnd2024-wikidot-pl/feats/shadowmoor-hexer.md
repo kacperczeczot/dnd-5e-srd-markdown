@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [shadowmoor-hexer](shadowmoor-hexer.md)
+
+---
+
 # Zaklinacz Cieniomoru
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:shadowmoor-hexer

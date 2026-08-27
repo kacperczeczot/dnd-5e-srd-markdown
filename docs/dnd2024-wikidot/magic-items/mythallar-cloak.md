@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mythallar-cloak](mythallar-cloak.md)
+
+---
+
 # Mythallar Cloak
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:mythallar-cloak

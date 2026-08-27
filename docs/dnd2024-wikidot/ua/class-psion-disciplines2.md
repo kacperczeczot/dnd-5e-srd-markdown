@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-psion-disciplines2](class-psion-disciplines2.md)
+
+---
+
 # Psionic Discipline Options (UA9)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:class-psion-disciplines2

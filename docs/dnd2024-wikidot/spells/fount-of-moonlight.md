@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fount-of-moonlight](fount-of-moonlight.md)
+
+---
+
 # Fount of Moonlight
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fount-of-moonlight

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [goggles-of-night](goggles-of-night.md)
+
+---
+
 # Goggles of Night
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:goggles-of-night

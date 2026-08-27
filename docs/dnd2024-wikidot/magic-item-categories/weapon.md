@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [weapon](weapon.md)
+
+---
+
 # Magic Items - Weapons
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:weapon

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [lorwyn-expert](lorwyn-expert.md)
+
+---
+
 # Lorwyn Expert
 
 **Source URL:** http://dnd2024.wikidot.com/background:lorwyn-expert

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [color-spray](color-spray.md)
+
+---
+
 # Kolorowy rozprysk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:color-spray

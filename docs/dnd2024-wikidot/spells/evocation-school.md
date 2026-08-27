@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [evocation-school](evocation-school.md)
+
+---
+
 # Evocation Spells
 
 **Source URL:** http://dnd2024.wikidot.com/spell:evocation-school

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-fire](staff-of-fire.md)
+
+---
+
 # Kostur ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-fire

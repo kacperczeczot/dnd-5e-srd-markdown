@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [circlet-of-blasting](circlet-of-blasting.md)
+
+---
+
 # Diadem wypalania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:circlet-of-blasting

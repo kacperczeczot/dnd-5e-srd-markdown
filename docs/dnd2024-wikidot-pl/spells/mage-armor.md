@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mage-armor](mage-armor.md)
+
+---
+
 # Zbroja maga
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mage-armor

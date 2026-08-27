@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [web](web.md)
+
+---
+
 # Web
 
 **Source URL:** http://dnd2024.wikidot.com/spell:web

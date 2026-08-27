@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ammunition-1-2-or-3](ammunition-1-2-or-3.md)
+
+---
+
 # Ammunition, +1, +2, or +3
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ammunition-1-2-or-3

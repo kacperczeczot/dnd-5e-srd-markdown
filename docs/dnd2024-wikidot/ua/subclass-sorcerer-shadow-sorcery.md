@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-shadow-sorcery](subclass-sorcerer-shadow-sorcery.md)
+
+---
+
 # Shadow Sorcery (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-sorcerer-shadow-sorcery

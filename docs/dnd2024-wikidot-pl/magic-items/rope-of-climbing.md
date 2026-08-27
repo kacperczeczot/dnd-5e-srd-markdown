@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-climbing](rope-of-climbing.md)
+
+---
+
 # Sznur wspinaczki
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rope-of-climbing

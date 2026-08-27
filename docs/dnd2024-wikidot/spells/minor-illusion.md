@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [minor-illusion](minor-illusion.md)
+
+---
+
 # Minor Illusion
 
 **Source URL:** http://dnd2024.wikidot.com/spell:minor-illusion

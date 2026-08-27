@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sun-blade](sun-blade.md)
+
+---
+
 # Sun Blade
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sun-blade

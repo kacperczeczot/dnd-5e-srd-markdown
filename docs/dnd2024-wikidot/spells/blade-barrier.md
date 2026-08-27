@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blade-barrier](blade-barrier.md)
+
+---
+
 # Blade Barrier
 
 **Source URL:** http://dnd2024.wikidot.com/spell:blade-barrier

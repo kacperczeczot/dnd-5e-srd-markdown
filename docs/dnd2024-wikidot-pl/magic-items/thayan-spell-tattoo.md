@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [thayan-spell-tattoo](thayan-spell-tattoo.md)
+
+---
+
 # Thajski tatuaż czarów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:thayan-spell-tattoo

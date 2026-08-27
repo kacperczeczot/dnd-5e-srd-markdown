@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rival-coin](rival-coin.md)
+
+---
+
 # Moneta rywali
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rival-coin

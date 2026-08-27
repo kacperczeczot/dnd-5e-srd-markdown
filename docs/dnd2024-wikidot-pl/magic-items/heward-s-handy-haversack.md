@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [heward-s-handy-haversack](heward-s-handy-haversack.md)
+
+---
+
 # Wygodny plecak Hewarda
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:heward-s-handy-haversack

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [toll-the-dead](toll-the-dead.md)
+
+---
+
 # Dzwonek śmierci
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:toll-the-dead

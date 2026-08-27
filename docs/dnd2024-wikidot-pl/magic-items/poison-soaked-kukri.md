@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [poison-soaked-kukri](poison-soaked-kukri.md)
+
+---
+
 # Kukri nasączone trucizną
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:poison-soaked-kukri

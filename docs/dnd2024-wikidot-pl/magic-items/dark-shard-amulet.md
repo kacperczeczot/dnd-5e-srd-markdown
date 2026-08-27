@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dark-shard-amulet](dark-shard-amulet.md)
+
+---
+
 # Amulet mrocznego odłamka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dark-shard-amulet

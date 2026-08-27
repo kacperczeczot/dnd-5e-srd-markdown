@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [niko-s-mace](niko-s-mace.md)
+
+---
+
 # Buława Niko
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:niko-s-mace

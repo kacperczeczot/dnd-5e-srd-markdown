@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sunbeam](sunbeam.md)
+
+---
+
 # Sunbeam
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sunbeam

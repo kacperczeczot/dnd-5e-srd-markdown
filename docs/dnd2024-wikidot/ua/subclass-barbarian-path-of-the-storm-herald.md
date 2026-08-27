@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-storm-herald](subclass-barbarian-path-of-the-storm-herald.md)
+
+---
+
 # Path of the Storm Herald (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-barbarian-path-of-the-storm-herald

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-mind-whisperer](feat-mind-whisperer.md)
+
+---
+
 # Szeptacz umysłu (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-mind-whisperer

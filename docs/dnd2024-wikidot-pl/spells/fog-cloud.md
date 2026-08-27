@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fog-cloud](fog-cloud.md)
+
+---
+
 # Chmura mgły
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:fog-cloud

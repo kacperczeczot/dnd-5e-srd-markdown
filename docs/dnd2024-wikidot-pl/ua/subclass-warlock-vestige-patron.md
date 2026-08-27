@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-vestige-patron](subclass-warlock-vestige-patron.md)
+
+---
+
 # Patron Reliktu (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-warlock-vestige-patron

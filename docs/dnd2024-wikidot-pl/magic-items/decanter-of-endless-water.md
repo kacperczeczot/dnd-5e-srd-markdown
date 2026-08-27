@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [decanter-of-endless-water](decanter-of-endless-water.md)
+
+---
+
 # Karafka nieskończonej wody
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:decanter-of-endless-water

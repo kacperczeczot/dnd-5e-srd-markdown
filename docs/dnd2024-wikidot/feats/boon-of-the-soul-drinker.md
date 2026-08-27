@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-soul-drinker](boon-of-the-soul-drinker.md)
+
+---
+
 # Boon of the Soul Drinker
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-the-soul-drinker

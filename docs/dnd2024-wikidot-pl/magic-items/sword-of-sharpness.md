@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-sharpness](sword-of-sharpness.md)
+
+---
+
 # Miecz ostrz
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sword-of-sharpness

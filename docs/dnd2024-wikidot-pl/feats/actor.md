@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [actor](actor.md)
+
+---
+
 # Aktor
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:actor

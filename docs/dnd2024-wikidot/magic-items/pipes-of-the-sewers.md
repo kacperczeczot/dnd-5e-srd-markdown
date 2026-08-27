@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-the-sewers](pipes-of-the-sewers.md)
+
+---
+
 # Pipes of the Sewers
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:pipes-of-the-sewers

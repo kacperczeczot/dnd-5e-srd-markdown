@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-poison](protection-from-poison.md)
+
+---
+
 # Protection from Poison
 
 **Source URL:** http://dnd2024.wikidot.com/spell:protection-from-poison

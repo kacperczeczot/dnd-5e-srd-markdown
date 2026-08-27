@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [regenerate](regenerate.md)
+
+---
+
 # Regeneracja
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:regenerate

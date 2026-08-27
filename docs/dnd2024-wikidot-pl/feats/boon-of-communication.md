@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-communication](boon-of-communication.md)
+
+---
+
 # Dar komunikacji
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-communication

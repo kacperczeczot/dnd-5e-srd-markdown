@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [scroll-of-titan-summoning](scroll-of-titan-summoning.md)
+
+---
+
 # Scroll of Titan Summoning
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:scroll-of-titan-summoning

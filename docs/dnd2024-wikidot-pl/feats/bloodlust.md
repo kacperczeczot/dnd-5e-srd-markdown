@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [bloodlust](bloodlust.md)
+
+---
+
 # Żądza krwi
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:bloodlust

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [barkskin](barkskin.md)
+
+---
+
 # Barkskin
 
 **Source URL:** http://dnd2024.wikidot.com/spell:barkskin

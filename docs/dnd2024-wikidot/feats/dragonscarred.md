@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [dragonscarred](dragonscarred.md)
+
+---
+
 # Dragonscarred
 
 **Source URL:** http://dnd2024.wikidot.com/feat:dragonscarred

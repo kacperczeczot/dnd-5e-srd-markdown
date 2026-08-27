@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [healing-word](healing-word.md)
+
+---
+
 # Healing Word
 
 **Source URL:** http://dnd2024.wikidot.com/spell:healing-word

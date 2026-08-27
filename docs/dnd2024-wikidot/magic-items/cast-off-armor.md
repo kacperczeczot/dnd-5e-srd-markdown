@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cast-off-armor](cast-off-armor.md)
+
+---
+
 # Cast-Off Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cast-off-armor

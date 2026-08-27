@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-helm-of-awareness](magic-item-helm-of-awareness.md)
+
+---
+
 # Helm of Awareness (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:magic-item-helm-of-awareness

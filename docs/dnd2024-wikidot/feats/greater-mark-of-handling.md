@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-handling](greater-mark-of-handling.md)
+
+---
+
 # Greater Mark of Handling
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-mark-of-handling

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-giant-strength](potion-of-giant-strength.md)
+
+---
+
 # Potion of Giant Strength
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-giant-strength

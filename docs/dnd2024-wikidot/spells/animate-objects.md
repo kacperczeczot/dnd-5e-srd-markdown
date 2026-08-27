@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [animate-objects](animate-objects.md)
+
+---
+
 # Animate Objects
 
 **Source URL:** http://dnd2024.wikidot.com/spell:animate-objects

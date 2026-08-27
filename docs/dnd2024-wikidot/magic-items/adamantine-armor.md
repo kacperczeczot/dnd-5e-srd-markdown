@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [adamantine-armor](adamantine-armor.md)
+
+---
+
 # Adamantine Armor
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:adamantine-armor

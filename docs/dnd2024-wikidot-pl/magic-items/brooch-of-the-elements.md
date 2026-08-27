@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [brooch-of-the-elements](brooch-of-the-elements.md)
+
+---
+
 # Broszka żywiołów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:brooch-of-the-elements

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-boots-of-the-winding-path](magic-item-boots-of-the-winding-path.md)
+
+---
+
 # Buty krętej ścieżki (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:magic-item-boots-of-the-winding-path

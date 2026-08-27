@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-blasting](horn-of-blasting.md)
+
+---
+
 # Horn of Blasting
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:horn-of-blasting

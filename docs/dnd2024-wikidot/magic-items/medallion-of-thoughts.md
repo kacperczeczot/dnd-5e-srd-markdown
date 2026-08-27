@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [medallion-of-thoughts](medallion-of-thoughts.md)
+
+---
+
 # Medallion of Thoughts
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:medallion-of-thoughts

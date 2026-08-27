@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [delicious-pain](delicious-pain.md)
+
+---
+
 # Smakowity ból
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:delicious-pain

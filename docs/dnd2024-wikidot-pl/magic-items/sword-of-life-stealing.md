@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-life-stealing](sword-of-life-stealing.md)
+
+---
+
 # Miecz kradnący życie
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sword-of-life-stealing

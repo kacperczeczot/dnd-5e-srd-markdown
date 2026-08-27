@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-kas](sword-of-kas.md)
+
+---
+
 # Miecz Kasa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:sword-of-kas

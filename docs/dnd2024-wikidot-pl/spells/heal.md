@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [heal](heal.md)
+
+---
+
 # Uleczenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:heal

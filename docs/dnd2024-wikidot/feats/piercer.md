@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [piercer](piercer.md)
+
+---
+
 # Piercer
 
 **Source URL:** http://dnd2024.wikidot.com/feat:piercer

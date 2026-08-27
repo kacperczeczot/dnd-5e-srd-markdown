@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [vicious-weapon](vicious-weapon.md)
+
+---
+
 # Okrutna broń
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:vicious-weapon

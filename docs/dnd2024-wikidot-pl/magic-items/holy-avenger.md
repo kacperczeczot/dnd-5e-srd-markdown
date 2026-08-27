@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [holy-avenger](holy-avenger.md)
+
+---
+
 # Święty mściciel
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:holy-avenger

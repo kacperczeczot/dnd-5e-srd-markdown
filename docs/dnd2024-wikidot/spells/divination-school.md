@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [divination-school](divination-school.md)
+
+---
+
 # Divination Spells
 
 **Source URL:** http://dnd2024.wikidot.com/spell:divination-school

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cone-of-cold](cone-of-cold.md)
+
+---
+
 # Stożek zimna
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:cone-of-cold

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [poisoner](poisoner.md)
+
+---
+
 # Truciciel
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:poisoner

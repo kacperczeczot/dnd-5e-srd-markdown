@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [polymorph](polymorph.md)
+
+---
+
 # Polimorfia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:polymorph

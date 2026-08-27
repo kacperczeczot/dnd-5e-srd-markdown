@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-web](wand-of-web.md)
+
+---
+
 # Różdżka pajęczyny
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-web

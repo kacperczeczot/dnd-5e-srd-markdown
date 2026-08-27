@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [heroism](heroism.md)
+
+---
+
 # Heroizm
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:heroism

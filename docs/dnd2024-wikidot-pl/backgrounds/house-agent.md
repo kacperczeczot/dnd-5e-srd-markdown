@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-agent](house-agent.md)
+
+---
+
 # Agent rodu
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-agent

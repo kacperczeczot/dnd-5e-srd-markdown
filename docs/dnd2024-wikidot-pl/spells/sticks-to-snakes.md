@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sticks-to-snakes](sticks-to-snakes.md)
+
+---
+
 # Patyki w węże
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:sticks-to-snakes

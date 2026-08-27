@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [animal-friendship](animal-friendship.md)
+
+---
+
 # Przyjaciel zwierząt
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:animal-friendship

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [defensive-duelist](defensive-duelist.md)
+
+---
+
 # Defensywny fechter
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:defensive-duelist

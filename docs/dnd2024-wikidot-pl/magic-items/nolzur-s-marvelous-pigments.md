@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [nolzur-s-marvelous-pigments](nolzur-s-marvelous-pigments.md)
+
+---
+
 # Cudowne pigmenty Nolzura
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:nolzur-s-marvelous-pigments

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [daern-s-instant-fortress](daern-s-instant-fortress.md)
+
+---
+
 # Natychmiastowa twierdza Daern
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:daern-s-instant-fortress

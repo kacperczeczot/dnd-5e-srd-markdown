@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [harper-teamwork](harper-teamwork.md)
+
+---
+
 # Praca zespołowa Harpersów
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:harper-teamwork

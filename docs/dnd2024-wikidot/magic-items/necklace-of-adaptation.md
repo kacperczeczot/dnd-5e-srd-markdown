@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-adaptation](necklace-of-adaptation.md)
+
+---
+
 # Necklace of Adaptation
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:necklace-of-adaptation

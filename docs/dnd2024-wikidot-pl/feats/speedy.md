@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [speedy](speedy.md)
+
+---
+
 # Szybki
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:speedy

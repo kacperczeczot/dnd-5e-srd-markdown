@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [spell-sniper](spell-sniper.md)
+
+---
+
 # Spell Sniper
 
 **Source URL:** http://dnd2024.wikidot.com/feat:spell-sniper

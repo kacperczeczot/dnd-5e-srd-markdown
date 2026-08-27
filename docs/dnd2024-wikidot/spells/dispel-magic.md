@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dispel-magic](dispel-magic.md)
+
+---
+
 # Dispel Magic
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dispel-magic

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-brilliance](helm-of-brilliance.md)
+
+---
+
 # Hełm blasku
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:helm-of-brilliance

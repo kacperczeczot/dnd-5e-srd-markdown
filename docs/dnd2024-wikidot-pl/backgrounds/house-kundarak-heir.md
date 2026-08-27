@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-kundarak-heir](house-kundarak-heir.md)
+
+---
+
 # Dziedzic rodu Kundarak
 
 **URL źródła:** http://dnd2024.wikidot.com/background:house-kundarak-heir

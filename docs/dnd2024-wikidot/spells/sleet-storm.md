@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sleet-storm](sleet-storm.md)
+
+---
+
 # Sleet Storm
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sleet-storm

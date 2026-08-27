@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-the-archmagi](robe-of-the-archmagi.md)
+
+---
+
 # Robe of the Archmagi
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:robe-of-the-archmagi

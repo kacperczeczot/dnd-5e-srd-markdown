@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [crafting](crafting.md)
+
+---
+
 # Crafting Non-Magical Items
 
 **Source URL:** http://dnd2024.wikidot.com/equipment:crafting

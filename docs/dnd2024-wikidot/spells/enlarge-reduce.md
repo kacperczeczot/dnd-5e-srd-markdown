@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [enlarge-reduce](enlarge-reduce.md)
+
+---
+
 # Enlarge/Reduce
 
 **Source URL:** http://dnd2024.wikidot.com/spell:enlarge-reduce

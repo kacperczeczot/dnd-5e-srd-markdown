@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-clear-thought](tome-of-clear-thought.md)
+
+---
+
 # Tome of Clear Thought
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:tome-of-clear-thought

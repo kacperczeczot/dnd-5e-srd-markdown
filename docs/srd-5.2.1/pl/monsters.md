@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [monsters](monsters.md)
+
+---
+
 # Potwory
 
 ## Przegląd bloku statystyk

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-the-bandit-king](feat-boon-of-the-bandit-king.md)
+
+---
+
 # Dar króla bandytów (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-boon-of-the-bandit-king

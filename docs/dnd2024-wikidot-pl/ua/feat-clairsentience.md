@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-clairsentience](feat-clairsentience.md)
+
+---
+
 # Klairsentencja (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-clairsentience

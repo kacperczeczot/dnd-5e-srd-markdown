@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-soul-drinker](boon-of-the-soul-drinker.md)
+
+---
+
 # Dar pijawy dusz
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-the-soul-drinker

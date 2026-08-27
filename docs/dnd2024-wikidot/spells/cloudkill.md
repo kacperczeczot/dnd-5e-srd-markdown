@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cloudkill](cloudkill.md)
+
+---
+
 # Cloudkill
 
 **Source URL:** http://dnd2024.wikidot.com/spell:cloudkill

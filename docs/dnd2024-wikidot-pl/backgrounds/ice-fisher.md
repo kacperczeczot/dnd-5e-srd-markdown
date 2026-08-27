@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [ice-fisher](ice-fisher.md)
+
+---
+
 # Rybak lodowy
 
 **URL źródła:** http://dnd2024.wikidot.com/background:ice-fisher

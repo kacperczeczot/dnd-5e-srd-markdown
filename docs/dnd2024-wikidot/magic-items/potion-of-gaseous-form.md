@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-gaseous-form](potion-of-gaseous-form.md)
+
+---
+
 # Potion of Gaseous Form
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-gaseous-form

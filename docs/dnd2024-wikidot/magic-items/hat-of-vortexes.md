@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-vortexes](hat-of-vortexes.md)
+
+---
+
 # Hat of Vortexes
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:hat-of-vortexes

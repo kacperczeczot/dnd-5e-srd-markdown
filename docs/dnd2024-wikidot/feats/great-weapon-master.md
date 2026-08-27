@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [great-weapon-master](great-weapon-master.md)
+
+---
+
 # Great Weapon Master
 
 **Source URL:** http://dnd2024.wikidot.com/feat:great-weapon-master

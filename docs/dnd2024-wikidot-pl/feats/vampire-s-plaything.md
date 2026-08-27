@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [vampire-s-plaything](vampire-s-plaything.md)
+
+---
+
 # Zabawka wampira
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:vampire-s-plaything

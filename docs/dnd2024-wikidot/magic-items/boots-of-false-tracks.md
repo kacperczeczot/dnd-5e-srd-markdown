@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-false-tracks](boots-of-false-tracks.md)
+
+---
+
 # Boots of False Tracks
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:boots-of-false-tracks

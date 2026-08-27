@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [create-undead](create-undead.md)
+
+---
+
 # Create Undead
 
 **Source URL:** http://dnd2024.wikidot.com/spell:create-undead

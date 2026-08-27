@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball](crystal-ball.md)
+
+---
+
 # Kula kryształowa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:crystal-ball

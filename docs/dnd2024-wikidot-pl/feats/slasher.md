@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [slasher](slasher.md)
+
+---
+
 # Siepacz
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:slasher

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mage-slayer](mage-slayer.md)
+
+---
+
 # Zabójca zaklinaczy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mage-slayer

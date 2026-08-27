@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [infernal-bulwark](infernal-bulwark.md)
+
+---
+
 # Piekielny bulwar
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:infernal-bulwark

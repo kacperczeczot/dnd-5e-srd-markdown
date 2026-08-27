@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-conducting](wand-of-conducting.md)
+
+---
+
 # Różdżka dyrygencka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wand-of-conducting

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [enhance-ability](enhance-ability.md)
+
+---
+
 # Enhance Ability
 
 **Source URL:** http://dnd2024.wikidot.com/spell:enhance-ability

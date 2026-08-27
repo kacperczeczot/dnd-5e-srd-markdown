@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [spellfire-flare](spellfire-flare.md)
+
+---
+
 # Spellfire Flare
 
 **Source URL:** http://dnd2024.wikidot.com/spell:spellfire-flare

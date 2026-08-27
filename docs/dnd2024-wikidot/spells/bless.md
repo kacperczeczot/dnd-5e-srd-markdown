@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [bless](bless.md)
+
+---
+
 # Bless
 
 **Source URL:** http://dnd2024.wikidot.com/spell:bless

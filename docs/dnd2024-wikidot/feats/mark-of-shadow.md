@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-shadow](mark-of-shadow.md)
+
+---
+
 # Mark of Shadow
 
 **Source URL:** http://dnd2024.wikidot.com/feat:mark-of-shadow

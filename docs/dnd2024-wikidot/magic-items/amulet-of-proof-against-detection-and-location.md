@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [amulet-of-proof-against-detection-and-location](amulet-of-proof-against-detection-and-location.md)
+
+---
+
 # Amulet of Proof against Detection and Location
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:amulet-of-proof-against-detection-and-location

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [energy-bow](energy-bow.md)
+
+---
+
 # Energy Bow
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:energy-bow

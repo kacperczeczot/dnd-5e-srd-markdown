@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-missile-snaring](gloves-of-missile-snaring.md)
+
+---
+
 # Rękawiczki chwytania pocisków
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:gloves-of-missile-snaring

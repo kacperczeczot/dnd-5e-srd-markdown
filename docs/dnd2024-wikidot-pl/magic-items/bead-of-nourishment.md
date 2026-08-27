@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bead-of-nourishment](bead-of-nourishment.md)
+
+---
+
 # Koralik pożywienia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:bead-of-nourishment

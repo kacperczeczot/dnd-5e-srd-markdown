@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hellish-rebuke](hellish-rebuke.md)
+
+---
+
 # Hellish Rebuke
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hellish-rebuke

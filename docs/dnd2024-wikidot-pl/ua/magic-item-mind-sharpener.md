@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-mind-sharpener](magic-item-mind-sharpener.md)
+
+---
+
 # Wyostrzacz umysłu (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:magic-item-mind-sharpener

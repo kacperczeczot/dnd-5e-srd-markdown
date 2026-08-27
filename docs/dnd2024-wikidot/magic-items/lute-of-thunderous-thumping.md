@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [lute-of-thunderous-thumping](lute-of-thunderous-thumping.md)
+
+---
+
 # Lute of Thunderous Thumping
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:lute-of-thunderous-thumping

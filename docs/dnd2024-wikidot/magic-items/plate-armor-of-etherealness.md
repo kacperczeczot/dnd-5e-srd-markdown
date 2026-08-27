@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [plate-armor-of-etherealness](plate-armor-of-etherealness.md)
+
+---
+
 # Plate Armor of Etherealness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:plate-armor-of-etherealness

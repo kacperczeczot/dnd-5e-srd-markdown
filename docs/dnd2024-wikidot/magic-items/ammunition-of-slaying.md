@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ammunition-of-slaying](ammunition-of-slaying.md)
+
+---
+
 # Ammunition of Slaying
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ammunition-of-slaying

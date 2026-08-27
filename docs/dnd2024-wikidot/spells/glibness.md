@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [glibness](glibness.md)
+
+---
+
 # Glibness
 
 **Source URL:** http://dnd2024.wikidot.com/spell:glibness

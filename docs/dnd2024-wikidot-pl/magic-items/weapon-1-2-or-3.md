@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [weapon-1-2-or-3](weapon-1-2-or-3.md)
+
+---
+
 # Broń +1, +2 lub +3
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:weapon-1-2-or-3

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-invisibility](potion-of-invisibility.md)
+
+---
+
 # Mikstura niewidzialności
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-invisibility

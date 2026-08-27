@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [crown-of-madness](crown-of-madness.md)
+
+---
+
 # Korona obłędu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:crown-of-madness

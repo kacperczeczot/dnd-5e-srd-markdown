@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [currency](currency.md)
+
+---
+
 # Currency
 
 **URL źródła:** http://dnd2024.wikidot.com/equipment:currency

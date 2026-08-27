@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [dueling](dueling.md)
+
+---
+
 # Dueling
 
 **Source URL:** http://dnd2024.wikidot.com/feat:dueling

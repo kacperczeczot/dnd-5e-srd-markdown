@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-making](mark-of-making.md)
+
+---
+
 # Mark of Making
 
 **Source URL:** http://dnd2024.wikidot.com/feat:mark-of-making

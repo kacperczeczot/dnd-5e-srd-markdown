@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dimensional-shackles](dimensional-shackles.md)
+
+---
+
 # Kajdany wymiarowe
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dimensional-shackles

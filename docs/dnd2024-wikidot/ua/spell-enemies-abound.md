@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-enemies-abound](spell-enemies-abound.md)
+
+---
+
 # Enemies Abound (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-enemies-abound

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-haunting](pipes-of-haunting.md)
+
+---
+
 # Fletnie upiornych melodii
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:pipes-of-haunting

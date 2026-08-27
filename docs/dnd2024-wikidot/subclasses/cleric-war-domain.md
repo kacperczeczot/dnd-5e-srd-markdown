@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-war-domain](cleric-war-domain.md)
+
+---
+
 # War Domain
 
 **Class:** cleric

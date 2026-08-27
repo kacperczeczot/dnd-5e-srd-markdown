@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-the-war-mage-1-2-or-3](wand-of-the-war-mage-1-2-or-3.md)
+
+---
+
 # Wand of the War Mage, +1, +2 or +3
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-the-war-mage-1-2-or-3

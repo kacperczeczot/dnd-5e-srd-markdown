@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dancing-sword](dancing-sword.md)
+
+---
+
 # Dancing Sword
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:dancing-sword

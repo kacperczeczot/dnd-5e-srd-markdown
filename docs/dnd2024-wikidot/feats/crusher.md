@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [crusher](crusher.md)
+
+---
+
 # Crusher
 
 **Source URL:** http://dnd2024.wikidot.com/feat:crusher

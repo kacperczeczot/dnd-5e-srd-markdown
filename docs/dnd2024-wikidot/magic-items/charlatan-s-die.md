@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [charlatan-s-die](charlatan-s-die.md)
+
+---
+
 # Charlatan's Die
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:charlatan-s-die

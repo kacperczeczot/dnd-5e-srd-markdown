@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [misc](README.md) > [bastions](bastions.md)
+
+---
+
 # Bastions
 
 **Source URL:** http://dnd2024.wikidot.com/bastions

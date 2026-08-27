@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [prone-fighting](prone-fighting.md)
+
+---
+
 # Prone Fighting
 
 **Source URL:** http://dnd2024.wikidot.com/feat:prone-fighting

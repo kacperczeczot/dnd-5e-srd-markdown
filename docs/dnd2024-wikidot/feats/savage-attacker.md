@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [savage-attacker](savage-attacker.md)
+
+---
+
 # Savage Attacker
 
 **Source URL:** http://dnd2024.wikidot.com/feat:savage-attacker

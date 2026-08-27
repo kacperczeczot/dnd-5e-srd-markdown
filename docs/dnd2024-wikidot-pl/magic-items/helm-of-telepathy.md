@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-telepathy](helm-of-telepathy.md)
+
+---
+
 # Hełm telepatii
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:helm-of-telepathy

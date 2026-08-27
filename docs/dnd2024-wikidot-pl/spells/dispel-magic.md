@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dispel-magic](dispel-magic.md)
+
+---
+
 # Rozproszenie magii
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dispel-magic

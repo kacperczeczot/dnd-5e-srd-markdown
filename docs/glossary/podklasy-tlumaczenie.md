@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [glossary](README.md) > [podklasy-tlumaczenie](podklasy-tlumaczenie.md)
+
+---
+
 # Słownik nazw podklas (EN → PL)
 
 Oficjalne i rekomendowane polskie nazwy podklas dla `dnd2024-wikidot-pl/subclasses/`.

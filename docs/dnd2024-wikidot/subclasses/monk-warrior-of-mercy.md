@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [monk-warrior-of-mercy](monk-warrior-of-mercy.md)
+
+---
+
 # Warrior of Mercy
 
 **Class:** monk

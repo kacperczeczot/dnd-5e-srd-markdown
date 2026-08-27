@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [crown-of-madness](crown-of-madness.md)
+
+---
+
 # Crown Of Madness
 
 **Source URL:** http://dnd2024.wikidot.com/spell:crown-of-madness

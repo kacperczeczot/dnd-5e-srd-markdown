@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [magic-circle](magic-circle.md)
+
+---
+
 # Krąg magii
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:magic-circle

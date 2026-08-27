@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-billowing](cloak-of-billowing.md)
+
+---
+
 # Cloak of Billowing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cloak-of-billowing

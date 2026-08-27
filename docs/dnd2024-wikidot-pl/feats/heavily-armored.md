@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [heavily-armored](heavily-armored.md)
+
+---
+
 # Ciężko opancerzony
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:heavily-armored

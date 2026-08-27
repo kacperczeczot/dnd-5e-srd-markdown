@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-private-sanctum](mordenkainen-s-private-sanctum.md)
+
+---
+
 # Mordenkainen's Private Sanctum
 
 **Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-private-sanctum

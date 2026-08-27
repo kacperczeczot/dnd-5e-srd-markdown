@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [chondathan-freebooter](chondathan-freebooter.md)
+
+---
+
 # Chondathański wolny strzelec
 
 **URL źródła:** http://dnd2024.wikidot.com/background:chondathan-freebooter

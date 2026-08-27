@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [blackrazor](blackrazor.md)
+
+---
+
 # Czarne Ostrze
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:blackrazor

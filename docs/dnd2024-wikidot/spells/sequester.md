@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sequester](sequester.md)
+
+---
+
 # Sequester
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sequester

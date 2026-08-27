@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thunderous-smite](thunderous-smite.md)
+
+---
+
 # Grzmiące ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:thunderous-smite

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fire-shield](fire-shield.md)
+
+---
+
 # Fire Shield
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fire-shield

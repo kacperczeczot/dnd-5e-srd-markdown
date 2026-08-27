@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [eldritch-blast](eldritch-blast.md)
+
+---
+
 # Eldritch Blast
 
 **Source URL:** http://dnd2024.wikidot.com/spell:eldritch-blast

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [produce-flame](produce-flame.md)
+
+---
+
 # Wywołanie płomienia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:produce-flame

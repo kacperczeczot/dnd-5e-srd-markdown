@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dirge](dirge.md)
+
+---
+
 # Pieśń żałobna
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dirge

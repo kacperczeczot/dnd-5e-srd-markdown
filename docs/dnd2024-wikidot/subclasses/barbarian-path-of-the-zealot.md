@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-zealot](barbarian-path-of-the-zealot.md)
+
+---
+
 # Path of the Zealot
 
 **Class:** barbarian

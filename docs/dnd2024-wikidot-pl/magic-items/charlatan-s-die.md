@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [charlatan-s-die](charlatan-s-die.md)
+
+---
+
 # Kość szarlatana
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:charlatan-s-die

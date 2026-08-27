@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [great-weapon-fighting](great-weapon-fighting.md)
+
+---
+
 # Walka bronią dwuręczną
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:great-weapon-fighting

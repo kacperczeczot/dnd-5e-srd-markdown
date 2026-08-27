@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [teleportation-circle](teleportation-circle.md)
+
+---
+
 # Krąg teleportacyjny
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:teleportation-circle

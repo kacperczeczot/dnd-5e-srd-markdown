@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [echoing-soul](echoing-soul.md)
+
+---
+
 # Echoing Soul
 
 **Source URL:** http://dnd2024.wikidot.com/feat:echoing-soul

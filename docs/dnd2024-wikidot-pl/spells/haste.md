@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [haste](haste.md)
+
+---
+
 # Przyspieszenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:haste

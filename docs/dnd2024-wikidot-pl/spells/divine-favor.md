@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [divine-favor](divine-favor.md)
+
+---
+
 # Boska łaska
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:divine-favor

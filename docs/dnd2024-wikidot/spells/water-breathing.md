@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [water-breathing](water-breathing.md)
+
+---
+
 # Water Breathing
 
 **Source URL:** http://dnd2024.wikidot.com/spell:water-breathing

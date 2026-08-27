@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dagger-of-venom](dagger-of-venom.md)
+
+---
+
 # Sztylet jadu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dagger-of-venom

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tasha-s-hideous-laughter](tasha-s-hideous-laughter.md)
+
+---
+
 # Ohydny śmiech Tashy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:tasha-s-hideous-laughter

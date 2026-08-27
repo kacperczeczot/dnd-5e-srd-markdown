@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-magi](staff-of-the-magi.md)
+
+---
+
 # Staff of the Magi
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-the-magi

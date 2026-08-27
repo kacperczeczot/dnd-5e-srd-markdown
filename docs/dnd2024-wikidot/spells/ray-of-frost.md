@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-frost](ray-of-frost.md)
+
+---
+
 # Ray of Frost
 
 **Source URL:** http://dnd2024.wikidot.com/spell:ray-of-frost

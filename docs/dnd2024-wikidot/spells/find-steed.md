@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [find-steed](find-steed.md)
+
+---
+
 # Find Steed
 
 **Source URL:** http://dnd2024.wikidot.com/spell:find-steed

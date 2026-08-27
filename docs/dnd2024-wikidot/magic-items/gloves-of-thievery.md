@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-thievery](gloves-of-thievery.md)
+
+---
+
 # Gloves of Thievery
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:gloves-of-thievery

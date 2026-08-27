@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [deryan-s-helpful-homunculi](deryan-s-helpful-homunculi.md)
+
+---
+
 # Pomocne homunkuły Deryana
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:deryan-s-helpful-homunculi

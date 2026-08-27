@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-death-knight-ascension](feat-death-knight-ascension.md)
+
+---
+
 # Death Knight Ascension (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-death-knight-ascension

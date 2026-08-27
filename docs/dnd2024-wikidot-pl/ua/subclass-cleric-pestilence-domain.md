@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-pestilence-domain](subclass-cleric-pestilence-domain.md)
+
+---
+
 # Domena zarazy (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-cleric-pestilence-domain

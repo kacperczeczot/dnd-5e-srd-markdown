@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-stun](power-word-stun.md)
+
+---
+
 # Słowo mocy: Stój
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:power-word-stun

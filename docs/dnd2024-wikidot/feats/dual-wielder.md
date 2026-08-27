@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [dual-wielder](dual-wielder.md)
+
+---
+
 # Dual Wielder
 
 **Source URL:** http://dnd2024.wikidot.com/feat:dual-wielder

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [rary-s-telepathic-bond](rary-s-telepathic-bond.md)
+
+---
+
 # Telepatyczna więź Rary’ego
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:rary-s-telepathic-bond

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [lords-alliance-vassal](lords-alliance-vassal.md)
+
+---
+
 # Wasal Sojuszu Lordów
 
 **URL źródła:** http://dnd2024.wikidot.com/background:lords-alliance-vassal

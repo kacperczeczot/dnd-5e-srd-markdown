@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [salubrious-armor](salubrious-armor.md)
+
+---
+
 # Zbroja zdrowotna
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:salubrious-armor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-stars](robe-of-stars.md)
+
+---
+
 # Robe of Stars
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:robe-of-stars

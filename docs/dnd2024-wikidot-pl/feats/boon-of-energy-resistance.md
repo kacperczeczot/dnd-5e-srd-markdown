@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-energy-resistance](boon-of-energy-resistance.md)
+
+---
+
 # Dar odporności na energię
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-energy-resistance

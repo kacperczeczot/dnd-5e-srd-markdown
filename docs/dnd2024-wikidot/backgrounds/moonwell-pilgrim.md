@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [moonwell-pilgrim](moonwell-pilgrim.md)
+
+---
+
 # Moonwell Pilgrim
 
 **Source URL:** http://dnd2024.wikidot.com/background:moonwell-pilgrim

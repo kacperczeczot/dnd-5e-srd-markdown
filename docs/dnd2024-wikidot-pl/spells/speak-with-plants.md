@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [speak-with-plants](speak-with-plants.md)
+
+---
+
 # Rozmawianie z roślinami
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:speak-with-plants

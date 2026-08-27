@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eye-and-hand-of-vecna](eye-and-hand-of-vecna.md)
+
+---
+
 # Eye and Hand of Vecna
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:eye-and-hand-of-vecna

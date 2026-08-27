@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [defender](defender.md)
+
+---
+
 # Defender
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:defender

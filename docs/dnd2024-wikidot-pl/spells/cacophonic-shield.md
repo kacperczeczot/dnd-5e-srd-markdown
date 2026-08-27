@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [cacophonic-shield](cacophonic-shield.md)
+
+---
+
 # Kakofoniczna tarcza
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:cacophonic-shield

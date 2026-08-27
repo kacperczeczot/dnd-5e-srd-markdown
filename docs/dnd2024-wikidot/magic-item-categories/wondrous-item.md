@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [wondrous-item](wondrous-item.md)
+
+---
+
 # Magic Items - Wondrous Items
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wondrous-item

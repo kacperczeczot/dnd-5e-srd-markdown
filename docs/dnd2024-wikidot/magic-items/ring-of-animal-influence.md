@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-animal-influence](ring-of-animal-influence.md)
+
+---
+
 # Ring of Animal Influence
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:ring-of-animal-influence

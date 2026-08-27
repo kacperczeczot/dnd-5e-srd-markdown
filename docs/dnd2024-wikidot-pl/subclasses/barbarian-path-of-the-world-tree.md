@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-world-tree](barbarian-path-of-the-world-tree.md)
+
+---
+
 # Ścieżka Drzewa Światów
 
 **Klasa:** Barbarzyńca

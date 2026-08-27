@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mithral-armor](mithral-armor.md)
+
+---
+
 # Zbroja z mithrilu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mithral-armor

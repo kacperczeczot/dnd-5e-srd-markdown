@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-charming](eyes-of-charming.md)
+
+---
+
 # Soczewki zauroczenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:eyes-of-charming

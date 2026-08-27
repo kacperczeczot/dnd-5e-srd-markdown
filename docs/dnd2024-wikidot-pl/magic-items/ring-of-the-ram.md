@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-the-ram](ring-of-the-ram.md)
+
+---
+
 # Pierścień barana
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:ring-of-the-ram

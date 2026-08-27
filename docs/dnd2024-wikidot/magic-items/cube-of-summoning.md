@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cube-of-summoning](cube-of-summoning.md)
+
+---
+
 # Cube of Summoning
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cube-of-summoning

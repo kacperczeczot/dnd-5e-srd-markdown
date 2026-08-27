@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [dueling](dueling.md)
+
+---
+
 # Fechtunek
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:dueling

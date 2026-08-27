@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [classes](README.md) > [sorcerer](sorcerer.md)
+
+---
+
 # Zaklinacz
 
 **Klasa:** Zaklinacz

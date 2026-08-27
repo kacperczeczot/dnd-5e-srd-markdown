@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bracers-of-defense](bracers-of-defense.md)
+
+---
+
 # Bracers of Defense
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:bracers-of-defense

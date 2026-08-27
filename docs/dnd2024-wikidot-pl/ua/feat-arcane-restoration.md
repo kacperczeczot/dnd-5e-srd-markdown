@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-arcane-restoration](feat-arcane-restoration.md)
+
+---
+
 # Tajemne odnowienie (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-arcane-restoration

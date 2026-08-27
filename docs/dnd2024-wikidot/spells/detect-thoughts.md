@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [detect-thoughts](detect-thoughts.md)
+
+---
+
 # Detect Thoughts
 
 **Source URL:** http://dnd2024.wikidot.com/spell:detect-thoughts

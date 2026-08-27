@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [elven-chain](elven-chain.md)
+
+---
+
 # Elfa kolczuga
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:elven-chain

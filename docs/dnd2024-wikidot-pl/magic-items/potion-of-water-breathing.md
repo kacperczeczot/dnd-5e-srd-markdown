@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-water-breathing](potion-of-water-breathing.md)
+
+---
+
 # Mikstura oddychania pod wodą
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-water-breathing

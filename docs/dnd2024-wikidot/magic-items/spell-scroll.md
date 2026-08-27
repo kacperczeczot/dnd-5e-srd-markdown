@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spell-scroll](spell-scroll.md)
+
+---
+
 # Spell Scroll
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:spell-scroll

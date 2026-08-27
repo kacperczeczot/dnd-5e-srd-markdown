@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-demonic-sorcery2](subclass-sorcerer-demonic-sorcery2.md)
+
+---
+
 # Demonic Sorcery (UA14 18.06.2026)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:subclass-sorcerer-demonic-sorcery2

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-swarming-insects](staff-of-swarming-insects.md)
+
+---
+
 # Kostur roju owadów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:staff-of-swarming-insects

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [summon-aberration](summon-aberration.md)
+
+---
+
 # Summon Aberration
 
 **Source URL:** http://dnd2024.wikidot.com/spell:summon-aberration

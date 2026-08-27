@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-dread-authority](feat-dread-authority.md)
+
+---
+
 # Dread Authority (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-dread-authority

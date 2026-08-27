@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [elemental-gem](elemental-gem.md)
+
+---
+
 # Klejnot żywiołów
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:elemental-gem

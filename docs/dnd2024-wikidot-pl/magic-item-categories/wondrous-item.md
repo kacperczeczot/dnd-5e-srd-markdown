@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [wondrous-item](wondrous-item.md)
+
+---
+
 # Przedmioty magiczne — cudowne przedmioty
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:wondrous-item

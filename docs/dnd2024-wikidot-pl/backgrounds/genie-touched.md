@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [genie-touched](genie-touched.md)
+
+---
+
 # Dotknięty przez dżina
 
 **URL źródła:** http://dnd2024.wikidot.com/background:genie-touched

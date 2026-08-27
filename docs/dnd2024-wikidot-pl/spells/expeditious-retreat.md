@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [expeditious-retreat](expeditious-retreat.md)
+
+---
+
 # Błyskawiczny odwrót
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:expeditious-retreat

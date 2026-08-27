@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sanctuary](sanctuary.md)
+
+---
+
 # Sanctuary
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sanctuary

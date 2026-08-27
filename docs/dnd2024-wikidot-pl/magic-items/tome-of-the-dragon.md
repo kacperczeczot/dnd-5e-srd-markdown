@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-the-dragon](tome-of-the-dragon.md)
+
+---
+
 # Księga smoka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:tome-of-the-dragon

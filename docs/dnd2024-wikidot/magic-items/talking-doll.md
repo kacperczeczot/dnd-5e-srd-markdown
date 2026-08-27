@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [talking-doll](talking-doll.md)
+
+---
+
 # Talking Doll
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:talking-doll

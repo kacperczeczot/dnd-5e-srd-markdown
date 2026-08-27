@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-the-stilled-tongue](tome-of-the-stilled-tongue.md)
+
+---
+
 # Księga uciszonego języka
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:tome-of-the-stilled-tongue

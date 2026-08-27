@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [enduring-spellbook](enduring-spellbook.md)
+
+---
+
 # Trwała księga zaklęć
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:enduring-spellbook

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [magic-items](magic-items.md)
+
+---
+
 # Przedmioty magiczne
 
 Przedmioty magiczne pochodzą ze skarbów pokonanych potworów albo zostają odkryte w dawno zapomnianych skarbcach. Dają one zdolności, których postać rzadko mogłaby zdobyć inaczej, albo uzupełniają możliwości właściciela w niezwykły sposób.

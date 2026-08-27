@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-detection](mark-of-detection.md)
+
+---
+
 # Mark of Detection
 
 **Source URL:** http://dnd2024.wikidot.com/feat:mark-of-detection

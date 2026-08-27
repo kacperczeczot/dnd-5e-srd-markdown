@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-artificer2](class-artificer2.md)
+
+---
+
 # Wynalazca (UA3 — 27.02.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:class-artificer2

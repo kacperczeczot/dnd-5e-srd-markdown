@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mask-of-changed-appearance](mask-of-changed-appearance.md)
+
+---
+
 # Maska zmienionego wyglądu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mask-of-changed-appearance

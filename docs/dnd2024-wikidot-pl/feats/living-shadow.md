@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [living-shadow](living-shadow.md)
+
+---
+
 # Żywy cień
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:living-shadow

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dragon-s-breath](dragon-s-breath.md)
+
+---
+
 # Oddech smoka
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:dragon-s-breath

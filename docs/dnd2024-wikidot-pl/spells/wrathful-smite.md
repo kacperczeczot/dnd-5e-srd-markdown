@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wrathful-smite](wrathful-smite.md)
+
+---
+
 # Gniewne ugodzenie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:wrathful-smite

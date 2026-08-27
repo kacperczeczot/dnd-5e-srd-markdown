@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [flame-tongue](flame-tongue.md)
+
+---
+
 # Płomienny język
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:flame-tongue

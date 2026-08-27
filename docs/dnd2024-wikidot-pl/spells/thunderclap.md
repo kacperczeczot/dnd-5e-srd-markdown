@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thunderclap](thunderclap.md)
+
+---
+
 # Grzmot
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:thunderclap

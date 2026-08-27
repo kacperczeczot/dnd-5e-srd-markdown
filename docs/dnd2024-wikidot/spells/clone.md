@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [clone](clone.md)
+
+---
+
 # Clone
 
 **Source URL:** http://dnd2024.wikidot.com/spell:clone

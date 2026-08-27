@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [tireless-reveler](tireless-reveler.md)
+
+---
+
 # Niezmordowany hulaka
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:tireless-reveler

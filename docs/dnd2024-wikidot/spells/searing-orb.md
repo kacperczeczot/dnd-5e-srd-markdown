@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [searing-orb](searing-orb.md)
+
+---
+
 # Searing Orb
 
 **Source URL:** http://dnd2024.wikidot.com/spell:searing-orb

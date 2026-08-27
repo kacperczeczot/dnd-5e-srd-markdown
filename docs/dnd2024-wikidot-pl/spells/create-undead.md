@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [create-undead](create-undead.md)
+
+---
+
 # Stworzenie nieumarłego
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:create-undead

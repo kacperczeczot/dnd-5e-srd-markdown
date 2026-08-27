@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [eternal-chalk](eternal-chalk.md)
+
+---
+
 # Wieczna kreda
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:eternal-chalk

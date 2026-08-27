@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [driftglobe](driftglobe.md)
+
+---
+
 # Driftglobe
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:driftglobe

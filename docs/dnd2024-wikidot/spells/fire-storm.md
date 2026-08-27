@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fire-storm](fire-storm.md)
+
+---
+
 # Fire Storm
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fire-storm

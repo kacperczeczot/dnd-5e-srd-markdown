@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [apparatus-of-kwalish](apparatus-of-kwalish.md)
+
+---
+
 # Aparat Kwalisha
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:apparatus-of-kwalish

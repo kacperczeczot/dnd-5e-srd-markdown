@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [befuddlement](befuddlement.md)
+
+---
+
 # Zmieszanie umysłu
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:befuddlement

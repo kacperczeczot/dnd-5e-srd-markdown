@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-glory](paladin-oath-of-glory.md)
+
+---
+
 # Przysięga Chwały
 
 **Klasa:** Paladyn

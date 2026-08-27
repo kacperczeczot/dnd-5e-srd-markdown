@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [repulsion-shield](repulsion-shield.md)
+
+---
+
 # Tarcza odpychająca
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:repulsion-shield

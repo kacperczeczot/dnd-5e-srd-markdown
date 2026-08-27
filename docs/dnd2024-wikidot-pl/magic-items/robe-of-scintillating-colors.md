@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-scintillating-colors](robe-of-scintillating-colors.md)
+
+---
+
 # Szata migoczących barw
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:robe-of-scintillating-colors

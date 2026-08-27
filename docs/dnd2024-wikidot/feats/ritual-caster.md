@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [ritual-caster](ritual-caster.md)
+
+---
+
 # Ritual Caster
 
 **Source URL:** http://dnd2024.wikidot.com/feat:ritual-caster

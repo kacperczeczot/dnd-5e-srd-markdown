@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [sentinel-shield](sentinel-shield.md)
+
+---
+
 # Sentinel Shield
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:sentinel-shield

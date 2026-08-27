@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [antilife-shell](antilife-shell.md)
+
+---
+
 # Antilife Shell
 
 **Source URL:** http://dnd2024.wikidot.com/spell:antilife-shell

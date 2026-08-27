@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [sources](README.md) > [starter-set-dragons-of-stormwreck-isle_p34-68](starter-set-dragons-of-stormwreck-isle_p34-68.md)
+
+---
+
 ## Smoki z Wyspy Burzowego Wraku (Dragons of Stormwreck Isle)
 
 Źródło: _Dungeons & Dragons Starter Set: Dragons of Stormwreck Isle_ (Wizards of the Coast, 2022).

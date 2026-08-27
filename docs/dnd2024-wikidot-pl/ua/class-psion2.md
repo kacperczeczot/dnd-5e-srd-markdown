@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-psion2](class-psion2.md)
+
+---
+
 # Psionik (UA9 — 02.10.2025)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:class-psion2

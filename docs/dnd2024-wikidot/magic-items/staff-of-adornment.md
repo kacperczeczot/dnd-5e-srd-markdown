@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-adornment](staff-of-adornment.md)
+
+---
+
 # Staff of Adornment
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-adornment

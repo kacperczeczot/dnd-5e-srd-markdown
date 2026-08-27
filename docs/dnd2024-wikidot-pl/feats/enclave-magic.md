@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [enclave-magic](enclave-magic.md)
+
+---
+
 # Magia enklawy
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:enclave-magic

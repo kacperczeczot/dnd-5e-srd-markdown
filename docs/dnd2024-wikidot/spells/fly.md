@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fly](fly.md)
+
+---
+
 # Fly
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fly

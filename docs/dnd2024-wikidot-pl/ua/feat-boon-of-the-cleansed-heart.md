@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-the-cleansed-heart](feat-boon-of-the-cleansed-heart.md)
+
+---
+
 # Dar oczyszczonego serca (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-boon-of-the-cleansed-heart

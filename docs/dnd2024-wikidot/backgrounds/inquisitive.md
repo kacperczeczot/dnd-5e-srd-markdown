@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [inquisitive](inquisitive.md)
+
+---
+
 # Inquisitive
 
 **Source URL:** http://dnd2024.wikidot.com/background:inquisitive

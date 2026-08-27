@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blade-ward](blade-ward.md)
+
+---
+
 # Osłona przed orężem
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:blade-ward

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mirror-image](mirror-image.md)
+
+---
+
 # Mirror Image
 
 **Source URL:** http://dnd2024.wikidot.com/spell:mirror-image

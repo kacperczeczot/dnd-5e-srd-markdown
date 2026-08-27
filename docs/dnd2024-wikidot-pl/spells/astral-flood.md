@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [astral-flood](astral-flood.md)
+
+---
+
 # Astralny potop
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:astral-flood

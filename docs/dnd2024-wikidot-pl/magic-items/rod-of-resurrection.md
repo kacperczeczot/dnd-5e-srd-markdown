@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-resurrection](rod-of-resurrection.md)
+
+---
+
 # Berło zmartwychwstania
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:rod-of-resurrection

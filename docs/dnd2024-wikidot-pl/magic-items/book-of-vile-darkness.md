@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-vile-darkness](book-of-vile-darkness.md)
+
+---
+
 # Księga plugawej ciemności
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:book-of-vile-darkness

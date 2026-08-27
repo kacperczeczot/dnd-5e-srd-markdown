@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [drawmij-s-instant-summons](drawmij-s-instant-summons.md)
+
+---
+
 # Drawmij's Instant Summons
 
 **Source URL:** http://dnd2024.wikidot.com/spell:drawmij-s-instant-summons

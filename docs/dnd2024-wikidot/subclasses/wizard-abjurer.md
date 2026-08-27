@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [wizard-abjurer](wizard-abjurer.md)
+
+---
+
 # Abjurer
 
 **Class:** wizard

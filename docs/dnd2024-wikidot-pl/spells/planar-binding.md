@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [planar-binding](planar-binding.md)
+
+---
+
 # Sferalne wiązanie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:planar-binding

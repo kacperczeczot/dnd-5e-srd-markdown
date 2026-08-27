@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-undead-patron](subclass-warlock-undead-patron.md)
+
+---
+
 # Patron Nieumarłych (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-warlock-undead-patron

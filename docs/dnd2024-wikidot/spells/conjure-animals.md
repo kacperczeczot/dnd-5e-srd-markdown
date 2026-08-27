@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [conjure-animals](conjure-animals.md)
+
+---
+
 # Conjure Animals
 
 **Source URL:** http://dnd2024.wikidot.com/spell:conjure-animals

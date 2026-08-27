@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [compelled-duel](compelled-duel.md)
+
+---
+
 # Compelled Duel
 
 **Source URL:** http://dnd2024.wikidot.com/spell:compelled-duel

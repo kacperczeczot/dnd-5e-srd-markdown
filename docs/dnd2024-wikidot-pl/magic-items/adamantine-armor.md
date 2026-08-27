@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [adamantine-armor](adamantine-armor.md)
+
+---
+
 # Zbroja adamantytowa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:adamantine-armor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-clairvoyance](potion-of-clairvoyance.md)
+
+---
+
 # Potion of Clairvoyance
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion-of-clairvoyance

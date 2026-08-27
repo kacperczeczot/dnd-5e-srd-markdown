@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [alert](alert.md)
+
+---
+
 # Czujność
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:alert

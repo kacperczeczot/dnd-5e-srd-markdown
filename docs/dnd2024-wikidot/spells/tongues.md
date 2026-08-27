@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [tongues](tongues.md)
+
+---
+
 # Tongues
 
 **Source URL:** http://dnd2024.wikidot.com/spell:tongues

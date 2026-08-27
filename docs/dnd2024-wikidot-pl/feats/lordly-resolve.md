@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [lordly-resolve](lordly-resolve.md)
+
+---
+
 # Szlachecka determinacja
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:lordly-resolve

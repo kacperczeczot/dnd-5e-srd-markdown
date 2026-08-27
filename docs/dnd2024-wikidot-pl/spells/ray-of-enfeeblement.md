@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-enfeeblement](ray-of-enfeeblement.md)
+
+---
+
 # Promień osłabienia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-enfeeblement

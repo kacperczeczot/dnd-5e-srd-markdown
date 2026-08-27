@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [cloying-mists](cloying-mists.md)
+
+---
+
 # Cloying Mists
 
 **Source URL:** http://dnd2024.wikidot.com/feat:cloying-mists

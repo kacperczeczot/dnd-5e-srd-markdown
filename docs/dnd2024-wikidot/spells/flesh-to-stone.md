@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [flesh-to-stone](flesh-to-stone.md)
+
+---
+
 # Flesh to Stone
 
 **Source URL:** http://dnd2024.wikidot.com/spell:flesh-to-stone

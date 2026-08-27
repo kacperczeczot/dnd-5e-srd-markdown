@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [blade-barrier](blade-barrier.md)
+
+---
+
 # Bariera ostrzy
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:blade-barrier

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fabricate](fabricate.md)
+
+---
+
 # Fabricate
 
 **Source URL:** http://dnd2024.wikidot.com/spell:fabricate

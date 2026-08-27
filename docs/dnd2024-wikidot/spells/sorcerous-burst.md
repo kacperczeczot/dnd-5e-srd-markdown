@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sorcerous-burst](sorcerous-burst.md)
+
+---
+
 # Sorcerous Burst
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sorcerous-burst

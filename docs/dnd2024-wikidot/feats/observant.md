@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [observant](observant.md)
+
+---
+
 # Observant
 
 **Source URL:** http://dnd2024.wikidot.com/feat:observant

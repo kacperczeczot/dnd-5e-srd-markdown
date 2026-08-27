@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [dead-magic-dweller](dead-magic-dweller.md)
+
+---
+
 # Mieszkaniec martwej magii
 
 **URL źródła:** http://dnd2024.wikidot.com/background:dead-magic-dweller

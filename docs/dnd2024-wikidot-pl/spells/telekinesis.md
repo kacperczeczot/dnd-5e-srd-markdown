@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [telekinesis](telekinesis.md)
+
+---
+
 # Telekineza
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:telekinesis

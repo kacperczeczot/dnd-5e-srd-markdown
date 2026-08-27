@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [death-armor](death-armor.md)
+
+---
+
 # Zbroja śmierci
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:death-armor

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [alter-self](alter-self.md)
+
+---
+
 # Zmiana siebie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:alter-self

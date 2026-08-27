@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [animal-shapes](animal-shapes.md)
+
+---
+
 # Zwierzęce kształty
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:animal-shapes

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hold-person](hold-person.md)
+
+---
+
 # Unieruchomienie osoby
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:hold-person

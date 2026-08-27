@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hunger-of-hadar](hunger-of-hadar.md)
+
+---
+
 # Hunger of Hadar
 
 **Source URL:** http://dnd2024.wikidot.com/spell:hunger-of-hadar

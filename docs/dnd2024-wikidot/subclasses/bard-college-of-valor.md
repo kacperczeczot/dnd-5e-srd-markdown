@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [bard-college-of-valor](bard-college-of-valor.md)
+
+---
+
 # College of Valor
 
 **Class:** bard

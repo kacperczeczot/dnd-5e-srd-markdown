@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [climber-s-ammunition](climber-s-ammunition.md)
+
+---
+
 # Climber's Ammunition
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:climber-s-ammunition

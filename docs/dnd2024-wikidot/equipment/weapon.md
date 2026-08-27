@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [weapon](weapon.md)
+
+---
+
 # Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/equipment:weapon

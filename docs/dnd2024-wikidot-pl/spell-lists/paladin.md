@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spell-lists](README.md) > [paladin](paladin.md)
+
+---
+
 # Paladin Spell List
 
 **Klasa:** Paladyn

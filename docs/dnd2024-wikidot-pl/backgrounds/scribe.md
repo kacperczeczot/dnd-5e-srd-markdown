@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [scribe](scribe.md)
+
+---
+
 # Skryba
 
 **URL źródła:** http://dnd2024.wikidot.com/background:scribe

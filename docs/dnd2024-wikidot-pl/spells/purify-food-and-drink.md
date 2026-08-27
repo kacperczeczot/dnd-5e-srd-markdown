@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [purify-food-and-drink](purify-food-and-drink.md)
+
+---
+
 # Oczyszczenie jadła i napoju
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:purify-food-and-drink

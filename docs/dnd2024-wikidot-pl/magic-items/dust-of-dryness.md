@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-dryness](dust-of-dryness.md)
+
+---
+
 # Pył wysuszenia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dust-of-dryness

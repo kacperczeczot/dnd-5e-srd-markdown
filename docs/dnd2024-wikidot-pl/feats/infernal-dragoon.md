@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [infernal-dragoon](infernal-dragoon.md)
+
+---
+
 # Piekielny dragon
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:infernal-dragoon

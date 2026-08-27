@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-lordly-might](rod-of-lordly-might.md)
+
+---
+
 # Rod of Lordly Might
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rod-of-lordly-might

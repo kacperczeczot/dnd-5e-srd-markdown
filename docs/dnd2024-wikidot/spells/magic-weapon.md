@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [magic-weapon](magic-weapon.md)
+
+---
+
 # Magic Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/spell:magic-weapon

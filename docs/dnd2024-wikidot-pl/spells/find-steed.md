@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [find-steed](find-steed.md)
+
+---
+
 # Znalezienie wierzchowca
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:find-steed

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [talisman-of-ultimate-evil](talisman-of-ultimate-evil.md)
+
+---
+
 # Talisman of Ultimate Evil
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:talisman-of-ultimate-evil

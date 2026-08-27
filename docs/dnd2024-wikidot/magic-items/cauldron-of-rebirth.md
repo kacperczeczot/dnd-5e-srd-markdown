@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [cauldron-of-rebirth](cauldron-of-rebirth.md)
+
+---
+
 # Cauldron of Rebirth
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:cauldron-of-rebirth

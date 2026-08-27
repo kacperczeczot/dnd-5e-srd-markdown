@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [demiplane](demiplane.md)
+
+---
+
 # Demisfera
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:demiplane

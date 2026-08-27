@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [druidcraft](druidcraft.md)
+
+---
+
 # Druidzkie sztuczki
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:druidcraft

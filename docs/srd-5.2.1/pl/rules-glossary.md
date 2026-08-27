@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [rules-glossary](rules-glossary.md)
+
+---
+
 # Słownik zasad
 
 ## Konwencje słownika

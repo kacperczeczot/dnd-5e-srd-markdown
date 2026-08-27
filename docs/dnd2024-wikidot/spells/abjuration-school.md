@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [abjuration-school](abjuration-school.md)
+
+---
+
 # Abjuration Spells
 
 **Source URL:** http://dnd2024.wikidot.com/spell:abjuration-school

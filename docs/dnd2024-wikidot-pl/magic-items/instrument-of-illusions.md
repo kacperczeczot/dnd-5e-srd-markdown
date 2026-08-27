@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-illusions](instrument-of-illusions.md)
+
+---
+
 # Instrument iluzji
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:instrument-of-illusions

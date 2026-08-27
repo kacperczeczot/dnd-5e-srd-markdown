@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-fireballs](necklace-of-fireballs.md)
+
+---
+
 # Naszyjnik kul ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:necklace-of-fireballs

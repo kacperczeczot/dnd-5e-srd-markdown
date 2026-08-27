@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-speed](boon-of-speed.md)
+
+---
+
 # Dar szybkości
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-speed

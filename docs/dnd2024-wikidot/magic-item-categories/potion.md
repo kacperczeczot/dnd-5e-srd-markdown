@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [potion](potion.md)
+
+---
+
 # Magic Items - Potions
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:potion

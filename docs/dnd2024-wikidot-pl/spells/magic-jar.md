@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [magic-jar](magic-jar.md)
+
+---
+
 # Magiczny słój
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:magic-jar

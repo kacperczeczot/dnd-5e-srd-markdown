@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [chain-lightning](chain-lightning.md)
+
+---
+
 # Łańcuch błyskawic
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:chain-lightning

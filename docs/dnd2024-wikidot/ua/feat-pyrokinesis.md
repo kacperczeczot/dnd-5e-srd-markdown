@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-pyrokinesis](feat-pyrokinesis.md)
+
+---
+
 # Pyrokinesis (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:feat-pyrokinesis

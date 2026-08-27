@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [enspelled-weapon](enspelled-weapon.md)
+
+---
+
 # Enspelled Weapon
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:enspelled-weapon

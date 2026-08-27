@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [mulhorandi-tomb-raider](mulhorandi-tomb-raider.md)
+
+---
+
 # Łupieżca grobowców Mulhorandu
 
 **URL źródła:** http://dnd2024.wikidot.com/background:mulhorandi-tomb-raider

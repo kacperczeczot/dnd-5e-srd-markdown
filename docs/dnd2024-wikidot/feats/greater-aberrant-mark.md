@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [greater-aberrant-mark](greater-aberrant-mark.md)
+
+---
+
 # Greater Aberrant Mark
 
 **Source URL:** http://dnd2024.wikidot.com/feat:greater-aberrant-mark

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-magic-missiles](wand-of-magic-missiles.md)
+
+---
+
 # Wand of Magic Missiles
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-magic-missiles

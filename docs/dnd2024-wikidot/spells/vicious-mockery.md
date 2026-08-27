@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [vicious-mockery](vicious-mockery.md)
+
+---
+
 # Vicious Mockery
 
 **Source URL:** http://dnd2024.wikidot.com/spell:vicious-mockery

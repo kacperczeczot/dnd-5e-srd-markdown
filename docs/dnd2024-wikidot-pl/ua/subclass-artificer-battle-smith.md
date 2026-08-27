@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-battle-smith](subclass-artificer-battle-smith.md)
+
+---
+
 # Kowal bojowy (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-artificer-battle-smith

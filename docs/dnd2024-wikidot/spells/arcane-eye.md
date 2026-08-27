@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [arcane-eye](arcane-eye.md)
+
+---
+
 # Arcane Eye
 
 **Source URL:** http://dnd2024.wikidot.com/spell:arcane-eye

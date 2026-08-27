@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mass-cure-wounds](mass-cure-wounds.md)
+
+---
+
 # Masowe leczenie ran
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:mass-cure-wounds

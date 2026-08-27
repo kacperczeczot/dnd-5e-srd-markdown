@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [counterspell](counterspell.md)
+
+---
+
 # Przeciwzaklęcie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:counterspell

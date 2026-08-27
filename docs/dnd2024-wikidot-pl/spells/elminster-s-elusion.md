@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [elminster-s-elusion](elminster-s-elusion.md)
+
+---
+
 # Unik Elminstera
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:elminster-s-elusion

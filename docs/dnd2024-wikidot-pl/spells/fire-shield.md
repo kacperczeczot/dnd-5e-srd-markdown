@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [fire-shield](fire-shield.md)
+
+---
+
 # Tarcza ognia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:fire-shield

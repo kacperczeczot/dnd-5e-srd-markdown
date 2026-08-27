@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [wardaway](wardaway.md)
+
+---
+
 # Wardaway
 
 **Source URL:** http://dnd2024.wikidot.com/spell:wardaway

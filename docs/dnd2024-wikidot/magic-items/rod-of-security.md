@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-security](rod-of-security.md)
+
+---
+
 # Rod of Security
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:rod-of-security

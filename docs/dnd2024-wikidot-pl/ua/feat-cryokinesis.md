@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-cryokinesis](feat-cryokinesis.md)
+
+---
+
 # Kriokineza (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-cryokinesis

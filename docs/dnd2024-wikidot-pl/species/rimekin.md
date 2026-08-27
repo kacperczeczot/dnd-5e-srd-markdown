@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [species](README.md) > [rimekin](rimekin.md)
+
+---
+
 # Rimekin
 
 **URL źródła:** http://dnd2024.wikidot.com/species:rimekin

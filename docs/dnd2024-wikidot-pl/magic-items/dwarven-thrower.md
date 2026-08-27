@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dwarven-thrower](dwarven-thrower.md)
+
+---
+
 # Krasnoludzki miotacz
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dwarven-thrower

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-striking](staff-of-striking.md)
+
+---
+
 # Staff of Striking
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:staff-of-striking

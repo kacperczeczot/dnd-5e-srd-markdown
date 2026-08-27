@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-mind-sharpener](magic-item-mind-sharpener.md)
+
+---
+
 # Mind Sharpener (UA)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:magic-item-mind-sharpener

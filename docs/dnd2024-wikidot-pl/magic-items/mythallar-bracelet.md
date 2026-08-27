@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [mythallar-bracelet](mythallar-bracelet.md)
+
+---
+
 # Bransoletka mythallaru
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:mythallar-bracelet

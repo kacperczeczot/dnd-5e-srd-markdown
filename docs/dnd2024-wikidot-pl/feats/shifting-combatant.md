@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [shifting-combatant](shifting-combatant.md)
+
+---
+
 # Wojownik przesuwny
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:shifting-combatant

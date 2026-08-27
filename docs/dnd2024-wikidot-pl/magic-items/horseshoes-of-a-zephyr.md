@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [horseshoes-of-a-zephyr](horseshoes-of-a-zephyr.md)
+
+---
+
 # Podkowy zefiru
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:horseshoes-of-a-zephyr

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [poison-spray](poison-spray.md)
+
+---
+
 # Poison Spray
 
 **Source URL:** http://dnd2024.wikidot.com/spell:poison-spray

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [stoneskin](stoneskin.md)
+
+---
+
 # Stoneskin
 
 **Source URL:** http://dnd2024.wikidot.com/spell:stoneskin

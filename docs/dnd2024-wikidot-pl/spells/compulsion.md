@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [compulsion](compulsion.md)
+
+---
+
 # Przymus
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:compulsion

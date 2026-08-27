@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [aura-of-life](aura-of-life.md)
+
+---
+
 # Aura życia
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-life

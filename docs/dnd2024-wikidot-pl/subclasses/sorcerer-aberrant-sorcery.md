@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [sorcerer-aberrant-sorcery](sorcerer-aberrant-sorcery.md)
+
+---
+
 # Magia Aberacji
 
 **Klasa:** Zaklinacz

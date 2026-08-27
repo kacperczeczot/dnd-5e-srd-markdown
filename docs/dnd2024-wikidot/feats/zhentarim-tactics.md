@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [zhentarim-tactics](zhentarim-tactics.md)
+
+---
+
 # Zhentarim Tactics
 
 **Source URL:** http://dnd2024.wikidot.com/feat:zhentarim-tactics

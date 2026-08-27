@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [monk-warrior-of-the-open-hand](monk-warrior-of-the-open-hand.md)
+
+---
+
 # Wojownik Otwartej Dłoni
 
 **Klasa:** Mnich

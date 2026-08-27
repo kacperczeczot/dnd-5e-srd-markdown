@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-conducting](wand-of-conducting.md)
+
+---
+
 # Wand of Conducting
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:wand-of-conducting

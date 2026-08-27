@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [power-word-heal](power-word-heal.md)
+
+---
+
 # Power Word Heal
 
 **Source URL:** http://dnd2024.wikidot.com/spell:power-word-heal

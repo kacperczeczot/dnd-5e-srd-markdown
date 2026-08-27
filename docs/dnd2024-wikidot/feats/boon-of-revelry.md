@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-revelry](boon-of-revelry.md)
+
+---
+
 # Boon of Revelry
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-revelry

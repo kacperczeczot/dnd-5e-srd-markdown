@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [driftglobe](driftglobe.md)
+
+---
+
 # Unosząca się kula
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:driftglobe

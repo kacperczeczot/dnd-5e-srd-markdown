@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [guide](guide.md)
+
+---
+
 # Przewodnik
 
 **URL źródła:** http://dnd2024.wikidot.com/background:guide

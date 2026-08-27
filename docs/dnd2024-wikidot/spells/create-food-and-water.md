@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [create-food-and-water](create-food-and-water.md)
+
+---
+
 # Create Food And Water
 
 **Source URL:** http://dnd2024.wikidot.com/spell:create-food-and-water

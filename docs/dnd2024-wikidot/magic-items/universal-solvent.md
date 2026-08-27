@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [universal-solvent](universal-solvent.md)
+
+---
+
 # Universal Solvent
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:universal-solvent

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [headband-of-intellect](headband-of-intellect.md)
+
+---
+
 # Opaska intelektu
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:headband-of-intellect

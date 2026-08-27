@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [hail-of-thorns](hail-of-thorns.md)
+
+---
+
 # Grad cierni
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:hail-of-thorns

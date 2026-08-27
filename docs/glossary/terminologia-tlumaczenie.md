@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [glossary](README.md) > [terminologia-tlumaczenie](terminologia-tlumaczenie.md)
+
+---
+
 # Słownik terminologii mechanicznej (EN → PL)
 
 Oficjalne polskie nazwy pojęć zasad D&D 5e dla `dnd2024-wikidot-pl/`.

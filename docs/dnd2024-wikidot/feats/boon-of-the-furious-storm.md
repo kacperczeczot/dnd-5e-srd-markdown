@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-furious-storm](boon-of-the-furious-storm.md)
+
+---
+
 # Boon of the Furious Storm
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-the-furious-storm

@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [compiled](README.md) > [players-handbook-en](players-handbook-en.md)
+
+---
+
 # Player's Handbook
 
 ## Contents

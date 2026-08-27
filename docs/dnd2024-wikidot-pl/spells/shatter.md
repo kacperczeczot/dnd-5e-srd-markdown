@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [shatter](shatter.md)
+
+---
+
 # Trzask
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:shatter

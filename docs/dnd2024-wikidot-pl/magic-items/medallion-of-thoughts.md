@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [medallion-of-thoughts](medallion-of-thoughts.md)
+
+---
+
 # Medalion wykrywania myśli
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:medallion-of-thoughts

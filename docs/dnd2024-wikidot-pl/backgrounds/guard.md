@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [backgrounds](README.md) > [guard](guard.md)
+
+---
+
 # Strażnik
 
 **URL źródła:** http://dnd2024.wikidot.com/background:guard

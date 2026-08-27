@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-desperate-resilience](boon-of-desperate-resilience.md)
+
+---
+
 # Boon of Desperate Resilience
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-desperate-resilience

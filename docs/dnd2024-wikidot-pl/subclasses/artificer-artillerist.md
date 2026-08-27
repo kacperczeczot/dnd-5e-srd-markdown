@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [subclasses](README.md) > [artificer-artillerist](artificer-artillerist.md)
+
+---
+
 # Artylerzysta
 
 **Klasa:** Wynalazca

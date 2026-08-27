@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-striding-and-springing](boots-of-striding-and-springing.md)
+
+---
+
 # Boots of Striding and Springing
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:boots-of-striding-and-springing

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [passwall](passwall.md)
+
+---
+
 # Przejście w murze
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:passwall

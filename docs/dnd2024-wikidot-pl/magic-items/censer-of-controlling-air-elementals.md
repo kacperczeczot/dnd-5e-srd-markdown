@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [censer-of-controlling-air-elementals](censer-of-controlling-air-elementals.md)
+
+---
+
 # Kadzielnica kontroli żywiołaków powietrza
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:censer-of-controlling-air-elementals

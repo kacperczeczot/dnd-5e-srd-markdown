@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [spell-tasha-s-mind-whip](spell-tasha-s-mind-whip.md)
+
+---
+
 # Tasha's Mind Whip (UA5 - 27.05.2025)
 
 **Source URL:** http://dnd2024.wikidot.com/ua:spell-tasha-s-mind-whip

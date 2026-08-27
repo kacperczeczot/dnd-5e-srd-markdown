@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [sleep](sleep.md)
+
+---
+
 # Sleep
 
 **Source URL:** http://dnd2024.wikidot.com/spell:sleep

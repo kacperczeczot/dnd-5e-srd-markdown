@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [scroll](scroll.md)
+
+---
+
 # Przedmioty magiczne — zwoje
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:scroll

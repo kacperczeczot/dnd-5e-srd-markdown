@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [spellguard-shield](spellguard-shield.md)
+
+---
+
 # Spellguard Shield
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:spellguard-shield

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-recovery](boon-of-recovery.md)
+
+---
+
 # Dar regeneracji
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-recovery

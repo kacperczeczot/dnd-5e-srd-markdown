@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [acid-splash](acid-splash.md)
+
+---
+
 # Kwasowy rozprysk
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:acid-splash

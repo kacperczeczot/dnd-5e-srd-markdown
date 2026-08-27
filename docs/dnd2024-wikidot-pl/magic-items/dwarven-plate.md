@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [dwarven-plate](dwarven-plate.md)
+
+---
+
 # Krasnoludzka zbroja płytowa
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:dwarven-plate

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-longevity](potion-of-longevity.md)
+
+---
+
 # Mikstura długowieczności
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:potion-of-longevity

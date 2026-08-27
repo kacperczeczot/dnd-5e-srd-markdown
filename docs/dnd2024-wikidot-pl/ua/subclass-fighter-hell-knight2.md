@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-hell-knight2](subclass-fighter-hell-knight2.md)
+
+---
+
 # Rycerz piekielny (UA14 — 18.06.2026)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-fighter-hell-knight2

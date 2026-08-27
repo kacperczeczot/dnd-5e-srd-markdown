@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-shadow](mark-of-shadow.md)
+
+---
+
 # Piętno cienia
 
 **URL źródła:** http://dnd2024.wikidot.com/feat:mark-of-shadow

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [class-warlock-invocations](class-warlock-invocations.md)
+
+---
+
 # Inwokacje czarownika (UA13)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:class-warlock-invocations

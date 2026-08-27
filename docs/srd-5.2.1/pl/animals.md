@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [pl](README.md) > [animals](animals.md)
+
+---
+
 # Zwierzęta
 
 ## Allosaurus

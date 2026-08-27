@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [augury](augury.md)
+
+---
+
 # Wróżba
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:augury

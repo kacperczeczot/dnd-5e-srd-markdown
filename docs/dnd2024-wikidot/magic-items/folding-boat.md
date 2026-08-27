@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [folding-boat](folding-boat.md)
+
+---
+
 # Folding Boat
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:folding-boat

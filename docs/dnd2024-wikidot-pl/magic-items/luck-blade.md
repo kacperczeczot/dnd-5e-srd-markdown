@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [luck-blade](luck-blade.md)
+
+---
+
 # Ostrze szczęścia
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:luck-blade

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [scorching-ray](scorching-ray.md)
+
+---
+
 # Wypalający promień
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:scorching-ray

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [guidance](guidance.md)
+
+---
+
 # Wskazówki
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:guidance

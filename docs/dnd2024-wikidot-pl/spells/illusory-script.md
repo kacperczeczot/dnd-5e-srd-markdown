@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [illusory-script](illusory-script.md)
+
+---
+
 # Iluzoryczny manuskrypt
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:illusory-script

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [iron-bands-of-bilarro](iron-bands-of-bilarro.md)
+
+---
+
 # Iron Bands of Bilarro
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:iron-bands-of-bilarro

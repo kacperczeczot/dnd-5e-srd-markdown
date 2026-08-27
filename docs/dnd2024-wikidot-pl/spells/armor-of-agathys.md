@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [armor-of-agathys](armor-of-agathys.md)
+
+---
+
 # Zbroja Agathys
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:armor-of-agathys

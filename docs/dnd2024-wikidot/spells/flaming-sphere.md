@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [flaming-sphere](flaming-sphere.md)
+
+---
+
 # Flaming Sphere
 
 **Source URL:** http://dnd2024.wikidot.com/spell:flaming-sphere

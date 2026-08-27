@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [thorn-whip](thorn-whip.md)
+
+---
+
 # Thorn Whip
 
 **Source URL:** http://dnd2024.wikidot.com/spell:thorn-whip

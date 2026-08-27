@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [moon-touched-sword](moon-touched-sword.md)
+
+---
+
 # Miecz dotknięty księżycem
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:moon-touched-sword

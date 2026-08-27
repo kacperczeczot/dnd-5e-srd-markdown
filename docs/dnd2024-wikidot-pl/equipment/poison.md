@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [poison](poison.md)
+
+---
+
 # Trucizny
 
 **URL źródła:** http://dnd2024.wikidot.com/equipment:poison

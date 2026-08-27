@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-paladin-oathbreaker](subclass-paladin-oathbreaker.md)
+
+---
+
 # Łamacz Przysięgi (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-paladin-oathbreaker

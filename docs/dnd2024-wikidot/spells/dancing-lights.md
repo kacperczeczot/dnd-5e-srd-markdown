@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [dancing-lights](dancing-lights.md)
+
+---
+
 # Dancing Lights
 
 **Source URL:** http://dnd2024.wikidot.com/spell:dancing-lights

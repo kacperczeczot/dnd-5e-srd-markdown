@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-the-archmagi](robe-of-the-archmagi.md)
+
+---
+
 # Szata arcymaga
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:robe-of-the-archmagi

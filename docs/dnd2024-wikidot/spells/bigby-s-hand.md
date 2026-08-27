@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [bigby-s-hand](bigby-s-hand.md)
+
+---
+
 # Bigby's Hand
 
 **Source URL:** http://dnd2024.wikidot.com/spell:bigby-s-hand

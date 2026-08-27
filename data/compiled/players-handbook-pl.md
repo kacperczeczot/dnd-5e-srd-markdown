@@ -1,3 +1,7 @@
+[Strona główna](../../README.md) > [compiled](README.md) > [players-handbook-pl](players-handbook-pl.md)
+
+---
+
 # Podręcznik Gracza
 
 ## Spis treści

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [second-skin](second-skin.md)
+
+---
+
 # Second Skin
 
 **Source URL:** http://dnd2024.wikidot.com/feat:second-skin

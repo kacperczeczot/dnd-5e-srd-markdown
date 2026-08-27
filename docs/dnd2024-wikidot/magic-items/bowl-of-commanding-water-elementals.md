@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [bowl-of-commanding-water-elementals](bowl-of-commanding-water-elementals.md)
+
+---
+
 # Bowl of Commanding Water Elementals
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:bowl-of-commanding-water-elementals

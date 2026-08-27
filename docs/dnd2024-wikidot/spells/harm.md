@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [harm](harm.md)
+
+---
+
 # Harm
 
 **Source URL:** http://dnd2024.wikidot.com/spell:harm

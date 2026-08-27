@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-detection](feat-greater-mark-of-detection.md)
+
+---
+
 # Większe piętno wykrywania (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:feat-greater-mark-of-detection

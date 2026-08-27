@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [giant-insect](giant-insect.md)
+
+---
+
 # Giant Insect
 
 **Source URL:** http://dnd2024.wikidot.com/spell:giant-insect

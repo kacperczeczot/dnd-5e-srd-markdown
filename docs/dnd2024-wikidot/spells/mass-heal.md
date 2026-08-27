@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [mass-heal](mass-heal.md)
+
+---
+
 # Mass Heal
 
 **Source URL:** http://dnd2024.wikidot.com/spell:mass-heal

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [deck-of-illusions](deck-of-illusions.md)
+
+---
+
 # Deck of Illusions
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:deck-of-illusions

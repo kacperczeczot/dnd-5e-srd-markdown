@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [spells](README.md) > [burning-hands](burning-hands.md)
+
+---
+
 # Płonące dłonie
 
 **URL źródła:** http://dnd2024.wikidot.com/spell:burning-hands

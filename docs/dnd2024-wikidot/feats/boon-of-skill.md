@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-skill](boon-of-skill.md)
+
+---
+
 # Boon of Skill
 
 **Source URL:** http://dnd2024.wikidot.com/feat:boon-of-skill

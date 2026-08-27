@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [stormwalker-s-cloak](stormwalker-s-cloak.md)
+
+---
+
 # Płaszcz burzowego wędrowca
 
 **URL źródła:** http://dnd2024.wikidot.com/magic-item:stormwalker-s-cloak

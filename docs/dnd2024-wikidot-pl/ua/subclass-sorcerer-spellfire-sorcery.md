@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-spellfire-sorcery](subclass-sorcerer-spellfire-sorcery.md)
+
+---
+
 # Magia Ognia Czarów (UA)
 
 **URL źródła:** http://dnd2024.wikidot.com/ua:subclass-sorcerer-spellfire-sorcery

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-vile-darkness](book-of-vile-darkness.md)
+
+---
+
 # Book of Vile Darkness
 
 **Source URL:** http://dnd2024.wikidot.com/magic-item:book-of-vile-darkness

@@ -1,3 +1,7 @@
+[Strona główna](../../../README.md) > [equipment](README.md) > [adventuring-gear](adventuring-gear.md)
+
+---
+
 # Wyposażenie poszukiwacza przygód
 
 **URL źródła:** http://dnd2024.wikidot.com/equipment:adventuring-gear
