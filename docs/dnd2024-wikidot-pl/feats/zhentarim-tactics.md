@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [zhentarim-tactics](zhentarim-tactics.md)
-
----
 
 # Taktyka Zhentarim
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [daern-s-instant-fortress](daern-s-instant-fortress.md)
-
----
 
 # Daern's Instant Fortress
 

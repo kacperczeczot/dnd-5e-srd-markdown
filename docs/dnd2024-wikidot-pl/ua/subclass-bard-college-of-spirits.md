@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-bard-college-of-spirits](subclass-bard-college-of-spirits.md)
-
----
 
 # Kolegium Duchów (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-billowing](cloak-of-billowing.md)
-
----
 
 # Cloak of Billowing
 

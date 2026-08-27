@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [water-walk](water-walk.md)
-
----
 
 # Water Walk
 

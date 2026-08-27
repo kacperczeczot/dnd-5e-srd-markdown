@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-undead-patron](subclass-warlock-undead-patron.md)
-
----
 
 # Undead Patron (UA)
 

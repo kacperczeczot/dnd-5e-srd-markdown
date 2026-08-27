@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [vampire-hunter](vampire-hunter.md)
-
----
 
 # Vampire Hunter
 

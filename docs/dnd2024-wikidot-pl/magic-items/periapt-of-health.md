@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-health](periapt-of-health.md)
-
----
 
 # Talizman zdrowia
 

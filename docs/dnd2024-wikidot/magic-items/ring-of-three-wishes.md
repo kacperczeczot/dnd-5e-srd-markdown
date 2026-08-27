@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-three-wishes](ring-of-three-wishes.md)
-
----
 
 # Ring of Three Wishes
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-swimming](ring-of-swimming.md)
-
----
 
 # Pierścień pływania
 

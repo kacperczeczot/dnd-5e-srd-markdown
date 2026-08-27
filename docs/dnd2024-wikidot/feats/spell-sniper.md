@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [spell-sniper](spell-sniper.md)
-
----
 
 # Spell Sniper
 

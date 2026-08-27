@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mirror-of-life-trapping](mirror-of-life-trapping.md)
-
----
 
 # Mirror of Life Trapping
 

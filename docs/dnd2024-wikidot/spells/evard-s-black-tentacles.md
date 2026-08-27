@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [evard-s-black-tentacles](evard-s-black-tentacles.md)
-
----
 
 # Evard's Black Tentacles
 

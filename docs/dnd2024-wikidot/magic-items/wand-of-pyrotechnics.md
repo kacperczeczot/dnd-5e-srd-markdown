@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-pyrotechnics](wand-of-pyrotechnics.md)
-
----
 
 # Wand of Pyrotechnics
 

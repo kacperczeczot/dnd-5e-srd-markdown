@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-demonic-sorcery2](subclass-sorcerer-demonic-sorcery2.md)
-
----
 
 # Demonicka magia (UA14 — 18.06.2026)
 

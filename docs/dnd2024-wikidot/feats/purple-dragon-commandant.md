@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [purple-dragon-commandant](purple-dragon-commandant.md)
-
----
 
 # Purple Dragon Commandant
 

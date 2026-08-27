@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-etherealness](oil-of-etherealness.md)
-
----
 
 # Olej eteryczności
 

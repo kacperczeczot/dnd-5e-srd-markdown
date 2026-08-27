@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [sailor](sailor.md)
-
----
 
 # Marynarz
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [detect-evil-and-good](detect-evil-and-good.md)
-
----
 
 # Wykrycie dobra i zła
 

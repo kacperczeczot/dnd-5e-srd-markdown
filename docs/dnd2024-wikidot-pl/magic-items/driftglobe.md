@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [driftglobe](driftglobe.md)
-
----
 
 # Unosząca się kula
 

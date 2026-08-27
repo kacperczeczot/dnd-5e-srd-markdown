@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [time-stop](time-stop.md)
-
----
 
 # Zatrzymanie czasu
 

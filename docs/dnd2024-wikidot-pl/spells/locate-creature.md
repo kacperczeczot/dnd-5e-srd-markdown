@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [locate-creature](locate-creature.md)
-
----
 
 # Odnalezienie istoty
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [scroll](scroll.md)
-
----
 
 # Magic Items - Scrolls
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-spell-storing](ring-of-spell-storing.md)
-
----
 
 # Ring of Spell Storing
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [en](README.md) > [animals](animals.md)
-
----
 
 # Animals
 

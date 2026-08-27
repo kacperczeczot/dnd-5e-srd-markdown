@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [speedy](speedy.md)
-
----
 
 # Szybki
 

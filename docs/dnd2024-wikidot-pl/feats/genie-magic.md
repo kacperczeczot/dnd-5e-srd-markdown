@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [genie-magic](genie-magic.md)
-
----
 
 # Magia dżinów
 

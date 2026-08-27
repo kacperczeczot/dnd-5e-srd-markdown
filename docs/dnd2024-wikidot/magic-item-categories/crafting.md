@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [crafting](crafting.md)
-
----
 
 # Crafting Magical Items
 

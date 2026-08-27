@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [move-earth](move-earth.md)
-
----
 
 # Poruszenie ziemi
 

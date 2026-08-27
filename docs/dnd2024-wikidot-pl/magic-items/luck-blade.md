@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [luck-blade](luck-blade.md)
-
----
 
 # Ostrze szczęścia
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [steel-wind-strike](steel-wind-strike.md)
-
----
 
 # Steel Wind Strike
 

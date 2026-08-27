@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-enchanter](subclass-wizard-enchanter.md)
-
----
 
 # Enchanter (UA6 - 26.06.25)
 

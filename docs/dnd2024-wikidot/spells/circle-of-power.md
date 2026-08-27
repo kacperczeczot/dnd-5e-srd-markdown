@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [circle-of-power](circle-of-power.md)
-
----
 
 # Circle Of Power
 

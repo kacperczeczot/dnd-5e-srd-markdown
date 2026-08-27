@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [heward-s-handy-haversack](heward-s-handy-haversack.md)
-
----
 
 # Heward's Handy Haversack
 

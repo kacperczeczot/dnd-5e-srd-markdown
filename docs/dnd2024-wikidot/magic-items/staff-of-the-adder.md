@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-adder](staff-of-the-adder.md)
-
----
 
 # Staff of the Adder
 

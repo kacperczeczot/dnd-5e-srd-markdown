@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-zealot](barbarian-path-of-the-zealot.md)
-
----
 
 # Ścieżka Zeloty
 

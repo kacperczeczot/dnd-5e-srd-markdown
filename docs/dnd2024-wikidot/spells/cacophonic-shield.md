@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [cacophonic-shield](cacophonic-shield.md)
-
----
 
 # Cacophonic Shield
 

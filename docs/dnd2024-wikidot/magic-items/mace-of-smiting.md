@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-smiting](mace-of-smiting.md)
-
----
 
 # Mace of Smiting
 

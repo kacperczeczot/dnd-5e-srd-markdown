@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [walloping-ammunition](walloping-ammunition.md)
-
----
 
 # Amunicja powalająca
 

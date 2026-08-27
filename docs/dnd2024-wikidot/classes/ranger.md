@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [classes](README.md) > [ranger](ranger.md)
-
----
 
 # Ranger
 

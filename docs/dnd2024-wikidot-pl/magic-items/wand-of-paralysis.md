@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-paralysis](wand-of-paralysis.md)
-
----
 
 # Różdżka paraliżu
 

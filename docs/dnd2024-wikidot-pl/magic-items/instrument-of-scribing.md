@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-scribing](instrument-of-scribing.md)
-
----
 
 # Instrument zapisu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-terror](mace-of-terror.md)
-
----
 
 # Buława grozy
 

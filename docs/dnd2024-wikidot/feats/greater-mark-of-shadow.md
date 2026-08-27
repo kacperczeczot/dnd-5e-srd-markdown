@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-shadow](greater-mark-of-shadow.md)
-
----
 
 # Greater Mark of Shadow
 

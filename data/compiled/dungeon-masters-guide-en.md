@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [compiled](README.md) > [dungeon-masters-guide-en](dungeon-masters-guide-en.md)
-
----
 
 # Dungeon Master's Guide
 

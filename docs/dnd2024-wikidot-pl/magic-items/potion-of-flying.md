@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-flying](potion-of-flying.md)
-
----
 
 # Mikstura latania
 

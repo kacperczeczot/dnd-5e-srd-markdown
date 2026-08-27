@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-psychic-scream](spell-psychic-scream.md)
-
----
 
 # Psychiczny krzyk (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [genie-touched](genie-touched.md)
-
----
 
 # Genie Touched
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [spiked-shield](spiked-shield.md)
-
----
 
 # Spiked Shield
 

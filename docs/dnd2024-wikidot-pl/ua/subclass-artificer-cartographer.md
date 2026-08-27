@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-cartographer](subclass-artificer-cartographer.md)
-
----
 
 # Kartograf (UA)
 

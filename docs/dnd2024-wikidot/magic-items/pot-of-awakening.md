@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pot-of-awakening](pot-of-awakening.md)
-
----
 
 # Pot of Awakening
 

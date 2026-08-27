@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [vampire-s-plaything](vampire-s-plaything.md)
-
----
 
 # Vampire's Plaything
 

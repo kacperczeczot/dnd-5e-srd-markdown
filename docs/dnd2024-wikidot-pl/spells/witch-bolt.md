@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [witch-bolt](witch-bolt.md)
-
----
 
 # Wiedźmi pocisk
 

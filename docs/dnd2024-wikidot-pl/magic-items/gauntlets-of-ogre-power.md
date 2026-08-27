@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gauntlets-of-ogre-power](gauntlets-of-ogre-power.md)
-
----
 
 # Rękawice olbrzymiej siły
 

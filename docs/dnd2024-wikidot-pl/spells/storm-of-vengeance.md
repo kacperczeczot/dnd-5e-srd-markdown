@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [storm-of-vengeance](storm-of-vengeance.md)
-
----
 
 # Burza zemsty
 

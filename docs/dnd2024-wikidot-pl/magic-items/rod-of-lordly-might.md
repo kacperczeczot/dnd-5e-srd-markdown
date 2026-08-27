@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-lordly-might](rod-of-lordly-might.md)
-
----
 
 # Berło wszechstronnej potęgi
 

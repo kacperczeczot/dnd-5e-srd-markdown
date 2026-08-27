@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [necromancy-school](necromancy-school.md)
-
----
 
 # Czary nekromancji
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [nature-s-mantle](nature-s-mantle.md)
-
----
 
 # Nature's Mantle
 

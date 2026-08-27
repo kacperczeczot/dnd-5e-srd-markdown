@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [deck-of-many-things](deck-of-many-things.md)
-
----
 
 # Talia wielu rzeczy
 

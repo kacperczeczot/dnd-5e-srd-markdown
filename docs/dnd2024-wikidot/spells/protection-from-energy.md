@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-energy](protection-from-energy.md)
-
----
 
 # Protection from Energy
 

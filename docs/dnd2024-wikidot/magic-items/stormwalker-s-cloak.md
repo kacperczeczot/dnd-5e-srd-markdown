@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [stormwalker-s-cloak](stormwalker-s-cloak.md)
-
----
 
 # Stormwalker's Cloak
 

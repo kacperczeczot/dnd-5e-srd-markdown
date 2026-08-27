@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-transfer-life](feat-transfer-life.md)
-
----
 
 # Transfer Life (UA)
 

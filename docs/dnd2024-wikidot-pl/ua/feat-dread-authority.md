@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-dread-authority](feat-dread-authority.md)
-
----
 
 # Przerażająca władza (UA)
 

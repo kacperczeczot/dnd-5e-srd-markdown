@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [forcecage](forcecage.md)
-
----
 
 # Cela mocy
 

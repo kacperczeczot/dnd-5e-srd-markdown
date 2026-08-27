@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-mind-reading](potion-of-mind-reading.md)
-
----
 
 # Potion of Mind Reading
 

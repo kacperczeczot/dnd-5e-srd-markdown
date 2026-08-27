@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-enemies-abound](spell-enemies-abound.md)
-
----
 
 # Wrogowie wszędzie (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [magic-mouth](magic-mouth.md)
-
----
 
 # Magic Mouth
 

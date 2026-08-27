@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-siberys](feat-boon-of-siberys.md)
-
----
 
 # Boon of Siberys (UA)
 

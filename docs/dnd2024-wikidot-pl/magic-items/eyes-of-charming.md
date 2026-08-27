@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-charming](eyes-of-charming.md)
-
----
 
 # Soczewki zauroczenia
 

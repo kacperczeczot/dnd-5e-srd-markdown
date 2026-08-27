@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [compelled-duel](compelled-duel.md)
-
----
 
 # Prowokacja
 

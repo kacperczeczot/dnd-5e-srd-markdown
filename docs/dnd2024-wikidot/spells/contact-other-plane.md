@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [contact-other-plane](contact-other-plane.md)
-
----
 
 # Contact Other Plane
 

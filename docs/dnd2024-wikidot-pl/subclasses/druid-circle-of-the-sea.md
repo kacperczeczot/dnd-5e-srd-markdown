@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [druid-circle-of-the-sea](druid-circle-of-the-sea.md)
-
----
 
 # Krąg morza
 

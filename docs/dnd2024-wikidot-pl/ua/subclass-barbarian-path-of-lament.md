@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-lament](subclass-barbarian-path-of-lament.md)
-
----
 
 # Ścieżka Żałoby (UA)
 

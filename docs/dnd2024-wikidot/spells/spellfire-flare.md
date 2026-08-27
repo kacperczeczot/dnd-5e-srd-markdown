@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [spellfire-flare](spellfire-flare.md)
-
----
 
 # Spellfire Flare
 

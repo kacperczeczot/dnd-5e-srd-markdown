@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [conjure-minor-elementals](conjure-minor-elementals.md)
-
----
 
 # Przywołanie mniejszych żywiołaków
 

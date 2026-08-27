@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [guardian-of-faith](guardian-of-faith.md)
-
----
 
 # Guardian of Faith
 

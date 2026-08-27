@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [warlock-archfey-patron](warlock-archfey-patron.md)
-
----
 
 # Archfey Patron
 

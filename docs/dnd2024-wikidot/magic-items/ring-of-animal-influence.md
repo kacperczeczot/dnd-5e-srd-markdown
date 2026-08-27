@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-animal-influence](ring-of-animal-influence.md)
-
----
 
 # Ring of Animal Influence
 

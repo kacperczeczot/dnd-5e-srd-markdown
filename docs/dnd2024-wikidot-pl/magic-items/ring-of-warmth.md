@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-warmth](ring-of-warmth.md)
-
----
 
 # Pierścień ciepła
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-psykinetic](subclass-psion-psykinetic.md)
-
----
 
 # Psykinetic (UA)
 

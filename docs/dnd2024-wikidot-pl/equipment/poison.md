@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [equipment](README.md) > [poison](poison.md)
-
----
 
 # Trucizny
 

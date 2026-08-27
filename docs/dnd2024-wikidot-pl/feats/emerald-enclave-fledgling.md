@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [emerald-enclave-fledgling](emerald-enclave-fledgling.md)
-
----
 
 # Nowicjusz Szmaragdowej Enklawy
 

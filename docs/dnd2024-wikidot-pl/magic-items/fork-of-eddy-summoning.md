@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [fork-of-eddy-summoning](fork-of-eddy-summoning.md)
-
----
 
 # Kamerton przywoływania wirów
 

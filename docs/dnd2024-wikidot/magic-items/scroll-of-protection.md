@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [scroll-of-protection](scroll-of-protection.md)
-
----
 
 # Scroll of Protection
 

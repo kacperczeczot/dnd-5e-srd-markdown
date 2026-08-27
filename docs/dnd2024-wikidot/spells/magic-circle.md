@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [magic-circle](magic-circle.md)
-
----
 
 # Magic Circle
 

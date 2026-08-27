@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [find-familiar](find-familiar.md)
-
----
 
 # Find Familiar
 

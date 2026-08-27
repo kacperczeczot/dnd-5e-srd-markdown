@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-war-domain](cleric-war-domain.md)
-
----
 
 # Domena wojny
 

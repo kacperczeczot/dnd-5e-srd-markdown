@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [remove-curse](remove-curse.md)
-
----
 
 # Remove Curse
 

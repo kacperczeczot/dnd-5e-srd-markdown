@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-detection](feat-mark-of-detection.md)
-
----
 
 # Mark of Detection (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-orien-heir](house-orien-heir.md)
-
----
 
 # Dziedzic rodu Orien
 

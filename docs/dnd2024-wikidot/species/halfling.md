@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [species](README.md) > [halfling](halfling.md)
-
----
 
 # Halfling
 

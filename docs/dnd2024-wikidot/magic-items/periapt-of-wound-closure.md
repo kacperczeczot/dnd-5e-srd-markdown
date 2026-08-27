@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-wound-closure](periapt-of-wound-closure.md)
-
----
 
 # Periapt of Wound Closure
 

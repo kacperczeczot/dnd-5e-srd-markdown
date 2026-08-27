@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-siberys](boon-of-siberys.md)
-
----
 
 # Boon of Siberys
 

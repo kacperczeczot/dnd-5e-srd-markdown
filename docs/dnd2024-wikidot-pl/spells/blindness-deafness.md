@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [blindness-deafness](blindness-deafness.md)
-
----
 
 # Głuchota/Ślepota
 

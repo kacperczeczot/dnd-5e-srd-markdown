@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dazzling-weapon](dazzling-weapon.md)
-
----
 
 # Oślepiająca broń
 

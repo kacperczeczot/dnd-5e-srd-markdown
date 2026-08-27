@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [animal-shapes](animal-shapes.md)
-
----
 
 # Zwierzęce kształty
 

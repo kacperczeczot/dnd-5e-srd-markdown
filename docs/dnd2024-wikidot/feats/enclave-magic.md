@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [enclave-magic](enclave-magic.md)
-
----
 
 # Enclave Magic
 

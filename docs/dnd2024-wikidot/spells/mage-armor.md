@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mage-armor](mage-armor.md)
-
----
 
 # Mage Armor
 

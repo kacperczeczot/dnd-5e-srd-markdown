@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-vile-darkness](book-of-vile-darkness.md)
-
----
 
 # Księga plugawej ciemności
 

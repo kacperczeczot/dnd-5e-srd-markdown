@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [class-psion-disciplines](class-psion-disciplines.md)
-
----
 
 # Opcje dyscyplin psionicznych (UA5)
 

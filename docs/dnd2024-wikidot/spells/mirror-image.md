@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mirror-image](mirror-image.md)
-
----
 
 # Mirror Image
 

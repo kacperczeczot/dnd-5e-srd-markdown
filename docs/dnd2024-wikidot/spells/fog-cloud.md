@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [fog-cloud](fog-cloud.md)
-
----
 
 # Fog Cloud
 

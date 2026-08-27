@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [disguise-self](disguise-self.md)
-
----
 
 # Przebranie siebie
 

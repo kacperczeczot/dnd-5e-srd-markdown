@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [conjure-animals](conjure-animals.md)
-
----
 
 # Przywołanie zwierząt
 

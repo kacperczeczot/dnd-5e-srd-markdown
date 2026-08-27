@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [street-justice](street-justice.md)
-
----
 
 # Uliczna sprawiedliwość
 

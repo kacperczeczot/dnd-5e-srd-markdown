@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [flesh-to-stone](flesh-to-stone.md)
-
----
 
 # Ciało w kamień
 

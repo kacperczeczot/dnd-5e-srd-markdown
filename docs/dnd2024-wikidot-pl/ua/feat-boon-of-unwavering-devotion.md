@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-unwavering-devotion](feat-boon-of-unwavering-devotion.md)
-
----
 
 # Dar niezachwianej oddaności (UA)
 

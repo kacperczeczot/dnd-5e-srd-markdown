@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-poison](protection-from-poison.md)
-
----
 
 # Protection from Poison
 

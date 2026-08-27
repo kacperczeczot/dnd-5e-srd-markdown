@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [war-caster](war-caster.md)
-
----
 
 # War Caster
 

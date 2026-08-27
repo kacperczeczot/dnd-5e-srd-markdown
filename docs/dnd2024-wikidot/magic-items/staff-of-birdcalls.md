@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-birdcalls](staff-of-birdcalls.md)
-
----
 
 # Staff of Birdcalls
 

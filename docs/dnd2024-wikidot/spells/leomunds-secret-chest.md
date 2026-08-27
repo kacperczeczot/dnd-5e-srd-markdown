@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [leomunds-secret-chest](leomunds-secret-chest.md)
-
----
 
 # Leomund's Secret Chest
 

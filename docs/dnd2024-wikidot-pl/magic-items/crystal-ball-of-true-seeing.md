@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball-of-true-seeing](crystal-ball-of-true-seeing.md)
-
----
 
 # Kula kryształowa prawdziwego widzenia
 

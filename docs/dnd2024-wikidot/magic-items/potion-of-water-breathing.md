@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-water-breathing](potion-of-water-breathing.md)
-
----
 
 # Potion of Water Breathing
 

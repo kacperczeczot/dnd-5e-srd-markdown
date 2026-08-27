@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [spellfire-adept](spellfire-adept.md)
-
----
 
 # Adept ognia czarów
 

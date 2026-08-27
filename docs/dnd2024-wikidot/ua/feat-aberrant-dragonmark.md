@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-aberrant-dragonmark](feat-aberrant-dragonmark.md)
-
----
 
 # Aberrant Dragonmark (UA)
 

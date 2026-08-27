@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dwarven-thrower](dwarven-thrower.md)
-
----
 
 # Dwarven Thrower
 

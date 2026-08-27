@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [crown-of-madness](crown-of-madness.md)
-
----
 
 # Crown Of Madness
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-hospitality](feat-mark-of-hospitality.md)
-
----
 
 # Piętno gościnności (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [glyph-of-warding](glyph-of-warding.md)
-
----
 
 # Glyph of Warding
 

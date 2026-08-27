@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [pl](README.md) > [spells](spells.md)
-
----
 
 # Czary
 

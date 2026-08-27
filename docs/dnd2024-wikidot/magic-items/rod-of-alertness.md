@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-alertness](rod-of-alertness.md)
-
----
 
 # Rod of Alertness
 

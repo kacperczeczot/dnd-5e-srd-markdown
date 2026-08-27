@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fortitude](boon-of-fortitude.md)
-
----
 
 # Boon of Fortitude
 

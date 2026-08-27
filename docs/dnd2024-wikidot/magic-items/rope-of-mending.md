@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-mending](rope-of-mending.md)
-
----
 
 # Rope of Mending
 

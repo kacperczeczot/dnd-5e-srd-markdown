@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [repeating-shot](repeating-shot.md)
-
----
 
 # Repeating Shot
 

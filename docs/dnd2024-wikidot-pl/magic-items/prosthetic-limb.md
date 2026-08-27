@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [prosthetic-limb](prosthetic-limb.md)
-
----
 
 # Proteza kończyny
 

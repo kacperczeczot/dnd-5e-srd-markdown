@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [meld-into-stone](meld-into-stone.md)
-
----
 
 # Meld into Stone
 

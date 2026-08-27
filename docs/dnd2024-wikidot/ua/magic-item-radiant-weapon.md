@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-radiant-weapon](magic-item-radiant-weapon.md)
-
----
 
 # Radiant Weapon (UA)
 

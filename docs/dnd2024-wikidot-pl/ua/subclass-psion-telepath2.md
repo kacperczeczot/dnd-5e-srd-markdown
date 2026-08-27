@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-telepath2](subclass-psion-telepath2.md)
-
----
 
 # Telepata (UA9 — 02.10.2025)
 

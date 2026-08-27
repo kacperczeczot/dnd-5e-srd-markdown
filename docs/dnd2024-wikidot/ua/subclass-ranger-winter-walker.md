@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-ranger-winter-walker](subclass-ranger-winter-walker.md)
-
----
 
 # Winter Walker (UA)
 

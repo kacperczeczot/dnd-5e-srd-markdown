@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-psykineticist](feat-psykineticist.md)
-
----
 
 # Psykineticist (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [commune-with-nature](commune-with-nature.md)
-
----
 
 # Commune With Nature
 

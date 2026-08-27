@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [resurrection](resurrection.md)
-
----
 
 # Resurrection
 

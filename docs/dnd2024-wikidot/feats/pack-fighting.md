@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [pack-fighting](pack-fighting.md)
-
----
 
 # Pack Fighting
 

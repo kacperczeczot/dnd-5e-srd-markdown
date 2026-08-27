@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [songal-s-elemental-suffusion](songal-s-elemental-suffusion.md)
-
----
 
 # Songal's Elemental Suffusion
 

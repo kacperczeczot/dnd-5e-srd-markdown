@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [magic-weapon](magic-weapon.md)
-
----
 
 # Magiczna broń
 

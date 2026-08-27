@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-rogue-phantom](subclass-rogue-phantom.md)
-
----
 
 # Phantom (UA)
 

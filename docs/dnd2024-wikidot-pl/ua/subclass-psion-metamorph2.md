@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-metamorph2](subclass-psion-metamorph2.md)
-
----
 
 # Metamorf (UA9 — 02.10.2025)
 

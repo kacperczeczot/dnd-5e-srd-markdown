@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-healing](potion-of-healing.md)
-
----
 
 # Mikstura leczenia
 

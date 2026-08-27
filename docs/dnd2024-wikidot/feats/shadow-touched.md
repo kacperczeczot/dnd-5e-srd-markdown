@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [shadow-touched](shadow-touched.md)
-
----
 
 # Shadow Touched
 

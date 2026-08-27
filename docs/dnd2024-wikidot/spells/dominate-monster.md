@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dominate-monster](dominate-monster.md)
-
----
 
 # Dominate Monster
 

@@ -1,6 +1,3 @@
-[Strona główna](../README.md) > [scripts](README.md) > [bastions_facilities_pl_part3](bastions_facilities_pl_part3.md)
-
----
 
 ### Relikwiarz []()
 

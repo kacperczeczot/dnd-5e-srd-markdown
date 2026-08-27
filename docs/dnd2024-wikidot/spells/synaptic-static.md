@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [synaptic-static](synaptic-static.md)
-
----
 
 # Synaptic Static
 

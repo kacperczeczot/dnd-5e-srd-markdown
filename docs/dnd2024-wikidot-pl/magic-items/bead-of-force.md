@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bead-of-force](bead-of-force.md)
-
----
 
 # Koralik mocy
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [shifting-combatant](shifting-combatant.md)
-
----
 
 # Shifting Combatant
 

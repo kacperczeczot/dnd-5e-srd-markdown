@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [compiled](README.md) > [dungeon-masters-guide-pl](dungeon-masters-guide-pl.md)
-
----
 
 # Podręcznik Mistrza Gry
 

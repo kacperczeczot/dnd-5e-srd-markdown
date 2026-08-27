@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-force](phantasmal-force.md)
-
----
 
 # Urojona siła
 

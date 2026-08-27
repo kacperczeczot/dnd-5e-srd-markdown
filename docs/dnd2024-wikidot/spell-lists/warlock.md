@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spell-lists](README.md) > [warlock](warlock.md)
-
----
 
 # Warlock Spell List
 

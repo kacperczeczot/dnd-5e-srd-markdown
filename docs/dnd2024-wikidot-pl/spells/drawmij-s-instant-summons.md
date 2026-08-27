@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [drawmij-s-instant-summons](drawmij-s-instant-summons.md)
-
----
 
 # Błyskawiczne przywołanie Drawmija
 

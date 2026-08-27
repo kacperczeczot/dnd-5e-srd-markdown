@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-of-expression](shield-of-expression.md)
-
----
 
 # Tarcza ekspresji
 

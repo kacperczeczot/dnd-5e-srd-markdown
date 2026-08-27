@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-the-ancients](paladin-oath-of-the-ancients.md)
-
----
 
 # Przysięga Pradawnych
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [charm-person](charm-person.md)
-
----
 
 # Charm Person
 

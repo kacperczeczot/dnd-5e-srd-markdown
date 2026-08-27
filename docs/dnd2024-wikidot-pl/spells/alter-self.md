@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [alter-self](alter-self.md)
-
----
 
 # Zmiana siebie
 

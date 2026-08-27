@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-storm](feat-greater-mark-of-storm.md)
-
----
 
 # Greater Mark of Storm (UA)
 

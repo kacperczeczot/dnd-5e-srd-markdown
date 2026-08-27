@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [second-skin](second-skin.md)
-
----
 
 # Second Skin
 

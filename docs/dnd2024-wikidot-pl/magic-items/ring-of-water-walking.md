@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-water-walking](ring-of-water-walking.md)
-
----
 
 # Pierścień chodzenia po wodzie
 

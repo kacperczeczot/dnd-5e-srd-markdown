@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [bard-college-of-spirits](bard-college-of-spirits.md)
-
----
 
 # College of Spirits
 

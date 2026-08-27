@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [locate-object](locate-object.md)
-
----
 
 # Locate Object
 

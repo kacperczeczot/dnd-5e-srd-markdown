@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-security](rod-of-security.md)
-
----
 
 # Berło azylu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-arcane-restoration](feat-arcane-restoration.md)
-
----
 
 # Arcane Restoration (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [raise-dead](raise-dead.md)
-
----
 
 # Raise Dead
 

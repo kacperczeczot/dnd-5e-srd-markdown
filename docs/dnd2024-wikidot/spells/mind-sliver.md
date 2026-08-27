@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mind-sliver](mind-sliver.md)
-
----
 
 # Mind Sliver
 

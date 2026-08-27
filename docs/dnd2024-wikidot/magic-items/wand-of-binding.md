@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-binding](wand-of-binding.md)
-
----
 
 # Wand of Binding
 

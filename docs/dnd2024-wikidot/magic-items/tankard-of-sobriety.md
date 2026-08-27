@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tankard-of-sobriety](tankard-of-sobriety.md)
-
----
 
 # Tankard of Sobriety
 

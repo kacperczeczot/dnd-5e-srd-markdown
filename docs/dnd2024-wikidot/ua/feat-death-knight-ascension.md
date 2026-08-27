@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-death-knight-ascension](feat-death-knight-ascension.md)
-
----
 
 # Death Knight Ascension (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [armor-of-gleaming](armor-of-gleaming.md)
-
----
 
 # Armor of Gleaming
 

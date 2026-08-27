@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [tactical-combatant](tactical-combatant.md)
-
----
 
 # Taktyczny wojownik
 

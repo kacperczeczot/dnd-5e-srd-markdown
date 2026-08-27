@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [otilukes-resilient-sphere](otilukes-resilient-sphere.md)
-
----
 
 # Sprężysta sfera Otiluke’a
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ammunition-1-2-or-3](ammunition-1-2-or-3.md)
-
----
 
 # Amunicja +1, +2 lub +3
 

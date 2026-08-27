@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [child-of-the-sun](child-of-the-sun.md)
-
----
 
 # Dziecko słońca
 

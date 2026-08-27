@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [berserker-axe](berserker-axe.md)
-
----
 
 # Topór berserkera
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-striking](staff-of-striking.md)
-
----
 
 # Kostur uderzenia
 

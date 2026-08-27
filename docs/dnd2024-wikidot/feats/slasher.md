@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [slasher](slasher.md)
-
----
 
 # Slasher
 

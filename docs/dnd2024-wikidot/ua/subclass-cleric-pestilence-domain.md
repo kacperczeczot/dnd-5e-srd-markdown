@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-pestilence-domain](subclass-cleric-pestilence-domain.md)
-
----
 
 # Pestilence Domain (UA)
 

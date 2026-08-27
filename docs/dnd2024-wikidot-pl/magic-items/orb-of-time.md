@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [orb-of-time](orb-of-time.md)
-
----
 
 # Kula czasu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [speak-with-plants](speak-with-plants.md)
-
----
 
 # Speak with Plants
 

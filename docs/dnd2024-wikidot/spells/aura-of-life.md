@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [aura-of-life](aura-of-life.md)
-
----
 
 # Aura of Life
 

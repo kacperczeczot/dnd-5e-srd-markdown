@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [planar-ally](planar-ally.md)
-
----
 
 # Planar Ally
 

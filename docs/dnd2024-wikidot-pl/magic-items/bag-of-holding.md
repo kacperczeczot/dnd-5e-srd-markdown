@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-holding](bag-of-holding.md)
-
----
 
 # Torba przechowywania
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-telepath](subclass-psion-telepath.md)
-
----
 
 # Telepath (UA)
 

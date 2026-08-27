@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-fireballs](wand-of-fireballs.md)
-
----
 
 # Wand of Fireballs
 

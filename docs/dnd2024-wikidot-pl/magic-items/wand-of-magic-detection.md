@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-magic-detection](wand-of-magic-detection.md)
-
----
 
 # Różdżka wykrywania magii
 

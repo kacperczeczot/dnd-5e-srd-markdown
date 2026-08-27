@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [winged-boots](winged-boots.md)
-
----
 
 # Winged Boots
 

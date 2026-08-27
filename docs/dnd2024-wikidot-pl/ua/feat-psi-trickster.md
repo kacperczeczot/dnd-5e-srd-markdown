@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-psi-trickster](feat-psi-trickster.md)
-
----
 
 # Psi-oszust (UA)
 

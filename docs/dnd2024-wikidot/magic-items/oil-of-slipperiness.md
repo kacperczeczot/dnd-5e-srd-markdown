@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-slipperiness](oil-of-slipperiness.md)
-
----
 
 # Oil of Slipperiness
 

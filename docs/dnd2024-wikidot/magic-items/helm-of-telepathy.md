@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-telepathy](helm-of-telepathy.md)
-
----
 
 # Helm of Telepathy
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-of-the-cavalier](shield-of-the-cavalier.md)
-
----
 
 # Shield of the Cavalier
 

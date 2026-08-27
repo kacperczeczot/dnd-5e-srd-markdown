@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-hospitality](greater-mark-of-hospitality.md)
-
----
 
 # Większe piętno gościnności
 

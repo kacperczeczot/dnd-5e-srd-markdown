@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-paladin-oathbreaker](subclass-paladin-oathbreaker.md)
-
----
 
 # Łamacz Przysięgi (UA)
 

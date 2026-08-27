@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spell-lists](README.md) > [sorcerer](sorcerer.md)
-
----
 
 # Sorcerer Spell List
 

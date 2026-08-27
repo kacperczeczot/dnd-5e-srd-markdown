@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-the-stilled-tongue](tome-of-the-stilled-tongue.md)
-
----
 
 # Tome of the Stilled Tongue
 

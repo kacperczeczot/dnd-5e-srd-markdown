@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-elemental-command](ring-of-elemental-command.md)
-
----
 
 # Pierścień władzy nad żywiołami
 

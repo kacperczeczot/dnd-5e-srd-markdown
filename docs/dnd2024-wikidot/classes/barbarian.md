@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [classes](README.md) > [barbarian](barbarian.md)
-
----
 
 # Barbarian
 

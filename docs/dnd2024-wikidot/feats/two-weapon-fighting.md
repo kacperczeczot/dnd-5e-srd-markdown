@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [two-weapon-fighting](two-weapon-fighting.md)
-
----
 
 # Two Weapon Fighting
 

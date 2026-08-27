@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-the-winterlands](boots-of-the-winterlands.md)
-
----
 
 # Boots of the Winterlands
 

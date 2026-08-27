@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-skill](boon-of-skill.md)
-
----
 
 # Dar umiejętności
 

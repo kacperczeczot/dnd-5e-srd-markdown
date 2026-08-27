@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [pl](README.md) > [equipment](equipment.md)
-
----
 
 # Wyposażenie
 

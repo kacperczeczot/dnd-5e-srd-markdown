@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [brooch-of-shielding](brooch-of-shielding.md)
-
----
 
 # Brosza osłony
 

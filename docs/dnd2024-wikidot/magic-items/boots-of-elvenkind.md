@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-elvenkind](boots-of-elvenkind.md)
-
----
 
 # Boots of Elvenkind
 

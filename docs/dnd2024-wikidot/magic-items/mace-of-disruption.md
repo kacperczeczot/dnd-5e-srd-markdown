@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mace-of-disruption](mace-of-disruption.md)
-
----
 
 # Mace of Disruption
 

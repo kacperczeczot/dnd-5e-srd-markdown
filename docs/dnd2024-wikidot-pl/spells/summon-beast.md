@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [summon-beast](summon-beast.md)
-
----
 
 # Przywołanie bestii
 

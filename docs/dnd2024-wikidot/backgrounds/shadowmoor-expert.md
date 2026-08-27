@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [shadowmoor-expert](shadowmoor-expert.md)
-
----
 
 # Shadowmoor Expert
 

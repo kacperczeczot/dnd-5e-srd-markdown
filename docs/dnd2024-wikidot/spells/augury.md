@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [augury](augury.md)
-
----
 
 # Augury
 

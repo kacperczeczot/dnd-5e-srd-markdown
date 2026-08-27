@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wraps-of-unarmed-power](wraps-of-unarmed-power.md)
-
----
 
 # Wraps of Unarmed Power
 

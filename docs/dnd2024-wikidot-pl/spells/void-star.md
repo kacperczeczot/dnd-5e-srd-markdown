@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [void-star](void-star.md)
-
----
 
 # Gwiazda pustki
 

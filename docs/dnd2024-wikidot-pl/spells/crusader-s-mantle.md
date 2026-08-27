@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [crusader-s-mantle](crusader-s-mantle.md)
-
----
 
 # Płaszcz krzyżowca
 

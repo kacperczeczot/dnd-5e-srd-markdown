@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-stars](robe-of-stars.md)
-
----
 
 # Robe of Stars
 

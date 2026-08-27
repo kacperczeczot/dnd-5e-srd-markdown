@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [phantasmal-killer](phantasmal-killer.md)
-
----
 
 # Phantasmal Killer
 

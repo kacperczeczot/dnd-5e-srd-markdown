@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-slayer](dragon-slayer.md)
-
----
 
 # Pogromca smoków
 

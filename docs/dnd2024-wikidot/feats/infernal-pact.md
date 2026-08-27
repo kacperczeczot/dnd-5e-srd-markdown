@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [infernal-pact](infernal-pact.md)
-
----
 
 # Infernal Pact
 

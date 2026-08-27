@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [class-artificer](class-artificer.md)
-
----
 
 # Artificer (UA1 17.12.2024)
 

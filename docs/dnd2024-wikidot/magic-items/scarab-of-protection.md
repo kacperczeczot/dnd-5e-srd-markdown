@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [scarab-of-protection](scarab-of-protection.md)
-
----
 
 # Scarab of Protection
 

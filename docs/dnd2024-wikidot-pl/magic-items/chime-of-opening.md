@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [chime-of-opening](chime-of-opening.md)
-
----
 
 # Dzwonek otwierania
 

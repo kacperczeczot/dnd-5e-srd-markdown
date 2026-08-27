@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-swimming-and-climbing](gloves-of-swimming-and-climbing.md)
-
----
 
 # Gloves of Swimming and Climbing
 

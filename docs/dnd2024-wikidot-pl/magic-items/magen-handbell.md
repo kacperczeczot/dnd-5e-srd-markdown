@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [magen-handbell](magen-handbell.md)
-
----
 
 # Dzwonek magena
 

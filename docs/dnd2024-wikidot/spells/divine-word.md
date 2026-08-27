@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [divine-word](divine-word.md)
-
----
 
 # Divine Word
 

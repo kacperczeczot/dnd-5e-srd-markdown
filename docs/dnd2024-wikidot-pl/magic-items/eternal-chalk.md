@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eternal-chalk](eternal-chalk.md)
-
----
 
 # Wieczna kreda
 

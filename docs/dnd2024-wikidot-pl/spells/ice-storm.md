@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [ice-storm](ice-storm.md)
-
----
 
 # Burza lodu
 

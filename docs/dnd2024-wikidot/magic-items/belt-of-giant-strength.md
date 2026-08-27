@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [belt-of-giant-strength](belt-of-giant-strength.md)
-
----
 
 # Belt of Giant Strength
 

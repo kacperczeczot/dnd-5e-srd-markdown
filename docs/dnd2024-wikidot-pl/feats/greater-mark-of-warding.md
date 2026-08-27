@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-warding](greater-mark-of-warding.md)
-
----
 
 # Większe piętno ochrony
 

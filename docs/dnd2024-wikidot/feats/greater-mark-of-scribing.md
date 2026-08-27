@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-scribing](greater-mark-of-scribing.md)
-
----
 
 # Greater Mark of Scribing
 

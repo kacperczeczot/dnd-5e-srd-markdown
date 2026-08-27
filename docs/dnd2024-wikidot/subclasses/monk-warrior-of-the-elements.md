@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [monk-warrior-of-the-elements](monk-warrior-of-the-elements.md)
-
----
 
 # Warrior of the Elements
 

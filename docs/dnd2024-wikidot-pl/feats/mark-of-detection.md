@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-detection](mark-of-detection.md)
-
----
 
 # Piętno wykrywania
 

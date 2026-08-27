@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [calimemnon-crystal](calimemnon-crystal.md)
-
----
 
 # Kryształ Calimemnon
 

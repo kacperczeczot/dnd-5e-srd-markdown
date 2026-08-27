@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [animated-shield](animated-shield.md)
-
----
 
 # Animated Shield
 

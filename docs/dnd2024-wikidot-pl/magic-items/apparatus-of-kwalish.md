@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [apparatus-of-kwalish](apparatus-of-kwalish.md)
-
----
 
 # Aparat Kwalisha
 

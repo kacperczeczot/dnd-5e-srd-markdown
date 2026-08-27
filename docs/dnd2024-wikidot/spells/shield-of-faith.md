@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [shield-of-faith](shield-of-faith.md)
-
----
 
 # Shield of Faith
 

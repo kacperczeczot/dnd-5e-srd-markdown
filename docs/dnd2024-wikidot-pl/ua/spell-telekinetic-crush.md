@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-telekinetic-crush](spell-telekinetic-crush.md)
-
----
 
 # Telekinetyczne zgniecenie (UA)
 

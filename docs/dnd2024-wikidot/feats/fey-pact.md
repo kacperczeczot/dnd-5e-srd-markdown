@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [fey-pact](fey-pact.md)
-
----
 
 # Fey Pact
 

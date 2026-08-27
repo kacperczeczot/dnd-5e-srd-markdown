@@ -1,6 +1,3 @@
-[Strona główna](../README.md) > [Dokumentacja](README.md)
-
----
 
 # Dokumentacja i Kompendium Zasad D&D 5e
 

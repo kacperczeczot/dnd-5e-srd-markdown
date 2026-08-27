@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-ego-whip](spell-ego-whip.md)
-
----
 
 # Bicz ego (UA)
 

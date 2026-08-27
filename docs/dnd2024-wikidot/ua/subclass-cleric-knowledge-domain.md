@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-knowledge-domain](subclass-cleric-knowledge-domain.md)
-
----
 
 # Knowledge Domain (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [crown-of-horns](crown-of-horns.md)
-
----
 
 # Crown Of Horns
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [savage-attacker](savage-attacker.md)
-
----
 
 # Savage Attacker
 

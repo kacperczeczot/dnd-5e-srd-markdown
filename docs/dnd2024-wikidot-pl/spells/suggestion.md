@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [suggestion](suggestion.md)
-
----
 
 # Sugestia
 

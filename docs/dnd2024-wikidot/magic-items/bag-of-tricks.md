@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-tricks](bag-of-tricks.md)
-
----
 
 # Bag of Tricks
 

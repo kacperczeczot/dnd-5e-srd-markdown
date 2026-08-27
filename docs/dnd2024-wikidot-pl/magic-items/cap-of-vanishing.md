@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cap-of-vanishing](cap-of-vanishing.md)
-
----
 
 # Czapka zniknięcia
 

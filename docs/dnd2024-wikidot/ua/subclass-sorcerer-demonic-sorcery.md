@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-demonic-sorcery](subclass-sorcerer-demonic-sorcery.md)
-
----
 
 # Demonic Sorcery (UA12 02.04.2026)
 

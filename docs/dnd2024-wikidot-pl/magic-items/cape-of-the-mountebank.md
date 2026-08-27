@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cape-of-the-mountebank](cape-of-the-mountebank.md)
-
----
 
 # Peleryna szarlatana
 

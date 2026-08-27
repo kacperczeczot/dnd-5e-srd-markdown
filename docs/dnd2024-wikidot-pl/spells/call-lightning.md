@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [call-lightning](call-lightning.md)
-
----
 
 # Wezwanie błyskawicy
 

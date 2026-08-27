@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-wild-heart](barbarian-path-of-the-wild-heart.md)
-
----
 
 # Ścieżka Dzikiego Serca
 

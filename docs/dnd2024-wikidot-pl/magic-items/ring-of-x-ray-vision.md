@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-x-ray-vision](ring-of-x-ray-vision.md)
-
----
 
 # Pierścień widzenia rentgenowskiego
 

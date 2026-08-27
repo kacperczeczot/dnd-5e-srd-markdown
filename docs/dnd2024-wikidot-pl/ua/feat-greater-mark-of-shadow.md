@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-shadow](feat-greater-mark-of-shadow.md)
-
----
 
 # Większe piętno cienia (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [calm-emotions](calm-emotions.md)
-
----
 
 # Wyciszenie emocji
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [astral-projection](astral-projection.md)
-
----
 
 # Projekcja astralna
 

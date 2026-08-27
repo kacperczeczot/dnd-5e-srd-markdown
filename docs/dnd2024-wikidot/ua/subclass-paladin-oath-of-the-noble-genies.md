@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-paladin-oath-of-the-noble-genies](subclass-paladin-oath-of-the-noble-genies.md)
-
----
 
 # Oath of the Noble Genies (UA)
 

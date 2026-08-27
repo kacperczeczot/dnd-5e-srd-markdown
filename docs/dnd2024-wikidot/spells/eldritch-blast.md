@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [eldritch-blast](eldritch-blast.md)
-
----
 
 # Eldritch Blast
 

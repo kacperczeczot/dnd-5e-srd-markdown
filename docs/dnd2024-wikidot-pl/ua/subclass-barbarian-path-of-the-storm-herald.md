@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-storm-herald](subclass-barbarian-path-of-the-storm-herald.md)
-
----
 
 # Ścieżka Herolda Burzy (UA)
 

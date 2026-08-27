@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [leomund-s-lamentable-belaborment](leomund-s-lamentable-belaborment.md)
-
----
 
 # Żałosne docinki Leomunda
 

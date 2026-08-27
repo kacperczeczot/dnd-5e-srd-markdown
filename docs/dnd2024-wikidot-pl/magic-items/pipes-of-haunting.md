@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-haunting](pipes-of-haunting.md)
-
----
 
 # Fletnie upiornych melodii
 

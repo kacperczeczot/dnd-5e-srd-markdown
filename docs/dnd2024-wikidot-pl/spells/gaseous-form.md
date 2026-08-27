@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [gaseous-form](gaseous-form.md)
-
----
 
 # Forma gazowa
 

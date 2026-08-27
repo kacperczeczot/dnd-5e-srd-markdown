@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [sleet-storm](sleet-storm.md)
-
----
 
 # Śnieżyca
 

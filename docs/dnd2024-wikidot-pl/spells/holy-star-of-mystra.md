@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [holy-star-of-mystra](holy-star-of-mystra.md)
-
----
 
 # Święta gwiazda Mystry
 

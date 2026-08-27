@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [carpet-of-flying](carpet-of-flying.md)
-
----
 
 # Dywan latający
 

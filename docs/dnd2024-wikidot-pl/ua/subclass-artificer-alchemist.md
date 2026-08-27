@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-alchemist](subclass-artificer-alchemist.md)
-
----
 
 # Alchemik (UA)
 

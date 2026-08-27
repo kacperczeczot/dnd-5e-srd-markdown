@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [plane-shift](plane-shift.md)
-
----
 
 # Sferalny przeskok
 

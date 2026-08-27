@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-mind-sharpener](magic-item-mind-sharpener.md)
-
----
 
 # Mind Sharpener (UA)
 

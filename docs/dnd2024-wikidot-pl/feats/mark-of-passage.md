@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-passage](mark-of-passage.md)
-
----
 
 # Piętno przemijania
 

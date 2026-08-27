@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-mental-prison](spell-mental-prison.md)
-
----
 
 # Mentalne więzienie (UA)
 

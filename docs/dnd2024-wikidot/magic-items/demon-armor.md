@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [demon-armor](demon-armor.md)
-
----
 
 # Demon Armor
 

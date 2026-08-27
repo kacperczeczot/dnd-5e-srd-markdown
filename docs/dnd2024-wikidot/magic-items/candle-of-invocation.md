@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [candle-of-invocation](candle-of-invocation.md)
-
----
 
 # Candle of Invocation
 

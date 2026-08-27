@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-blazing-dawn](boon-of-blazing-dawn.md)
-
----
 
 # Dar płomiennego świtu
 

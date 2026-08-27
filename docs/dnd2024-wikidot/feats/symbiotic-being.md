@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [symbiotic-being](symbiotic-being.md)
-
----
 
 # Symbiotic Being
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [transmutation-school](transmutation-school.md)
-
----
 
 # Transmutation Spells
 

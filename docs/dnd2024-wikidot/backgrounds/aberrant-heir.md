@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [aberrant-heir](aberrant-heir.md)
-
----
 
 # Aberrant Heir
 

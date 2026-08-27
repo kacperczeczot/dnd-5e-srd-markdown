@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [lightly-armored](lightly-armored.md)
-
----
 
 # Lightly Armored
 

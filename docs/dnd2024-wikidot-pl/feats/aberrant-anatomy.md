@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [aberrant-anatomy](aberrant-anatomy.md)
-
----
 
 # Anatomia aberracyjna
 

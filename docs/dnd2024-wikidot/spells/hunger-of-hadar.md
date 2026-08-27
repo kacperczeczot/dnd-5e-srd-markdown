@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [hunger-of-hadar](hunger-of-hadar.md)
-
----
 
 # Hunger of Hadar
 

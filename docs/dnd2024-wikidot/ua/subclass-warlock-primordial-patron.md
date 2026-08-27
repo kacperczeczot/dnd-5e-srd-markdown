@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-primordial-patron](subclass-warlock-primordial-patron.md)
-
----
 
 # Primordial Patron (UA)
 

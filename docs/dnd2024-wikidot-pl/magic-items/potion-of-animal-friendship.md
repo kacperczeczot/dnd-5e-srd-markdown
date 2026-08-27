@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-animal-friendship](potion-of-animal-friendship.md)
-
----
 
 # Mikstura przyjaźni ze zwierzętami
 

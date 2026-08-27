@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [keoghtom-s-ointment](keoghtom-s-ointment.md)
-
----
 
 # Keoghtom's Ointment
 

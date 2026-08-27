@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [clothes-of-mending](clothes-of-mending.md)
-
----
 
 # Ubranie samonaprawiające się
 

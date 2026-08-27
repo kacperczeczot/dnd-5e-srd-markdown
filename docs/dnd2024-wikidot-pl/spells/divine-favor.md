@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [divine-favor](divine-favor.md)
-
----
 
 # Boska łaska
 

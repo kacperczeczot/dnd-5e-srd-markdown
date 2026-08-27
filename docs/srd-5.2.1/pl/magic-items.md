@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [pl](README.md) > [magic-items](magic-items.md)
-
----
 
 # Przedmioty magiczne
 

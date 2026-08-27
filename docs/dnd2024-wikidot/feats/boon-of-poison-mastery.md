@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-poison-mastery](boon-of-poison-mastery.md)
-
----
 
 # Boon of Poison Mastery
 

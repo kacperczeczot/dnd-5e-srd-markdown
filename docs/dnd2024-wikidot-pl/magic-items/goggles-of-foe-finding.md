@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [goggles-of-foe-finding](goggles-of-foe-finding.md)
-
----
 
 # Okulary namierzania wrogów
 

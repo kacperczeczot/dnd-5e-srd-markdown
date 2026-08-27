@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-sentinel](feat-mark-of-sentinel.md)
-
----
 
 # Mark of Sentinel (UA)
 

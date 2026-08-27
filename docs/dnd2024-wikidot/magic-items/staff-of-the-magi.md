@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-magi](staff-of-the-magi.md)
-
----
 
 # Staff of the Magi
 

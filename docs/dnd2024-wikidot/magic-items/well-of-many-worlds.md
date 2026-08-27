@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [well-of-many-worlds](well-of-many-worlds.md)
-
----
 
 # Well of Many Worlds
 

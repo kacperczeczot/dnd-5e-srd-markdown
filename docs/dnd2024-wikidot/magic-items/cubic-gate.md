@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cubic-gate](cubic-gate.md)
-
----
 
 # Cubic Gate
 

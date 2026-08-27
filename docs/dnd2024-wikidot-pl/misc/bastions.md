@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [misc](README.md) > [bastions](bastions.md)
-
----
 
 # Bastions
 

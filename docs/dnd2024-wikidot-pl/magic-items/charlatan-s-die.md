@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [charlatan-s-die](charlatan-s-die.md)
-
----
 
 # Kość szarlatana
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-jumping](ring-of-jumping.md)
-
----
 
 # Pierścień skoków
 

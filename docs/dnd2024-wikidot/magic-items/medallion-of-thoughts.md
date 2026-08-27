@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [medallion-of-thoughts](medallion-of-thoughts.md)
-
----
 
 # Medallion of Thoughts
 

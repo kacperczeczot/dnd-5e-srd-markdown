@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [glossary](README.md) > [czary-tlumaczenie](czary-tlumaczenie.md)
-
----
 
 # Lista czarów – Alfabetyczna
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-dimensional-travel](boon-of-dimensional-travel.md)
-
----
 
 # Boon of Dimensional Travel
 

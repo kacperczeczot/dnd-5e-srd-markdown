@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [dragon-cultist](dragon-cultist.md)
-
----
 
 # Kultysta smoka
 

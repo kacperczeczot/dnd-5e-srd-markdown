@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [sources](README.md) > [5e-SRD_v1.0](5e-SRD_v1.0.md)
-
----
 
 ## Wyciąg z zasad SRD 5.1
 

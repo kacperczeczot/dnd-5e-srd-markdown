@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [circle-of-death](circle-of-death.md)
-
----
 
 # Krąg śmierci
 

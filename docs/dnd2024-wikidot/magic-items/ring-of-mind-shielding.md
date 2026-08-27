@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-mind-shielding](ring-of-mind-shielding.md)
-
----
 
 # Ring of Mind Shielding
 

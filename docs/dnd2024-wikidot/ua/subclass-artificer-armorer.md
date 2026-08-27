@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-armorer](subclass-artificer-armorer.md)
-
----
 
 # Armorer (UA)
 

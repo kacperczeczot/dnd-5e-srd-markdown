@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [shield-master](shield-master.md)
-
----
 
 # Shield Master
 

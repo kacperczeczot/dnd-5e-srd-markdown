@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-healing](mark-of-healing.md)
-
----
 
 # Mark of Healing
 

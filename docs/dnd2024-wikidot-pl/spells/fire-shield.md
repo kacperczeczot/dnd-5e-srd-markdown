@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [fire-shield](fire-shield.md)
-
----
 
 # Tarcza ognia
 

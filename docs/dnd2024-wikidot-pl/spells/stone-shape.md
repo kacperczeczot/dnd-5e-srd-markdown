@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [stone-shape](stone-shape.md)
-
----
 
 # Kamienny kształt
 

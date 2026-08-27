@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-fey-wanderer](ranger-fey-wanderer.md)
-
----
 
 # Wędrowiec z Krainy Fey
 

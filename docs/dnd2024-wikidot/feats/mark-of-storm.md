@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-storm](mark-of-storm.md)
-
----
 
 # Mark of Storm
 

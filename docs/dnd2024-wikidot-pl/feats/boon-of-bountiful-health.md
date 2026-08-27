@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-bountiful-health](boon-of-bountiful-health.md)
-
----
 
 # Dar obfitego zdrowia
 

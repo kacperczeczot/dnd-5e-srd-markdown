@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-bleeding-darkness](spell-bleeding-darkness.md)
-
----
 
 # Bleeding Darkness (UA)
 

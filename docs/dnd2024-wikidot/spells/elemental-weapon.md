@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [elemental-weapon](elemental-weapon.md)
-
----
 
 # Elemental Weapon
 

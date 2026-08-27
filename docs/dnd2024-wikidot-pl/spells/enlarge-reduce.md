@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [enlarge-reduce](enlarge-reduce.md)
-
----
 
 # Powiększenie/Pomniejszenie
 

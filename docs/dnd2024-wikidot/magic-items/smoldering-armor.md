@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [smoldering-armor](smoldering-armor.md)
-
----
 
 # Smoldering Armor
 

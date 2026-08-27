@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-venom](subclass-monk-warrior-of-venom.md)
-
----
 
 # Wojownik Jadu (UA)
 

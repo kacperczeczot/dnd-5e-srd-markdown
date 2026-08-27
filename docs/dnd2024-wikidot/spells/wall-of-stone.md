@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-stone](wall-of-stone.md)
-
----
 
 # Wall of Stone
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mind-sharpener](mind-sharpener.md)
-
----
 
 # Mind Sharpener
 

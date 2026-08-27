@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [chondathan-freebooter](chondathan-freebooter.md)
-
----
 
 # Chondathański wolny strzelec
 

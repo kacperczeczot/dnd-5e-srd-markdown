@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [haunted-one](haunted-one.md)
-
----
 
 # Haunted One
 

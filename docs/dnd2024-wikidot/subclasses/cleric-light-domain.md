@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-light-domain](cleric-light-domain.md)
-
----
 
 # Light Domain
 

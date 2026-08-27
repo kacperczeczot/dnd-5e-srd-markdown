@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [wrathful-smite](wrathful-smite.md)
-
----
 
 # Wrathful Smite
 

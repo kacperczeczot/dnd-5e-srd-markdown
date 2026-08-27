@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-pugilism](potion-of-pugilism.md)
-
----
 
 # Potion of Pugilism
 

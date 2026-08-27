@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [medium-armor-master](medium-armor-master.md)
-
----
 
 # Mistrz średniego pancerza
 

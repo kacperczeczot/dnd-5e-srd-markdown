@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [bard-college-of-glamour](bard-college-of-glamour.md)
-
----
 
 # Kolegium Powabu
 

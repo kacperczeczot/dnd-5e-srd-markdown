@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-vadalis-heir](house-vadalis-heir.md)
-
----
 
 # House Vadalis Heir
 

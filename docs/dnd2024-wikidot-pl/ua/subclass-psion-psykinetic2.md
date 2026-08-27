@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-psykinetic2](subclass-psion-psykinetic2.md)
-
----
 
 # Psykinetyk (UA9 — 02.10.2025)
 

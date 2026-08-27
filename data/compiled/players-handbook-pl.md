@@ -1,7 +1,3 @@
-[Strona główna](../../README.md) > [compiled](README.md) > [players-handbook-pl](players-handbook-pl.md)
-
----
-
 # Podręcznik Gracza
 
 ## Spis treści
@@ -26,20 +22,84 @@
   - [Drobiazgi](#drobiazgi)
 - [Rozdz. 3: Klasy postaci](#rozdz-3-klasy-postaci)
   - [Barbarzyńca](#barbarzyńca)
+  - [Ścieżka berserkera](#ścieżka-berserkera-1)
+  - [Ścieżka Dzikiego Serca](#ścieżka-dzikiego-serca-1)
+  - [Ścieżka Drzewa Światów](#ścieżka-drzewa-światów-1)
+  - [Ścieżka Zeloty](#ścieżka-zeloty-1)
   - [Bard](#bard)
+  - [Kolegium Tańca](#kolegium-tańca-1)
+  - [Kolegium Powabu](#kolegium-powabu-1)
+  - [Kolegium mądrości](#kolegium-mądrości-1)
+  - [Kolegium męstwa](#kolegium-męstwa-1)
   - [Czarownik](#czarownik)
+  - [Patron Archifeya](#patron-archifeya-1)
+  - [Patron Niebiański](#patron-niebiański-1)
+  - [Patron Czart](#patron-czart-1)
+  - [Patron Pradawnego](#patron-pradawnego-1)
   - [Druid](#druid)
+  - [Krąg Ziemi](#krąg-ziemi-1)
+  - [Krąg księżyca](#krąg-księżyca-1)
+  - [Krąg morza](#krąg-morza-1)
+  - [Krąg gwiazd](#krąg-gwiazd-1)
   - [Kleryk](#kleryk)
+  - [Domena życia](#domena-życia-1)
+  - [Domena światła](#domena-światła-1)
+  - [Domena oszustwa](#domena-oszustwa-1)
+  - [Domena wojny](#domena-wojny-1)
   - [Łotr](#łotr)
+  - [Mistyczny oszust](#mistyczny-oszust-1)
+  - [Skrytobójca](#skrytobójca-1)
+  - [Nożownik Duszy](#nożownik-duszy-1)
+  - [Złodziej](#złodziej-1)
   - [Łowca](#łowca)
+  - [Władca zwierząt](#władca-zwierząt-1)
+  - [Wędrowiec z Krainy Fey](#wędrowiec-z-krainy-fey-1)
+  - [Mroczny Tropiciel](#mroczny-tropiciel-1)
+  - [Myśliwy](#myśliwy-1)
   - [Mag](#mag)
+  - [Odrzucacz](#odrzucacz-1)
+  - [Wróżbita](#wróżbita-1)
+  - [Wywoływacz](#wywoływacz-1)
+  - [Iluzjonista](#iluzjonista-1)
   - [Mnich](#mnich)
+  - [Wojownik Miłosierdzia](#wojownik-miłosierdzia-1)
+  - [Wojownik Cienia](#wojownik-cienia-1)
+  - [Wojownik Żywiołów](#wojownik-żywiołów-1)
+  - [Wojownik Otwartej Dłoni](#wojownik-otwartej-dłoni-1)
   - [Paladyn](#paladyn)
+  - [Przysięga Gorliwości](#przysięga-gorliwości-1)
+  - [Przysięga Chwały](#przysięga-chwały-1)
+  - [Przysięga Pradawnych](#przysięga-pradawnych-1)
+  - [Przysięga Zemsty](#przysięga-zemsty-1)
   - [Wojownik](#wojownik)
+  - [Mistrz bitew](#mistrz-bitew-1)
+  - [Czempion](#czempion-1)
+  - [Mistyczny rycerz](#mistyczny-rycerz-1)
+  - [Wojownik psioniki](#wojownik-psioniki-1)
   - [Zaklinacz](#zaklinacz)
+  - [Magia Aberacji](#magia-aberacji-1)
+  - [Magia Zegara](#magia-zegara-1)
+  - [Magia smoka](#magia-smoka-1)
+  - [Dzika magia](#dzika-magia-1)
 - [Rozdz. 4: Pochodzenie postaci](#rozdz-4-pochodzenie-postaci)
   - [Elementy pochodzenia](#elementy-pochodzenia)
   - [Opisy pochodzeń](#opisy-pochodzeń)
+  - [Akolita](#akolita-1)
+  - [Artysta](#artysta-1)
+  - [Kupiec](#kupiec-1)
+  - [Marynarz](#marynarz-1)
+  - [Mędrzec](#mędrzec-1)
+  - [Przestępca](#przestępca-1)
+  - [Przewodnik](#przewodnik-1)
+  - [Pustelnik](#pustelnik-1)
+  - [Rolnik](#rolnik-1)
+  - [Rzemieślnik](#rzemieślnik-1)
+  - [Skryba](#skryba-1)
+  - [Strażnik](#strażnik-1)
+  - [Szarlatan](#szarlatan-1)
+  - [Szlachcic](#szlachcic-1)
+  - [Wędrowiec](#wędrowiec-1)
+  - [Żołnierz](#żołnierz-1)
   - [Opisy gatunków](#opisy-gatunków)
 - [Rozdz. 5: Atuty](#rozdz-5-atuty)
   - [Opisy atutów](#opisy-atutów)
@@ -3123,6 +3183,16 @@ Gdy tworzysz postać, możesz raz rzucić na tabeli Drobiazgi, aby zyskać drobn
 
 ### Barbarzyńca
 
+#### Barbarzyńca
+
+**Klasa:** Barbarzyńca
+**URL źródła:** http://dnd2024.wikidot.com/barbarian:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 Barbarzyńcy to potężni wojownicy napędzani prymitywnymi siłami multiwersum, które manifestują się jako Szał. To coś więcej niż emocja — i nie ograniczone do gniewu — ten Szał jest ucieleśnieniem dzikości drapieżnika, wściekłości burzy i wzburzenia morza.
 
 Niektórzy barbarzyńcy uosabiają swój Szał jako dzikiego ducha lub czczonego przodka. Inni widzą w nim związek z bólem i cierpieniem świata, bezosobowy węzeł dzikiej magii albo wyraz najgłębszej jaźni. Dla każdego barbarzyńcy Szał to moc napędzająca nie tylko sprawność bojową, lecz także nadnaturalne refleksy i wyostrzone zmysły.
@@ -3232,10 +3302,10 @@ Zyskujesz podklasę barbarzyńcy według własnego wyboru. Podklasy są opisane 
 
 | Podklasa |
 | --- |
-| [Ścieżka berserkera](#ścieżka-berserkera) |
-| [Ścieżka Dzikiego Serca](#ścieżka-dzikiego-serca) |
-| [Ścieżka Drzewa Światów](#ścieżka-drzewa-światów) |
-| [Ścieżka Zelota](#ścieżka-zeloty) |
+| [Ścieżka berserkera](#ścieżka-berserkera-1) |
+| [Ścieżka Dzikiego Serca](#ścieżka-dzikiego-serca-1) |
+| [Ścieżka Drzewa Światów](#ścieżka-drzewa-światów-1) |
+| [Ścieżka Zelota](#ścieżka-zeloty-1) |
 
 ###### Poziom 3: Pierwotna wiedza
 
@@ -3245,7 +3315,7 @@ Dodatkowo, gdy twój Szał jest aktywny, możesz ukierunkować prymitywną moc p
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach barbarzyńcy 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach barbarzyńcy 8, 12 i 16.
 
 ###### Poziom 5: Dodatkowy atak
 
@@ -3301,13 +3371,23 @@ Jeśli suma twojego testu Siły lub rzutu obronnego na Siłę jest mniejsza niż
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar nieodpartej ofensywy](#dar-nieodpartej-ofensywy).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar nieodpartej ofensywy](#dar-nieodpartej-ofensywy-1).
 
 ###### Poziom 20: Pierwotny czempion
 
 Uosabiasz prymitywną moc. Twoje wartości Siły i Kondycji zwiększają się o 4, do maksymalnie 25.
 
 #### Ścieżka berserkera
+
+### Ścieżka berserkera
+
+**Klasa:** Barbarzyńca
+**URL źródła:** http://dnd2024.wikidot.com/barbarian:path-of-the-berserker
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 ##### Podklasa barbarzyńcy: Ścieżka berserkera
 
@@ -3335,13 +3415,23 @@ Po użyciu tej zdolności nie możesz jej użyć ponownie, dopóki nie zakończy
 
 #### Ścieżka Dzikiego Serca
 
+### Ścieżka Dzikiego Serca
+
+**Klasa:** Barbarzyńca
+**URL źródła:** http://dnd2024.wikidot.com/barbarian:path-of-the-wild-heart
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Krocz w wspólnocie ze światem zwierząt*
 
 Barbarzyńcy podążający Ścieżką Dzikiego Serca postrzegają siebie jako spokrewnionych ze zwierzętami. Uczą się magicznych sposobów komunikacji ze zwierzętami, a ich Szał wzmacnia więź ze zwierzętami, napełniając ich nadnaturalną mocą.
 
 ##### Poziom 3: Mówca zwierząt
 
-Możesz rzucać czary [Zwierzęce zmysły](#zwierzęce-zmysły) i [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami), ale tylko jako rytuały. Mądrość jest twoją cechą rzucania tych czarów.
+Możesz rzucać czary [Zwierzęce zmysły](#zwierzęce-zmysły-1) i [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1), ale tylko jako rytuały. Mądrość jest twoją cechą rzucania tych czarów.
 
 ##### Poziom 3: Szał dziczy
 
@@ -3365,7 +3455,7 @@ Zyskujesz jedną z następujących opcji według własnego wyboru. Za każdym ra
 
 ##### Poziom 10: Mówca natury
 
-Możesz rzucać czar [Kontakt z naturą](#kontakt-z-naturą), ale tylko jako rytuał. Mądrość jest twoją cechą rzucania tego czaru.
+Możesz rzucać czar [Kontakt z naturą](#kontakt-z-naturą-1), ale tylko jako rytuał. Mądrość jest twoją cechą rzucania tego czaru.
 
 ##### Poziom 14: Moc dziczy
 
@@ -3378,6 +3468,16 @@ Za każdym razem, gdy aktywujesz Szał, zyskujesz jedną z następujących opcji
 **Baran.** Dopóki twój Szał jest aktywny, możesz sprawić, że istota Duża lub mniejsza uzyska stan powalony, gdy trafisz ją atakiem w walce wręcz.
 
 #### Ścieżka Drzewa Światów
+
+### Ścieżka Drzewa Światów
+
+**Klasa:** Barbarzyńca
+**URL źródła:** http://dnd2024.wikidot.com/barbarian:path-of-the-world-tree
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Podążaj korzeniami i gałęziami multiwersum*
 
@@ -3404,6 +3504,16 @@ W swojej turze twój zasięg jest o 3 metry większy z każdą bronią do walki 
 Gdy aktywujesz Szał oraz akcją dodatkową, dopóki twój Szał jest aktywny, możesz teleportować się na odległość do 18 metrów do niezajętej przestrzeni, którą widzisz. Ponadto raz na Szał możesz zwiększyć zasięg tej teleportacji do 45 metrów. Gdy to robisz, możesz również zabrać ze sobą do sześciu chętnych istot w promieniu 3 metrów od ciebie. Każda istota teleportuje się do niezajętej przestrzeni według twojego wyboru w promieniu 3 metrów od miejsca docelowego.
 
 #### Ścieżka Zeloty
+
+### Ścieżka Zeloty
+
+**Klasa:** Barbarzyńca
+**URL źródła:** http://dnd2024.wikidot.com/barbarian:path-of-the-zealot
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Szał w ekstatycznej jedności z bogiem*
 
@@ -3444,6 +3554,16 @@ W tej postaci zyskujesz poniższe korzyści.
 **Ożywienie.** Gdy istota w promieniu 9 metrów od ciebie miałaby spaść do 0 punktów wytrzymałości, możesz wykorzystać reakcję i zużyć jedno użycie Szału, by zamiast tego ustawić punkty wytrzymałości celu na liczbę równą twojemu poziomowi barbarzyńcy.
 
 ### Bard
+
+#### Bard
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Przywołując magię przez muzykę, taniec i wiersz, bardowie mistrzowsko inspirują innych, łagodzą cierpienia, zniechęcają wrogów i tworzą iluzje. Wierzą, że multiwersum zostało wypowiedziane w istnienie, a resztki Słów Stworzenia wciąż brzmią i migoczą na każdej sferze. Magia bardska próbuje uchwycić te słowa, które przekraczają każdy język.
 
@@ -3544,9 +3664,9 @@ _Na wyższych poziomach._ Twoja kość bardowska zmienia się, gdy osiągasz okr
 
 ###### Poziom 1: Rzucanie czarów
 
-Nauczyłeś się rzucać czary za pośrednictwem sztuki bardskiej. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów barda, które wymieniono na liście czarów barda.
+Nauczyłeś się rzucać czary za pośrednictwem sztuki bardskiej. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów barda, które wymieniono na [liście czarów barda](#bard-spell-list).
 
-_Sztuczki._ Znasz dwie sztuczki według własnego wyboru z listy czarów barda. Zalecane są [Tańczące światła](#tańczące-światła) i [Zjadliwe szyderstwo](#zjadliwe-szyderstwo).
+_Sztuczki._ Znasz dwie sztuczki według własnego wyboru z listy czarów barda. Zalecane są [Tańczące światła](#tańczące-światła-1) i [Zjadliwe szyderstwo](#zjadliwe-szyderstwo-1).
 
 Za każdym razem, gdy zyskujesz poziom barda, możesz zamienić jedną ze swoich sztuczek na inną sztuczkę według własnego wyboru z listy czarów barda.
 
@@ -3554,7 +3674,7 @@ Gdy osiągasz poziomy barda 4 i 10, uczysz się kolejnej sztuczki według własn
 
 _Komórki czaru._ Tabela Cech barda pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów barda. Zalecane są [Zauroczenie osoby](#zauroczenie-osoby), [Kolorowy rozprysk](#kolorowy-rozprysk), [Dissonant Whispers](#fałszywe-podszepty) i [Kojące słowo](#słowo-leczenia).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów barda. Zalecane są [Zauroczenie osoby](#zauroczenie-osoby-1), [Kolorowy rozprysk](#kolorowy-rozprysk-1), [Dissonant Whispers](#fałszywe-podszepty-1) i [Kojące słowo](#słowo-leczenia-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami barda, zgodnie z kolumną Przygotowane czary w tabeli Cech barda. Za każdym razem, gdy ta liczba rośnie, wybieraj dodatkowe czary z listy czarów barda, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako bard 3. poziomu twoja lista przygotowanych czarów może obejmować sześć czarów 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -3586,16 +3706,16 @@ Zyskujesz podklasę barda według własnego wyboru. Podklasa to specjalizacja, k
 
 | Nazwa |
 | --- |
-| [Kolegium Tańca](#kolegium-tańca) |
-| [Kolegium Powabu](#kolegium-powabu) |
-| [Kolegium mądrości](#kolegium-mądrości) |
+| [Kolegium Tańca](#kolegium-tańca-1) |
+| [Kolegium Powabu](#kolegium-powabu-1) |
+| [Kolegium mądrości](#kolegium-mądrości-1) |
 | Kolegium Duchów |
 | Kolegium Księżyca |
-| [Kolegium męstwa](#kolegium-męstwa) |
+| [Kolegium męstwa](#kolegium-męstwa-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach barda 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach barda 8, 12 i 16.
 
 ###### Poziom 5: Źródło inspiracji
 
@@ -3609,7 +3729,7 @@ Możesz użyć nut muzycznych lub słów mocy, aby zakłócić efekty wpływają
 
 ###### Poziom 10: Magiczne tajemnice
 
-Poznałeś sekrety różnych tradycji magicznych. Za każdym razem, gdy osiągasz poziom barda (włącznie z tym poziomem) i rośnie liczba przygotowanych czarów w tabeli Cech barda, możesz wybrać dowolne z nowych przygotowanych czarów z list czarów barda, kleryka, druida i maga, a wybrane czary liczą się dla ciebie jako czary barda. Dodatkowo za każdym razem, gdy zamieniasz przygotowany czar tej klasy, możesz zastąpić go czarem z którejkolwiek z tych list.
+Poznałeś sekrety różnych tradycji magicznych. Za każdym razem, gdy osiągasz poziom barda (włącznie z tym poziomem) i rośnie liczba przygotowanych czarów w tabeli Cech barda, możesz wybrać dowolne z nowych przygotowanych czarów z list czarów [barda](#bard-spell-list), [kleryka](#cleric-spell-list), [druida](#druid-spell-list) i [maga](#wizard-spell-list), a wybrane czary liczą się dla ciebie jako czary barda. Dodatkowo za każdym razem, gdy zamieniasz przygotowany czar tej klasy, możesz zastąpić go czarem z którejkolwiek z tych list.
 
 ###### Poziom 18: Pierwszorzędna inspiracja
 
@@ -3617,194 +3737,211 @@ Gdy wykonujesz rzut na inicjatywę, odzyskujesz zużyte użycia bardowskiej insp
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar odzyskania czaru](#dar-odzyskania-czaru).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar odzyskania czaru](#dar-odzyskania-czaru-1).
 
 ###### Poziom 20: Słowa stworzenia
 
-Opanowałeś dwa ze Słów Stworzenia: słowa życia i śmierci. Z tego powodu zawsze masz przygotowane czary [Power Word Heal](#słowo-mocy-ulecz) i [Słowo mocy Giń](#słowo-mocy-giń). Gdy rzucasz którykolwiek z tych czarów, możesz wskazać drugą istotę jako cel, jeśli znajduje się ona w odległości 3 metrów od pierwszego celu.
+Opanowałeś dwa ze Słów Stworzenia: słowa życia i śmierci. Z tego powodu zawsze masz przygotowane czary [Power Word Heal](#słowo-mocy-ulecz-1) i [Słowo mocy Giń](#słowo-mocy-giń-1). Gdy rzucasz którykolwiek z tych czarów, możesz wskazać drugą istotę jako cel, jeśli znajduje się ona w odległości 3 metrów od pierwszego celu.
 
 #### Lista czarów barda
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Blade Ward](#osłona-przed-orężem) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Tańczące światła](#tańczące-światła) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Friends](#przyjaźń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
-| [Światło](#światło-1) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Magiczna dłoń](#magiczna-dłoń) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
-| [Naprawa](#naprawa) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
-| [Wiadomość](#wiadomość) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
-| [Pomniejsza iluzja](#pomniejsza-iluzja) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
-| [Kuglarstwo](#kuglarstwo) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
-| [Starry Wisp](#gwiezdna-iskra) | *Wywoływania* | Bard, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Grzmot](#grzmot) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
-| [Prawdziwe uderzenie](#prawdziwe-uderzenie) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
-| [Zjadliwe szyderstwo](#zjadliwe-szyderstwo) | *Uroku* | Bard | Akcja | 18 metrów | V | Natychmiastowy |
+#### Bard Spell List
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przyjaciel zwierząt](#przyjaciel-zwierząt) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
-| [Zguba](#zguba) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Zauroczenie osoby](#zauroczenie-osoby) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Kolorowy rozprysk](#kolorowy-rozprysk) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Rozkaz](#rozkaz) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
-| [Rozumienie języków](#rozumienie-języków) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
-| [Leczenie ran](#leczenie-ran) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Przebranie siebie](#przebranie-siebie) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
-| [Dissonant Whispers](#fałszywe-podszepty) | *Uroku* | Bard | Akcja | 18 metrów | V | Natychmiastowy |
-| [Blask faerie](#blask-faerie) | *Wywoływania* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V | *^C^*, up to 1 minute |
-| [Piórkospadanie](#piórkospadanie) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
-| [Kojące słowo](#słowo-leczenia) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
-| [Heroizm](#heroizm) | *Uroku* | Bard, Paladyn | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Zidentyfikuj](#identyfikacja) | *Wieszczenia* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
+| [Blade Ward](#osłona-przed-orężem-1) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Tańczące światła](#tańczące-światła-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Friends](#przyjaźń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
+| [Światło](#światło-2) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Magiczna dłoń](#magiczna-dłoń-1) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
+| [Naprawa](#naprawa-1) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
+| [Wiadomość](#wiadomość-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
+| [Pomniejsza iluzja](#pomniejsza-iluzja-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
+| [Kuglarstwo](#kuglarstwo-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
+| [Starry Wisp](#gwiezdna-iskra-1) | *Wywoływania* | Bard, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Grzmot](#grzmot-1) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+| [Prawdziwe uderzenie](#prawdziwe-uderzenie-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+| [Zjadliwe szyderstwo](#zjadliwe-szyderstwo-1) | *Uroku* | Bard | Akcja | 18 metrów | V | Natychmiastowy |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Przyjaciel zwierząt](#przyjaciel-zwierząt-1) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
+| [Zguba](#zguba-1) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zauroczenie osoby](#zauroczenie-osoby-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Kolorowy rozprysk](#kolorowy-rozprysk-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Rozkaz](#rozkaz-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
+| [Rozumienie języków](#rozumienie-języków-1) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
+| [Leczenie ran](#leczenie-ran-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Przebranie siebie](#przebranie-siebie-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
+| [Dissonant Whispers](#fałszywe-podszepty-1) | *Uroku* | Bard | Akcja | 18 metrów | V | Natychmiastowy |
+| [Blask faerie](#blask-faerie-1) | *Wywoływania* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V | *^C^*, up to 1 minute |
+| [Piórkospadanie](#piórkospadanie-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
+| [Kojące słowo](#słowo-leczenia-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
+| [Heroizm](#heroizm-1) | *Uroku* | Bard, Paladyn | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Zidentyfikuj](#identyfikacja-1) | *Wieszczenia* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
 | Insidious Rhythm | *Uroku* | Bard | Akcja | 36 metrów. | V, S | *^C^*, up to 1 minute |
-| [Szybkonogi](#szybkonogi) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
-| [Milczący obraz](#milczący-obraz) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Uśpienie](#uśpienie) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
-| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Fala gromu](#fala-gromu) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Niewidoczny sługa](#niewidoczny-sługa) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
+| [Szybkonogi](#szybkonogi-1) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
+| [Milczący obraz](#milczący-obraz-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Uśpienie](#uśpienie-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
+| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy-1) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Fala gromu](#fala-gromu-1) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Niewidoczny sługa](#niewidoczny-sługa-1) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
 | Wardaway | *Odrzucania* | Bard, Kleryk, Paladyn, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#pomoc) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
-| [Głuchota/Ślepota](#głuchotaślepota) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
-| [Wyciszenie emocji](#wyciszenie-emocji) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#chmura-sztyletów) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#korona-obłędu) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Wykrycie myśli](#wykrycie-myśli) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Fascynacja](#fascynacja) | *Uroku* | Bard, Czarownik | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Rozgrzanie metalu](#rozgrzanie-metalu) | *Transmutacji* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Niewidzialność](#niewidzialność) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Kołatka](#kołatka) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Mniejsze przywrócenie](#mniejsze-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
-| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magiczne usta](#magiczne-usta) | *Iluzji* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M(C*) | Until dispelled |
-| [Lustrzane odbicia](#lustrzane-odbicia) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
-| [Phantasmal Force](#urojona-siła) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Widzenie niewidzialnego](#widzenie-niewidzialnego) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
-| [Trzask](#trzask) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Cisza](#cisza) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [Sugestia](#sugestia) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
-| [Strefa prawdy](#strefa-prawdy) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
+| [Aid](#pomoc-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec-1) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
+| [Głuchota/Ślepota](#głuchotaślepota-1) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
+| [Wyciszenie emocji](#wyciszenie-emocji-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#chmura-sztyletów-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#korona-obłędu-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Wykrycie myśli](#wykrycie-myśli-1) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Fascynacja](#fascynacja-1) | *Uroku* | Bard, Czarownik | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Rozgrzanie metalu](#rozgrzanie-metalu-1) | *Transmutacji* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Niewidzialność](#niewidzialność-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Kołatka](#kołatka-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
+| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin-1) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczne usta](#magiczne-usta-1) | *Iluzji* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M(C*) | Until dispelled |
+| [Lustrzane odbicia](#lustrzane-odbicia-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
+| [Phantasmal Force](#urojona-siła-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Widzenie niewidzialnego](#widzenie-niewidzialnego-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
+| [Trzask](#trzask-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Cisza](#cisza-1) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [Sugestia](#sugestia-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
+| [Strefa prawdy](#strefa-prawdy-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astral Flood | *Wywoływania* | Bard, Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Nałożenie klątwy](#nałożenie-klątwy) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Nałożenie klątwy](#nałożenie-klątwy-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
 | Cacophonic Tarcza | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Jasnowidzenie](#jasnowidzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Strach](#strach) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Feign Death](#pozór-śmierci) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
-| [Glif strażniczy](#glif-strażniczy) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
-| [Hipnotyczny wzór](#hipnotyczny-wzór) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
-| [Leomund's Chatka](#chatka-leomunda) | *Wywoływania* | Bard, Mag | 1 minute lub *^R^* | Self | V, S, M | 8 hours |
-| [Większy obraz](#większy-obraz) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Masowe kojące słowo](#masowe-kojące-słowo) | *Odrzucania* | Bard, Kleryk | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
-| [Niewykrywalność](#niewykrywalność) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
-| [Rozrost roślin](#rozrost-roślin) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
-| [Nadanie wiadomości](#nadanie-wiadomości) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
-| [Wolno](#spowolnienie) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
-| [Rozmawianie z roślinami](#rozmawianie-z-roślinami) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
-| [Śmierdząca chmura](#śmierdząca-chmura) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Języki](#języki) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Jasnowidzenie](#jasnowidzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Strach](#strach-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Feign Death](#pozór-śmierci-1) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
+| [Glif strażniczy](#glif-strażniczy-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Hipnotyczny wzór](#hipnotyczny-wzór-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
+| [Leomund's Chatka](#chatka-leomunda-1) | *Wywoływania* | Bard, Mag | 1 minute lub *^R^* | Self | V, S, M | 8 hours |
+| [Większy obraz](#większy-obraz-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Masowe kojące słowo](#masowe-kojące-słowo-1) | *Odrzucania* | Bard, Kleryk | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
+| [Niewykrywalność](#niewykrywalność-1) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
+| [Rozrost roślin](#rozrost-roślin-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
+| [Nadanie wiadomości](#nadanie-wiadomości-1) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
+| [Wolno](#spowolnienie-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
+| [Rozmawianie z roślinami](#rozmawianie-z-roślinami-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
+| [Śmierdząca chmura](#śmierdząca-chmura-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Języki](#języki-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | V | Natychmiastowy |
-| [Urok Monster](#zauroczenie-potwora) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Przymus](#przymus) | *Uroku* | Bard | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
-| [Zamęt](#zamęt) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Drzwi przez wymiary](#drzwi-przez-wymiary) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
+| [Urok Monster](#zauroczenie-potwora-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Przymus](#przymus-1) | *Uroku* | Bard | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
+| [Zamęt](#zamęt-1) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Drzwi przez wymiary](#drzwi-przez-wymiary-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
 | Doomtide | *Przywoływania* | Bard, Kleryk, Czarownik | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Fount of Moonlight](#źródło-światła-księżyca) | *Wywoływania* | Bard, Druid | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Swoboda ruchu](#swoboda-ruchu) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
-| [Większa niewidzialność](#większa-niewidzialność) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Iluzoryczny teren](#iluzoryczny-teren) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Urojony zabójca](#urojony-zabójca) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Polimorfia](#polimorfia) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Fount of Moonlight](#źródło-światła-księżyca-1) | *Wywoływania* | Bard, Druid | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Swoboda ruchu](#swoboda-ruchu-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
+| [Większa niewidzialność](#większa-niewidzialność-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Iluzoryczny teren](#iluzoryczny-teren-1) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Urojony zabójca](#urojony-zabójca-1) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Polimorfia](#polimorfia-1) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Odrzucania* | Bard, Druid, Łowca, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Animowanie obiektu](#animowanie-obiektów) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Przebudzenie](#przebudzenie) | *Transmutacji* | Bard, Druid | 8 Hours | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Dominacja nad osobą](#dominacja-nad-osobą) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Sen](#sen) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
-| [Geas](#geas) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
-| [Większe przywrócenie](#większe-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Unieruchomienie potwora](#unieruchomienie-potwora) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Legendarna wiedza](#legendarna-wiedza) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
-| [Masowe leczenie ran](#masowe-leczenie-ran) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Zmyłka](#zmyłka) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
-| [Podmiana wspomnień](#podmiana-wspomnień) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
-| [Sferalne wiązanie](#sferalne-wiązanie) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
-| [Wskrzeszenie](#wskrzeszenie) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Rary's Telepatia](#telepatyczna-więź-raryego) | *Wieszczenia* | Bard, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
-| [Wizja](#wizja) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Pozory](#pozory) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
-| [Synaptic Static](#synaptyczna-statyka) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Krąg teleportacji](#krąg-teleportacyjny) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
-| [Yolande's Regal Presence](#królewska-obecność-yolande) | *Uroku* | Bard, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Animowanie obiektu](#animowanie-obiektów-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Przebudzenie](#przebudzenie-1) | *Transmutacji* | Bard, Druid | 8 Hours | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Dominacja nad osobą](#dominacja-nad-osobą-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Sen](#sen-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
+| [Geas](#geas-1) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
+| [Większe przywrócenie](#większe-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Unieruchomienie potwora](#unieruchomienie-potwora-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Legendarna wiedza](#legendarna-wiedza-1) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Masowe leczenie ran](#masowe-leczenie-ran-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Zmyłka](#zmyłka-1) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
+| [Podmiana wspomnień](#podmiana-wspomnień-1) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
+| [Sferalne wiązanie](#sferalne-wiązanie-1) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
+| [Wskrzeszenie](#wskrzeszenie-1) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Rary's Telepatia](#telepatyczna-więź-raryego-1) | *Wieszczenia* | Bard, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Wizja](#wizja-1) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Pozory](#pozory-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
+| [Synaptic Static](#synaptyczna-statyka-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Krąg teleportacji](#krąg-teleportacyjny-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
+| [Yolande's Regal Presence](#królewska-obecność-yolande-1) | *Uroku* | Bard, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dirge | *Uroku* | Bard, Kleryk | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Kąśliwy wzrok](#kąśliwy-wzrok) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Odnalezienie ścieżki](#odnalezienie-ścieżki) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Ochronne glify](#ochronne-glify) | *Odrzucania* | Bard, Mag | 1 hour | Dotyk | V, S, M | 24 hours |
-| [Uczta bohaterów](#uczta-bohaterów) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Kąśliwy wzrok](#kąśliwy-wzrok-1) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Odnalezienie ścieżki](#odnalezienie-ścieżki-1) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Ochronne glify](#ochronne-glify-1) | *Odrzucania* | Bard, Mag | 1 hour | Dotyk | V, S, M | 24 hours |
+| [Uczta bohaterów](#uczta-bohaterów-1) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
 | Leomund's Lamentable Belaborment | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V | 1 Minute |
-| [Masowa sugestia](#masowa-sugestia) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
-| [Otto's Nieodparty taniec](#nieodparty-taniec-ottona) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V | *^C^*, up to 1 minute |
-| [Zaplanowana iluzja](#zaplanowana-iluzja) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S, M | Until dispelled |
-| [Prawdziwe widzenie](#prawdziwe-widzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
+| [Masowa sugestia](#masowa-sugestia-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
+| [Otto's Nieodparty taniec](#nieodparty-taniec-ottona-1) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V | *^C^*, up to 1 minute |
+| [Zaplanowana iluzja](#zaplanowana-iluzja-1) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S, M | Until dispelled |
+| [Prawdziwe widzenie](#prawdziwe-widzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Eteryczność](#eteryczność) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
-| [Cela mocy](#cela-mocy) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Miraż](#miraż) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
-| [Mordenkainen's Wspaniała posiadłość](#wspaniała-posiadłość-mordenkainena) | *Przywoływania* | Bard, Mag | 1 minute | 90 metrów | V, S, M | 24 hours |
-| [Mordenkainen's Sword](#miecz-mordenkainena) | *Wywoływania* | Bard, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Power Word Fortify](#słowo-mocy-wzmocnij) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
-| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Projekcja obrazu](#projekcja-obrazu) | *Iluzji* | Bard, Mag | Akcja | 750 km | V, S, M | *^C^*, up to 1 day |
-| [Regeneracja](#regeneracja) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
-| [Zmartwychwstanie](#zmartwychwstanie) | *Nekromancji* | Bard, Kleryk | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Symbol](#symbol) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
-| [Teleportacja](#teleportacja) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
+| [Eteryczność](#eteryczność-1) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
+| [Cela mocy](#cela-mocy-1) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Miraż](#miraż-1) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
+| [Mordenkainen's Wspaniała posiadłość](#wspaniała-posiadłość-mordenkainena-1) | *Przywoływania* | Bard, Mag | 1 minute | 90 metrów | V, S, M | 24 hours |
+| [Mordenkainen's Sword](#miecz-mordenkainena-1) | *Wywoływania* | Bard, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Power Word Fortify](#słowo-mocy-wzmocnij-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
+| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Projekcja obrazu](#projekcja-obrazu-1) | *Iluzji* | Bard, Mag | Akcja | 750 km | V, S, M | *^C^*, up to 1 day |
+| [Regeneracja](#regeneracja-1) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
+| [Zmartwychwstanie](#zmartwychwstanie-1) | *Nekromancji* | Bard, Kleryk | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Symbol](#symbol-1) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Teleportacja](#teleportacja-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Antypatia / Sympatia](#antypatiasympatia) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
-| [Befuddlement](#zmieszanie-umysłu) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
-| [Dominacja nad potworem](#dominacja-nad-potworem) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
-| [Elokwencja](#elokwencja) | *Uroku* | Bard, Czarownik | Akcja | Self | V | 1 hour |
-| [Czysty umysł](#czysty-umysł) | *Odrzucania* | Bard, Mag | Akcja | Dotyk | V, S | 24 hours |
-| [Słowo mocy Stój](#słowo-mocy-stój) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Antypatia / Sympatia](#antypatiasympatia-1) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
+| [Befuddlement](#zmieszanie-umysłu-1) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
+| [Dominacja nad potworem](#dominacja-nad-potworem-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
+| [Elokwencja](#elokwencja-1) | *Uroku* | Bard, Czarownik | Akcja | Self | V | 1 hour |
+| [Czysty umysł](#czysty-umysł-1) | *Odrzucania* | Bard, Mag | Akcja | Dotyk | V, S | 24 hours |
+| [Słowo mocy Stój](#słowo-mocy-stój-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Profetyzm](#profetyzm) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
-| [Power Word Leczenie](#słowo-mocy-ulecz) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
-| [Słowo mocy Giń](#słowo-mocy-giń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Pryzmatyczny mur](#pryzmatyczny-mur) | *Odrzucania* | Bard, Mag | Akcja | 18 metrów | V, S | 10 minutes |
-| [Prawdziwa polimorfia](#prawdziwa-polimorfia) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Profetyzm](#profetyzm-1) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
+| [Power Word Leczenie](#słowo-mocy-ulecz-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
+| [Słowo mocy Giń](#słowo-mocy-giń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Pryzmatyczny mur](#pryzmatyczny-mur-1) | *Odrzucania* | Bard, Mag | Akcja | 18 metrów | V, S | 10 minutes |
+| [Prawdziwa polimorfia](#prawdziwa-polimorfia-1) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
 
 #### Kolegium Tańca
+
+### Kolegium Tańca
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:college-of-dance
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Poruszaj się w harmonii z kosmosem*
 
@@ -3840,13 +3977,23 @@ Nie możesz skorzystać z tej cechy, jeśli masz stan obezwładniony.
 
 #### Kolegium Powabu
 
+### Kolegium Powabu
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:college-of-glamour
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Splataj czarującą magię feów*
 
 Kolegium Powabu wywodzi swoje początki z czarującej magii Dziczy Feów. Bardowie studiujący tę magię wplatają w swoje pieśni i opowieści wątki piękna i grozy, a najpotężniejsi spośród nich mogą okryć się nadprzyrodzoną majestatycznością. Ich występy budzą tęsknotę za zapomnianą niewinnością, przywołują nieświadome wspomnienia dawno utrwalonych lęków i poruszają emocje nawet najtwardszych serc.
 
 ##### Poziom 3: Czarująca magia
 
-Zawsze masz przygotowane czary [Zauroczenie osoby](#zauroczenie-osoby) i [Lustrzane odbicia](#lustrzane-odbicia).
+Zawsze masz przygotowane czary [Zauroczenie osoby](#zauroczenie-osoby-1) i [Lustrzane odbicia](#lustrzane-odbicia-1).
 
 Ponadto natychmiast po rzuceniu czaru ze szkoły Uroków lub Iluzji, zużywając komórkę czaru, możesz zmusić istotę, którą widzisz w promieniu 18 metrów od siebie, do wykonania rzutu obronnego na Mądrość przeciwko ST twoich czarów. Przy nieudanym rzucie cel ma stan zauroczony lub stan przerażony (według twojego wyboru) przez 1 minutę. Cel powtarza rzut na końcu każdej swojej tury, kończąc efekt u siebie przy sukcesie.
 
@@ -3858,9 +4005,9 @@ Możesz wpleść magię feów w pieśń lub taniec, by napełnić innych wigorą
 
 ##### Poziom 6: Płaszcz majestatu
 
-Zawsze masz przygotowany czar [Rozkaz](#rozkaz).
+Zawsze masz przygotowany czar [Rozkaz](#rozkaz-1).
 
-Akcją dodatkową rzucasz [Rozkaz](#rozkaz) bez zużywania komórki czaru i przyjmujesz nadprzyrodzony wygląd na 1 minutę lub do końca twojej koncentracji. W tym czasie możesz rzucać [Rozkaz](#rozkaz) jako akcję dodatkową bez zużywania komórki czaru.
+Akcją dodatkową rzucasz [Rozkaz](#rozkaz-1) bez zużywania komórki czaru i przyjmujesz nadprzyrodzony wygląd na 1 minutę lub do końca twojej koncentracji. W tym czasie możesz rzucać [Rozkaz](#rozkaz-1) jako akcję dodatkową bez zużywania komórki czaru.
 
 Każda istota zauroczona przez ciebie automatycznie obla swój rzut obronny przeciwko Rozkazowi rzuconemu za pomocą tej cechy.
 
@@ -3873,6 +4020,16 @@ Akcją dodatkową możesz przyjąć magicznie majestatyczną postawę na 1 minut
 Po przyjęciu tej majestatycznej postawy nie możesz zrobić tego ponownie, dopóki nie zakończysz Krótkiego lub Długiego odpoczynku.
 
 #### Kolegium mądrości
+
+### Kolegium mądrości
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:college-of-lore
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Zgłębiaj otchłanie wiedzy magicznej*
 
@@ -3888,7 +4045,7 @@ Uczysz się wykorzystywać swoje poczucie humoru, by w nadnaturalny sposób rozp
 
 ##### Poziom 6: Magiczne odkrycia
 
-Uczysz się dwóch czarów według własnego wyboru. Czary te mogą pochodzić z listy czarów kleryka, listy czarów druida lub listy czarów maga, albo z dowolnej kombinacji tych list (patrz sekcja danej klasy, aby zobaczyć jej listę czarów). Wybrany czar musi być sztuczką lub czarem, do którego masz komórki czaru, zgodnie z tabelą cech barda.
+Uczysz się dwóch czarów według własnego wyboru. Czary te mogą pochodzić z [listy czarów kleryka](#cleric-spell-list), [listy czarów druida](#druid-spell-list) lub [listy czarów maga](#wizard-spell-list), albo z dowolnej kombinacji tych list (patrz sekcja danej klasy, aby zobaczyć jej listę czarów). Wybrany czar musi być sztuczką lub czarem, do którego masz komórki czaru, zgodnie z tabelą cech barda.
 
 Zawsze masz przygotowane wybrane czary, a za każdym razem, gdy zyskujesz poziom barda, możesz zamienić jeden z tych czarów na inny czar spełniający te wymagania.
 
@@ -3897,6 +4054,16 @@ Zawsze masz przygotowane wybrane czary, a za każdym razem, gdy zyskujesz poziom
 Gdy wykonujesz test cechy lub test ataku i ponosisz porażkę, możesz zużyć jedno użycie Bardowskiej inspiracji; rzuć kością Bardowskiej inspiracji i dodaj wyrzuconą liczbę do k20, co może zamienić porażkę w sukces. Jeśli mimo to test zakończy się niepowodzeniem, zużycie Bardowskiej inspiracji nie zostaje utracone.
 
 #### Kolegium męstwa
+
+### Kolegium męstwa
+
+**Klasa:** Bard
+**URL źródła:** http://dnd2024.wikidot.com/bard:college-of-valor
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Śpiewaj czyny dawnych bohaterów*
 
@@ -3927,6 +4094,16 @@ Ponadto możesz rzucić jedną ze swoich sztuczek o czasie rzucania równym akcj
 Po rzuceniu czaru o czasie rzucania równym akcji możesz wykonać jeden atak bronią jako akcję dodatkową.
 
 ### Czarownik
+
+#### Czarownik
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Czarownicy poszukują wiedzy ukrytej w tkance multiwersum. Często zaczynają od grzebania w zakazanych tomach, eksperymentów z inwokacjami przyciągającymi moc istot pozaplanarnych lub szukania miejsc mocy, gdzie czuć wpływ tych istot. Wkrótce każdy czarownik zostaje wciągnięty w wiążący pakt z potężnym patronem. Czerpiąc ze starożytnej wiedzy aniołów, archifey, demonów, diabłów, hag i obcych istot Dalekiej Rubieży, czarownicy składają arkaniczne sekrety, by wzmocnić własną moc.
 
@@ -4014,7 +4191,7 @@ Jako czarownik zyskujesz następujące cechy klasy po osiągnięciu wskazanych p
 
 ###### Poziom 1: Mistyczne inwokacje
 
-Odkryłeś [mistyczne inwokacje](#mistyczne-inwokacje) — fragmenty zakazanej wiedzy, które napełniają cię trwałą magiczną mocą lub innymi naukami. Zyskujesz jedną inwokację według własnego wyboru, taką jak Pakt księgi. Inwokacje opisano w sekcji [Opcje mistycznych inwokacji](#mistyczne-inwokacje).
+Odkryłeś [mistyczne inwokacje](#mistyczne-inwokacje-1) — fragmenty zakazanej wiedzy, które napełniają cię trwałą magiczną mocą lub innymi naukami. Zyskujesz jedną inwokację według własnego wyboru, taką jak Pakt księgi. Inwokacje opisano w sekcji [Opcje mistycznych inwokacji](#mistyczne-inwokacje-1).
 
 _Wymagania wstępne._ Jeśli inwokacja ma wymaganie wstępne, musisz je spełnić, aby się jej nauczyć. Na przykład jeśli inwokacja wymaga bycia czarownikiem 5. poziomu lub wyższym, możesz ją wybrać po osiągnięciu 5. poziomu czarownika.
 
@@ -4026,17 +4203,17 @@ Nie możesz wybrać tej samej inwokacji więcej niż raz, chyba że jej opis sta
 
 ###### Poziom 1: Magia paktu
 
-Poprzez okultystyczny rytuał zawarłeś pakt z tajemniczym bytem, aby zyskać magiczne moce. Istota ta jest głosem w cieniach — jej tożsamość pozostaje niejasna — lecz jej dar dla ciebie jest konkretny: zdolność rzucania czarów. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów czarownika, które wymieniono na liście czarów czarownika.
+Poprzez okultystyczny rytuał zawarłeś pakt z tajemniczym bytem, aby zyskać magiczne moce. Istota ta jest głosem w cieniach — jej tożsamość pozostaje niejasna — lecz jej dar dla ciebie jest konkretny: zdolność rzucania czarów. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów czarownika, które wymieniono na [liście czarów czarownika](#warlock-spell-list).
 
-_Sztuczki._ Znasz dwie sztuczki czarownika według własnego wyboru. Zalecane są [Nieziemskie uderzenie](#nieziemskie-uderzenie) i [Kuglarstwo](#kuglarstwo). Za każdym razem, gdy zyskujesz poziom czarownika, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę czarownika według własnego wyboru.
+_Sztuczki._ Znasz dwie sztuczki czarownika według własnego wyboru. Zalecane są [Nieziemskie uderzenie](#nieziemskie-uderzenie-1) i [Kuglarstwo](#kuglarstwo-1). Za każdym razem, gdy zyskujesz poziom czarownika, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę czarownika według własnego wyboru.
 
 Gdy osiągasz poziomy czarownika 4 i 10, uczysz się kolejnej sztuczki czarownika według własnego wyboru, zgodnie z kolumną Sztuczki w tabeli Cech czarownika.
 
 _Komórki czarów._ Tabela Cech czarownika pokazuje, ile masz komórek czaru do rzucania czarów czarownika od 1. do 5. kręgu. Tabela pokazuje również krąg tych komórek — wszystkie mają ten sam krąg. Odzyskujesz wszystkie zużyte komórki czarów magii paktu po zakończeniu Krótkiego lub Długiego odpoczynku.
 
-Na przykład jako czarownik 5. poziomu masz dwie komórki czarów 3. kręgu. Aby rzucić czar 1. kręgu [Witch Bolt](#wiedźmi-pocisk), musisz zużyć jedną z tych komórek i rzucasz go jako czar 3. kręgu.
+Na przykład jako czarownik 5. poziomu masz dwie komórki czarów 3. kręgu. Aby rzucić czar 1. kręgu [Witch Bolt](#wiedźmi-pocisk-1), musisz zużyć jedną z tych komórek i rzucasz go jako czar 3. kręgu.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary czarownika 1. kręgu. Zalecane są [Zauroczenie osoby](#zauroczenie-osoby) i [Hex](#urok).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary czarownika 1. kręgu. Zalecane są [Zauroczenie osoby](#zauroczenie-osoby-1) i [Hex](#urok-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami czarownika, zgodnie z kolumną Przygotowane czary w tabeli Cech czarownika. Gdy ta liczba rośnie, wybierasz dodatkowe czary czarownika, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu nie wyższym niż wskazany w kolumnie Krąg komórki dla twojego poziomu. Na przykład gdy osiągasz 6. poziom, uczysz się nowego czaru czarownika, który może być czarem 1., 2. lub 3. kręgu.
 
@@ -4060,19 +4237,19 @@ Zyskujesz podklasę czarownika według własnego wyboru. Podklasy są opisane po
 
 | Nazwa |
 | --- |
-| [Patron Archifeya](#patron-archifeya) |
-| [Patron Niebiański](#patron-niebiański) |
-| [Patron Czart](#patron-czart) |
-| [Patron Pradawnego](#patron-pradawnego) |
+| [Patron Archifeya](#patron-archifeya-1) |
+| [Patron Niebiański](#patron-niebiański-1) |
+| [Patron Czart](#patron-czart-1) |
+| [Patron Pradawnego](#patron-pradawnego-1) |
 | Patron Nieumarłych |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach czarownika 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach czarownika 8, 12 i 16.
 
 ###### Poziom 9: Kontakt z patronem
 
-W przeszłości zwykle kontaktowałeś się ze swoim patronem za pośrednictwem pośredników. Teraz możesz komunikować się bezpośrednio — zawsze masz przygotowany czar [Kontakt z inną sferą](#kontakt-z-inną-sferą). Dzięki tej cesze możesz rzucić ten czar bez zużywania komórki czaru, aby skontaktować się ze swoim patronem, a rzut obronny przeciwko temu czarowi automatycznie kończy się sukcesem.
+W przeszłości zwykle kontaktowałeś się ze swoim patronem za pośrednictwem pośredników. Teraz możesz komunikować się bezpośrednio — zawsze masz przygotowany czar [Kontakt z inną sferą](#kontakt-z-inną-sferą-1). Dzięki tej cesze możesz rzucić ten czar bez zużywania komórki czaru, aby skontaktować się ze swoim patronem, a rzut obronny przeciwko temu czarowi automatycznie kończy się sukcesem.
 
 Po rzuceniu tego czaru w ten sposób nie możesz ponownie użyć tej cechy, dopóki nie zakończysz Długiego odpoczynku.
 
@@ -4088,7 +4265,7 @@ Za każdym razem, gdy zyskujesz poziom czarownika, możesz zastąpić jeden ze s
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar przeznaczenia](#dar-przeznaczenia).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar przeznaczenia](#dar-przeznaczenia-1).
 
 ###### Poziom 20: Mistyczny władca
 
@@ -4096,132 +4273,149 @@ Gdy używasz cechy Magiczny spryt, odzyskujesz wszystkie zużyte komórki czaró
 
 #### Lista czarów czarownika
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Blade Ward](#osłona-przed-orężem) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Przeszywający dotyk](#przeszywający-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Nieziemskie uderzenie](#nieziemskie-uderzenie) | *Wywoływania* | Czarownik | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Friends](#przyjaźń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
-| [Magiczna dłoń](#magiczna-dłoń) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
-| [Mind Sliver](#odłamek-umysłu) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
-| [Pomniejsza iluzja](#pomniejsza-iluzja) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
-| [Trujący rozprysk](#trujący-rozprysk) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Kuglarstwo](#kuglarstwo) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
-| [Grzmot](#grzmot) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
-| [Toll the Dead](#dzwonek-śmierci) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Prawdziwe uderzenie](#prawdziwe-uderzenie) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+#### Warlock Spell List
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Armor of Agathys](#zbroja-agathys) | *Odrzucania* | Czarownik | Akcja dodatkowa | Self | V, S, M | 1 hour |
-| [Arms of Hadar](#ramiona-hadara) | *Przywoływania* | Czarownik | Akcja | Self | V, S | Natychmiastowy |
-| [Zguba](#zguba) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Zauroczenie osoby](#zauroczenie-osoby) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Rozumienie języków](#rozumienie-języków) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Błyskawiczny odwrót](#błyskawiczny-odwrót) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
-| [Piekielna reprymenda](#piekielna-reprymenda) | *Wywoływania* | Czarownik | Reakcja(*) | 18 metrów | V, S | Natychmiastowy |
-| [Hex](#urok) | *Uroku* | Czarownik | Akcja dodatkowa | 27 metrów | V, S, M | *^C^*, up to 1 hour |
-| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
-| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
-| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Niewidoczny sługa](#niewidoczny-sługa) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
-| [Witch Bolt](#wiedźmi-pocisk) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Blade Ward](#osłona-przed-orężem-1) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Przeszywający dotyk](#przeszywający-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Nieziemskie uderzenie](#nieziemskie-uderzenie-1) | *Wywoływania* | Czarownik | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Friends](#przyjaźń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
+| [Magiczna dłoń](#magiczna-dłoń-1) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
+| [Mind Sliver](#odłamek-umysłu-1) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
+| [Pomniejsza iluzja](#pomniejsza-iluzja-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
+| [Trujący rozprysk](#trujący-rozprysk-1) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Kuglarstwo](#kuglarstwo-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
+| [Grzmot](#grzmot-1) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+| [Toll the Dead](#dzwonek-śmierci-1) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Prawdziwe uderzenie](#prawdziwe-uderzenie-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Cloud Of Daggers](#chmura-sztyletów) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#korona-obłędu) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Ciemność.](#ciemność) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
-| [Fascynacja](#fascynacja) | *Uroku* | Bard, Czarownik | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Niewidzialność](#niewidzialność) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Mind Spike](#kolec-umysłu) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
-| [Lustrzane odbicia](#lustrzane-odbicia) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
-| [Krok przez mgłę](#krok-przez-mgłę) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
-| [Promień osłabienia](#promień-osłabienia) | *Nekromancji* | Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Pajęcza wspinaczka](#pajęcza-wspinaczka) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Sugestia](#sugestia) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
+| [Armor of Agathys](#zbroja-agathys-1) | *Odrzucania* | Czarownik | Akcja dodatkowa | Self | V, S, M | 1 hour |
+| [Arms of Hadar](#ramiona-hadara-1) | *Przywoływania* | Czarownik | Akcja | Self | V, S | Natychmiastowy |
+| [Zguba](#zguba-1) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zauroczenie osoby](#zauroczenie-osoby-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Rozumienie języków](#rozumienie-języków-1) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Błyskawiczny odwrót](#błyskawiczny-odwrót-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
+| [Piekielna reprymenda](#piekielna-reprymenda-1) | *Wywoływania* | Czarownik | Reakcja(*) | 18 metrów | V, S | Natychmiastowy |
+| [Hex](#urok-1) | *Uroku* | Czarownik | Akcja dodatkowa | 27 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
+| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
+| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy-1) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Niewidoczny sługa](#niewidoczny-sługa-1) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
+| [Witch Bolt](#wiedźmi-pocisk-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przeciwzaklęcie](#przeciwzaklęcie) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Strach](#strach) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Fly](#lot) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
-| [Forma gazowa](#forma-gazowa) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Hunger of Hadar](#głód-hadara) | *Przywoływania* | Czarownik | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Hipnotyczny wzór](#hipnotyczny-wzór) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
-| [Krąg magii](#krąg-magii) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
-| [Większy obraz](#większy-obraz) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Zdjęcie klątwy](#zdjęcie-klątwy) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Summon Fey](#przywołanie-feya) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Undead](#przywołanie-nieumarłego) | *Nekromancji* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Języki](#języki) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Wampiryczny dotyk](#wampiryczny-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#chmura-sztyletów-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#korona-obłędu-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Ciemność.](#ciemność-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
+| [Fascynacja](#fascynacja-1) | *Uroku* | Bard, Czarownik | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Niewidzialność](#niewidzialność-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Mind Spike](#kolec-umysłu-1) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
+| [Lustrzane odbicia](#lustrzane-odbicia-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
+| [Krok przez mgłę](#krok-przez-mgłę-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
+| [Promień osłabienia](#promień-osłabienia-1) | *Nekromancji* | Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Pajęcza wspinaczka](#pajęcza-wspinaczka-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Sugestia](#sugestia-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Przeciwzaklęcie](#przeciwzaklęcie-1) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Strach](#strach-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Fly](#lot-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
+| [Forma gazowa](#forma-gazowa-1) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Hunger of Hadar](#głód-hadara-1) | *Przywoływania* | Czarownik | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Hipnotyczny wzór](#hipnotyczny-wzór-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
+| [Krąg magii](#krąg-magii-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
+| [Większy obraz](#większy-obraz-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Zdjęcie klątwy](#zdjęcie-klątwy-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Summon Fey](#przywołanie-feya-1) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Undead](#przywołanie-nieumarłego-1) | *Nekromancji* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Języki](#języki-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Wampiryczny dotyk](#wampiryczny-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | V | Natychmiastowy |
-| [Wypędzenie](#wypędzenie) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Plaga](#plaga) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Urok Monster](#zauroczenie-potwora) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Drzwi przez wymiary](#drzwi-przez-wymiary) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
+| [Wypędzenie](#wypędzenie-1) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Plaga](#plaga-1) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Urok Monster](#zauroczenie-potwora-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Drzwi przez wymiary](#drzwi-przez-wymiary-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
 | Doomtide | *Przywoływania* | Bard, Kleryk, Czarownik | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Iluzoryczny teren](#iluzoryczny-teren) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
-| [Summon Aberration](#przywołanie-aberracji) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Iluzoryczny teren](#iluzoryczny-teren-1) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
+| [Summon Aberration](#przywołanie-aberracji-1) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Kontakt z inną sferą](#kontakt-z-inną-sferą) | *Wieszczenia* | Czarownik, Mag | 1 minute lub *^R^* | Self | V | 1 minute |
-| [Sen](#sen) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
-| [Unieruchomienie potwora](#unieruchomienie-potwora) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Jallarzi's Storm of Radiance](#burza-blasku-jallarzi) | *Wywoływania* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Zmyłka](#zmyłka) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
-| [Sferalne wiązanie](#sferalne-wiązanie) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
-| [Wizja](#wizja) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Synaptic Static](#synaptyczna-statyka) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Krąg teleportacji](#krąg-teleportacyjny) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
+| [Kontakt z inną sferą](#kontakt-z-inną-sferą-1) | *Wieszczenia* | Czarownik, Mag | 1 minute lub *^R^* | Self | V | 1 minute |
+| [Sen](#sen-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
+| [Unieruchomienie potwora](#unieruchomienie-potwora-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Jallarzi's Storm of Radiance](#burza-blasku-jallarzi-1) | *Wywoływania* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zmyłka](#zmyłka-1) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
+| [Sferalne wiązanie](#sferalne-wiązanie-1) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
+| [Wizja](#wizja-1) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Synaptic Static](#synaptyczna-statyka-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Krąg teleportacji](#krąg-teleportacyjny-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Brama](#magiczne-wrota) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
-| [Circle Of Death](#krąg-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
-| [Stworzenie nieumarłego](#stworzenie-nieumarłego) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
-| [Kąśliwy wzrok](#kąśliwy-wzrok) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Summon Fiend](#przywołanie-czarta) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Tasha's Bubbling Cauldron](#wrzący-kocioł-tashy) | *Przywoływania* | Czarownik, Mag | Akcja | 1,5 metrów | V, S, M | 10 minutes |
-| [Prawdziwe widzenie](#prawdziwe-widzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
+| [Arcane Brama](#magiczne-wrota-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
+| [Circle Of Death](#krąg-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
+| [Stworzenie nieumarłego](#stworzenie-nieumarłego-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
+| [Kąśliwy wzrok](#kąśliwy-wzrok-1) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Summon Fiend](#przywołanie-czarta-1) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Tasha's Bubbling Cauldron](#wrzący-kocioł-tashy-1) | *Przywoływania* | Czarownik, Mag | Akcja | 1,5 metrów | V, S, M | 10 minutes |
+| [Prawdziwe widzenie](#prawdziwe-widzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Eteryczność](#eteryczność) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
-| [Palec śmierci](#palec-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Cela mocy](#cela-mocy) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Sferalny przeskok](#sferalny-przeskok) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Eteryczność](#eteryczność-1) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
+| [Palec śmierci](#palec-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Cela mocy](#cela-mocy-1) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Sferalny przeskok](#sferalny-przeskok-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
 | Void Star | *Nekromancji* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Befuddlement](#zmieszanie-umysłu) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
-| [Demisfera](#demisfera) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
-| [Dominacja nad potworem](#dominacja-nad-potworem) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
-| [Elokwencja](#elokwencja) | *Uroku* | Bard, Czarownik | Akcja | Self | V | 1 hour |
-| [Słowo mocy Stój](#słowo-mocy-stój) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Befuddlement](#zmieszanie-umysłu-1) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
+| [Demisfera](#demisfera-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
+| [Dominacja nad potworem](#dominacja-nad-potworem-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
+| [Elokwencja](#elokwencja-1) | *Uroku* | Bard, Czarownik | Akcja | Self | V | 1 hour |
+| [Słowo mocy Stój](#słowo-mocy-stój-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Projekcja astralna](#projekcja-astralna) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
+| [Projekcja astralna](#projekcja-astralna-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
 | Blade Of Disaster | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Profetyzm](#profetyzm) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
-| [Brama](#brama) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Uwięzienie](#uwięzienie) | *Odrzucania* | Czarownik, Mag | 1 minute | 9 metrów | V, S, M(C) | Until dispelled |
-| [Słowo mocy Giń](#słowo-mocy-giń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Prawdziwa polimorfia](#prawdziwa-polimorfia) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
-| [Dziwo](#dziwo) | *Iluzji* | Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Profetyzm](#profetyzm-1) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
+| [Brama](#brama-1) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Uwięzienie](#uwięzienie-1) | *Odrzucania* | Czarownik, Mag | 1 minute | 9 metrów | V, S, M(C) | Until dispelled |
+| [Słowo mocy Giń](#słowo-mocy-giń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Prawdziwa polimorfia](#prawdziwa-polimorfia-1) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Dziwo](#dziwo-1) | *Iluzji* | Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
 
 #### Mistyczne inwokacje
+
+#### Mistyczne inwokacje
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:eldritch-invocation
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 ##### Opcje mistycznych inwokacji
 
@@ -4241,7 +4435,7 @@ _Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem
 
 Źródło: Podręcznik Gracza
 
-Możesz rzucić na siebie [Zbroję maga](#zbroja-maga) bez zużywania komórki czaru.
+Możesz rzucić na siebie [Zbroję maga](#zbroja-maga-1) bez zużywania komórki czaru.
 
 ###### Wznoszący krok
 
@@ -4249,7 +4443,7 @@ Możesz rzucić na siebie [Zbroję maga](#zbroja-maga) bez zużywania komórki c
 
 _Wymaganie wstępne: czarownik 5+ poziomu_
 
-Możesz rzucić na siebie [Lewitację](#lewitacja) bez zużywania komórki czaru.
+Możesz rzucić na siebie [Lewitację](#lewitacja-1) bez zużywania komórki czaru.
 
 ###### Wzrok diabła
 
@@ -4297,7 +4491,7 @@ _Powtarzalna._ Możesz zyskać tę inwokację więcej niż raz. Za każdym razem
 
 _Wymaganie wstępne: czarownik 2+ poziomu_
 
-Możesz rzucić na siebie [Fałszywe życie](#fałszywe-życie) bez zużywania komórki czaru. Gdy rzucasz ten czar tą cechą, nie rzucasz kością na tymczasowe punkty wytrzymałości — automatycznie otrzymujesz najwyższy możliwy wynik.
+Możesz rzucić na siebie [Fałszywe życie](#fałszywe-życie-1) bez zużywania komórki czaru. Gdy rzucasz ten czar tą cechą, nie rzucasz kością na tymczasowe punkty wytrzymałości — automatycznie otrzymujesz najwyższy możliwy wynik.
 
 ###### Spojrzenie dwóch umysłów
 
@@ -4317,7 +4511,7 @@ _Wymaganie wstępne: czarownik 5+ poziomu_
 
 Możesz oddychać pod wodą i zyskujesz szybkość pływania równą swojej szybkości.
 
-Możesz też raz rzucić [Oddychanie pod wodą](#oddychanie-pod-wodą) bez zużywania komórki czaru. Możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku.
+Możesz też raz rzucić [Oddychanie pod wodą](#oddychanie-pod-wodą-1) bez zużywania komórki czaru. Możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku.
 
 ###### Dar obrońców
 
@@ -4337,7 +4531,7 @@ Akcją magiczną możesz zetrzeć imię ze strony, dotykając jej.
 
 _Wymaganie wstępne: czarownik 5+ poziomu, inwokacja Pakt łańcucha_
 
-Gdy rzucasz [Znalezienie chowańca](#znalezienie-chowańca), nasycasz przywołanego chowańca odrobiną swojej nieziemskiej mocy, dając mu następujące korzyści.
+Gdy rzucasz [Znalezienie chowańca](#znalezienie-chowańca-1), nasycasz przywołanego chowańca odrobiną swojej nieziemskiej mocy, dając mu następujące korzyści.
 
 _Powietrzny lub wodny._ Chowańec zyskuje szybkość lotu lub szybkość pływania (do wyboru) równą 12 metrów.
 
@@ -4373,7 +4567,7 @@ Raz na turę, gdy trafisz istotę swoją bronią paktu, możesz zadać jej dodat
 
 _Wymaganie wstępne: czarownik 2+ poziomu_
 
-Możesz rzucić [Przebranie siebie](#przebranie-siebie) bez zużywania komórki czaru.
+Możesz rzucić [Przebranie siebie](#przebranie-siebie-1) bez zużywania komórki czaru.
 
 ###### Mistrz niezliczonych form
 
@@ -4381,7 +4575,7 @@ Możesz rzucić [Przebranie siebie](#przebranie-siebie) bez zużywania komórki 
 
 _Wymaganie wstępne: czarownik 5+ poziomu_
 
-Możesz rzucić [Zmianę siebie](#zmiana-siebie) bez zużywania komórki czaru.
+Możesz rzucić [Zmianę siebie](#zmiana-siebie-1) bez zużywania komórki czaru.
 
 ###### Mgliste wizje
 
@@ -4389,7 +4583,7 @@ Możesz rzucić [Zmianę siebie](#zmiana-siebie) bez zużywania komórki czaru.
 
 _Wymaganie wstępne: czarownik 2+ poziomu_
 
-Możesz rzucić [Milczący obraz](#milczący-obraz) bez zużywania komórki czaru.
+Możesz rzucić [Milczący obraz](#milczący-obraz-1) bez zużywania komórki czaru.
 
 ###### Jedność z cieniami
 
@@ -4397,7 +4591,7 @@ Możesz rzucić [Milczący obraz](#milczący-obraz) bez zużywania komórki czar
 
 _Wymaganie wstępne: czarownik 5+ poziomu_
 
-Będąc w obszarze słabego światła lub ciemności, możesz rzucić na siebie [Niewidzialność](#niewidzialność) bez zużywania komórki czaru.
+Będąc w obszarze słabego światła lub ciemności, możesz rzucić na siebie [Niewidzialność](#niewidzialność-1) bez zużywania komórki czaru.
 
 ###### Nieziemski skok
 
@@ -4405,7 +4599,7 @@ Będąc w obszarze słabego światła lub ciemności, możesz rzucić na siebie 
 
 _Wymaganie wstępne: czarownik 2+ poziomu_
 
-Możesz rzucić na siebie [Skok](#skok) bez zużywania komórki czaru.
+Możesz rzucić na siebie [Skok](#skok-1) bez zużywania komórki czaru.
 
 ###### Pakt ostrza
 
@@ -4421,7 +4615,7 @@ Twoja więź z bronią kończy się, jeśli ponownie użyjesz akcji dodatkowej t
 
 Źródło: Podręcznik Gracza
 
-Uczysz się zaklęcia [Znalezienie chowańca](#znalezienie-chowańca) i możesz rzucić je jako akcję magiczną bez zużywania komórki czaru.
+Uczysz się zaklęcia [Znalezienie chowańca](#znalezienie-chowańca-1) i możesz rzucić je jako akcję magiczną bez zużywania komórki czaru.
 
 Gdy rzucasz ten czar, wybierasz jedną ze zwykłych form chowańca lub jedną z następujących form specjalnych: chochlik, pseudosmok, quasit, szkielet, sfinks cudów, sprite lub jadowity wąż (patrz rozdział „Potwory” po blok statystyk chowańca).
 
@@ -4461,7 +4655,7 @@ Zyskujesz cechę Dodatkowy atak wyłącznie dla swojej broni paktu. Dzięki niej
 
 _Wymaganie wstępne: czarownik 9+ poziomu_
 
-Możesz rzucić [Magiczne oko](#magiczne-oko) bez zużywania komórki czaru.
+Możesz rzucić [Magiczne oko](#magiczne-oko-1) bez zużywania komórki czaru.
 
 ###### Szepty grobu
 
@@ -4469,7 +4663,7 @@ Możesz rzucić [Magiczne oko](#magiczne-oko) bez zużywania komórki czaru.
 
 _Wymaganie wstępne: czarownik 7+ poziomu_
 
-Możesz rzucić [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi) bez zużywania komórki czaru.
+Możesz rzucić [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi-1) bez zużywania komórki czaru.
 
 ###### Wiedźmi wzrok
 
@@ -4480,6 +4674,16 @@ _Wymaganie wstępne: czarownik 15+ poziomu_
 Masz prawdziwe widzenie o zasięgu 9 metrów.
 
 #### Patron Archifeya
+
+### Patron Archifeya
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:archfey-patron
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Układ z kapryśnymi feyami*
 
@@ -4493,14 +4697,14 @@ Magia twojego patrona zapewnia, że zawsze masz przygotowane określone czary; g
 
 | Poziom czarownika | Czary |
 | --- | --- |
-| 3 | [Wyciszenie emocji](#wyciszenie-emocji), [Blask faerie](#blask-faerie), [Krok przez mgłę](#krok-przez-mgłę), [Phantasmal Force](#urojona-siła), [Uśpienie](#uśpienie) |
-| 5 | [Mignięcie](#mignięcie), [Rozrost roślin](#rozrost-roślin) |
-| 7 | [Dominacja nad bestią](#dominacja-nad-bestią), [Większa niewidzialność](#większa-niewidzialność) |
-| 9 | [Dominacja nad osobą](#dominacja-nad-osobą), [Pozory](#pozory) |
+| 3 | [Wyciszenie emocji](#wyciszenie-emocji-1), [Blask faerie](#blask-faerie-1), [Krok przez mgłę](#krok-przez-mgłę-1), [Phantasmal Force](#urojona-siła-1), [Uśpienie](#uśpienie-1) |
+| 5 | [Mignięcie](#mignięcie-1), [Rozrost roślin](#rozrost-roślin-1) |
+| 7 | [Dominacja nad bestią](#dominacja-nad-bestią-1), [Większa niewidzialność](#większa-niewidzialność-1) |
+| 9 | [Dominacja nad osobą](#dominacja-nad-osobą-1), [Pozory](#pozory-1) |
 
 ##### Poziom 3: Kroki feya
 
-Twój patron daje ci zdolność poruszania się między granicami planów. Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę) bez zużywania komórki czaru liczbę razy równą twojemu modyfikatorowi Charyzmy (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
+Twój patron daje ci zdolność poruszania się między granicami planów. Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę-1) bez zużywania komórki czaru liczbę razy równą twojemu modyfikatorowi Charyzmy (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
 
 Ponadto, ilekroć rzucasz ten czar, możesz wybrać jeden z poniższych dodatkowych efektów.
 
@@ -4510,7 +4714,7 @@ Ponadto, ilekroć rzucasz ten czar, możesz wybrać jeden z poniższych dodatkow
 
 ##### Poziom 6: Mglista ucieczka
 
-Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę) jako reakcję w odpowiedzi na otrzymanie obrażeń.
+Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę-1) jako reakcję w odpowiedzi na otrzymanie obrażeń.
 
 Ponadto poniższe efekty są teraz dostępne wśród opcji Kroków feya.
 
@@ -4526,9 +4730,19 @@ Ponadto, natychmiast po tym jak istota, którą widzisz, trafi cię testem ataku
 
 ##### Poziom 14: Oczarowująca magia
 
-Twój patron daje ci zdolność splatania magii z teleportacją. Natychmiast po rzuceniu czaru uroku lub iluzji za pomocą akcji i komórki czaru możesz rzucić [Krok przez mgłę](#krok-przez-mgłę) jako część tej samej akcji i bez zużywania komórki czaru.
+Twój patron daje ci zdolność splatania magii z teleportacją. Natychmiast po rzuceniu czaru uroku lub iluzji za pomocą akcji i komórki czaru możesz rzucić [Krok przez mgłę](#krok-przez-mgłę-1) jako część tej samej akcji i bez zużywania komórki czaru.
 
 #### Patron Niebiański
+
+### Patron Niebiański
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:celestial-patron
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Wzywaj moc niebios*
 
@@ -4542,10 +4756,10 @@ Magia twojego patrona zapewnia, że zawsze masz przygotowane określone czary; g
 
 | Poziom czarownika | Czary |
 | --- | --- |
-| 3 | [Pomoc](#pomoc), [Leczenie ran](#leczenie-ran), [Pocisk wiodący](#pocisk-wiodący), [Mniejsze przywrócenie](#mniejsze-przywrócenie), [Światło](#światło-1), [Święty płomień](#święty-płomień) |
-| 5 | [Światło dnia](#światło-dnia), [Ożywienie](#ożywienie) |
-| 7 | [Strażnik wiary](#strażnik-wiary), [Ściana ognia](#ściana-ognia) |
-| 9 | [Większe przywrócenie](#większe-przywrócenie), [Summon Celestial](#przywołanie-niebiańskiego) |
+| 3 | [Pomoc](#pomoc-1), [Leczenie ran](#leczenie-ran-1), [Pocisk wiodący](#pocisk-wiodący-1), [Mniejsze przywrócenie](#mniejsze-przywrócenie-1), [Światło](#światło-2), [Święty płomień](#święty-płomień-1) |
+| 5 | [Światło dnia](#światło-dnia-1), [Ożywienie](#ożywienie-1) |
+| 7 | [Strażnik wiary](#strażnik-wiary-1), [Ściana ognia](#ściana-ognia-1) |
+| 9 | [Większe przywrócenie](#większe-przywrócenie-1), [Summon Celestial](#przywołanie-niebiańskiego-1) |
 
 ##### Poziom 3: Leczące światło
 
@@ -4569,6 +4783,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 #### Patron Czart
 
+### Patron Czart
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:fiend-patron
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Zawrzyj układ z Dolnymi Planami*
 
 Twój pakt czerpie z Dolnych Planów, krain potępienia. Możesz zawrzeć układ z lordem demonów, takim jak Demogorgon lub Orcus; z archidiabłem, takim jak Asmodeusz; albo z wyjątkowo potężnym diabelstwem, balorem, jugolothem lub nocną wiedźmą. Cele tego patrona są złe — korupcja lub zniszczenie wszystkiego, ostatecznie włącznie z tobą — a twoja droga zależy od tego, na ile stawiasz im opór.
@@ -4585,10 +4809,10 @@ Magia twojego patrona zapewnia, że zawsze masz przygotowane określone czary; g
 
 | Poziom czarownika | Czary |
 | --- | --- |
-| 3 | [Płonące ręce](#płonące-dłonie), [Rozkaz](#rozkaz), [Scorching Ray](#wypalający-promień), [Sugestia](#sugestia) |
-| 5 | [Kula ognia](#kula-ognia), [Śmierdząca chmura](#śmierdząca-chmura) |
-| 7 | [Tarcza ognia](#tarcza-ognia), [Ściana ognia](#ściana-ognia) |
-| 9 | [Geas](#geas), [Plaga owadów](#plaga-owadów) |
+| 3 | [Płonące ręce](#płonące-dłonie-1), [Rozkaz](#rozkaz-1), [Scorching Ray](#wypalający-promień-1), [Sugestia](#sugestia-1) |
+| 5 | [Kula ognia](#kula-ognia-1), [Śmierdząca chmura](#śmierdząca-chmura-1) |
+| 7 | [Tarcza ognia](#tarcza-ognia-1), [Ściana ognia](#ściana-ognia-1) |
+| 9 | [Geas](#geas-1), [Plaga owadów](#plaga-owadów-1) |
 
 ##### Poziom 6: Własne szczęście Mrocznego
 
@@ -4608,6 +4832,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 #### Patron Pradawnego
 
+### Patron Pradawnego
+
+**Klasa:** Czarownik
+**URL źródła:** http://dnd2024.wikidot.com/warlock:great-old-one-patron
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Odkrywaj zakazaną wiedzę o istotach niepojętych*
 
 Wybierając tę podklasę, możesz związać się z niewypowiedzianą istotą z Dalekiej Rubieży lub pradawnym bogiem — takim jak Tharizdun, Skute Bóstwo; Zargon, Powracający; Hadar, Mroczny Głód; albo Wielki Cthulhu. Albo możesz wzywać liczne byty bez podporządkowania się jednemu. Motywy tych istot są niepojęte, a Pradawny może być obojętny wobec twojego istnienia. Lecz sekrety, które poznałeś, i tak pozwalają ci czerpać z niego dziwną magię.
@@ -4626,10 +4860,10 @@ Magia twojego patrona zapewnia, że zawsze masz przygotowane określone czary; g
 
 | Poziom czarownika | Czary |
 | --- | --- |
-| 3 | [Wykrycie myśli](#wykrycie-myśli), [Dissonant Whispers](#fałszywe-podszepty), [Phantasmal Force](#urojona-siła), [Tasha's Hideous Laughter](#ohydny-śmiech-tashy) |
-| 5 | [Jasnowidzenie](#jasnowidzenie), [Głód Hadara](#głód-hadara) |
-| 7 | [Zamęt](#zamęt), [Summon Aberration](#przywołanie-aberracji) |
-| 9 | [Podmiana wspomnień](#podmiana-wspomnień), [Telekineza](#telekineza) |
+| 3 | [Wykrycie myśli](#wykrycie-myśli-1), [Dissonant Whispers](#fałszywe-podszepty-1), [Phantasmal Force](#urojona-siła-1), [Tasha's Hideous Laughter](#ohydny-śmiech-tashy-1) |
+| 5 | [Jasnowidzenie](#jasnowidzenie-1), [Głód Hadara](#głód-hadara-1) |
+| 7 | [Zamęt](#zamęt-1), [Summon Aberration](#przywołanie-aberracji-1) |
+| 9 | [Podmiana wspomnień](#podmiana-wspomnień-1), [Telekineza](#telekineza-1) |
 
 ##### Poziom 3: Czary psychiczne
 
@@ -4643,7 +4877,7 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 ##### Poziom 10: Nieziemska klątwa
 
-Twój obcy patron daje ci potężną klątwę. Zawsze masz przygotowane [Hex](#urok). Gdy rzucasz Hex i wybierasz atrybut, cel ma też utrudnienie do rzutów obronnych na wybrany atrybut przez czas trwania czaru.
+Twój obcy patron daje ci potężną klątwę. Zawsze masz przygotowane [Hex](#urok-1). Gdy rzucasz Hex i wybierasz atrybut, cel ma też utrudnienie do rzutów obronnych na wybrany atrybut przez czas trwania czaru.
 
 ##### Poziom 10: Tarcza myśli
 
@@ -4651,11 +4885,21 @@ Twoich myśli nie można odczytać telepatią ani innymi środkami, chyba że na
 
 ##### Poziom 14: Stworzenie sługi
 
-Gdy rzucasz [Summon Aberration](#przywołanie-aberracji), możesz go zmodyfikować tak, by nie wymagał koncentracji. Jeśli to zrobisz, czas trwania czaru dla tego rzutu wynosi 1 minutę, a przywołana aberracja ma tymczasowe punkty wytrzymałości równe twojemu poziomowi czarownika plus twój modyfikator Charyzmy.
+Gdy rzucasz [Summon Aberration](#przywołanie-aberracji-1), możesz go zmodyfikować tak, by nie wymagał koncentracji. Jeśli to zrobisz, czas trwania czaru dla tego rzutu wynosi 1 minutę, a przywołana aberracja ma tymczasowe punkty wytrzymałości równe twojemu poziomowi czarownika plus twój modyfikator Charyzmy.
 
-Ponadto, pierwszy raz w turze, gdy aberracja trafi istotę pod wpływem twojego [Hex](#urok), zadaje celowi dodatkowe obrażenia psychiczne równe premiowym obrażeniom tego czaru.
+Ponadto, pierwszy raz w turze, gdy aberracja trafi istotę pod wpływem twojego [Hex](#urok-1), zadaje celowi dodatkowe obrażenia psychiczne równe premiowym obrażeniom tego czaru.
 
 ### Druid
+
+#### Druid
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Druidzi należą do starożytnych zakonów wzywających siły natury. Korzystając z magii zwierząt, roślin i czterech żywiołów, leczą, przybierają kształty zwierząt i władają żywiołową destrukcją.
 
@@ -4744,17 +4988,17 @@ Jako druid zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozio
 
 ###### Poziom 1: Rzucanie czarów
 
-Nauczyłeś się rzucać czary, badając mistyczne siły natury. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów druida, które wymieniono na liście czarów druida.
+Nauczyłeś się rzucać czary, badając mistyczne siły natury. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów druida, które wymieniono na [liście czarów druida](#druid-spell-list).
 
-_Sztuczki._ Znasz dwie sztuczki według własnego wyboru z listy czarów druida. Zalecane są [Druidzkie sztuczki](#druidzkie-sztuczki) i [Wywołanie płomienia](#wywołanie-płomienia).
+_Sztuczki._ Znasz dwie sztuczki według własnego wyboru z listy czarów druida. Zalecane są [Druidzkie sztuczki](#druidzkie-sztuczki-1) i [Wywołanie płomienia](#wywołanie-płomienia-1).
 
-Za każdym razem, gdy zyskujesz poziom druida, możesz zamienić jedną ze swoich sztuczek na inną sztuczkę według własnego wyboru z listy czarów druida.
+Za każdym razem, gdy zyskujesz poziom druida, możesz zamienić jedną ze swoich sztuczek na inną sztuczkę według własnego wyboru z [listy czarów druida](#druid-spell-list).
 
 Gdy osiągasz poziomy druida 4 i 10, uczysz się kolejnej sztuczki według własnego wyboru z listy czarów druida, zgodnie z kolumną Sztuczki w tabeli Cech druida.
 
 _Komórki czaru._ Tabela Cech druida pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów druida. Zalecane są [Przyjaciel zwierząt](#przyjaciel-zwierząt), [Leczenie ran](#leczenie-ran), [Blask faerie](#blask-faerie) i [Fala gromu](#fala-gromu).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów druida. Zalecane są [Przyjaciel zwierząt](#przyjaciel-zwierząt-1), [Leczenie ran](#leczenie-ran-1), [Blask faerie](#blask-faerie-1) i [Fala gromu](#fala-gromu-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami druida, zgodnie z kolumną Przygotowane czary w tabeli Cech druida. Za każdym razem, gdy ta liczba rośnie, wybieraj dodatkowe czary z listy czarów druida, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako druid 3. poziomu twoja lista przygotowanych czarów może obejmować sześć czarów 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -4768,7 +5012,7 @@ _Magiczny fokus._ Możesz używać druidycznego fetysza jako magicznego fokusu d
 
 ###### Poziom 1: Język druidyczny
 
-Znasz język druidyczny, tajemny język druidów. Podczas nauki tego starożytnego języka odkryłeś także magię komunikowania się ze zwierzętami; zawsze masz przygotowany czar [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami).
+Znasz język druidyczny, tajemny język druidów. Podczas nauki tego starożytnego języka odkryłeś także magię komunikowania się ze zwierzętami; zawsze masz przygotowany czar [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1).
 
 Możesz używać języka druidycznego, aby pozostawiać ukryte wiadomości. Ty i inni znający język druidyczny automatycznie dostrzegacie taką wiadomość. Inni dostrzegają jej obecność po udanym teście Inteligencji (Śledztwo) o ST 15, ale nie mogą jej rozszyfrować bez użycia magii.
 
@@ -4812,7 +5056,7 @@ _Przedmioty._ Twoja zdolność obsługi przedmiotów zależy od kończyn formy, 
 
 ###### Poziom 2: Dziki towarzysz
 
-Możesz przyzwać ducha natury, który przybiera zwierzęcą formę, by ci pomóc. Jako akcją magiczną możesz zużyć komórkę czaru lub jedno użycie dzikiej postaci, by rzucić czar [Znalezienie chowańca](#znalezienie-chowańca) bez komponentów materialnych.
+Możesz przyzwać ducha natury, który przybiera zwierzęcą formę, by ci pomóc. Jako akcją magiczną możesz zużyć komórkę czaru lub jedno użycie dzikiej postaci, by rzucić czar [Znalezienie chowańca](#znalezienie-chowańca-1) bez komponentów materialnych.
 
 Gdy rzucasz ten czar w ten sposób, chowaniec jest istotą fey i znika po zakończeniu Długiego odpoczynku.
 
@@ -4824,14 +5068,14 @@ Zyskujesz podklasę druida według własnego wyboru. Podklasa to specjalizacja, 
 
 | Nazwa |
 | --- |
-| [Krąg Ziemi](#krąg-ziemi) |
-| [Krąg księżyca](#krąg-księżyca) |
-| [Krąg morza](#krąg-morza) |
-| [Krąg gwiazd](#krąg-gwiazd) |
+| [Krąg Ziemi](#krąg-ziemi-1) |
+| [Krąg księżyca](#krąg-księżyca-1) |
+| [Krąg morza](#krąg-morza-1) |
+| [Krąg gwiazd](#krąg-gwiazd-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach druida 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach druida 8, 12 i 16.
 
 ###### Poziom 5: Dzikie odrodzenie
 
@@ -4861,7 +5105,7 @@ Podczas korzystania z dzikiej postaci możesz rzucać czary w formie bestii, z w
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary-1).
 
 ###### Poziom 20: Arcydruid
 
@@ -4875,179 +5119,196 @@ _Długowieczność._ Pierwotna magia, którą władasz, sprawia, że starzejesz 
 
 #### Lista czarów druida
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Druidzkie sztuczki](#druidzkie-sztuczki) | *Transmutacji* | Druid | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Elementalism](#elementalizm) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Wskazówki](#wskazówki) | *Wieszczenia* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Naprawa](#naprawa) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
-| [Wiadomość](#wiadomość) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
-| [Trujący rozprysk](#trujący-rozprysk) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Wywołanie płomienia](#wywołanie-płomienia) | *Przywoływania* | Druid | Akcja dodatkowa | Self | V, S | 10 minutes |
-| [Odporność](#odporność) | *Odrzucania* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Shillelagh](#shillelagh) | *Transmutacji* | Druid | Akcja dodatkowa | Self | V, S, M | 1 minute |
-| [Powstrzymanie śmierci](#powstrzymanie-śmierci) | *Nekromancji* | Wynalazca, Kleryk, Druid | Akcja | 4,5 metrów | V, S | Natychmiastowy |
-| [Starry Wisp](#gwiezdna-iskra) | *Wywoływania* | Bard, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Thorn Bicz](#cierniowy-bicz) | *Transmutacji* | Wynalazca, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
-| [Grzmot](#grzmot) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+#### Druid Spell List
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przyjaciel zwierząt](#przyjaciel-zwierząt) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
+| [Druidzkie sztuczki](#druidzkie-sztuczki-1) | *Transmutacji* | Druid | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Elementalism](#elementalizm-1) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Wskazówki](#wskazówki-1) | *Wieszczenia* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Naprawa](#naprawa-1) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
+| [Wiadomość](#wiadomość-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
+| [Trujący rozprysk](#trujący-rozprysk-1) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Wywołanie płomienia](#wywołanie-płomienia-1) | *Przywoływania* | Druid | Akcja dodatkowa | Self | V, S | 10 minutes |
+| [Odporność](#odporność-1) | *Odrzucania* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Shillelagh](#shillelagh-1) | *Transmutacji* | Druid | Akcja dodatkowa | Self | V, S, M | 1 minute |
+| [Powstrzymanie śmierci](#powstrzymanie-śmierci-1) | *Nekromancji* | Wynalazca, Kleryk, Druid | Akcja | 4,5 metrów | V, S | Natychmiastowy |
+| [Starry Wisp](#gwiezdna-iskra-1) | *Wywoływania* | Bard, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Thorn Bicz](#cierniowy-bicz-1) | *Transmutacji* | Wynalazca, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
+| [Grzmot](#grzmot-1) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Przyjaciel zwierząt](#przyjaciel-zwierząt-1) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
 | Buzzing Bee | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów. | V, S, M | *^C^*, up to 1 minute |
-| [Zauroczenie osoby](#zauroczenie-osoby) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Stworzenie lub zniszczenie wody](#stworzenie-lub-zniszczenie-wody) | *Transmutacji* | Kleryk, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
-| [Leczenie ran](#leczenie-ran) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Oplątanie](#oplątanie) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S | *^C^*, up to 1 minute |
-| [Blask faerie](#blask-faerie) | *Wywoływania* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V | *^C^*, up to 1 minute |
-| [Chmura mgły](#chmura-mgły) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
-| [Dobre jagody](#dobre-jagody) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S, M | 24 hours |
-| [Kojące słowo](#słowo-leczenia) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
-| [Ice Knife](#lodowy-nóż) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
-| [Skok](#skok) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
-| [Szybkonogi](#szybkonogi) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
-| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
-| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
-| [Fala gromu](#fala-gromu) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Zauroczenie osoby](#zauroczenie-osoby-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Stworzenie lub zniszczenie wody](#stworzenie-lub-zniszczenie-wody-1) | *Transmutacji* | Kleryk, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
+| [Leczenie ran](#leczenie-ran-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby-1) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Oplątanie](#oplątanie-1) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S | *^C^*, up to 1 minute |
+| [Blask faerie](#blask-faerie-1) | *Wywoływania* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V | *^C^*, up to 1 minute |
+| [Chmura mgły](#chmura-mgły-1) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
+| [Dobre jagody](#dobre-jagody-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S, M | 24 hours |
+| [Kojące słowo](#słowo-leczenia-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
+| [Ice Knife](#lodowy-nóż-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
+| [Skok](#skok-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
+| [Szybkonogi](#szybkonogi-1) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
+| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
+| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
+| [Fala gromu](#fala-gromu-1) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#pomoc) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
-| [Wróżba](#wróżba) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
-| [Korowa skóra](#korowa-skóra) | *Transmutacji* | Druid, Łowca | Akcja dodatkowa | Dotyk | V, S, M | 1 hour |
-| [Beast Sense](#zwierzęce-zmysły) | *Wieszczenia* | Druid, Łowca | Akcja lub *^R^* | Dotyk | S | *^C^*, up to 1 hour |
-| [Wieczny ogień](#wieczny-ogień) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
-| [Widzenie w ciemności](#widzenie-w-ciemności) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Wykrycie pułapek](#wykrycie-pułapek) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Płomienne ostrze](#płomienne-ostrze) | *Wywoływania* | Druid, Zaklinacz | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Płomienna kula](#płomienna-kula) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Poryw wiatru](#poryw-wiatru) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Rozgrzanie metalu](#rozgrzanie-metalu) | *Transmutacji* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Mniejsze przywrócenie](#mniejsze-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
-| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Księżycowy promień](#księżycowy-promień) | *Wywoływania* | Druid | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Przejście bez śladu](#przejście-bez-śladu) | *Odrzucania* | Druid, Łowca | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Ochrona przed trucizną](#ochrona-przed-trucizną) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
-| [Wzrost kolców](#wzrost-kolców) | *Transmutacji* | Druid, Łowca | Akcja | 45 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Beast](#przywołanie-bestii) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Aid](#pomoc-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec-1) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
+| [Wróżba](#wróżba-1) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
+| [Korowa skóra](#korowa-skóra-1) | *Transmutacji* | Druid, Łowca | Akcja dodatkowa | Dotyk | V, S, M | 1 hour |
+| [Beast Sense](#zwierzęce-zmysły-1) | *Wieszczenia* | Druid, Łowca | Akcja lub *^R^* | Dotyk | S | *^C^*, up to 1 hour |
+| [Wieczny ogień](#wieczny-ogień-1) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
+| [Widzenie w ciemności](#widzenie-w-ciemności-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Wykrycie pułapek](#wykrycie-pułapek-1) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Płomienne ostrze](#płomienne-ostrze-1) | *Wywoływania* | Druid, Zaklinacz | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Płomienna kula](#płomienna-kula-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Poryw wiatru](#poryw-wiatru-1) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Rozgrzanie metalu](#rozgrzanie-metalu-1) | *Transmutacji* | Wynalazca, Bard, Druid | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
+| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin-1) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Księżycowy promień](#księżycowy-promień-1) | *Wywoływania* | Druid | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Przejście bez śladu](#przejście-bez-śladu-1) | *Odrzucania* | Druid, Łowca | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Ochrona przed trucizną](#ochrona-przed-trucizną-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
+| [Wzrost kolców](#wzrost-kolców-1) | *Transmutacji* | Druid, Łowca | Akcja | 45 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Beast](#przywołanie-bestii-1) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 | Tortoise Shell | *Odrzucania* | Wynalazca, Druid, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Vitality](#aura-witalności) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Wezwanie błyskawicy](#wezwanie-błyskawicy) | *Przywoływania* | Druid | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [Przywołanie zwierząt](#przywołanie-zwierząt) | *Przywoływania* | Druid, Łowca | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Światło dnia](#światło-dnia) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Elemental Weapon](#broń-żywiołu) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Feign Death](#pozór-śmierci) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
-| [Wtopienie w kamień](#wtopienie-w-kamień) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
-| [Rozrost roślin](#rozrost-roślin) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
-| [Ochrona przed energią](#ochrona-przed-energią) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Ożywienie](#ożywienie) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Śnieżyca](#śnieżyca) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Rozmawianie z roślinami](#rozmawianie-z-roślinami) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
-| [Summon Fey](#przywołanie-feya) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Aura of Vitality](#aura-witalności-1) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Wezwanie błyskawicy](#wezwanie-błyskawicy-1) | *Przywoływania* | Druid | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [Przywołanie zwierząt](#przywołanie-zwierząt-1) | *Przywoływania* | Druid, Łowca | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Światło dnia](#światło-dnia-1) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Elemental Weapon](#broń-żywiołu-1) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Feign Death](#pozór-śmierci-1) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
+| [Wtopienie w kamień](#wtopienie-w-kamień-1) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
+| [Rozrost roślin](#rozrost-roślin-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
+| [Ochrona przed energią](#ochrona-przed-energią-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Ożywienie](#ożywienie-1) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Śnieżyca](#śnieżyca-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Rozmawianie z roślinami](#rozmawianie-z-roślinami-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
+| [Summon Fey](#przywołanie-feya-1) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 | Sylune's Viper | *Przywoływania* | Druid, Mag | Akcja dodatkowa | Self | V, S, M | 1 hour |
-| [Oddychanie pod wodą](#oddychanie-pod-wodą) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
-| [Spacer po wodzie](#spacer-po-wodzie) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
-| [Ściana wichru](#ściana-wichru) | *Wywoływania* | Druid, Łowca | Akcja | 36 metrów | V, S, M | **^C^**, up to 1 minute |
+| [Oddychanie pod wodą](#oddychanie-pod-wodą-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
+| [Spacer po wodzie](#spacer-po-wodzie-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Ściana wichru](#ściana-wichru-1) | *Wywoływania* | Druid, Łowca | Akcja | 36 metrów | V, S, M | **^C^**, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Plaga](#plaga) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Urok Monster](#zauroczenie-potwora) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Zamęt](#zamęt) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Przywołanie mniejszych żywiołaków](#przywołanie-mniejszych-żywiołaków) | *Przywoływania* | Druid, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Przywołanie leśnych istot](#przywołanie-leśnych-istot) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Kontrola wody](#kontrola-wody) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Wieszczenia](#wieszczenie) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
-| [Dominacja nad bestią](#dominacja-nad-bestią) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Tarcza ognia](#tarcza-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
-| [Fount of Moonlight](#źródło-światła-księżyca) | *Wywoływania* | Bard, Druid | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Swoboda ruchu](#swoboda-ruchu) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
-| [Olbrzymie owady](#olbrzymi-owad-1) | *Przywoływania* | Druid | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Grasping Vine](#chwytne-pnącze) | *Przywoływania* | Druid, Łowca | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Iluzoryczny teren](#iluzoryczny-teren) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
-| [Burza lodu](#burza-lodu) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Polimorfia](#polimorfia) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Plaga](#plaga-1) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Urok Monster](#zauroczenie-potwora-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Zamęt](#zamęt-1) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Przywołanie mniejszych żywiołaków](#przywołanie-mniejszych-żywiołaków-1) | *Przywoływania* | Druid, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Przywołanie leśnych istot](#przywołanie-leśnych-istot-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Kontrola wody](#kontrola-wody-1) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Wieszczenia](#wieszczenie-1) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
+| [Dominacja nad bestią](#dominacja-nad-bestią-1) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Tarcza ognia](#tarcza-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
+| [Fount of Moonlight](#źródło-światła-księżyca-1) | *Wywoływania* | Bard, Druid | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Swoboda ruchu](#swoboda-ruchu-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
+| [Olbrzymie owady](#olbrzymi-owad-2) | *Przywoływania* | Druid | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Grasping Vine](#chwytne-pnącze-1) | *Przywoływania* | Druid, Łowca | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Iluzoryczny teren](#iluzoryczny-teren-1) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
+| [Burza lodu](#burza-lodu-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Polimorfia](#polimorfia-1) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutacji* | Kleryk, Druid, Łowca | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Kamienny kształt](#kamienny-kształt) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
-| [Kamienna skóra](#kamienna-skóra) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Elemental](#przywołanie-żywiołaka-1) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Ściana ognia](#ściana-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Kamienny kształt](#kamienny-kształt-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
+| [Kamienna skóra](#kamienna-skóra-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Elemental](#przywołanie-żywiołaka-3) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Ściana ognia](#ściana-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Odrzucania* | Bard, Druid, Łowca, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Bariera przeciw życiu](#bariera-przeciw-życiu) | *Odrzucania* | Druid | Akcja | Self | V, S | *^C^* up to 1 hour |
-| [Przebudzenie](#przebudzenie) | *Transmutacji* | Bard, Druid | 8 Hours | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Kontakt z bóstwem With Przyroda](#kontakt-z-naturą) | *Wieszczenia* | Druid, Łowca | 1 minute lub *^R^* | Self | V, S | Natychmiastowy |
-| [stożek Of Cold](#stożek-zimna) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Przywołanie żywiołaka](#przywołanie-żywiołaka-1) | *Przywoływania* | Druid, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Zaraza](#zaraza) | *Nekromancji* | Kleryk, Druid | Akcja | Dotyk | V, S | 7 days |
-| [Geas](#geas) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
-| [Większe przywrócenie](#większe-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Plaga owadów](#plaga-owadów) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Masowe leczenie ran](#masowe-leczenie-ran) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Sferalne wiązanie](#sferalne-wiązanie) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
-| [Reinkarnacja](#reinkarnacja) | *Nekromancji* | Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Wizja](#wizja) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Bariera przeciw życiu](#bariera-przeciw-życiu-1) | *Odrzucania* | Druid | Akcja | Self | V, S | *^C^* up to 1 hour |
+| [Przebudzenie](#przebudzenie-1) | *Transmutacji* | Bard, Druid | 8 Hours | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Kontakt z bóstwem With Przyroda](#kontakt-z-naturą-1) | *Wieszczenia* | Druid, Łowca | 1 minute lub *^R^* | Self | V, S | Natychmiastowy |
+| [stożek Of Cold](#stożek-zimna-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Przywołanie żywiołaka](#przywołanie-żywiołaka-3) | *Przywoływania* | Druid, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Zaraza](#zaraza-1) | *Nekromancji* | Kleryk, Druid | Akcja | Dotyk | V, S | 7 days |
+| [Geas](#geas-1) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
+| [Większe przywrócenie](#większe-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Plaga owadów](#plaga-owadów-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Masowe leczenie ran](#masowe-leczenie-ran-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Sferalne wiązanie](#sferalne-wiązanie-1) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
+| [Reinkarnacja](#reinkarnacja-1) | *Nekromancji* | Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Wizja](#wizja-1) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
 | Songal's Elemental Suffusion | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Spacer między drzewami](#spacer-między-drzewami) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Ściana kamienia](#ściana-kamienia) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Spacer między drzewami](#spacer-między-drzewami-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Ściana kamienia](#ściana-kamienia-1) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przywołanie fey](#przywołanie-fey) | *Przywoływania* | Druid | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Przywołanie fey](#przywołanie-fey-1) | *Przywoływania* | Druid | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
 | Elminster's Effulgent Spheres | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | 1 hour |
-| [Odnalezienie ścieżki](#odnalezienie-ścieżki) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Ciało w kamień](#ciało-w-kamień) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Leczenie](#uleczenie) | *Odrzucania* | Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Uczta bohaterów](#uczta-bohaterów) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
-| [Poruszenie ziemi](#poruszenie-ziemi) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
-| [Promień słońca](#promień-słońca) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Podróż przez rośliny](#podróż-przez-rośliny) | *Przywoływania* | Druid | Akcja | 3 metrów | V, S | 1 minute |
-| [Ściana cierni](#ściana-cierni) | *Przywoływania* | Druid | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Spacer na wietrze](#spacer-na-wietrze) | *Transmutacji* | Druid | 1 minute | 9 metrów | V, S, M | 8 hours |
+| [Odnalezienie ścieżki](#odnalezienie-ścieżki-1) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Ciało w kamień](#ciało-w-kamień-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Leczenie](#uleczenie-1) | *Odrzucania* | Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Uczta bohaterów](#uczta-bohaterów-1) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Poruszenie ziemi](#poruszenie-ziemi-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
+| [Promień słońca](#promień-słońca-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Podróż przez rośliny](#podróż-przez-rośliny-1) | *Przywoływania* | Druid | Akcja | 3 metrów | V, S | 1 minute |
+| [Ściana cierni](#ściana-cierni-1) | *Przywoływania* | Druid | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Spacer na wietrze](#spacer-na-wietrze-1) | *Transmutacji* | Druid | 1 minute | 9 metrów | V, S, M | 8 hours |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Burza ognia](#burza-ognia) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
-| [Miraż](#miraż) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
-| [Sferalny przeskok](#sferalny-przeskok) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Regeneracja](#regeneracja) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
-| [Odwrócenie grawitacji](#odwrócenie-grawitacji) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Symbol](#symbol) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Burza ognia](#burza-ognia-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
+| [Miraż](#miraż-1) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
+| [Sferalny przeskok](#sferalny-przeskok-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Regeneracja](#regeneracja-1) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
+| [Odwrócenie grawitacji](#odwrócenie-grawitacji-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Symbol](#symbol-1) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Zwierzęce kształty](#zwierzęce-kształty) | *Transmutacji* | Druid | Akcja | 9 metrów | V, S | 24 Hours |
-| [Antypatia / Sympatia](#antypatiasympatia) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
-| [Befuddlement](#zmieszanie-umysłu) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
-| [Kontrola pogody](#kontrola-pogody) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Trzęsienie ziemi](#trzęsienie-ziemi) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Chmura żaru](#chmura-żaru) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
-| [Słoneczny blask](#słoneczny-blask) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Tsunami](#tsunami) | *Przywoływania* | Druid | 1 minute | 1,5 km | V, S | *^C^*, up to 6 rounds |
+| [Zwierzęce kształty](#zwierzęce-kształty-1) | *Transmutacji* | Druid | Akcja | 9 metrów | V, S | 24 Hours |
+| [Antypatia / Sympatia](#antypatiasympatia-1) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
+| [Befuddlement](#zmieszanie-umysłu-1) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
+| [Kontrola pogody](#kontrola-pogody-1) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Trzęsienie ziemi](#trzęsienie-ziemi-1) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Chmura żaru](#chmura-żaru-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
+| [Słoneczny blask](#słoneczny-blask-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Tsunami](#tsunami-1) | *Przywoływania* | Druid | 1 minute | 1,5 km | V, S | *^C^*, up to 6 rounds |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Profetyzm](#profetyzm) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
-| [Zmiennokształtność](#zmiennokształtność) | *Transmutacji* | Druid, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 hour |
-| [Burza zemsty](#burza-zemsty) | *Przywoływania* | Druid | Akcja | 1,5 km | V, S | *^C^*, up to 1 minute |
-| [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie) | *Nekromancji* | Kleryk, Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Profetyzm](#profetyzm-1) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
+| [Zmiennokształtność](#zmiennokształtność-1) | *Transmutacji* | Druid, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 hour |
+| [Burza zemsty](#burza-zemsty-1) | *Przywoływania* | Druid | Akcja | 1,5 km | V, S | *^C^*, up to 1 minute |
+| [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie-1) | *Nekromancji* | Kleryk, Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
 
 #### Krąg Ziemi
+
+### Krąg Ziemi
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:circle-of-the-land
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Celebruj więź ze światem natury*
 
@@ -5061,37 +5322,37 @@ Za każdym razem, gdy kończysz Długi odpoczynek, wybierasz jedno środowisko: 
 
 | Poziom druida | Czary kręgu |
 | --- | --- |
-| 3 | [Rozmycie](#rozmycie), [Płonące dłonie](#płonące-dłonie), [Ognisty pocisk](#ognisty-pocisk) |
-| 5 | [Kula ognia](#kula-ognia) |
-| 7 | [Plaga](#plaga) |
-| 9 | [Ściana kamienia](#ściana-kamienia) |
+| 3 | [Rozmycie](#rozmycie-1), [Płonące dłonie](#płonące-dłonie-1), [Ognisty pocisk](#ognisty-pocisk-1) |
+| 5 | [Kula ognia](#kula-ognia-1) |
+| 7 | [Plaga](#plaga-1) |
+| 9 | [Ściana kamienia](#ściana-kamienia-1) |
 
 ###### Środowisko polarne
 
 | Poziom druida | Czary kręgu |
 | --- | --- |
-| 3 | [Chmura mgły](#chmura-mgły), [Unieruchomienie osoby](#unieruchomienie-osoby), [Promień mrozu](#promień-mrozu) |
-| 5 | [Śnieżyca](#śnieżyca) |
-| 7 | [Burza lodowa](#burza-lodu) |
-| 9 | [Stożek zimna](#stożek-zimna) |
+| 3 | [Chmura mgły](#chmura-mgły-1), [Unieruchomienie osoby](#unieruchomienie-osoby-1), [Promień mrozu](#promień-mrozu-1) |
+| 5 | [Śnieżyca](#śnieżyca-1) |
+| 7 | [Burza lodowa](#burza-lodu-1) |
+| 9 | [Stożek zimna](#stożek-zimna-1) |
 
 ###### Środowisko umiarkowane
 
 | Poziom druida | Czary kręgu |
 | --- | --- |
-| 3 | [Mglista krok](#krok-przez-mgłę), [Porażający uścisk](#porażający-uścisk), [Uśpienie](#uśpienie) |
-| 5 | [Piorunująca warga](#piorun) |
-| 7 | [Wolność ruchów](#swoboda-ruchu) |
-| 9 | [Spacer między drzewami](#spacer-między-drzewami) |
+| 3 | [Mglista krok](#krok-przez-mgłę-1), [Porażający uścisk](#porażający-uścisk-1), [Uśpienie](#uśpienie-1) |
+| 5 | [Piorunująca warga](#piorun-1) |
+| 7 | [Wolność ruchów](#swoboda-ruchu-1) |
+| 9 | [Spacer między drzewami](#spacer-między-drzewami-1) |
 
 ###### Środowisko tropikalne
 
 | Poziom druida | Czary kręgu |
 | --- | --- |
-| 3 | [Kwasowy rozprysk](#kwasowy-rozprysk), [Promień zatrucia](#promień-zatrucia), [Pajęczyna](#pajęczyna) |
-| 5 | [Śmierdząca chmura](#śmierdząca-chmura) |
-| 7 | [Polimorfia](#polimorfia) |
-| 9 | [Plaga owadów](#plaga-owadów) |
+| 3 | [Kwasowy rozprysk](#kwasowy-rozprysk-1), [Promień zatrucia](#promień-zatrucia-1), [Pajęczyna](#pajęczyna-1) |
+| 5 | [Śmierdząca chmura](#śmierdząca-chmura-1) |
+| 7 | [Polimorfia](#polimorfia-1) |
+| 9 | [Plaga owadów](#plaga-owadów-1) |
 
 ##### Poziom 3: Pomoc natury
 
@@ -5126,6 +5387,16 @@ Akcją dodatkową możesz przesunąć ten sześcian o maksymalnie 18 metrów na 
 
 #### Krąg księżyca
 
+### Krąg księżyca
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:circle-of-the-moon
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Przyjmuj postacie zwierząt, by strzec dziczy*
 
 Druidzi Kręgu księżyca czerpią księżycową magię, by się przemieniać. Ich zakon gromadzi się pod księżycem, by wymieniać wieści i odprawiać rytuały.
@@ -5152,10 +5423,10 @@ Ponadto możesz rzucać czary z tej cechy, będąc w formie Dzikiej postaci.
 
 | Poziom druida | Przygotowane czary |
 | --- | --- |
-| 3 | [Leczenie ran](#leczenie-ran), [Księżycowy promień](#księżycowy-promień), [Starry Wisp](#gwiezdna-iskra) |
-| 5 | [Przywołanie zwierząt](#przywołanie-zwierząt) |
-| 7 | [Fount of Moonlight](#źródło-światła-księżyca) |
-| 9 | [Masowe leczenie ran](#masowe-leczenie-ran) |
+| 3 | [Leczenie ran](#leczenie-ran-1), [Księżycowy promień](#księżycowy-promień-1), [Starry Wisp](#gwiezdna-iskra-1) |
+| 5 | [Przywołanie zwierząt](#przywołanie-zwierząt-1) |
+| 7 | [Fount of Moonlight](#źródło-światła-księżyca-1) |
+| 9 | [Masowe leczenie ran](#masowe-leczenie-ran-1) |
 
 ##### Poziom 6: Ulepszone formy kręgu
 
@@ -5181,6 +5452,16 @@ Moc księżyca przesiąka cię, przyznając następujące korzyści.
 
 #### Krąg morza
 
+### Krąg morza
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:circle-of-the-sea
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Zjednocz się z przypływami i burzami*
 
 Druidzi Kręgu morza czerpią wzburzone siły oceanów i burz. Niektórzy postrzegają siebie jako uosobienie gniewu natury i szukają zemsty na tych, którzy plądrują przyrodę. Inni dążą do mistycznej jedności z naturą, dostrajając się do przypływów i odpływów, podążając za nurtem prądów i fal i słuchając niezbadanych szeptów i ryków wiatru.
@@ -5193,10 +5474,10 @@ Gdy osiągasz poziom druida wskazany w tabeli Czary kręgu morza, zawsze masz pr
 
 | Poziom druida | Przygotowane czary |
 | --- | --- |
-| 3 | [Chmura mgły](#chmura-mgły), [Poryw wiatru](#poryw-wiatru), [Promień mrozu](#promień-mrozu), [Fala grzmotu](#fala-gromu) |
-| 5 | [Piorunująca warga](#piorun), [Oddychanie pod wodą](#oddychanie-pod-wodą) |
-| 7 | [Kontrola wody](#kontrola-wody), [Burza lodowa](#burza-lodu) |
-| 9 | [Przywołanie żywiołaka](#przywołanie-żywiołaka-1), [Unieruchomienie potwora](#unieruchomienie-potwora) |
+| 3 | [Chmura mgły](#chmura-mgły-1), [Poryw wiatru](#poryw-wiatru-1), [Promień mrozu](#promień-mrozu-1), [Fala grzmotu](#fala-gromu-1) |
+| 5 | [Piorunująca warga](#piorun-1), [Oddychanie pod wodą](#oddychanie-pod-wodą-1) |
+| 7 | [Kontrola wody](#kontrola-wody-1), [Burza lodowa](#burza-lodu-1) |
+| 9 | [Przywołanie żywiołaka](#przywołanie-żywiołaka-3), [Unieruchomienie potwora](#unieruchomienie-potwora-1) |
 
 ##### Poziom 3: Gniew morza
 
@@ -5226,6 +5507,16 @@ Ponadto możesz manifestować emanację wokół tej istoty i siebie, jeśli zuż
 
 #### Krąg gwiazd
 
+### Krąg gwiazd
+
+**Klasa:** Druid
+**URL źródła:** http://dnd2024.wikidot.com/druid:circle-of-the-stars
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Władaj sekretami ukrytymi w konstelacjach*
 
 Krąg gwiazd od niepamiętnych czasów śledzi wzorce niebios, odkrywając sekrety skryte wśród gwiazdozbiorów. Rozumiejąc te tajemnice, druidzi tego kręgu dążą do władania mocami kosmosu.
@@ -5234,7 +5525,7 @@ Krąg gwiazd od niepamiętnych czasów śledzi wzorce niebios, odkrywając sekre
 
 Stworzyłeś mapę gwiazd w ramach swoich studiów nieba. Jest to Drobný przedmiot i możesz używać go jako magicznego fokusu do rzucania czarów druida. Określasz jego formę, rzucając na tabeli Mapa gwiazd lub wybierając jedną opcję.
 
-Trzymając mapę, masz przygotowane czary [Wskazówki](#wskazówki) i [Pocisk wiodący](#pocisk-wiodący) oraz możesz rzucić [Pocisk wiodący](#pocisk-wiodący) bez zużywania komórki czaru. Możesz to zrobić liczbę razy równą twojemu modyfikatorowi Mądrości (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
+Trzymając mapę, masz przygotowane czary [Wskazówki](#wskazówki-1) i [Pocisk wiodący](#pocisk-wiodący-1) oraz możesz rzucić [Pocisk wiodący](#pocisk-wiodący-1) bez zużywania komórki czaru. Możesz to zrobić liczbę razy równą twojemu modyfikatorowi Mądrości (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
 
 Jeśli zgubisz mapę, możesz odprawić godzinną ceremonię, by magicznie stworzyć zamiennik. Ceremonia może odbyć się podczas Krótkiego lub Długiego odpoczynku i niszczy poprzednią mapę.
 
@@ -5284,6 +5575,16 @@ Ponadto na początku każdej swojej tury w Gwiezdnej postaci możesz zmienić ko
 Będąc w Gwiezdnej postaci, stajesz się częściowo niematerialny, co daje ci niepodatność na obrażenia od obuchu, przeszywające i sieczne.
 
 ### Kleryk
+
+#### Kleryk
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Klerycy czerpią moc z sfer bogów i wykorzystują ją do dokonywania cudów. Błogosławieni przez bóstwo, panteon lub inną nieśmiertelną istotę, kleryk sięga po boską magię Sfer Zewnętrznych — gdzie mieszkają bogowie — i kanalizuje ją, by wzmacniać ludzi i pokonywać wrogów.
 
@@ -5371,9 +5672,9 @@ Jako kleryk zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 
 ###### Poziom 1: Rzucanie czarów
 
-Nauczyłeś się rzucać czary przez modlitwę i medytację. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów kleryka, które wymieniono na liście czarów kleryka.
+Nauczyłeś się rzucać czary przez modlitwę i medytację. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów kleryka, które wymieniono na [liście czarów kleryka](#cleric-spell-list).
 
-_Sztuczki._ Znasz trzy sztuczki według własnego wyboru z listy czarów kleryka. Zalecane są [Wskazówki](#wskazówki), [Święty płomień](#święty-płomień) i [Taumaturgia](#taumaturgia).
+_Sztuczki._ Znasz trzy sztuczki według własnego wyboru z listy czarów kleryka. Zalecane są [Wskazówki](#wskazówki-1), [Święty płomień](#święty-płomień-1) i [Taumaturgia](#taumaturgia-1).
 
 Za każdym razem, gdy zyskujesz poziom kleryka, możesz zamienić jedną ze swoich sztuczek na inną sztuczkę według własnego wyboru z listy czarów kleryka.
 
@@ -5381,7 +5682,7 @@ Gdy osiągasz poziomy kleryka 4 i 10, uczysz się kolejnej sztuczki według wła
 
 _Komórki czaru._ Tabela Cech kleryka pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów kleryka. Zalecane są [Błogosławieństwo](#błogosławieństwo), [Leczenie ran](#leczenie-ran), [Pocisk wiodący](#pocisk-wiodący) i [Tarcza wiary](#tarcza-wiary).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz cztery czary 1. kręgu z listy czarów kleryka. Zalecane są [Błogosławieństwo](#błogosławieństwo-1), [Leczenie ran](#leczenie-ran-1), [Pocisk wiodący](#pocisk-wiodący-1) i [Tarcza wiary](#tarcza-wiary-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami kleryka, zgodnie z kolumną Przygotowane czary w tabeli Cech kleryka. Za każdym razem, gdy ta liczba rośnie, wybieraj dodatkowe czary z listy czarów kleryka, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako kleryk 3. poziomu twoja lista przygotowanych czarów może obejmować sześć czarów 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -5425,14 +5726,14 @@ Zyskujesz podklasę kleryka według własnego wyboru. Podklasa to specjalizacja,
 | --- |
 | Domena grobu |
 | Domena wiedzy |
-| [Domena życia](#domena-życia) |
-| [Domena światła](#domena-światła) |
-| [Domena oszustwa](#domena-oszustwa) |
-| [Domena wojny](#domena-wojny) |
+| [Domena życia](#domena-życia-1) |
+| [Domena światła](#domena-światła-1) |
+| [Domena oszustwa](#domena-oszustwa-1) |
+| [Domena wojny](#domena-wojny-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach kleryka 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach kleryka 8, 12 i 16.
 
 ###### Poziom 5: Spopielenie nieumarłych
 
@@ -5460,171 +5761,188 @@ _Potężne czarowanie._ Gdy rzucasz sztuczkę kleryka i zadajesz nią obrażenia
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar przeznaczenia](#dar-przeznaczenia).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar przeznaczenia](#dar-przeznaczenia-1).
 
 ###### Poziom 20: Większa boska interwencja
 
-Możesz wezwać jeszcze potężniejszą boską interwencję. Gdy używasz cechy Boska interwencja, możesz wybrać [Życzenie](#życzenie) jako czar. Jeśli to zrobisz, nie możesz ponownie użyć Boskiej interwencji, dopóki nie zakończysz 2k4 Długich odpoczynków.
+Możesz wezwać jeszcze potężniejszą boską interwencję. Gdy używasz cechy Boska interwencja, możesz wybrać [Życzenie](#życzenie-1) jako czar. Jeśli to zrobisz, nie możesz ponownie użyć Boskiej interwencji, dopóki nie zakończysz 2k4 Długich odpoczynków.
 
 #### Lista czarów kleryka
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Wskazówki](#wskazówki) | *Wieszczenia* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Światło](#światło-1) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Naprawa](#naprawa) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
-| [Odporność](#odporność) | *Odrzucania* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Święty płomień](#święty-płomień) | *Wywoływania* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Powstrzymanie śmierci](#powstrzymanie-śmierci) | *Nekromancji* | Wynalazca, Kleryk, Druid | Akcja | 4,5 metrów | V, S | Natychmiastowy |
-| [Taumaturgia](#taumaturgia) | *Transmutacji* | Kleryk | Akcja | 9 metrów | V | Up to 1 minute |
-| [Toll the Dead](#dzwonek-śmierci) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Word of Radiance](#słowo-promienistości) | *Wywoływania* | Kleryk | Akcja | Self | V, M | Natychmiastowy |
+#### Cleric Spell List
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Zguba](#zguba) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Błogosławieństwo](#błogosławieństwo) | *Uroku* | Kleryk, Paladyn | Akcja | 9 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Rozkaz](#rozkaz) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
-| [Stworzenie lub zniszczenie wody](#stworzenie-lub-zniszczenie-wody) | *Transmutacji* | Kleryk, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
-| [Leczenie ran](#leczenie-ran) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Wykrycie dobra i zła](#wykrycie-dobra-i-zła) | *Wieszczenia* | Kleryk, Paladyn | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Pocisk wiodący](#pocisk-wiodący) | *Wywoływania* | Kleryk | Akcja | 36 metrów | V, S | 1 round |
-| [Kojące słowo](#słowo-leczenia) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
-| [Zadawanie ran](#zadawanie-ran) | *Nekromancji* | Kleryk | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
-| [Sanktuarium](#sanktuarium) | *Odrzucania* | Wynalazca, Kleryk | Akcja dodatkowa | 9 metrów | V, S, M | 1 minute |
-| [Tarcza wiary](#tarcza-wiary) | *Odrzucania* | Kleryk, Paladyn | Akcja dodatkowa | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Wskazówki](#wskazówki-1) | *Wieszczenia* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Światło](#światło-2) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Naprawa](#naprawa-1) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
+| [Odporność](#odporność-1) | *Odrzucania* | Wynalazca, Kleryk, Druid | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Święty płomień](#święty-płomień-1) | *Wywoływania* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Powstrzymanie śmierci](#powstrzymanie-śmierci-1) | *Nekromancji* | Wynalazca, Kleryk, Druid | Akcja | 4,5 metrów | V, S | Natychmiastowy |
+| [Taumaturgia](#taumaturgia-1) | *Transmutacji* | Kleryk | Akcja | 9 metrów | V | Up to 1 minute |
+| [Toll the Dead](#dzwonek-śmierci-1) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Word of Radiance](#słowo-promienistości-1) | *Wywoływania* | Kleryk | Akcja | Self | V, M | Natychmiastowy |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Zguba](#zguba-1) | *Uroku* | Bard, Kleryk, Czarownik | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Błogosławieństwo](#błogosławieństwo-1) | *Uroku* | Kleryk, Paladyn | Akcja | 9 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Rozkaz](#rozkaz-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
+| [Stworzenie lub zniszczenie wody](#stworzenie-lub-zniszczenie-wody-1) | *Transmutacji* | Kleryk, Druid | Akcja | 9 metrów | V, S, M | Natychmiastowy |
+| [Leczenie ran](#leczenie-ran-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Wykrycie dobra i zła](#wykrycie-dobra-i-zła-1) | *Wieszczenia* | Kleryk, Paladyn | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby-1) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Pocisk wiodący](#pocisk-wiodący-1) | *Wywoływania* | Kleryk | Akcja | 36 metrów | V, S | 1 round |
+| [Kojące słowo](#słowo-leczenia-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
+| [Zadawanie ran](#zadawanie-ran-1) | *Nekromancji* | Kleryk | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
+| [Sanktuarium](#sanktuarium-1) | *Odrzucania* | Wynalazca, Kleryk | Akcja dodatkowa | 9 metrów | V, S, M | 1 minute |
+| [Tarcza wiary](#tarcza-wiary-1) | *Odrzucania* | Kleryk, Paladyn | Akcja dodatkowa | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
 | Wardaway | *Odrzucania* | Bard, Kleryk, Paladyn, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#pomoc) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Wróżba](#wróżba) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
-| [Głuchota/Ślepota](#głuchotaślepota) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
-| [Wyciszenie emocji](#wyciszenie-emocji) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Wieczny ogień](#wieczny-ogień) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
+| [Aid](#pomoc-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Wróżba](#wróżba-1) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
+| [Głuchota/Ślepota](#głuchotaślepota-1) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
+| [Wyciszenie emocji](#wyciszenie-emocji-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Wieczny ogień](#wieczny-ogień-1) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
 | Deryan's Helpful Homunculi | *Przywoływania* | Kleryk, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | 8 hours |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Wykrycie pułapek](#wykrycie-pułapek) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Bezpieczny spoczynek](#bezpieczny-spoczynek) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Mniejsze przywrócenie](#mniejsze-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Uzdrawiająca modlitwa](#uzdrawiająca-modlitwa) | *Odrzucania* | Kleryk, Paladyn | 10 minutes | 9 metrów | V | Natychmiastowy |
-| [Ochrona przed trucizną](#ochrona-przed-trucizną) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Wykrycie pułapek](#wykrycie-pułapek-1) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Bezpieczny spoczynek](#bezpieczny-spoczynek-1) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Uzdrawiająca modlitwa](#uzdrawiająca-modlitwa-1) | *Odrzucania* | Kleryk, Paladyn | 10 minutes | 9 metrów | V | Natychmiastowy |
+| [Ochrona przed trucizną](#ochrona-przed-trucizną-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
 | Searing Orb | *Wywoływania* | Kleryk, Paladyn | Akcja | 18 metrów | S, M | Natychmiastowy |
-| [Cisza](#cisza) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [Duchowa broń](#duchowa-broń) | *Wywoływania* | Kleryk | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Ochronna więź](#ochronna-więź) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S, M | 1 hour |
-| [Strefa prawdy](#strefa-prawdy) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
+| [Cisza](#cisza-1) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [Duchowa broń](#duchowa-broń-1) | *Wywoływania* | Kleryk | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Ochronna więź](#ochronna-więź-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S, M | 1 hour |
+| [Strefa prawdy](#strefa-prawdy-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animowanie zmarłego](#animowanie-zmarłego) | *Nekromancji* | Kleryk, Mag | 1 minute | 3 metrów | V, S, M | Natychmiastowy |
+| [Animowanie zmarłego](#animowanie-zmarłego-1) | *Nekromancji* | Kleryk, Mag | 1 minute | 3 metrów | V, S, M | Natychmiastowy |
 | Astral Flood | *Wywoływania* | Bard, Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Aura of Vitality](#aura-witalności) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Beacon Of Hope](#promień-nadziei) | *Odrzucania* | Kleryk | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
-| [Nałożenie klątwy](#nałożenie-klątwy) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Jasnowidzenie](#jasnowidzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Create Food And Water](#stworzenie-jadła-i-wody) | *Przywoływania* | Wynalazca, Kleryk, Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Światło dnia](#światło-dnia) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Feign Death](#pozór-śmierci) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
-| [Glif strażniczy](#glif-strażniczy) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Aura of Vitality](#aura-witalności-1) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Beacon Of Hope](#promień-nadziei-1) | *Odrzucania* | Kleryk | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
+| [Nałożenie klątwy](#nałożenie-klątwy-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Jasnowidzenie](#jasnowidzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Create Food And Water](#stworzenie-jadła-i-wody-1) | *Przywoływania* | Wynalazca, Kleryk, Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Światło dnia](#światło-dnia-1) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Feign Death](#pozór-śmierci-1) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
+| [Glif strażniczy](#glif-strażniczy-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
 | Laeral's Srebro Lanca | *Wywoływania* | Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | Natychmiastowy |
-| [Krąg magii](#krąg-magii) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
-| [Masowe kojące słowo](#masowe-kojące-słowo) | *Odrzucania* | Bard, Kleryk | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
-| [Wtopienie w kamień](#wtopienie-w-kamień) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
-| [Ochrona przed energią](#ochrona-przed-energią) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Zdjęcie klątwy](#zdjęcie-klątwy) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Ożywienie](#ożywienie) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Nadanie wiadomości](#nadanie-wiadomości) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
-| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
-| [Duchowi strażnicy](#duchowi-strażnicy) | *Przywoływania* | Kleryk | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Języki](#języki) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Spacer po wodzie](#spacer-po-wodzie) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Krąg magii](#krąg-magii-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
+| [Masowe kojące słowo](#masowe-kojące-słowo-1) | *Odrzucania* | Bard, Kleryk | Akcja dodatkowa | 18 metrów | V | Natychmiastowy |
+| [Wtopienie w kamień](#wtopienie-w-kamień-1) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
+| [Ochrona przed energią](#ochrona-przed-energią-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Zdjęcie klątwy](#zdjęcie-klątwy-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Ożywienie](#ożywienie-1) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Nadanie wiadomości](#nadanie-wiadomości-1) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
+| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
+| [Duchowi strażnicy](#duchowi-strażnicy-1) | *Przywoływania* | Kleryk | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Języki](#języki-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Spacer po wodzie](#spacer-po-wodzie-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Life](#aura-życia) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Aura of Purity](#aura-czystości) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Wypędzenie](#wypędzenie) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Kontrola wody](#kontrola-wody) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Osłona przed śmiercią](#osłona-przed-śmiercią) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S | 8 hours |
-| [Wieszczenia](#wieszczenie) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
+| [Aura of Life](#aura-życia-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Aura of Purity](#aura-czystości-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Wypędzenie](#wypędzenie-1) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Kontrola wody](#kontrola-wody-1) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Osłona przed śmiercią](#osłona-przed-śmiercią-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S | 8 hours |
+| [Wieszczenia](#wieszczenie-1) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
 | Doomtide | *Przywoływania* | Bard, Kleryk, Czarownik | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Swoboda ruchu](#swoboda-ruchu) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
-| [Strażnik wiary](#strażnik-wiary) | *Przywoływania* | Kleryk | Akcja | 9 metrów | V | 8 hours |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Swoboda ruchu](#swoboda-ruchu-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
+| [Strażnik wiary](#strażnik-wiary-1) | *Przywoływania* | Kleryk | Akcja | 9 metrów | V | 8 hours |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutacji* | Kleryk, Druid, Łowca | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Kamienny kształt](#kamienny-kształt) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
+| [Kamienny kształt](#kamienny-kształt-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Circle Of Power](#krąg-mocy) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Kontakt z bóstwem](#kontakt-z-bóstwem) | *Wieszczenia* | Kleryk | 1 minute lub *^R^* | Self | V, S, M | 1 minute |
-| [Zaraza](#zaraza) | *Nekromancji* | Kleryk, Druid | Akcja | Dotyk | V, S | 7 days |
-| [Rozproszenie dobra i zła](#rozproszenie-dobra-i-zła) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Słup ognią](#słup-ognia) | *Wywoływania* | Kleryk | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Geas](#geas) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
-| [Większe przywrócenie](#większe-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Konsekracja](#konsekracja) | *Odrzucania* | Kleryk | 24 hours | Dotyk | V, S, M(C*) | Until dispelled |
-| [Plaga owadów](#plaga-owadów) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Legendarna wiedza](#legendarna-wiedza) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
-| [Masowe leczenie ran](#masowe-leczenie-ran) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Sferalne wiązanie](#sferalne-wiązanie) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
-| [Wskrzeszenie](#wskrzeszenie) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Wizja](#wizja) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Celestial](#przywołanie-niebiańskiego) | *Przywoływania* | Kleryk, Paladyn | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Circle Of Power](#krąg-mocy-1) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Kontakt z bóstwem](#kontakt-z-bóstwem-1) | *Wieszczenia* | Kleryk | 1 minute lub *^R^* | Self | V, S, M | 1 minute |
+| [Zaraza](#zaraza-1) | *Nekromancji* | Kleryk, Druid | Akcja | Dotyk | V, S | 7 days |
+| [Rozproszenie dobra i zła](#rozproszenie-dobra-i-zła-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Słup ognią](#słup-ognia-1) | *Wywoływania* | Kleryk | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Geas](#geas-1) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
+| [Większe przywrócenie](#większe-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Konsekracja](#konsekracja-1) | *Odrzucania* | Kleryk | 24 hours | Dotyk | V, S, M(C*) | Until dispelled |
+| [Plaga owadów](#plaga-owadów-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Legendarna wiedza](#legendarna-wiedza-1) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Masowe leczenie ran](#masowe-leczenie-ran-1) | *Odrzucania* | Bard, Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Sferalne wiązanie](#sferalne-wiązanie-1) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
+| [Wskrzeszenie](#wskrzeszenie-1) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Wizja](#wizja-1) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Celestial](#przywołanie-niebiańskiego-1) | *Przywoływania* | Kleryk, Paladyn | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Bariera ostrzy](#bariera-ostrzy) | *Wywoływania* | Kleryk | Akcja | 27 metrów | V, S | *^C^*, up to 10 minutes |
-| [Stworzenie nieumarłego](#stworzenie-nieumarłego) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
+| [Bariera ostrzy](#bariera-ostrzy-1) | *Wywoływania* | Kleryk | Akcja | 27 metrów | V, S | *^C^*, up to 10 minutes |
+| [Stworzenie nieumarłego](#stworzenie-nieumarłego-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
 | Dirge | *Uroku* | Bard, Kleryk | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Odnalezienie ścieżki](#odnalezienie-ścieżki) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Wyłączenie](#wyłączenie) | *Odrzucania* | Kleryk | 10 minutes lub *^R^* | Dotyk | V, S, M(C) | 1 day |
-| [Krzywda](#krzywda) | *Nekromancji* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Leczenie](#uleczenie) | *Odrzucania* | Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Uczta bohaterów](#uczta-bohaterów) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
-| [Sferalny sojusznik](#sferalny-sojusznik) | *Przywoływania* | Kleryk | 10 minutes | 18 metrów | V, S | Natychmiastowy |
-| [Promień słońca](#promień-słońca) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Prawdziwe widzenie](#prawdziwe-widzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
-| [Słowo powrotu](#słowo-powrotu) | *Przywoływania* | Kleryk | Akcja | 1,5 metrów | V | Natychmiastowy |
+| [Odnalezienie ścieżki](#odnalezienie-ścieżki-1) | *Wieszczenia* | Bard, Kleryk, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Wyłączenie](#wyłączenie-1) | *Odrzucania* | Kleryk | 10 minutes lub *^R^* | Dotyk | V, S, M(C) | 1 day |
+| [Krzywda](#krzywda-1) | *Nekromancji* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Leczenie](#uleczenie-1) | *Odrzucania* | Kleryk, Druid | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Uczta bohaterów](#uczta-bohaterów-1) | *Przywoływania* | Bard, Kleryk, Druid | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Sferalny sojusznik](#sferalny-sojusznik-1) | *Przywoływania* | Kleryk | 10 minutes | 18 metrów | V, S | Natychmiastowy |
+| [Promień słońca](#promień-słońca-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Prawdziwe widzenie](#prawdziwe-widzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
+| [Słowo powrotu](#słowo-powrotu-1) | *Przywoływania* | Kleryk | Akcja | 1,5 metrów | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przywołanie niebianina](#przywołanie-niebianina) | *Przywoływania* | Kleryk | Akcja | 27 metrów | V, S | *^C^*, up to 10 minutes |
-| [Słowo boże](#słowo-boże) | *Wywoływania* | Kleryk | Akcja dodatkowa | 9 metrów | V | Natychmiastowy |
-| [Eteryczność](#eteryczność) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
-| [Burza ognia](#burza-ognia) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
-| [Sferalny przeskok](#sferalny-przeskok) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Power Word Fortify](#słowo-mocy-wzmocnij) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
-| [Regeneracja](#regeneracja) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
-| [Zmartwychwstanie](#zmartwychwstanie) | *Nekromancji* | Bard, Kleryk | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Symbol](#symbol) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Przywołanie niebianina](#przywołanie-niebianina-1) | *Przywoływania* | Kleryk | Akcja | 27 metrów | V, S | *^C^*, up to 10 minutes |
+| [Słowo boże](#słowo-boże-1) | *Wywoływania* | Kleryk | Akcja dodatkowa | 9 metrów | V | Natychmiastowy |
+| [Eteryczność](#eteryczność-1) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
+| [Burza ognia](#burza-ognia-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
+| [Sferalny przeskok](#sferalny-przeskok-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Power Word Fortify](#słowo-mocy-wzmocnij-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
+| [Regeneracja](#regeneracja-1) | *Transmutacji* | Bard, Kleryk, Druid | 1 minute | Dotyk | V, S, M | 1 hour |
+| [Zmartwychwstanie](#zmartwychwstanie-1) | *Nekromancji* | Bard, Kleryk | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Symbol](#symbol-1) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Tyczka antymagii](#pole-antymagii) | *Odrzucania* | Kleryk, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Kontrola pogody](#kontrola-pogody) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Trzęsienie ziemi](#trzęsienie-ziemi) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Święta aura](#święta-aura) | *Odrzucania* | Kleryk | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
+| [Tyczka antymagii](#pole-antymagii-1) | *Odrzucania* | Kleryk, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Kontrola pogody](#kontrola-pogody-1) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Trzęsienie ziemi](#trzęsienie-ziemi-1) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Święta aura](#święta-aura-1) | *Odrzucania* | Kleryk | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
 | Holy Star of Mystra | *Wywoływania* | Kleryk, Mag | Akcja dodatkowa | Self | V, S | *^C^*, up to 1 minute |
-| [Słoneczny blask](#słoneczny-blask) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Słoneczny blask](#słoneczny-blask-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Projekcja astralna](#projekcja-astralna) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
-| [Brama](#brama) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Masowe uleczenie](#masowe-uleczenie) | *Odrzucania* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Power Word Leczenie](#słowo-mocy-ulecz) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
-| [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie) | *Nekromancji* | Kleryk, Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Projekcja astralna](#projekcja-astralna-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
+| [Brama](#brama-1) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Masowe uleczenie](#masowe-uleczenie-1) | *Odrzucania* | Kleryk | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Power Word Leczenie](#słowo-mocy-ulecz-1) | *Uroku* | Bard, Kleryk | Akcja | 18 metrów | V | Natychmiastowy |
+| [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie-1) | *Nekromancji* | Kleryk, Druid | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
 
 #### Domena życia
+
+### Domena życia
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:life-domain
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Łagodź rany świata*
 
@@ -5644,10 +5962,10 @@ Twoje powiązanie z tą boską domeną zapewnia, że zawsze masz przygotowane ok
 
 | Poziom kleryka | Przygotowane czary |
 | --- | --- |
-| 3 | [Pomoc](#pomoc), [Błogosławieństwo](#błogosławieństwo), [Leczenie ran](#leczenie-ran), [Mniejsze przywrócenie](#mniejsze-przywrócenie) |
-| 5 | [Masowe kojące słowo](#masowe-kojące-słowo), [Reanimacja](#ożywienie) |
-| 7 | [Aura życia](#aura-życia), [Osłona przed śmiercią](#osłona-przed-śmiercią) |
-| 9 | [Większe przywrócenie](#większe-przywrócenie), [Masowe leczenie ran](#masowe-leczenie-ran) |
+| 3 | [Pomoc](#pomoc-1), [Błogosławieństwo](#błogosławieństwo-1), [Leczenie ran](#leczenie-ran-1), [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) |
+| 5 | [Masowe kojące słowo](#masowe-kojące-słowo-1), [Reanimacja](#ożywienie-1) |
+| 7 | [Aura życia](#aura-życia-1), [Osłona przed śmiercią](#osłona-przed-śmiercią-1) |
+| 9 | [Większe przywrócenie](#większe-przywrócenie-1), [Masowe leczenie ran](#masowe-leczenie-ran-1) |
 
 ##### Poziom 3: Ochrona życia
 
@@ -5663,6 +5981,16 @@ Gdy miałbyś normalnie rzucić jedną lub więcej kości, by przywrócić punkt
 
 #### Domena światła
 
+### Domena światła
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:light-domain
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Przynieś światło, by rozproszyć ciemność*
 
 Domena światła podkreśla boską moc wzywania płomiennego ognia i objawienia. Klerycy władający tą mocą są oświeconymi duszami nasyconymi blaskiem i przenikliwą wizją swoich bóstw, powołanymi do przeganiania kłamstw i wypalania ciemności.
@@ -5677,14 +6005,14 @@ Twoje powiązanie z tą boską domeną zapewnia, że zawsze masz przygotowane ok
 
 | Poziom kleryka | Przygotowane czary |
 | --- | --- |
-| 3 | [Płonące dłonie](#płonące-dłonie), [Blask feeri](#blask-faerie), [Palący promień](#wypalający-promień), [Widzenie niewidzialnych](#widzenie-niewidzialnego) |
-| 5 | [Światło dzienne](#światło-dnia), [Kula ognia](#kula-ognia) |
-| 7 | [Magiczne oko](#magiczne-oko), [Ściana ognia](#ściana-ognia) |
-| 9 | [Uderzenie płomieni](#słup-ognia), [Wizja](#wizja) |
+| 3 | [Płonące dłonie](#płonące-dłonie-1), [Blask feeri](#blask-faerie-1), [Palący promień](#wypalający-promień-1), [Widzenie niewidzialnych](#widzenie-niewidzialnego-1) |
+| 5 | [Światło dzienne](#światło-dnia-1), [Kula ognia](#kula-ognia-1) |
+| 7 | [Magiczne oko](#magiczne-oko-1), [Ściana ognia](#ściana-ognia-1) |
+| 9 | [Uderzenie płomieni](#słup-ognia-1), [Wizja](#wizja-1) |
 
 ##### Poziom 3: Blask świtu
 
-Akcją magiczną prezentujesz symbol wiary i zużywasz użycie Aktu wiary, by wyemitować błysk światła w emanacji o promieniu 9 metrów wychodzącej z ciebie. Wszelka magiczna ciemność — np. stworzona przez czar [Ciemność](#ciemność) — w tym obszarze zostaje rozproszona. Ponadto każda istota według twojego wyboru w tym obszarze musi wykonać rzut obronny na Kondycję, otrzymując obrażenia promieniste równe 2k10 plus twój poziom kleryka przy nieudanym rzucie lub połowę tyle przy udanym.
+Akcją magiczną prezentujesz symbol wiary i zużywasz użycie Aktu wiary, by wyemitować błysk światła w emanacji o promieniu 9 metrów wychodzącej z ciebie. Wszelka magiczna ciemność — np. stworzona przez czar [Ciemność](#ciemność-1) — w tym obszarze zostaje rozproszona. Ponadto każda istota według twojego wyboru w tym obszarze musi wykonać rzut obronny na Kondycję, otrzymując obrażenia promieniste równe 2k10 plus twój poziom kleryka przy nieudanym rzucie lub połowę tyle przy udanym.
 
 ##### Poziom 3: Ochronny rozbłysk
 
@@ -5706,6 +6034,16 @@ Możesz skorzystać z tej cechy liczbę razy równą twojemu modyfikatorowi Mąd
 
 #### Domena oszustwa
 
+### Domena oszustwa
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:trickery-domain
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Płataj figle i kwestionuj autorytet*
 
 Domena oszustwa oferuje magię zwodzenia, iluzji i skradania. Klerycy władający tą magią są siłą dezorganizującą świat — przebijają dumę, kpią z tyranów, wyzwalają jeńców i lekceważą puste tradycje. Wolą podstęp i żarty od otwartej konfrontacji.
@@ -5724,10 +6062,10 @@ Twoje powiązanie z tą boską domeną zapewnia, że zawsze masz przygotowane ok
 
 | Poziom kleryka | Przygotowane czary |
 | --- | --- |
-| 3 | [Zauroczenie osoby](#zauroczenie-osoby), [Przebranie](#przebranie-siebie), [Niewidzialność](#niewidzialność), [Przejście bez śladu](#przejście-bez-śladu) |
-| 5 | [Wzór hipnotyczny](#hipnotyczny-wzór), [Niewykrywalność](#niewykrywalność) |
-| 7 | [Dezorientacja](#zamęt), [Drzwi wymiarowe](#drzwi-przez-wymiary) |
-| 9 | [Zdominowanie osoby](#dominacja-nad-osobą), [Modyfikacja pamięci](#podmiana-wspomnień) |
+| 3 | [Zauroczenie osoby](#zauroczenie-osoby-1), [Przebranie](#przebranie-siebie-1), [Niewidzialność](#niewidzialność-1), [Przejście bez śladu](#przejście-bez-śladu-1) |
+| 5 | [Wzór hipnotyczny](#hipnotyczny-wzór-1), [Niewykrywalność](#niewykrywalność-1) |
+| 7 | [Dezorientacja](#zamęt-1), [Drzwi wymiarowe](#drzwi-przez-wymiary-1) |
+| 9 | [Zdominowanie osoby](#dominacja-nad-osobą-1), [Modyfikacja pamięci](#podmiana-wspomnień-1) |
 
 ##### Poziom 3: Przywołanie duplikatu
 
@@ -5753,6 +6091,16 @@ Iluzja z Przywołania duplikatu stała się potężniejsza w następujący spos�
 
 #### Domena wojny
 
+### Domena wojny
+
+**Klasa:** Kleryk
+**URL źródła:** http://dnd2024.wikidot.com/cleric:war-domain
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Inspiruj odwagę i karć wrogów*
 
 Wojna ma wiele oblicz. Może z bohaterów uczynić zwykłych ludzi. Może być rozpaczliwa i przerażająca — akty okrucieństwa i tchórzostwa przyćmiewają wzorce odwagi i męstwa. Klerycy czerpiący magię Domeny wojny doskonale sprawdzają się w bitwie, inspirując innych do walki o słuszną sprawę albo składając akty przemocy w ofierze.
@@ -5771,10 +6119,10 @@ Twoje powiązanie z tą boską domeną zapewnia, że zawsze masz przygotowane ok
 
 | Poziom kleryka | Przygotowane czary |
 | --- | --- |
-| 3 | [Pocisk wiodący](#pocisk-wiodący), [Magiczna broń](#magiczna-broń), [Tarcza wiary](#tarcza-wiary), [Duchowa broń](#duchowa-broń) |
-| 5 | [Crusader's Mantle](#płaszcz-krzyżowca), [Duchowi strażnicy](#duchowi-strażnicy) |
-| 7 | [Ognista tarcza](#tarcza-ognia), [Wolność ruchów](#swoboda-ruchu) |
-| 9 | [Unieruchomienie potwora](#unieruchomienie-potwora), [Steel Wind Strike](#uderzenie-stalowego-wiatru) |
+| 3 | [Pocisk wiodący](#pocisk-wiodący-1), [Magiczna broń](#magiczna-broń-1), [Tarcza wiary](#tarcza-wiary-1), [Duchowa broń](#duchowa-broń-1) |
+| 5 | [Crusader's Mantle](#płaszcz-krzyżowca-1), [Duchowi strażnicy](#duchowi-strażnicy-1) |
+| 7 | [Ognista tarcza](#tarcza-ognia-1), [Wolność ruchów](#swoboda-ruchu-1) |
+| 9 | [Unieruchomienie potwora](#unieruchomienie-potwora-1), [Steel Wind Strike](#uderzenie-stalowego-wiatru-1) |
 
 ##### Poziom 3: Kapłan wojny
 
@@ -5782,13 +6130,23 @@ Akcją dodatkową możesz wykonać jeden atak bronią lub uderzeniem bez broni. 
 
 ##### Poziom 6: Błogosławieństwo boga wojny
 
-Możesz zużyć użycie Aktu wiary, by rzucić [Tarczę wiary](#tarcza-wiary) lub [Duchową broń](#duchowa-broń) zamiast zużywać komórkę czaru. Gdy rzucasz którykolwiek z tych czarów w ten sposób, czar nie wymaga koncentracji. Zamiast tego trwa 1 minutę, ale kończy się wcześniej, gdy rzucisz ten czar ponownie, uzyskasz stan obezwładniony lub umrzesz.
+Możesz zużyć użycie Aktu wiary, by rzucić [Tarczę wiary](#tarcza-wiary-1) lub [Duchową broń](#duchowa-broń-1) zamiast zużywać komórkę czaru. Gdy rzucasz którykolwiek z tych czarów w ten sposób, czar nie wymaga koncentracji. Zamiast tego trwa 1 minutę, ale kończy się wcześniej, gdy rzucisz ten czar ponownie, uzyskasz stan obezwładniony lub umrzesz.
 
 ##### Poziom 17: Awatar bitwy
 
 Zyskujesz niepodatność na obrażenia od obuchu, przeszywające i sieczne.
 
 ### Łotr
+
+#### Łotr
+
+**Klasa:** Łotr
+**URL źródła:** http://dnd2024.wikidot.com/rogue:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Łotrzy polegają na przebiegłości, skradaniu się i słabościach wrogów, by zyskać przewagę w każdej sytuacji. Mają talent do znajdowania rozwiązania niemal każdego problemu. Niektórzy uczą się magicznych sztuczek uzupełniających inne zdolności. Wielu łotrów koncentruje się na skradaniu się i oszustwie, inni doskonalą umiejętności przydatne w lochach: wspinaczkę, znajdowanie i rozbrajanie pułapek oraz otwieranie zamków.
 
@@ -5886,12 +6244,12 @@ Zyskujesz podklasę łotra według własnego wyboru. Podklasy są opisane po opi
 
 | Nazwa |
 | --- |
-| [Mistyczny oszust](#mistyczny-oszust) |
-| [Skrytobójca](#skrytobójca) |
+| [Mistyczny oszust](#mistyczny-oszust-1) |
+| [Skrytobójca](#skrytobójca-1) |
 | Fantom |
 | Potomek Trójcy |
-| [Nożownik Duszy](#nożownik-duszy) |
-| [Złodziej](#złodziej) |
+| [Nożownik Duszy](#nożownik-duszy-1) |
+| [Złodziej](#złodziej-1) |
 
 ###### Poziom 3: Stabilne celowanie
 
@@ -5899,7 +6257,7 @@ Jako akcję dodatkową dajesz sobie ułatwienie do następnego testu ataku w tej
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach łotra 8, 10, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach łotra 8, 10, 12 i 16.
 
 ###### Poziom 5: Chytre uderzenie
 
@@ -5955,7 +6313,7 @@ Jesteś tak zwinny, że atakujący rzadko zyskują nad tobą przewagę. Żaden t
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar Nocnego widma](#dar-nocnego-widma).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar Nocnego widma](#dar-nocnego-widma-1).
 
 ###### Poziom 20: Łut szczęścia
 
@@ -5965,6 +6323,16 @@ Po użyciu tej cechy nie możesz jej ponownie użyć, dopóki nie zakończysz Kr
 
 #### Mistyczny oszust
 
+### Mistyczny oszust
+
+**Klasa:** Łotr
+**URL źródła:** http://dnd2024.wikidot.com/rogue:arcane-trickster
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Wzmacniaj skradanie się czarami arkanicznymi*
 
 Niektórzy łotrzy wzmacniają wyszlifowane umiejętności skradania się i zwinności czarami, ucząc się magicznych sztuczek wspierających ich fach. Jedni mistyczni oszuści wykorzystują talent do kieszonkowego kradztwa i włamań, inni są psotnikami.
@@ -5973,15 +6341,15 @@ Niektórzy łotrzy wzmacniają wyszlifowane umiejętności skradania się i zwin
 
 Nauczyłeś się rzucać czary. Informacje poniżej opisują, jak używasz tych zasad jako mistyczny oszust.
 
-**Sztuczki.** Znasz trzy sztuczki: [Magiczną dłoń](#magiczna-dłoń) i dwie inne sztuczki według własnego wyboru z listy czarów maga. Polecane są [Mind Sliver](#odłamek-umysłu) i [Pomniejsza iluzja](#pomniejsza-iluzja).
+**Sztuczki.** Znasz trzy sztuczki: [Magiczną dłoń](#magiczna-dłoń-1) i dwie inne sztuczki według własnego wyboru z [listy czarów maga](#wizard-spell-list). Polecane są [Mind Sliver](#odłamek-umysłu-1) i [Pomniejsza iluzja](#pomniejsza-iluzja-1).
 
-Za każdym razem, gdy zyskujesz poziom łotra, możesz zamienić jedną ze swoich sztuczek — oprócz [Magicznej dłoni](#magiczna-dłoń) — na inną sztuczkę maga według własnego wyboru.
+Za każdym razem, gdy zyskujesz poziom łotra, możesz zamienić jedną ze swoich sztuczek — oprócz [Magicznej dłoni](#magiczna-dłoń-1) — na inną sztuczkę maga według własnego wyboru.
 
 Gdy osiągasz poziom łotra 10, uczysz się kolejnej sztuczki maga według własnego wyboru.
 
 **Komórki czaru.** Tabela Rzucanie czarów mistycznego oszusta pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-**Przygotowane czary 1. kręgu i wyższe.** Przygotowujesz listę czarów 1. kręgu i wyższych dostępnych do rzucenia tą cechą. Na początku wybierz trzy czary 1. kręgu maga. Polecane są [Zauroczenie osoby](#zauroczenie-osoby), [Przebranie siebie](#przebranie-siebie) i [Chmura mgły](#chmura-mgły).
+**Przygotowane czary 1. kręgu i wyższe.** Przygotowujesz listę czarów 1. kręgu i wyższych dostępnych do rzucenia tą cechą. Na początku wybierz trzy czary 1. kręgu maga. Polecane są [Zauroczenie osoby](#zauroczenie-osoby-1), [Przebranie siebie](#przebranie-siebie-1) i [Chmura mgły](#chmura-mgły-1).
 
 Liczba czarów na liście rośnie wraz z poziomem łotra, jak pokazano w kolumnie Przygotowane czary. Gdy ta liczba wzrasta, wybieraj dodatkowe czary maga, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być kręgu, do którego masz komórki. Na przykład jako łotr 7. poziomu lista może zawierać pięć czarów maga 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -6016,7 +6384,7 @@ Liczba czarów na liście rośnie wraz z poziomem łotra, jak pokazano w kolumni
 
 ##### Poziom 3: Zręczna magiczna dłoń
 
-Gdy rzucasz [Magiczną dłoń](#magiczna-dłoń), możesz rzucić ją akcją dodatkową i sprawić, by widmowa dłoń była niewidzialna. Możesz kontrolować dłoń akcją dodatkową i za jej pośrednictwem wykonywać testy Zręczności (Zwinne dłonie).
+Gdy rzucasz [Magiczną dłoń](#magiczna-dłoń-1), możesz rzucić ją akcją dodatkową i sprawić, by widmowa dłoń była niewidzialna. Możesz kontrolować dłoń akcją dodatkową i za jej pośrednictwem wykonywać testy Zręczności (Zwinne dłonie).
 
 ##### Poziom 9: Magiczna zasadzka
 
@@ -6024,7 +6392,7 @@ Jeśli masz stan niewidzialny, gdy rzucasz czar na istotę, ta istota ma utrudni
 
 ##### Poziom 13: Wszechstronny oszust
 
-Zyskujesz zdolność rozpraszania celów swoją [Magiczną dłonią](#magiczna-dłoń). Gdy używasz opcji Podcięcie swojego Chytrego uderzenia na istocie, możesz użyć tej opcji też na innej istocie w promieniu 1,5 metra od widmowej dłoni.
+Zyskujesz zdolność rozpraszania celów swoją [Magiczną dłonią](#magiczna-dłoń-1). Gdy używasz opcji Podcięcie swojego Chytrego uderzenia na istocie, możesz użyć tej opcji też na innej istocie w promieniu 1,5 metra od widmowej dłoni.
 
 ##### Poziom 17: Złodziej czarów
 
@@ -6035,6 +6403,16 @@ Natychmiast po tym, jak istota rzuci czar na ciebie lub obejmie cię obszarem dz
 Po skradzeniu czaru tą cechą nie możesz zrobić tego ponownie, dopóki nie zakończysz Długiego odpoczynku.
 
 #### Skrytobójca
+
+### Skrytobójca
+
+**Klasa:** Łotr
+**URL źródła:** http://dnd2024.wikidot.com/rogue:assassin
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Opanuj ponurą sztukę zabijania*
 
@@ -6069,6 +6447,16 @@ Gdy używasz opcji Trucizna swojego Chytrego uderzenia, cel otrzymuje też 2k6 o
 Gdy trafisz Ukradkowym atakiem w pierwszej rundzie walki, cel musi odnieść sukces w rzucie obronnym na Kondycję (ST 8 plus twój modyfikator Zręczności i premia z biegłości), albo obrażenia ataku zostają wobec niego podwojone.
 
 #### Nożownik Duszy
+
+### Nożownik Duszy
+
+**Klasa:** Łotr
+**URL źródła:** http://dnd2024.wikidot.com/rogue:soulknife
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Uderzaj wrogów psychicznymi ostrzami*
 
@@ -6135,6 +6523,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 #### Złodziej
 
+### Złodziej
+
+**Klasa:** Łotr
+**URL źródła:** http://dnd2024.wikidot.com/rogue:thief
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Poluj na skarby jak klasyczny poszukiwacz przygód*
 
 Łącząc cechy włamywacza, poszukiwacza skarbów i odkrywcy, jesteś uosobieniem poszukiwacza przygód. Oprócz doskonalenia zwinności i skradania się zyskujesz zdolności przydatne przy eksploracji ruin i maksymalnym wykorzystaniu znalezionych magicznych przedmiotów.
@@ -6176,6 +6574,16 @@ Nauczyłeś się maksymalnie wykorzystywać magiczne przedmioty, co daje ci nast
 Jesteś biegły w przygotowywaniu zasadzek i szybkim uchodzeniu z niebezpieczeństwa. Podczas pierwszej rundy każdej walki wykonujesz dwie tury. Pierwszą turę wykonujesz zgodnie z normalną inicjatywą, a drugą turę przy inicjatywie pomniejszonej o 10.
 
 ### Łowca
+
+#### Łowca
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Daleko od tętniących życiem miast, wśród drzew bezdrożnych lasów i na rozległych równinach łowcy nieustannie czuwają w dziczy. Uczą się tropić zdobycz jak drapieżnik — skradając się po dziczy i chowając w zaroślach i gruzach.
 
@@ -6261,11 +6669,11 @@ Jako łowca zyskujesz następujące cechy klasy po osiągnięciu wskazanych pozi
 
 ###### Poziom 1: Rzucanie czarów
 
-Nauczyłeś się kierować magiczną esencję natury, by rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów łowcy, które wymieniono na liście czarów łowcy.
+Nauczyłeś się kierować magiczną esencję natury, by rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów łowcy, które wymieniono na [liście czarów łowcy](#ranger-spell-list).
 
 _Komórki czaru._ Tabela Cech łowcy pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary łowcy 1. kręgu. Zalecane są [Leczenie ran](#leczenie-ran) i [Pętające uderzenie](#pętające-uderzenie).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary łowcy 1. kręgu. Zalecane są [Leczenie ran](#leczenie-ran-1) i [Pętające uderzenie](#pętające-uderzenie-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami łowcy, zgodnie z kolumną Przygotowane czary w tabeli Cech łowcy. Gdy ta liczba rośnie, wybierasz dodatkowe czary z listy czarów łowcy, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako łowca 5. poziomu możesz mieć na liście przygotowanych czarów sześć czarów 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -6279,7 +6687,7 @@ _Magiczny fokus._ Możesz używać druidycznego fetysza jako magicznego fokusu d
 
 ###### Poziom 1: Ulubiony wróg
 
-Zawsze masz przygotowany czar [Znak łowcy](#znak-łowcy).
+Zawsze masz przygotowany czar [Znak łowcy](#znak-łowcy-1).
 
 Możesz rzucić go dwa razy bez zużywania komórki czaru i odzyskujesz wszystkie zużyte użycia tej cechy po zakończeniu Długiego odpoczynku.
 
@@ -6303,7 +6711,7 @@ _Języki._ Znasz dwa języki według własnego wyboru z tabel języków w Podrę
 
 Zyskujesz atut stylu walki według własnego wyboru (patrz rozdział o atutach w Podręczniku Gracza). Zamiast wybrać jeden z tych atutów, możesz wybrać opcję poniżej.
 
-_Druidyczny wojownik._ Uczysz się dwóch sztuczek druida według własnego wyboru (zobacz sekcję klasy druida, aby poznać listę czarów druida). Zalecane są [Wskazówki](#wskazówki) i [Starry Wisp](#gwiezdna-iskra). Wybrane sztuczki liczą się jako czary łowcy, a Mądrość jest twoją cechą bazową rzucania czarów dla nich. Za każdym razem, gdy zyskujesz poziom łowcy, możesz zamienić jedną z tych sztuczek na inną sztuczkę druida.
+_Druidyczny wojownik._ Uczysz się dwóch sztuczek druida według własnego wyboru (zobacz sekcję klasy druida, aby poznać listę czarów druida). Zalecane są [Wskazówki](#wskazówki-1) i [Starry Wisp](#gwiezdna-iskra-1). Wybrane sztuczki liczą się jako czary łowcy, a Mądrość jest twoją cechą bazową rzucania czarów dla nich. Za każdym razem, gdy zyskujesz poziom łowcy, możesz zamienić jedną z tych sztuczek na inną sztuczkę druida.
 
 ###### Poziom 3: Podklasa łowcy
 
@@ -6313,16 +6721,16 @@ Zyskujesz podklasę łowcy według własnego wyboru. Podklasy są opisane po opi
 
 | Nazwa |
 | --- |
-| [Władca zwierząt](#władca-zwierząt) |
-| [Wędrowiec z Krainy Fey](#wędrowiec-z-krainy-fey) |
-| [Mroczny Tropiciel](#mroczny-tropiciel) |
+| [Władca zwierząt](#władca-zwierząt-1) |
+| [Wędrowiec z Krainy Fey](#wędrowiec-z-krainy-fey-1) |
+| [Mroczny Tropiciel](#mroczny-tropiciel-1) |
 | Strażnik Pustki |
-| [Myśliwy](#myśliwy) |
+| [Myśliwy](#myśliwy-1) |
 | Wędrowiec Zimy |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach łowcy 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach łowcy 8, 12 i 16.
 
 ###### Poziom 5: Dodatkowy atak
 
@@ -6346,7 +6754,7 @@ _Zmniejszenie wyczerpania._ Za każdym razem, gdy kończysz Krótki odpoczynek, 
 
 ###### Poziom 13: Nieustępliwy łowca
 
-Otrzymanie obrażeń nie może przerwać twojej koncentracji na [Znaku łowcy](#znak-łowcy).
+Otrzymanie obrażeń nie może przerwać twojej koncentracji na [Znaku łowcy](#znak-łowcy-1).
 
 ###### Poziom 14: Zasłona natury
 
@@ -6356,7 +6764,7 @@ Możesz użyć tej cechy liczbę razy równą twojemu modyfikatorowi Mądrości 
 
 ###### Poziom 17: Precyzyjny łowca
 
-Masz ułatwienie w testach ataku przeciwko istocie obecnie oznaczonej twoim [Znakiem łowcy](#znak-łowcy).
+Masz ułatwienie w testach ataku przeciwko istocie obecnie oznaczonej twoim [Znakiem łowcy](#znak-łowcy-1).
 
 ###### Poziom 18: Zwierzęce zmysły
 
@@ -6364,95 +6772,112 @@ Twoje połączenie z siłami natury zapewnia ci ślepowidzenie w promieniu 9 met
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary-1).
 
 ###### Poziom 20: Pogromca wrogów
 
-Kość obrażeń twojego [Znaku łowcy](#znak-łowcy) to k10, a nie k6.
+Kość obrażeń twojego [Znaku łowcy](#znak-łowcy-1) to k10, a nie k6.
 
 #### Lista czarów łowcy
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alarm](#alarm) | *Odrzucania* | Wynalazca, Łowca, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M | 8 hours |
-| [Przyjaciel zwierząt](#przyjaciel-zwierząt) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
-| Buzzing Bee | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów. | V, S, M | *^C^*, up to 1 minute |
-| [Leczenie ran](#leczenie-ran) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Ensnaring Strike](#pętające-uderzenie) | *Przywoływania* | Łowca | Akcja dodatkowa(*) | Self | V | *^C^*, up to 1 minute |
-| [Oplątanie](#oplątanie) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S | *^C^*, up to 1 minute |
-| [Chmura mgły](#chmura-mgły) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
-| [Dobre jagody](#dobre-jagody) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S, M | 24 hours |
-| [Hail of Thorns](#grad-cierni) | *Przywoływania* | Łowca | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
-| [Znak łowcy](#znak-łowcy) | *Wieszczenia* | Łowca | Akcja dodatkowa | 27 metrów | V | *^C^*, up to 1 hour |
-| [Skok](#skok) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
-| [Szybkonogi](#szybkonogi) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
-| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
+#### Ranger Spell List
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#pomoc) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
-| [Korowa skóra](#korowa-skóra) | *Transmutacji* | Druid, Łowca | Akcja dodatkowa | Dotyk | V, S, M | 1 hour |
-| [Beast Sense](#zwierzęce-zmysły) | *Wieszczenia* | Druid, Łowca | Akcja lub *^R^* | Dotyk | S | *^C^*, up to 1 hour |
-| [Cordon Of Strzały](#kordon-strzał) | *Transmutacji* | Łowca | Akcja | Dotyk | V, S, M | 8 hours |
-| [Widzenie w ciemności](#widzenie-w-ciemności) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Wykrycie pułapek](#wykrycie-pułapek) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Poryw wiatru](#poryw-wiatru) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Mniejsze przywrócenie](#mniejsze-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
-| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magiczna broń](#magiczna-broń) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
-| [Przejście bez śladu](#przejście-bez-śladu) | *Odrzucania* | Druid, Łowca | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Ochrona przed trucizną](#ochrona-przed-trucizną) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
-| [Cisza](#cisza) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [Wzrost kolców](#wzrost-kolców) | *Transmutacji* | Druid, Łowca | Akcja | 45 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Beast](#przywołanie-bestii) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Alarm](#alarm-1) | *Odrzucania* | Wynalazca, Łowca, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M | 8 hours |
+| [Przyjaciel zwierząt](#przyjaciel-zwierząt-1) | *Uroku* | Bard, Druid, Łowca | Akcja | 9 metrów | V, S, M | 24 hours |
+| Buzzing Bee | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów. | V, S, M | *^C^*, up to 1 minute |
+| [Leczenie ran](#leczenie-ran-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby-1) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Ensnaring Strike](#pętające-uderzenie-1) | *Przywoływania* | Łowca | Akcja dodatkowa(*) | Self | V | *^C^*, up to 1 minute |
+| [Oplątanie](#oplątanie-1) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S | *^C^*, up to 1 minute |
+| [Chmura mgły](#chmura-mgły-1) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
+| [Dobre jagody](#dobre-jagody-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S, M | 24 hours |
+| [Hail of Thorns](#grad-cierni-1) | *Przywoływania* | Łowca | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
+| [Znak łowcy](#znak-łowcy-1) | *Wieszczenia* | Łowca | Akcja dodatkowa | 27 metrów | V | *^C^*, up to 1 hour |
+| [Skok](#skok-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
+| [Szybkonogi](#szybkonogi-1) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
+| [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1) | *Wieszczenia* | Bard, Druid, Łowca, Czarownik | Akcja lub *^R^* | Self | V, S | 10 minutes |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Aid](#pomoc-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Zwierzęcy posłaniec](#zwierzęcy-posłaniec-1) | *Uroku* | Bard, Druid, Łowca | Akcja lub *^R^* | 9 metrów | V, S, M | 24 Hours |
+| [Korowa skóra](#korowa-skóra-1) | *Transmutacji* | Druid, Łowca | Akcja dodatkowa | Dotyk | V, S, M | 1 hour |
+| [Beast Sense](#zwierzęce-zmysły-1) | *Wieszczenia* | Druid, Łowca | Akcja lub *^R^* | Dotyk | S | *^C^*, up to 1 hour |
+| [Cordon Of Strzały](#kordon-strzał-1) | *Transmutacji* | Łowca | Akcja | Dotyk | V, S, M | 8 hours |
+| [Widzenie w ciemności](#widzenie-w-ciemności-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Wykrycie pułapek](#wykrycie-pułapek-1) | *Wieszczenia* | Kleryk, Druid, Łowca | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Poryw wiatru](#poryw-wiatru-1) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
+| [Odnalezienie zwierząt lub roślin](#odnalezienie-zwierząt-lub-roślin-1) | *Wieszczenia* | Bard, Druid, Łowca | Akcja lub *^R^* | Self | V, S, M | Natychmiastowy |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczna broń](#magiczna-broń-1) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
+| [Przejście bez śladu](#przejście-bez-śladu-1) | *Odrzucania* | Druid, Łowca | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Ochrona przed trucizną](#ochrona-przed-trucizną-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
+| [Cisza](#cisza-1) | *Iluzji* | Bard, Kleryk, Łowca | Akcja lub *^R^* | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [Wzrost kolców](#wzrost-kolców-1) | *Transmutacji* | Druid, Łowca | Akcja | 45 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Beast](#przywołanie-bestii-1) | *Przywoływania* | Druid, Łowca | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 | Tortoise Shell | *Odrzucania* | Wynalazca, Druid, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przywołanie zwierząt](#przywołanie-zwierząt) | *Przywoływania* | Druid, Łowca | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Conjure Barrage](#przywołanie-ognia) | *Przywoływania* | Łowca | Akcja | Self | V, S, M(C) | Natychmiastowy |
-| [Światło dnia](#światło-dnia) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Elemental Weapon](#broń-żywiołu) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Lightning Strzała](#piorunostrzał) | *Transmutacji* | Łowca | Akcja dodatkowa(*) | Self | V, S | Natychmiastowy |
-| [Wtopienie w kamień](#wtopienie-w-kamień) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
-| [Niewykrywalność](#niewykrywalność) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
-| [Rozrost roślin](#rozrost-roślin) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
-| [Ochrona przed energią](#ochrona-przed-energią) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Ożywienie](#ożywienie) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Rozmawianie z roślinami](#rozmawianie-z-roślinami) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
-| [Summon Fey](#przywołanie-feya) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Oddychanie pod wodą](#oddychanie-pod-wodą) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
-| [Spacer po wodzie](#spacer-po-wodzie) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
-| [Ściana wichru](#ściana-wichru) | *Wywoływania* | Druid, Łowca | Akcja | 36 metrów | V, S, M | **^C^**, up to 1 minute |
+| [Przywołanie zwierząt](#przywołanie-zwierząt-1) | *Przywoływania* | Druid, Łowca | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Conjure Barrage](#przywołanie-ognia-1) | *Przywoływania* | Łowca | Akcja | Self | V, S, M(C) | Natychmiastowy |
+| [Światło dnia](#światło-dnia-1) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Elemental Weapon](#broń-żywiołu-1) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Lightning Strzała](#piorunostrzał-1) | *Transmutacji* | Łowca | Akcja dodatkowa(*) | Self | V, S | Natychmiastowy |
+| [Wtopienie w kamień](#wtopienie-w-kamień-1) | *Transmutacji* | Kleryk, Druid, Łowca | Akcja lub *^R^* | Dotyk | V, S | 8 hours |
+| [Niewykrywalność](#niewykrywalność-1) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
+| [Rozrost roślin](#rozrost-roślin-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja (Overgrowth) lub 8 hours (Enrichment) | 45 metrów | V, S | Natychmiastowy |
+| [Ochrona przed energią](#ochrona-przed-energią-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Ożywienie](#ożywienie-1) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Rozmawianie z roślinami](#rozmawianie-z-roślinami-1) | *Transmutacji* | Bard, Druid, Łowca | Akcja | Self | V, S | 10 minutes |
+| [Summon Fey](#przywołanie-feya-1) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Oddychanie pod wodą](#oddychanie-pod-wodą-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
+| [Spacer po wodzie](#spacer-po-wodzie-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Ściana wichru](#ściana-wichru-1) | *Wywoływania* | Druid, Łowca | Akcja | 36 metrów | V, S, M | **^C^**, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Przywołanie leśnych istot](#przywołanie-leśnych-istot) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Dominacja nad bestią](#dominacja-nad-bestią) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Swoboda ruchu](#swoboda-ruchu) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
-| [Grasping Vine](#chwytne-pnącze) | *Przywoływania* | Druid, Łowca | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Przywołanie leśnych istot](#przywołanie-leśnych-istot-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Dominacja nad bestią](#dominacja-nad-bestią-1) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Swoboda ruchu](#swoboda-ruchu-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Łowca | Akcja | Dotyk | V, S, M | 1 hour |
+| [Grasping Vine](#chwytne-pnącze-1) | *Przywoływania* | Druid, Łowca | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutacji* | Kleryk, Druid, Łowca | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Kamienna skóra](#kamienna-skóra) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Elemental](#przywołanie-żywiołaka-1) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Kamienna skóra](#kamienna-skóra-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Elemental](#przywołanie-żywiołaka-3) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Odrzucania* | Bard, Druid, Łowca, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Kontakt z bóstwem With Przyroda](#kontakt-z-naturą) | *Wieszczenia* | Druid, Łowca | 1 minute lub *^R^* | Self | V, S | Natychmiastowy |
-| [Conjure Grad strzał](#przywołanie-ostrzału) | *Przywoływania* | Łowca | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
-| [Większe przywrócenie](#większe-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Steel Wind Strike](#uderzenie-stalowego-wiatru) | *Przywoływania* | Łowca, Mag | Akcja | 9 metrów | S, M | Natychmiastowy |
-| [Swift Kołczan](#automatyczny-kołczan) | *Transmutacji* | Łowca | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 1 minute |
-| [Spacer między drzewami](#spacer-między-drzewami) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Kontakt z bóstwem With Przyroda](#kontakt-z-naturą-1) | *Wieszczenia* | Druid, Łowca | 1 minute lub *^R^* | Self | V, S | Natychmiastowy |
+| [Conjure Grad strzał](#przywołanie-ostrzału-1) | *Przywoływania* | Łowca | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
+| [Większe przywrócenie](#większe-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Steel Wind Strike](#uderzenie-stalowego-wiatru-1) | *Przywoływania* | Łowca, Mag | Akcja | 9 metrów | S, M | Natychmiastowy |
+| [Swift Kołczan](#automatyczny-kołczan-1) | *Transmutacji* | Łowca | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 1 minute |
+| [Spacer między drzewami](#spacer-między-drzewami-1) | *Przywoływania* | Druid, Łowca | Akcja | Self | V, S | *^C^*, up to 1 minute |
 
 #### Władca zwierząt
+
+### Władca zwierząt
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:beast-master
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Zwiąż się z dziką bestią*
 
@@ -6547,13 +6972,23 @@ Ponadto za każdym razem, gdy bestia trafi testem ataku i zada obrażenia, może
 
 Gdy rozkazujesz dzikiej bestii towarzysza wykonanie akcji Uderzenie bestii, bestia może użyć jej dwukrotnie.
 
-Ponadto pierwszy raz w każdej turze, gdy bestia trafi istotę pod wpływem twojego czaru [Znak łowcy](#znak-łowcy), zadaje dodatkowe obrażenia od mocy równe dodatkowym obrażeniom tego czaru.
+Ponadto pierwszy raz w każdej turze, gdy bestia trafi istotę pod wpływem twojego czaru [Znak łowcy](#znak-łowcy-1), zadaje dodatkowe obrażenia od mocy równe dodatkowym obrażeniom tego czaru.
 
 ##### Poziom 15: Dzielenie czarów
 
 Gdy rzucasz czar na siebie, możesz też objąć nim dziką bestię towarzysza, jeśli znajduje się ona w promieniu 9 metrów od ciebie.
 
 #### Wędrowiec z Krainy Fey
+
+### Wędrowiec z Krainy Fey
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:fey-wanderer
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Władaj wróżkowym wesołkiem i furią*
 
@@ -6571,11 +7006,11 @@ Gdy osiągasz poziom łowcy określony w tabeli Czary Wędrowca z Krainy Fey, od
 
 | Poziom łowcy | Czar |
 | --- | --- |
-| 3 | [Zauroczenie osoby](#zauroczenie-osoby) |
-| 5 | [Krok przez mgłę](#krok-przez-mgłę) |
-| 9 | [Summon Fey](#przywołanie-feya) |
-| 13 | [Drzwi przez wymiary](#drzwi-przez-wymiary) |
-| 17 | [Zmyłka](#zmyłka) |
+| 3 | [Zauroczenie osoby](#zauroczenie-osoby-1) |
+| 5 | [Krok przez mgłę](#krok-przez-mgłę-1) |
+| 9 | [Summon Fey](#przywołanie-feya-1) |
+| 13 | [Drzwi przez wymiary](#drzwi-przez-wymiary-1) |
+| 17 | [Zmyłka](#zmyłka-1) |
 
 Posiadasz też wróżkowe błogosławieństwo. Wybierz je z tabeli Dary Krainy Wróżek lub wylosuj.
 
@@ -6604,17 +7039,27 @@ Ponadto za każdym razem, gdy ty lub istota, którą widzisz w promieniu 36 metr
 
 ##### Poziom 11: Wróżkowe posiłki
 
-Możesz rzucić [Summon Fey](#przywołanie-feya) bez komponentu materialnego. Możesz też rzucić go raz bez komórki czaru i odzyskujesz możliwość takiego rzutu po zakończeniu Długiego odpoczynku.
+Możesz rzucić [Summon Fey](#przywołanie-feya-1) bez komponentu materialnego. Możesz też rzucić go raz bez komórki czaru i odzyskujesz możliwość takiego rzutu po zakończeniu Długiego odpoczynku.
 
 Za każdym razem, gdy zaczynasz rzucać ten czar, możesz zmodyfikować go tak, by nie wymagał koncentracji. Jeśli to zrobisz, czas trwania czaru dla tego rzutu wynosi 1 minutę.
 
 ##### Poziom 15: Mglisty wędrowiec
 
-Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę) bez zużywania komórki czaru. Możesz to zrobić liczbę razy równą twojemu modyfikatorowi Mądrości (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
+Możesz rzucić [Krok przez mgłę](#krok-przez-mgłę-1) bez zużywania komórki czaru. Możesz to zrobić liczbę razy równą twojemu modyfikatorowi Mądrości (minimum raz) i odzyskujesz wszystkie zużyte użycia po zakończeniu Długiego odpoczynku.
 
-Ponadto za każdym razem, gdy rzucasz [Krok przez mgłę](#krok-przez-mgłę), możesz zabrać ze sobą jedną chętną istotę, którą widzisz w promieniu 1,5 metra od siebie. Ta istota teleportuje się do niezajętej przestrzeni według twojego wyboru w promieniu 1,5 metra od miejsca docelowego.
+Ponadto za każdym razem, gdy rzucasz [Krok przez mgłę](#krok-przez-mgłę-1), możesz zabrać ze sobą jedną chętną istotę, którą widzisz w promieniu 1,5 metra od siebie. Ta istota teleportuje się do niezajętej przestrzeni według twojego wyboru w promieniu 1,5 metra od miejsca docelowego.
 
 #### Mroczny Tropiciel
+
+### Mroczny Tropiciel
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:gloom-stalker
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Walcz z wrogami, czerpiąc moc cienia*
 
@@ -6638,11 +7083,11 @@ Gdy osiągasz poziom łowcy określony w tabeli Czary Mrocznego Tropiciela, od t
 
 | Poziom łowcy | Czary |
 | --- | --- |
-| 3 | [Przebranie siebie](#przebranie-siebie) |
-| 5 | [Sztuczka z liną](#sztuczka-z-liną) |
-| 9 | [Strach](#strach) |
-| 13 | [Większa niewidzialność](#większa-niewidzialność) |
-| 17 | [Pozory](#pozory) |
+| 3 | [Przebranie siebie](#przebranie-siebie-1) |
+| 5 | [Sztuczka z liną](#sztuczka-z-liną-1) |
+| 9 | [Strach](#strach-1) |
+| 13 | [Większa niewidzialność](#większa-niewidzialność-1) |
+| 17 | [Pozory](#pozory-1) |
 
 ##### Poziom 3: Cienisty wzrok
 
@@ -6668,13 +7113,23 @@ Gdy istota wykonuje test ataku przeciwko tobie, możesz wykorzystać reakcję, b
 
 #### Myśliwy
 
+### Myśliwy
+
+**Klasa:** Łowca
+**URL źródła:** http://dnd2024.wikidot.com/ranger:hunter
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Chroń naturę i ludzi przed zniszczeniem*
 
 Tropisz zdobycz na dziczy i gdzie indziej, wykorzystując zdolności myśliwego, by chronić naturę i ludzi przed siłami, które chcą je zniszczyć.
 
 ##### Poziom 3: Wiedza myśliwego
 
-Możesz wezwać siły natury, by ujawnić pewne mocne i słabe strony swojej ofiary. Dopóki istota jest oznaczona twoim [Znakiem łowcy](#znak-łowcy), wiesz, czy ma jakiekolwiek niewrażliwości, odporności lub podatności, a jeśli je ma — wiesz, jakie to są.
+Możesz wezwać siły natury, by ujawnić pewne mocne i słabe strony swojej ofiary. Dopóki istota jest oznaczona twoim [Znakiem łowcy](#znak-łowcy-1), wiesz, czy ma jakiekolwiek niewrażliwości, odporności lub podatności, a jeśli je ma — wiesz, jakie to są.
 
 ##### Poziom 3: Zdobycz myśliwego
 
@@ -6694,13 +7149,23 @@ Zyskujesz jedną z poniższych opcji według własnego wyboru. Za każdym razem,
 
 ##### Poziom 11: Zdobycz nadzwyczajnego myśliwego
 
-Raz na turę, gdy zadajesz obrażenia istocie oznaczonej twoim [Znakiem łowcy](#znak-łowcy), możesz też zadać dodatkowe obrażenia tego czaru innej istocie, którą widzisz w promieniu 9 metrów od pierwszej istoty.
+Raz na turę, gdy zadajesz obrażenia istocie oznaczonej twoim [Znakiem łowcy](#znak-łowcy-1), możesz też zadać dodatkowe obrażenia tego czaru innej istocie, którą widzisz w promieniu 9 metrów od pierwszej istoty.
 
 ##### Poziom 15: Obrona nadzwyczajnego myśliwego
 
 Gdy otrzymujesz obrażenia, możesz wykorzystać reakcję, by nadać sobie odporność na te obrażenia oraz wszelkie inne obrażenia tego samego typu do końca bieżącej tury.
 
 ### Mag
+
+#### Mag
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Magów definiuje wyczerpujące studium wewnętrznych mechanizmów magii. Rzucają czary wybuchowego ognia, łukowatej błyskawicy, subtelnego oszustwa i spektakularnych przemian. Ich magia przywołuje potwory z innych sfer, pozwala zajrzeć w przyszłość lub tworzy ochronne bariery. Najpotężniejsze czary zmieniają substancje, przywołują meteory z nieba lub otwierają portale do innych światów.
 
@@ -6765,15 +7230,15 @@ Jako mag zyskujesz następujące cechy klasy po osiągnięciu wskazanych poziom�
 
 ###### Poziom 1: Rzucanie czarów
 
-Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów maga, które wymieniono na liście czarów maga.
+Jako student magii tajemnej nauczyłeś się rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów maga, które wymieniono na [liście czarów maga](#wizard-spell-list).
 
-_Sztuczki._ Znasz trzy sztuczki maga według własnego wyboru. Zalecane są [Światło](#światło-1), [Magiczna dłoń](#magiczna-dłoń) i [Promień mrozu](#promień-mrozu). Za każdym razem, gdy kończysz Długi odpoczynek, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę maga według własnego wyboru.
+_Sztuczki._ Znasz trzy sztuczki maga według własnego wyboru. Zalecane są [Światło](#światło-2), [Magiczna dłoń](#magiczna-dłoń-1) i [Promień mrozu](#promień-mrozu-1). Za każdym razem, gdy kończysz Długi odpoczynek, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę maga według własnego wyboru.
 
 Gdy osiągasz poziomy maga 4 i 10, uczysz się kolejnej sztuczki maga według własnego wyboru, zgodnie z kolumną Sztuczki w tabeli Cech maga.
 
-_Księga czarów._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Malutki obiekt ważący około 1,5 kg, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego [Zidentyfikuj](#identyfikacja). Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
+_Księga czarów._ Twoje szkolenie w sztuce magii zakończyło się stworzeniem wyjątkowej księgi: twojej księgi czarów. Jest to Malutki obiekt ważący około 1,5 kg, zawierający 100 stron, który może być odczytany tylko przez ciebie lub kogoś rzucającego [Zidentyfikuj](#identyfikacja-1). Ty decydujesz o wyglądzie i materiałach księgi, takich jak tom z pozłacanymi krawędziami lub zbiór welinu związany sznurkiem.
 
-Księga zawiera znane ci czary 1. kręgu i wyższych. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga 1. kręgu. Zalecane są [Wykrycie magii](#wykrycie-magii), [Piórkospadanie](#piórkospadanie), [Zbroja maga](#zbroja-maga), [Magiczny Pocisk](#magiczny-pocisk), [Uśpienie](#uśpienie) i [Fala gromu](#fala-gromu).
+Księga zawiera znane ci czary 1. kręgu i wyższych. Zaczyna się z sześcioma wybranymi przez ciebie czarami maga 1. kręgu. Zalecane są [Wykrycie magii](#wykrycie-magii-1), [Piórkospadanie](#piórkospadanie-1), [Zbroja maga](#zbroja-maga-1), [Magiczny Pocisk](#magiczny-pocisk-1), [Uśpienie](#uśpienie-1) i [Fala gromu](#fala-gromu-1).
 
 Za każdym razem, gdy po 1. poziomie zyskujesz poziom maga, dodajesz do swojej księgi czarów dwa wybrane czary maga. Każdy z tych czarów musi być o kręgu, do którego masz komórki czaru, zgodnie z tabelą Cech maga. Czary te są owocem regularnych badań magicznych, które przeprowadzasz.
 
@@ -6823,15 +7288,15 @@ Zyskujesz podklasę maga według własnego wyboru. Podklasy są opisane po opisi
 
 | Nazwa |
 | --- |
-| [Odrzucacz](#odrzucacz) |
+| [Odrzucacz](#odrzucacz-1) |
 | Śpiewak Ostrzy |
-| [Wróżbita](#wróżbita) |
-| [Wywoływacz](#wywoływacz) |
-| [Iluzjonista](#iluzjonista) |
+| [Wróżbita](#wróżbita-1) |
+| [Wywoływacz](#wywoływacz-1) |
+| [Iluzjonista](#iluzjonista-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach maga 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach maga 8, 12 i 16.
 
 ###### Poziom 5: Zapamiętaj zaklęcie
 
@@ -6845,7 +7310,7 @@ Ilekroć zakończysz Długi odpoczynek, możesz przestudiować swoją księgę c
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar odzyskania czaru](#dar-odzyskania-czaru).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar odzyskania czaru](#dar-odzyskania-czaru-1).
 
 ###### Poziom 20: Ulubione zaklęcia
 
@@ -6853,300 +7318,317 @@ Wybierz dwa czary 3. kręgu ze swojej księgi czarów jako swoje ulubione zaklę
 
 #### Lista czarów maga
 
-| Name | School | Spelllists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kwasowy rozprysk](#kwasowy-rozprysk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Blade Ward](#osłona-przed-orężem) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Przeszywający dotyk](#przeszywający-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Tańczące światła](#tańczące-światła) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Elementalism](#elementalizm) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Ognisty pocisk](#ognisty-pocisk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Friends](#przyjaźń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
-| [Światło](#światło-1) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Magiczna dłoń](#magiczna-dłoń) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
-| [Naprawa](#naprawa) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
-| [Wiadomość](#wiadomość) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
-| [Mind Sliver](#odłamek-umysłu) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
-| [Pomniejsza iluzja](#pomniejsza-iluzja) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
-| [Trujący rozprysk](#trujący-rozprysk) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Kuglarstwo](#kuglarstwo) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
-| [Promień mrozu](#promień-mrozu) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Porażający uścisk](#porażający-uścisk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Grzmot](#grzmot) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
-| [Toll the Dead](#dzwonek-śmierci) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Prawdziwe uderzenie](#prawdziwe-uderzenie) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+#### Wizard Spell List
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:spell-list
+
+---
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alarm](#alarm) | *Odrzucania* | Wynalazca, Łowca, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M | 8 hours |
-| [Płonące dłonie](#płonące-dłonie) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Kwasowy rozprysk](#kwasowy-rozprysk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Blade Ward](#osłona-przed-orężem-1) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Przeszywający dotyk](#przeszywający-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Tańczące światła](#tańczące-światła-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Elementalism](#elementalizm-1) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Ognisty pocisk](#ognisty-pocisk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Friends](#przyjaźń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
+| [Światło](#światło-2) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Magiczna dłoń](#magiczna-dłoń-1) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
+| [Naprawa](#naprawa-1) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
+| [Wiadomość](#wiadomość-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
+| [Mind Sliver](#odłamek-umysłu-1) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
+| [Pomniejsza iluzja](#pomniejsza-iluzja-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
+| [Trujący rozprysk](#trujący-rozprysk-1) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Kuglarstwo](#kuglarstwo-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
+| [Promień mrozu](#promień-mrozu-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Porażający uścisk](#porażający-uścisk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Grzmot](#grzmot-1) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+| [Toll the Dead](#dzwonek-śmierci-1) | *Nekromancji* | Kleryk, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Prawdziwe uderzenie](#prawdziwe-uderzenie-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+
+| Name | School | Spelllists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Alarm](#alarm-1) | *Odrzucania* | Wynalazca, Łowca, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M | 8 hours |
+| [Płonące dłonie](#płonące-dłonie-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
 | Buzzing Bee | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów. | V, S, M | *^C^*, up to 1 minute |
-| [Zauroczenie osoby](#zauroczenie-osoby) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Chromatic Orb](#barwna-kula) | *Wywoływania* | Zaklinacz, Mag | Akcja | 27 metrów | V, S, M(C) | Natychmiastowy |
-| [Kolorowy rozprysk](#kolorowy-rozprysk) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Rozumienie języków](#rozumienie-języków) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Przebranie siebie](#przebranie-siebie) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
-| [Błyskawiczny odwrót](#błyskawiczny-odwrót) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
-| [Fałszywe życie](#fałszywe-życie) | *Nekromancji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Piórkospadanie](#piórkospadanie) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
-| [Znalezienie chowańca](#znalezienie-chowańca) | *Przywoływania* | Mag | 1 hour lub *^R^* | 3 metrów | V, S, M(C*) | Natychmiastowy |
-| [Chmura mgły](#chmura-mgły) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
-| [Tłuszcz](#tłuszcz) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | 1 minute |
-| [Ice Knife](#lodowy-nóż) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
-| [Zidentyfikuj](#identyfikacja) | *Wieszczenia* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
-| [Skok](#skok) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
-| [Szybkonogi](#szybkonogi) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
-| [Zbroja maga](#zbroja-maga) | *Odrzucania* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
-| [Magiczny Pocisk](#magiczny-pocisk) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Ray of Sickness](#promień-zatrucia) | *Nekromancji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Tarcza](#tarcza) | *Odrzucania* | Zaklinacz, Mag | Reakcja | Self | V, S | 1 round |
-| [Milczący obraz](#milczący-obraz) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Uśpienie](#uśpienie) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zauroczenie osoby](#zauroczenie-osoby-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Chromatic Orb](#barwna-kula-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 27 metrów | V, S, M(C) | Natychmiastowy |
+| [Kolorowy rozprysk](#kolorowy-rozprysk-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Rozumienie języków](#rozumienie-języków-1) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Przebranie siebie](#przebranie-siebie-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
+| [Błyskawiczny odwrót](#błyskawiczny-odwrót-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
+| [Fałszywe życie](#fałszywe-życie-1) | *Nekromancji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Piórkospadanie](#piórkospadanie-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
+| [Znalezienie chowańca](#znalezienie-chowańca-1) | *Przywoływania* | Mag | 1 hour lub *^R^* | 3 metrów | V, S, M(C*) | Natychmiastowy |
+| [Chmura mgły](#chmura-mgły-1) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
+| [Tłuszcz](#tłuszcz-1) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | 1 minute |
+| [Ice Knife](#lodowy-nóż-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
+| [Zidentyfikuj](#identyfikacja-1) | *Wieszczenia* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Iluzoryczny manuskrypt](#iluzoryczny-manuskrypt-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute lub *^R^* | Dotyk | S, M(C*) | 10 days |
+| [Skok](#skok-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
+| [Szybkonogi](#szybkonogi-1) | *Transmutacji* | Wynalazca, Bard, Druid, Łowca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
+| [Zbroja maga](#zbroja-maga-1) | *Odrzucania* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Magiczny Pocisk](#magiczny-pocisk-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Ray of Sickness](#promień-zatrucia-1) | *Nekromancji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Tarcza](#tarcza-1) | *Odrzucania* | Zaklinacz, Mag | Reakcja | Self | V, S | 1 round |
+| [Milczący obraz](#milczący-obraz-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Uśpienie](#uśpienie-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
 | Spellfire Flare | *Wywoływania* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Tenser's Wędrujący dysk](#wędrujący-dysk-tensera) | *Przywoływania* | Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
-| [Fala gromu](#fala-gromu) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Niewidoczny sługa](#niewidoczny-sługa) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
+| [Tasha's Ohydny śmiech](#ohydny-śmiech-tashy-1) | *Uroku* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Tenser's Wędrujący dysk](#wędrujący-dysk-tensera-1) | *Przywoływania* | Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Fala gromu](#fala-gromu-1) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Niewidoczny sługa](#niewidoczny-sługa-1) | *Przywoływania* | Bard, Czarownik, Mag | Akcja lub *^R^* | 18 metrów | V, S, M | 1 hour |
 | Wardaway | *Odrzucania* | Bard, Kleryk, Paladyn, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Witch Bolt](#wiedźmi-pocisk) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Witch Bolt](#wiedźmi-pocisk-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Zmiana siebie](#zmiana-siebie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 1 hour |
-| [Magiczny zamek](#magiczny-zamek) | *Odrzucania* | Wynalazca, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
-| [Arcane Vigor](#tajemna-witalność) | *Odrzucania* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Self | V, S | Natychmiastowy |
-| [Wróżba](#wróżba) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
-| [Głuchota/Ślepota](#głuchotaślepota) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
-| [Rozmycie](#rozmycie) | *Iluzji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#chmura-sztyletów) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Wieczny ogień](#wieczny-ogień) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
-| [Crown Of Madness](#korona-obłędu) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Ciemność.](#ciemność) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
-| [Widzenie w ciemności](#widzenie-w-ciemności) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Zmiana siebie](#zmiana-siebie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 1 hour |
+| [Magiczny zamek](#magiczny-zamek-1) | *Odrzucania* | Wynalazca, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
+| [Arcane Vigor](#tajemna-witalność-1) | *Odrzucania* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Self | V, S | Natychmiastowy |
+| [Wróżba](#wróżba-1) | *Wieszczenia* | Kleryk, Druid, Mag | 1 minute lub *^R^* | Self | V, S, M(C) | Natychmiastowy |
+| [Głuchota/Ślepota](#głuchotaślepota-1) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
+| [Rozmycie](#rozmycie-1) | *Iluzji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#chmura-sztyletów-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Wieczny ogień](#wieczny-ogień-1) | *Wywoływania* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
+| [Crown Of Madness](#korona-obłędu-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Ciemność.](#ciemność-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
+| [Widzenie w ciemności](#widzenie-w-ciemności-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
 | Death Armor | *Nekromancji* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
 | Deryan's Helpful Homunculi | *Przywoływania* | Kleryk, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | 8 hours |
-| [Wykrycie myśli](#wykrycie-myśli) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Dragon's Breath](#oddech-smoka) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | *^C^*, up to 1 minute |
+| [Wykrycie myśli](#wykrycie-myśli-1) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Dragon's Breath](#oddech-smoka-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | *^C^*, up to 1 minute |
 | Elminster's Elusion | *Odrzucania* | Mag | Akcja dodatkowa | Self | V, S | *^C^*, up to 10 minutes |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Płomienna kula](#płomienna-kula) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Bezpieczny spoczynek](#bezpieczny-spoczynek) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
-| [Poryw wiatru](#poryw-wiatru) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Niewidzialność](#niewidzialność) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Kołatka](#kołatka) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Lewitacja](#lewitacja) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magiczne usta](#magiczne-usta) | *Iluzji* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M(C*) | Until dispelled |
-| [Magiczna broń](#magiczna-broń) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
-| [Melf's Kwasowa strzała](#kwasowa-strzała-melfa) | *Wywoływania* | Mag | Akcja | 27 metrów | V, S, M | Natychmiastowy |
-| [Mind Spike](#kolec-umysłu) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
-| [Lustrzane odbicia](#lustrzane-odbicia) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
-| [Krok przez mgłę](#krok-przez-mgłę) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
-| [Nystul's Magic Aura](#magiczna-aura-nystula) | *Iluzji* | Mag | Akcja | Dotyk | V, S, M | 24 hours |
-| [Phantasmal Force](#urojona-siła) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Promień osłabienia](#promień-osłabienia) | *Nekromancji* | Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Sztuczka z liną](#sztuczka-z-liną) | *Transmutacji* | Wynalazca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
-| [Wypalający promień](#wypalający-promień) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Widzenie niewidzialnego](#widzenie-niewidzialnego) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
-| [Trzask](#trzask) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Pajęcza wspinaczka](#pajęcza-wspinaczka) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Sugestia](#sugestia) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
-| [Web](#pajęczyna) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Płomienna kula](#płomienna-kula-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Bezpieczny spoczynek](#bezpieczny-spoczynek-1) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
+| [Poryw wiatru](#poryw-wiatru-1) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Niewidzialność](#niewidzialność-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Kołatka](#kołatka-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Lewitacja](#lewitacja-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczne usta](#magiczne-usta-1) | *Iluzji* | Wynalazca, Bard, Mag | 1 minute lub *^R^* | 9 metrów | V, S, M(C*) | Until dispelled |
+| [Magiczna broń](#magiczna-broń-1) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
+| [Melf's Kwasowa strzała](#kwasowa-strzała-melfa-1) | *Wywoływania* | Mag | Akcja | 27 metrów | V, S, M | Natychmiastowy |
+| [Mind Spike](#kolec-umysłu-1) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
+| [Lustrzane odbicia](#lustrzane-odbicia-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
+| [Krok przez mgłę](#krok-przez-mgłę-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
+| [Nystul's Magic Aura](#magiczna-aura-nystula-1) | *Iluzji* | Mag | Akcja | Dotyk | V, S, M | 24 hours |
+| [Phantasmal Force](#urojona-siła-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Promień osłabienia](#promień-osłabienia-1) | *Nekromancji* | Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Sztuczka z liną](#sztuczka-z-liną-1) | *Transmutacji* | Wynalazca, Mag | Akcja | Dotyk | V, S, M | 1 hour |
+| [Wypalający promień](#wypalający-promień-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Widzenie niewidzialnego](#widzenie-niewidzialnego-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
+| [Trzask](#trzask-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Pajęcza wspinaczka](#pajęcza-wspinaczka-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Sugestia](#sugestia-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
+| [Web](#pajęczyna-1) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animowanie zmarłego](#animowanie-zmarłego) | *Nekromancji* | Kleryk, Mag | 1 minute | 3 metrów | V, S, M | Natychmiastowy |
+| [Animowanie zmarłego](#animowanie-zmarłego-1) | *Nekromancji* | Kleryk, Mag | 1 minute | 3 metrów | V, S, M | Natychmiastowy |
 | Astral Flood | *Wywoływania* | Bard, Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Nałożenie klątwy](#nałożenie-klątwy) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Mignięcie](#mignięcie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | 1 minute |
+| [Nałożenie klątwy](#nałożenie-klątwy-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Mignięcie](#mignięcie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | 1 minute |
 | Cacophonic Tarcza | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Jasnowidzenie](#jasnowidzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Jasnowidzenie](#jasnowidzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
 | Conjure Constructs | *Przywoływania* | Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Przeciwzaklęcie](#przeciwzaklęcie) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Strach](#strach) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Feign Death](#pozór-śmierci) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
-| [Kula ognia](#kula-ognia) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Fly](#lot) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
-| [Forma gazowa](#forma-gazowa) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Glif strażniczy](#glif-strażniczy) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
-| [Przyspieszenie](#przyspieszenie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Hipnotyczny wzór](#hipnotyczny-wzór) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
+| [Przeciwzaklęcie](#przeciwzaklęcie-1) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Strach](#strach-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Feign Death](#pozór-śmierci-1) | *Nekromancji* | Bard, Kleryk, Druid, Mag | Akcja lub *^R^* | Dotyk | V, S, M | 1 hour |
+| [Kula ognia](#kula-ognia-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Fly](#lot-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
+| [Forma gazowa](#forma-gazowa-1) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Glif strażniczy](#glif-strażniczy-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Mag | 1 hour | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Przyspieszenie](#przyspieszenie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Hipnotyczny wzór](#hipnotyczny-wzór-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
 | Laeral's Srebro Lanca | *Wywoływania* | Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | Natychmiastowy |
-| [Leomund's Chatka](#chatka-leomunda) | *Wywoływania* | Bard, Mag | 1 minute lub *^R^* | Self | V, S, M | 8 hours |
-| [Piorun](#piorun) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Krąg magii](#krąg-magii) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
-| [Większy obraz](#większy-obraz) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Niewykrywalność](#niewykrywalność) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
-| [Widmowy wierzchowiec](#widmowy-wierzchowiec) | *Iluzji* | Mag | 1 minute lub *^R^* | 9 metrów | V, S | 1 hour |
-| [Ochrona przed energią](#ochrona-przed-energią) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Zdjęcie klątwy](#zdjęcie-klątwy) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Nadanie wiadomości](#nadanie-wiadomości) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
-| [Śnieżyca](#śnieżyca) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Wolno](#spowolnienie) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
-| [Śmierdząca chmura](#śmierdząca-chmura) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Summon Fey](#przywołanie-feya) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Undead](#przywołanie-nieumarłego) | *Nekromancji* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Leomund's Chatka](#chatka-leomunda-1) | *Wywoływania* | Bard, Mag | 1 minute lub *^R^* | Self | V, S, M | 8 hours |
+| [Piorun](#piorun-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Krąg magii](#krąg-magii-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
+| [Większy obraz](#większy-obraz-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Niewykrywalność](#niewykrywalność-1) | *Odrzucania* | Bard, Łowca, Mag | Akcja | Dotyk | V, S, M(C*) | 8 hours |
+| [Widmowy wierzchowiec](#widmowy-wierzchowiec-1) | *Iluzji* | Mag | 1 minute lub *^R^* | 9 metrów | V, S | 1 hour |
+| [Ochrona przed energią](#ochrona-przed-energią-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Zdjęcie klątwy](#zdjęcie-klątwy-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Nadanie wiadomości](#nadanie-wiadomości-1) | *Wieszczenia* | Bard, Kleryk, Mag | Akcja | Unlimited | V, S, M | Natychmiastowy |
+| [Śnieżyca](#śnieżyca-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Wolno](#spowolnienie-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Rozmawianie z umarłymi](#rozmawianie-z-umarłymi-1) | *Nekromancji* | Bard, Kleryk, Mag | Akcja | 3 metrów | V, S, M | 10 minutes |
+| [Śmierdząca chmura](#śmierdząca-chmura-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Summon Fey](#przywołanie-feya-1) | *Przywoływania* | Druid, Łowca, Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Undead](#przywołanie-nieumarłego-1) | *Nekromancji* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 | Sylune's Viper | *Przywoływania* | Druid, Mag | Akcja dodatkowa | Self | V, S, M | 1 hour |
-| [Języki](#języki) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Wampiryczny dotyk](#wampiryczny-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Oddychanie pod wodą](#oddychanie-pod-wodą) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
+| [Języki](#języki-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Wampiryczny dotyk](#wampiryczny-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Oddychanie pod wodą](#oddychanie-pod-wodą-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Magiczne Oko](#magiczne-oko) | *Wieszczenia* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Magiczne Oko](#magiczne-oko-1) | *Wieszczenia* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
 | Backlash | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | V | Natychmiastowy |
-| [Wypędzenie](#wypędzenie) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Plaga](#plaga) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Urok Monster](#zauroczenie-potwora) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Zamęt](#zamęt) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Przywołanie mniejszych żywiołaków](#przywołanie-mniejszych-żywiołaków) | *Przywoływania* | Druid, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Kontrola wody](#kontrola-wody) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Drzwi przez wymiary](#drzwi-przez-wymiary) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
-| [Wieszczenia](#wieszczenie) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
-| [Evard's Czarne macki](#czarne-macki-evarda) | *Przywoływania* | Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Produkcja](#produkcja) | *Transmutacji* | Wynalazca, Mag | 10 minutes | 36 metrów | V, S | Natychmiastowy |
-| [Tarcza ognia](#tarcza-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
-| [Większa niewidzialność](#większa-niewidzialność) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Iluzoryczny teren](#iluzoryczny-teren) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
-| [Burza lodu](#burza-lodu) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
-| [Leomund's Sekretny kufer](#sekretny-kufer-leomunda) | *Przywoływania* | Wynalazca, Mag | Akcja | Dotyk | V, S, M(C) | Until dispelled |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Mordenkainen's Wierny ogar](#wierny-ogar-mordenkainena) | *Przywoływania* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Mordenkainen's Osobiste sanktuarium](#osobiste-sanktuarium-mordenkainena) | *Odrzucania* | Wynalazca, Mag | 10 minutes | 36 metrów | V, S, M | 24 hours |
-| [Otiluke's Sprężysta sfera](#sprężysta-sfera-otilukea) | *Odrzucania* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Urojony zabójca](#urojony-zabójca) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Polimorfia](#polimorfia) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Wypędzenie](#wypędzenie-1) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Plaga](#plaga-1) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Urok Monster](#zauroczenie-potwora-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Zamęt](#zamęt-1) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Przywołanie mniejszych żywiołaków](#przywołanie-mniejszych-żywiołaków-1) | *Przywoływania* | Druid, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Kontrola wody](#kontrola-wody-1) | *Transmutacji* | Kleryk, Druid, Mag | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Drzwi przez wymiary](#drzwi-przez-wymiary-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
+| [Wieszczenia](#wieszczenie-1) | *Wieszczenia* | Kleryk, Druid, Mag | Akcja lub *^R^* | Self | V, S, M(C*) | Natychmiastowy |
+| [Evard's Czarne macki](#czarne-macki-evarda-1) | *Przywoływania* | Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Produkcja](#produkcja-1) | *Transmutacji* | Wynalazca, Mag | 10 minutes | 36 metrów | V, S | Natychmiastowy |
+| [Tarcza ognia](#tarcza-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
+| [Większa niewidzialność](#większa-niewidzialność-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Iluzoryczny teren](#iluzoryczny-teren-1) | *Iluzji* | Bard, Druid, Czarownik, Mag | 10 minutes | 90 metrów | V, S, M | 24 hours |
+| [Burza lodu](#burza-lodu-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
+| [Leomund's Sekretny kufer](#sekretny-kufer-leomunda-1) | *Przywoływania* | Wynalazca, Mag | Akcja | Dotyk | V, S, M(C) | Until dispelled |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Mordenkainen's Wierny ogar](#wierny-ogar-mordenkainena-1) | *Przywoływania* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Mordenkainen's Osobiste sanktuarium](#osobiste-sanktuarium-mordenkainena-1) | *Odrzucania* | Wynalazca, Mag | 10 minutes | 36 metrów | V, S, M | 24 hours |
+| [Otiluke's Sprężysta sfera](#sprężysta-sfera-otilukea-1) | *Odrzucania* | Wynalazca, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Urojony zabójca](#urojony-zabójca-1) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Polimorfia](#polimorfia-1) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 | Spellfire Storm | *Wywoływania* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Kamienny kształt](#kamienny-kształt) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
-| [Kamienna skóra](#kamienna-skóra) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Aberration](#przywołanie-aberracji) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Construct](#przywołanie-konstruktu) | *Przywoływania* | Wynalazca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Elemental](#przywołanie-żywiołaka-1) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Vitriolic sfera](#żrąca-sfera) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Ściana ognia](#ściana-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Kamienny kształt](#kamienny-kształt-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Mag | Akcja | Dotyk | V, S, M | Natychmiastowy |
+| [Kamienna skóra](#kamienna-skóra-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Aberration](#przywołanie-aberracji-1) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Construct](#przywołanie-konstruktu-1) | *Przywoływania* | Wynalazca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Elemental](#przywołanie-żywiołaka-3) | *Przywoływania* | Druid, Łowca, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Vitriolic sfera](#żrąca-sfera-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Ściana ognia](#ściana-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Odrzucania* | Bard, Druid, Łowca, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Animowanie obiektu](#animowanie-obiektów) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Bigby's Hand](#dłoń-bigbyego) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Circle Of Power](#krąg-mocy) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Zabójcza chmura](#zabójcza-chmura) | *Przywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [stożek Of Cold](#stożek-zimna) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Przywołanie żywiołaka](#przywołanie-żywiołaka-1) | *Przywoływania* | Druid, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Kontakt z inną sferą](#kontakt-z-inną-sferą) | *Wieszczenia* | Czarownik, Mag | 1 minute lub *^R^* | Self | V | 1 minute |
-| [Tworzenie](#cieniste-formowanie) | *Iluzji* | Wynalazca, Zaklinacz, Mag | 1 minute | 9 metrów | V, S, M | Specjalna |
-| [Dominacja nad osobą](#dominacja-nad-osobą) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Sen](#sen) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
-| [Geas](#geas) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
-| [Unieruchomienie potwora](#unieruchomienie-potwora) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Jallarzi's Storm of Radiance](#burza-blasku-jallarzi) | *Wywoływania* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Legendarna wiedza](#legendarna-wiedza) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
-| [Zmyłka](#zmyłka) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
-| [Podmiana wspomnień](#podmiana-wspomnień) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
-| [Przejście w murze](#przejście-w-murze) | *Transmutacji* | Mag | Akcja | 9 metrów | V, S, M | 1 hour |
-| [Sferalne wiązanie](#sferalne-wiązanie) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
-| [Rary's Telepatia](#telepatyczna-więź-raryego) | *Wieszczenia* | Bard, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
-| [Wizja](#wizja) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Pozory](#pozory) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
+| [Animowanie obiektu](#animowanie-obiektów-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Bigby's Hand](#dłoń-bigbyego-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Circle Of Power](#krąg-mocy-1) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Zabójcza chmura](#zabójcza-chmura-1) | *Przywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [stożek Of Cold](#stożek-zimna-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Przywołanie żywiołaka](#przywołanie-żywiołaka-3) | *Przywoływania* | Druid, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Kontakt z inną sferą](#kontakt-z-inną-sferą-1) | *Wieszczenia* | Czarownik, Mag | 1 minute lub *^R^* | Self | V | 1 minute |
+| [Tworzenie](#cieniste-formowanie-1) | *Iluzji* | Wynalazca, Zaklinacz, Mag | 1 minute | 9 metrów | V, S, M | Specjalna |
+| [Dominacja nad osobą](#dominacja-nad-osobą-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Sen](#sen-1) | *Iluzji* | Bard, Czarownik, Mag | 1 minute | Specjalna | V, S, M | 8 hours |
+| [Geas](#geas-1) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
+| [Unieruchomienie potwora](#unieruchomienie-potwora-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Jallarzi's Storm of Radiance](#burza-blasku-jallarzi-1) | *Wywoływania* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Legendarna wiedza](#legendarna-wiedza-1) | *Wieszczenia* | Bard, Kleryk, Mag | 10 minutes | Self | V, S, M(C*) | Natychmiastowy |
+| [Zmyłka](#zmyłka-1) | *Iluzji* | Bard, Czarownik, Mag | Akcja | Self | S | *^C^*, up to 1 hour |
+| [Podmiana wspomnień](#podmiana-wspomnień-1) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V, S | *^C^*, up to 1 minute |
+| [Przejście w murze](#przejście-w-murze-1) | *Transmutacji* | Mag | Akcja | 9 metrów | V, S, M | 1 hour |
+| [Sferalne wiązanie](#sferalne-wiązanie-1) | *Odrzucania* | Bard, Kleryk, Druid, Czarownik, Mag | 1 hour | 18 metrów | V, S, M(C*) | 24 hours |
+| [Rary's Telepatia](#telepatyczna-więź-raryego-1) | *Wieszczenia* | Bard, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Wizja](#wizja-1) | *Wieszczenia* | Bard, Kleryk, Druid, Czarownik, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Pozory](#pozory-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
 | Songal's Elemental Suffusion | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Steel Wind Strike](#uderzenie-stalowego-wiatru) | *Przywoływania* | Łowca, Mag | Akcja | 9 metrów | S, M | Natychmiastowy |
-| [Summon Dragon](#przywołanie-smoka) | *Przywoływania* | Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Synaptic Static](#synaptyczna-statyka) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Telekineza](#telekineza) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Krąg teleportacji](#krąg-teleportacyjny) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
-| [Ściana energii](#ściana-energii) | *Wywoływania* | Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Ściana kamienia](#ściana-kamienia) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Yolande's Regal Presence](#królewska-obecność-yolande) | *Uroku* | Bard, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Steel Wind Strike](#uderzenie-stalowego-wiatru-1) | *Przywoływania* | Łowca, Mag | Akcja | 9 metrów | S, M | Natychmiastowy |
+| [Summon Dragon](#przywołanie-smoka-1) | *Przywoływania* | Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Synaptic Static](#synaptyczna-statyka-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Telekineza](#telekineza-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Krąg teleportacji](#krąg-teleportacyjny-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
+| [Ściana energii](#ściana-energii-1) | *Wywoływania* | Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Ściana kamienia](#ściana-kamienia-1) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Yolande's Regal Presence](#królewska-obecność-yolande-1) | *Uroku* | Bard, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Brama](#magiczne-wrota) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
-| [Łańcuch błyskawic](#łańcuch-błyskawic) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Circle Of Death](#krąg-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
-| [Przezorność](#przezorność) | *Odrzucania* | Mag | 10 minutes | Self | V, S, M(C) | 10 days |
-| [Stworzenie nieumarłego](#stworzenie-nieumarłego) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
-| [Dezintegracja](#dezintegracja) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Drawmij's Błyskawiczne przywołanie](#błyskawiczne-przywołanie-drawmija) | *Przywoływania* | Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Until dispelled |
+| [Arcane Brama](#magiczne-wrota-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
+| [Łańcuch błyskawic](#łańcuch-błyskawic-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Circle Of Death](#krąg-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
+| [Przezorność](#przezorność-1) | *Odrzucania* | Mag | 10 minutes | Self | V, S, M(C) | 10 days |
+| [Stworzenie nieumarłego](#stworzenie-nieumarłego-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C) | Natychmiastowy |
+| [Dezintegracja](#dezintegracja-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Drawmij's Błyskawiczne przywołanie](#błyskawiczne-przywołanie-drawmija-1) | *Przywoływania* | Mag | 1 minute lub *^R^* | Dotyk | V, S, M(C) | Until dispelled |
 | Elminster's Effulgent Spheres | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | 1 hour |
-| [Kąśliwy wzrok](#kąśliwy-wzrok) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Ciało w kamień](#ciało-w-kamień) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Sfera niepodatności](#sfera-niepodatności) | *Odrzucania* | Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Ochronne glify](#ochronne-glify) | *Odrzucania* | Bard, Mag | 1 hour | Dotyk | V, S, M | 24 hours |
+| [Kąśliwy wzrok](#kąśliwy-wzrok-1) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Ciało w kamień](#ciało-w-kamień-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Sfera niepodatności](#sfera-niepodatności-1) | *Odrzucania* | Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Ochronne glify](#ochronne-glify-1) | *Odrzucania* | Bard, Mag | 1 hour | Dotyk | V, S, M | 24 hours |
 | Leomund's Lamentable Belaborment | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V | 1 Minute |
-| [Magiczny słój](#magiczny-słój) | *Nekromancji* | Mag | 1 minute | Self | V, S, M(C) | Until dispelled |
-| [Masowa sugestia](#masowa-sugestia) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
-| [Poruszenie ziemi](#poruszenie-ziemi) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
-| [Otiluke's Mrożąca sfera](#mrożąca-sfera-otilukea) | *Wywoływania* | Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
-| [Otto's Nieodparty taniec](#nieodparty-taniec-ottona) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V | *^C^*, up to 1 minute |
-| [Zaplanowana iluzja](#zaplanowana-iluzja) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S, M | Until dispelled |
-| [Summon Fiend](#przywołanie-czarta) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
-| [Promień słońca](#promień-słońca) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Tasha's Bubbling Cauldron](#wrzący-kocioł-tashy) | *Przywoływania* | Czarownik, Mag | Akcja | 1,5 metrów | V, S, M | 10 minutes |
-| [Prawdziwe widzenie](#prawdziwe-widzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
-| [Ściana lodu](#ściana-lodu) | *Wywoływania* | Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczny słój](#magiczny-słój-1) | *Nekromancji* | Mag | 1 minute | Self | V, S, M(C) | Until dispelled |
+| [Masowa sugestia](#masowa-sugestia-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
+| [Poruszenie ziemi](#poruszenie-ziemi-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
+| [Otiluke's Mrożąca sfera](#mrożąca-sfera-otilukea-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
+| [Otto's Nieodparty taniec](#nieodparty-taniec-ottona-1) | *Uroku* | Bard, Mag | Akcja | 9 metrów | V | *^C^*, up to 1 minute |
+| [Zaplanowana iluzja](#zaplanowana-iluzja-1) | *Iluzji* | Bard, Mag | Akcja | 36 metrów | V, S, M | Until dispelled |
+| [Summon Fiend](#przywołanie-czarta-1) | *Przywoływania* | Czarownik, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Promień słońca](#promień-słońca-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Tasha's Bubbling Cauldron](#wrzący-kocioł-tashy-1) | *Przywoływania* | Czarownik, Mag | Akcja | 1,5 metrów | V, S, M | 10 minutes |
+| [Prawdziwe widzenie](#prawdziwe-widzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
+| [Ściana lodu](#ściana-lodu-1) | *Wywoływania* | Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Opóźniona kula ognia](#opóźniona-kula-ognia) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Eteryczność](#eteryczność) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
-| [Palec śmierci](#palec-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Cela mocy](#cela-mocy) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Miraż](#miraż) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
-| [Mordenkainen's Wspaniała posiadłość](#wspaniała-posiadłość-mordenkainena) | *Przywoływania* | Bard, Mag | 1 minute | 90 metrów | V, S, M | 24 hours |
-| [Mordenkainen's Sword](#miecz-mordenkainena) | *Wywoływania* | Bard, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Sferalny przeskok](#sferalny-przeskok) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Projekcja obrazu](#projekcja-obrazu) | *Iluzji* | Bard, Mag | Akcja | 750 km | V, S, M | *^C^*, up to 1 day |
-| [Odwrócenie grawitacji](#odwrócenie-grawitacji) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Odosobnienie](#odosobnienie) | *Transmutacji* | Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
+| [Opóźniona kula ognia](#opóźniona-kula-ognia-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Eteryczność](#eteryczność-1) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
+| [Palec śmierci](#palec-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Cela mocy](#cela-mocy-1) | *Wywoływania* | Bard, Czarownik, Mag | Akcja | 30 metrów | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Miraż](#miraż-1) | *Iluzji* | Bard, Druid, Mag | 10 minutes | Sight | V, S | 10 days |
+| [Mordenkainen's Wspaniała posiadłość](#wspaniała-posiadłość-mordenkainena-1) | *Przywoływania* | Bard, Mag | 1 minute | 90 metrów | V, S, M | 24 hours |
+| [Mordenkainen's Sword](#miecz-mordenkainena-1) | *Wywoływania* | Bard, Mag | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Sferalny przeskok](#sferalny-przeskok-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Projekcja obrazu](#projekcja-obrazu-1) | *Iluzji* | Bard, Mag | Akcja | 750 km | V, S, M | *^C^*, up to 1 day |
+| [Odwrócenie grawitacji](#odwrócenie-grawitacji-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Odosobnienie](#odosobnienie-1) | *Transmutacji* | Mag | Akcja | Dotyk | V, S, M(C*) | Until dispelled |
 | Simbul's Synostodweomer | *Transmutacji* | Zaklinacz, Mag | Akcja | Dotyk | V, S | 1 hour |
-| [Symulakrum](#symulakrum) | *Iluzji* | Mag | 12 hours | Dotyk | V, S, M(C*) | Until dispelled |
-| [Symbol](#symbol) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
-| [Teleportacja](#teleportacja) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
+| [Symulakrum](#symulakrum-1) | *Iluzji* | Mag | 12 hours | Dotyk | V, S, M(C*) | Until dispelled |
+| [Symbol](#symbol-1) | *Odrzucania* | Bard, Kleryk, Druid, Mag | 1 minute | Dotyk | V, S, M(C*) | Until dispelled lub triggered |
+| [Teleportacja](#teleportacja-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
 | Void Star | *Nekromancji* | Czarownik, Mag | Akcja | 36 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Tyczka antymagii](#pole-antymagii) | *Odrzucania* | Kleryk, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Antypatia / Sympatia](#antypatiasympatia) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
-| [Befuddlement](#zmieszanie-umysłu) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
-| [Klon](#klon) | *Nekromancji* | Mag | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Kontrola pogody](#kontrola-pogody) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Demisfera](#demisfera) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
-| [Dominacja nad potworem](#dominacja-nad-potworem) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
+| [Tyczka antymagii](#pole-antymagii-1) | *Odrzucania* | Kleryk, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Antypatia / Sympatia](#antypatiasympatia-1) | *Uroku* | Bard, Druid, Mag | 1 hour | 18 metrów | V, S, M | 10 days |
+| [Befuddlement](#zmieszanie-umysłu-1) | *Uroku* | Bard, Druid, Czarownik, Mag | Akcja | 45 metrów | V, S, M | Instantanous |
+| [Klon](#klon-1) | *Nekromancji* | Mag | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Kontrola pogody](#kontrola-pogody-1) | *Transmutacji* | Kleryk, Druid, Mag | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Demisfera](#demisfera-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
+| [Dominacja nad potworem](#dominacja-nad-potworem-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
 | Holy Star of Mystra | *Wywoływania* | Kleryk, Mag | Akcja dodatkowa | Self | V, S | *^C^*, up to 1 minute |
-| [Chmura żaru](#chmura-żaru) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
-| [Labirynt](#labirynt) | *Przywoływania* | Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Czysty umysł](#czysty-umysł) | *Odrzucania* | Bard, Mag | Akcja | Dotyk | V, S | 24 hours |
-| [Słowo mocy Stój](#słowo-mocy-stój) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Słoneczny blask](#słoneczny-blask) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Telepathy](#telepatia) | *Wieszczenia* | Mag | Akcja | Unlimited | V, S, M | 24 hours |
+| [Chmura żaru](#chmura-żaru-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
+| [Labirynt](#labirynt-1) | *Przywoływania* | Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Czysty umysł](#czysty-umysł-1) | *Odrzucania* | Bard, Mag | Akcja | Dotyk | V, S | 24 hours |
+| [Słowo mocy Stój](#słowo-mocy-stój-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Słoneczny blask](#słoneczny-blask-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Telepathy](#telepatia-1) | *Wieszczenia* | Mag | Akcja | Unlimited | V, S, M | 24 hours |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Projekcja astralna](#projekcja-astralna) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
+| [Projekcja astralna](#projekcja-astralna-1) | *Nekromancji* | Kleryk, Czarownik, Mag | 1 hour | 3 metrów | V, S, M (C*) | Until dispelled |
 | Blade Of Disaster | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Profetyzm](#profetyzm) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
-| [Brama](#brama) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Uwięzienie](#uwięzienie) | *Odrzucania* | Czarownik, Mag | 1 minute | 9 metrów | V, S, M(C) | Until dispelled |
-| [Rój meteorytów](#rój-meteorytów) | *Wywoływania* | Zaklinacz, Mag | Akcja | 1,5 km | V, S | Natychmiastowy |
-| [Słowo mocy Giń](#słowo-mocy-giń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Pryzmatyczny mur](#pryzmatyczny-mur) | *Odrzucania* | Bard, Mag | Akcja | 18 metrów | V, S | 10 minutes |
-| [Zmiennokształtność](#zmiennokształtność) | *Transmutacji* | Druid, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 hour |
-| [Zatrzymanie czasu](#zatrzymanie-czasu) | *Transmutacji* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
-| [Prawdziwa polimorfia](#prawdziwa-polimorfia) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
-| [Dziwo](#dziwo) | *Iluzji* | Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Życzenie](#życzenie) | *Przywoływania* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
+| [Profetyzm](#profetyzm-1) | *Wieszczenia* | Bard, Druid, Czarownik, Mag | 1 minute | Dotyk | V, S, M | 8 hours |
+| [Brama](#brama-1) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Uwięzienie](#uwięzienie-1) | *Odrzucania* | Czarownik, Mag | 1 minute | 9 metrów | V, S, M(C) | Until dispelled |
+| [Rój meteorytów](#rój-meteorytów-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 1,5 km | V, S | Natychmiastowy |
+| [Słowo mocy Giń](#słowo-mocy-giń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Pryzmatyczny mur](#pryzmatyczny-mur-1) | *Odrzucania* | Bard, Mag | Akcja | 18 metrów | V, S | 10 minutes |
+| [Zmiennokształtność](#zmiennokształtność-1) | *Transmutacji* | Druid, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 hour |
+| [Zatrzymanie czasu](#zatrzymanie-czasu-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
+| [Prawdziwa polimorfia](#prawdziwa-polimorfia-1) | *Transmutacji* | Bard, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Dziwo](#dziwo-1) | *Iluzji* | Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Życzenie](#życzenie-1) | *Przywoływania* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
 
 #### Odrzucacz
+
+### Odrzucacz
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:abjurer
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Chroń towarzyszy i wypędzaj wrogów*
 
@@ -7172,7 +7654,7 @@ Gdy istota, którą widzisz w promieniu 9 metrów od siebie, otrzymuje obrażeni
 
 ##### Poziom 10: Łamacz zaklęć
 
-Zawsze masz przygotowane czary [Przeciwzaklęcie](#przeciwzaklęcie) i [Rozproszenie magii](#rozproszenie-magii). Ponadto możesz rzucić Rozproszenie magii jako akcję dodatkową i możesz dodać swoją premię z biegłości do testu atrybutu tego czaru.
+Zawsze masz przygotowane czary [Przeciwzaklęcie](#przeciwzaklęcie-1) i [Rozproszenie magii](#rozproszenie-magii-1). Ponadto możesz rzucić Rozproszenie magii jako akcję dodatkową i możesz dodać swoją premię z biegłości do testu atrybutu tego czaru.
 
 Gdy rzucasz którykolwiek z tych czarów z komórką czaru, komórka nie zostaje zużyta, jeśli czar nie powstrzymał innego czaru.
 
@@ -7181,6 +7663,16 @@ Gdy rzucasz którykolwiek z tych czarów z komórką czaru, komórka nie zostaje
 Masz ułatwienie do rzutów obronnych przeciwko czarom oraz odporność na obrażenia od czarów.
 
 #### Wróżbita
+
+### Wróżbita
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:diviner
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Poznawaj sekrety multiversum*
 
@@ -7210,13 +7702,23 @@ Możesz wzmocnić swoje zdolności percepcji. Akcją dodatkową wybierz jedną z
 
 **Większe zrozumienie.** Możesz czytać każdy język.
 
-**Widzenie niewidzialnego.** Możesz rzucić [Widzenie niewidzialnego](#widzenie-niewidzialnego) bez zużywania komórki czaru.
+**Widzenie niewidzialnego.** Możesz rzucić [Widzenie niewidzialnego](#widzenie-niewidzialnego-1) bez zużywania komórki czaru.
 
 ##### Poziom 14: Większy zwiastun
 
 Wizje w twoich snach się nasilają i malują w umyśle dokładniejszy obraz tego, co nadejdzie. Rzucasz trzy k20 dla cechy Zwiastun zamiast dwóch.
 
 #### Wywoływacz
+
+### Wywoływacz
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:evoker
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Twórz wybuchowe efekty żywiołowe*
 
@@ -7250,6 +7752,16 @@ Za każdym razem, gdy użyjesz tej cechy ponownie przed zakończeniem długiego 
 
 #### Iluzjonista
 
+### Iluzjonista
+
+**Klasa:** Mag
+**URL źródła:** http://dnd2024.wikidot.com/wizard:illusionist
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Splataj subtelne czary oszustwa*
 
 Specjalizujesz się w magii, która olśniewa zmysły i oszukuje umysł, a tworzone przez ciebie iluzje sprawiają, że niemożliwe wydaje się prawdziwe.
@@ -7264,11 +7776,11 @@ Ponadto, ilekroć zyskasz dostęp do nowego kręgu komórek czaru w tej klasie, 
 
 Możesz rzucać czary iluzji bez komponentów werbalnych, a jeśli czar iluzji, który rzucasz, ma zasięg 3 metrów lub więcej, zasięg wzrasta o 18 metrów.
 
-Znasz też sztuczkę [Pomniejsza iluzja](#pomniejsza-iluzja). Jeśli już ją znasz, uczysz się innej sztuczki maga według własnego wyboru. Sztuczka nie wlicza się do liczby znanych sztuczek. Możesz stworzyć zarówno dźwięk, jak i obraz jednym rzutem Pomniejszej iluzji i możesz rzucić ją jako akcję dodatkową.
+Znasz też sztuczkę [Pomniejsza iluzja](#pomniejsza-iluzja-1). Jeśli już ją znasz, uczysz się innej sztuczki maga według własnego wyboru. Sztuczka nie wlicza się do liczby znanych sztuczek. Możesz stworzyć zarówno dźwięk, jak i obraz jednym rzutem Pomniejszej iluzji i możesz rzucić ją jako akcję dodatkową.
 
 ##### Poziom 6: Fantazmatyczne stworzenia
 
-Zawsze masz przygotowane czary [Summon Beast](#przywołanie-bestii) i [Summon Fey](#przywołanie-feya). Ilekroć rzucasz którykolwiek z tych czarów, możesz zmienić jego szkołę na iluzję, przez co przywołana istota wygląda na widmową. Możesz rzucić wersję iluzji każdego z tych czarów bez zużywania komórki czaru, lecz rzucenie bez komórki zmniejsza punkty wytrzymałości istoty o połowę. Po rzuceniu któregoś z tych czarów bez komórki czaru musisz zakończyć Długi odpoczynek, zanim ponownie rzucisz go w ten sposób.
+Zawsze masz przygotowane czary [Summon Beast](#przywołanie-bestii-1) i [Summon Fey](#przywołanie-feya-1). Ilekroć rzucasz którykolwiek z tych czarów, możesz zmienić jego szkołę na iluzję, przez co przywołana istota wygląda na widmową. Możesz rzucić wersję iluzji każdego z tych czarów bez zużywania komórki czaru, lecz rzucenie bez komórki zmniejsza punkty wytrzymałości istoty o połowę. Po rzuceniu któregoś z tych czarów bez komórki czaru musisz zakończyć Długi odpoczynek, zanim ponownie rzucisz go w ten sposób.
 
 ##### Poziom 10: Iluzoryczne ja
 
@@ -7281,6 +7793,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 Nauczyłeś się splatać magię cienia w iluzje, by nadać im pół-rzeczywistość. Gdy rzucasz czar iluzji z komórką czaru, możesz wybrać jeden nieożywiony, niemagiczny obiekt będący częścią iluzji i uczynić go prawdziwym. Możesz to zrobić w swojej turze jako akcję dodatkową, gdy czar trwa. Obiekt pozostaje prawdziwy przez 1 minutę, w tym czasie nie może zadawać obrażeń ani nakładać stanów. Na przykład możesz stworzyć iluzję mostu nad przepaścią, uczynić go prawdziwym i go przejść.
 
 ### Mnich
+
+#### Mnich
+
+**Klasa:** Mnich
+**URL źródła:** http://dnd2024.wikidot.com/monk:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Mnisi używają wymagającego treningu bojowego i dyscypliny umysłowej, by zestroić się z multiwersum i skupić wewnętrzne rezerwuary mocy. Różni mnisi pojmują tę moc na różne sposoby: jako oddech, energię, siłę życiową, esencję lub jaźń. Niezależnie od tego, czy manifestuje się jako widowiskowy pokaz sprawności bojowej, czy subtelniejsza obrona i szybkość — moc ta przenika wszystko, co robi mnich.
 
@@ -7428,14 +7950,14 @@ Zyskujesz podklasę mnicha według własnego wyboru. Podklasa to specjalizacja, 
 
 | Nazwa |
 | --- |
-| [Wojownik Miłosierdzia](#wojownik-miłosierdzia) |
-| [Wojownik Cienia](#wojownik-cienia) |
-| [Wojownik Żywiołów](#wojownik-żywiołów) |
-| [Wojownik Otwartej Dłoni](#wojownik-otwartej-dłoni) |
+| [Wojownik Miłosierdzia](#wojownik-miłosierdzia-1) |
+| [Wojownik Cienia](#wojownik-cienia-1) |
+| [Wojownik Żywiołów](#wojownik-żywiołów-1) |
+| [Wojownik Otwartej Dłoni](#wojownik-otwartej-dłoni-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach mnicha 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach mnicha 8, 12 i 16.
 
 ###### Poziom 4: Powolny upadek
 
@@ -7497,13 +8019,23 @@ Na początku swojej tury możesz zużyć 3 punkty skupienia, aby wzmocnić się 
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar nieodpartej ofensywy](#dar-nieodpartej-ofensywy).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar nieodpartej ofensywy](#dar-nieodpartej-ofensywy-1).
 
 ###### Poziom 20: Ciało i umysł
 
 Rozwinąłeś swoje ciało i umysł na nowe wyżyny. Twoje wartości Zręczności i Mądrości zwiększają się o 4, do maksymalnie 25.
 
 #### Wojownik Miłosierdzia
+
+### Wojownik Miłosierdzia
+
+**Klasa:** Mnich
+**URL źródła:** http://dnd2024.wikidot.com/monk:warrior-of-mercy
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Manipuluj siłami życia i śmierci*
 
@@ -7547,6 +8079,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 #### Wojownik Cienia
 
+### Wojownik Cienia
+
+**Klasa:** Mnich
+**URL źródła:** http://dnd2024.wikidot.com/monk:warrior-of-shadow
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Wykorzystuj moc cienia do skradania się i podstępu*
 
 Wojownicy cienia ćwiczą skradanie się i podstęp, czerpiąc moc z Krainy Cieni. Czują się jak u siebie w ciemności — potrafią otoczyć się mrokiem, by się ukryć, przeskakiwać z cienia w cień i przybierać widmową postać.
@@ -7555,11 +8097,11 @@ Wojownicy cienia ćwiczą skradanie się i podstęp, czerpiąc moc z Krainy Cien
 
 Nauczyłeś się czerpać moc z Krainy Cieni, zyskując następujące korzyści.
 
-**Ciemność.** Możesz zużyć 1 Punkt skupienia, by rzucić czar [Ciemność](#ciemność) bez komponentów. Gdy rzucasz go tą cechą, widzisz w obszarze działania czaru. Dopóki czar trwa, na początku każdej swojej tury możesz przenieść obszar ciemności w miejsce w promieniu 18 metrów od siebie.
+**Ciemność.** Możesz zużyć 1 Punkt skupienia, by rzucić czar [Ciemność](#ciemność-1) bez komponentów. Gdy rzucasz go tą cechą, widzisz w obszarze działania czaru. Dopóki czar trwa, na początku każdej swojej tury możesz przenieść obszar ciemności w miejsce w promieniu 18 metrów od siebie.
 
 **Widzenie w ciemności.** Zyskujesz widzenie w ciemności o zasięgu 18 metrów. Jeśli masz już widzenie w ciemności, jego zasięg zwiększa się o 18 metrów.
 
-**Cieniste złudzenia.** Znasz czar [Pomniejsza iluzja](#pomniejsza-iluzja). Mądrość jest twoją cechą rzucania tego czaru.
+**Cieniste złudzenia.** Znasz czar [Pomniejsza iluzja](#pomniejsza-iluzja-1). Mądrość jest twoją cechą rzucania tego czaru.
 
 ##### Poziom 6: Krok cienia
 
@@ -7581,6 +8123,16 @@ Akcją magiczną, gdy znajdujesz się w całości w półmroku lub ciemności, m
 
 #### Wojownik Żywiołów
 
+### Wojownik Żywiołów
+
+**Klasa:** Mnich
+**URL źródła:** http://dnd2024.wikidot.com/monk:warrior-of-the-elements
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Władaj uderzeniami i wybuchami mocy żywiołowej*
 
 Wojownicy żywiołów czerpią moc z Planów Żywiołów. Kierując nadprzyrodzonym skupieniem, ci mnisi na chwilę poskramiają energię Żywiołowego Chaosu, by wzmocnić siebie w walce i poza nią.
@@ -7595,7 +8147,7 @@ Na początku swojej tury możesz zużyć 1 Punkt skupienia, by napełnić się e
 
 ##### Poziom 3: Manipulacja żywiołami
 
-Znasz czar [Elementalism](#elementalizm). Mądrość jest twoją cechą rzucania tego czaru.
+Znasz czar [Elementalism](#elementalizm-1). Mądrość jest twoją cechą rzucania tego czaru.
 
 ##### Poziom 6: Wybuch żywiołowy
 
@@ -7618,6 +8170,16 @@ Gdy twoje Dostrojenie żywiołów jest aktywne, zyskujesz też następujące kor
 **Wzmocnione uderzenia.** Raz w każdej swojej turze, gdy trafisz istotę uderzeniem bez broni, możesz zadać jej dodatkowe obrażenia równe jednemu rzutowi twojej Kości sztuk walki. Dodatkowe obrażenia są tego samego typu co uderzenie.
 
 #### Wojownik Otwartej Dłoni
+
+### Wojownik Otwartej Dłoni
+
+**Klasa:** Mnich
+**URL źródła:** http://dnd2024.wikidot.com/monk:warrior-of-the-open-hand
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Opanuj techniki walki bez broni*
 
@@ -7650,6 +8212,16 @@ Zyskujesz zdolność wzbudzania śmiercionośnych wibracji w ciele przeciwnika. 
 Możesz utrzymywać działanie tej cechy tylko na jednej istocie naraz. Możesz też zakończyć wibracje w sposób nieszkodliwy (nie wymaga akcji).
 
 ### Paladyn
+
+#### Paladyn
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Paladyni łączy przysięga stawiania oporu siłom unicestwienia i zepsucia. Czy złożona przed ołtarzem bóstwa, w świętym gaju przed duchami natury, czy w chwili rozpaczy i żalu przy zmarłych jako jedynych świadkach — przysięga paladyna to potężna więź. Jest źródłem mocy, które zamienia pobożnego wojownika w błogosławionego championa.
 
@@ -7745,11 +8317,11 @@ Możesz też zużyć 5 punktów wytrzymałości z puli mocy leczącej, aby usun�
 
 ###### Poziom 1: Rzucanie czarów
 
-Nauczyłeś się rzucać czary przez modlitwę i medytację. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów paladyna, które wymieniono na liście czarów paladyna.
+Nauczyłeś się rzucać czary przez modlitwę i medytację. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów paladyna, które wymieniono na [liście czarów paladyna](#paladin-spell-list).
 
 _Komórki czaru._ Tabela Cech paladyna pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary paladyna 1. kręgu. Zalecane są [Heroizm](#heroizm) i [Palące ugodzenie](#palące-ugodzenie).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary paladyna 1. kręgu. Zalecane są [Heroizm](#heroizm-1) i [Palące ugodzenie](#palące-ugodzenie-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami paladyna, zgodnie z kolumną Przygotowane czary w tabeli Cech paladyna. Gdy ta liczba rośnie, wybierasz dodatkowe czary z listy czarów paladyna, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako paladyn 5. poziomu możesz mieć na liście przygotowanych czarów sześć czarów 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -7771,11 +8343,11 @@ Po zakończeniu Długiego odpoczynku możesz zmienić rodzaje broni, które wybr
 
 Zyskujesz atut stylu walki według własnego wyboru (patrz rozdział o atutach w Podręczniku Gracza). Zamiast wybrać jeden z tych atutów, możesz wybrać opcję poniżej.
 
-_Błogosławiony wojownik._ Uczysz się dwóch sztuczek kleryka według własnego wyboru (zobacz sekcję klasy kleryka, aby poznać listę czarów kleryka). Zalecane są [Wskazówki](#wskazówki) i [Święty płomień](#święty-płomień). Wybrane sztuczki liczą się jako czary paladyna, a Charyzma jest twoją cechą bazową rzucania czarów dla nich. Za każdym razem, gdy zyskujesz poziom paladyna, możesz zamienić jedną z tych sztuczek na inną sztuczkę kleryka.
+_Błogosławiony wojownik._ Uczysz się dwóch sztuczek kleryka według własnego wyboru (zobacz sekcję klasy kleryka, aby poznać listę czarów kleryka). Zalecane są [Wskazówki](#wskazówki-1) i [Święty płomień](#święty-płomień-1). Wybrane sztuczki liczą się jako czary paladyna, a Charyzma jest twoją cechą bazową rzucania czarów dla nich. Za każdym razem, gdy zyskujesz poziom paladyna, możesz zamienić jedną z tych sztuczek na inną sztuczkę kleryka.
 
 ###### Poziom 2: Ugodzenie paladyna
 
-Zawsze masz przygotowany czar [Boskie ugodzenie](#boskie-ugodzenie).
+Zawsze masz przygotowany czar [Boskie ugodzenie](#boskie-ugodzenie-1).
 
 Możesz rzucić go bez zużywania komórki czaru, ale musisz zakończyć Długi odpoczynek, zanim ponownie rzucisz go w ten sposób.
 
@@ -7787,7 +8359,7 @@ Możesz użyć aktu wiary tej klasy dwa razy. Odzyskujesz jedno zużyte użycie 
 
 Jeśli efekt aktu wiary wymaga rzutu obronnego, ST równa się ST rzutu przeciw czarom z cechy Rzucanie czarów tej klasy.
 
-_Boski zmysł._ Jako akcję dodatkową możesz otworzyć swoją świadomość, aby wykrywać niebian, czarty i nieumarłych. Przez następne 10 minut lub do momentu uzyskania stanu obezwładniony znasz lokalizację dowolnej istoty tych typów w promieniu 18 metrów od siebie oraz znasz typ tych istot. W tym samym promieniu wyczuwasz także obecność dowolnego miejsca lub obiektu, który został konsekrowany lub zbezczeszczony, jak przy użyciu czaru [Konsekracja](#konsekracja).
+_Boski zmysł._ Jako akcję dodatkową możesz otworzyć swoją świadomość, aby wykrywać niebian, czarty i nieumarłych. Przez następne 10 minut lub do momentu uzyskania stanu obezwładniony znasz lokalizację dowolnej istoty tych typów w promieniu 18 metrów od siebie oraz znasz typ tych istot. W tym samym promieniu wyczuwasz także obecność dowolnego miejsca lub obiektu, który został konsekrowany lub zbezczeszczony, jak przy użyciu czaru [Konsekracja](#konsekracja-1).
 
 ###### Poziom 3: Podklasa paladyna
 
@@ -7797,11 +8369,11 @@ Zyskujesz podklasę paladyna według własnego wyboru. Podklasy są opisane po o
 
 | Nazwa |
 | --- |
-| [Przysięga Gorliwości](#przysięga-gorliwości) |
-| [Przysięga Chwały](#przysięga-chwały) |
-| [Przysięga Pradawnych](#przysięga-pradawnych) |
+| [Przysięga Gorliwości](#przysięga-gorliwości-1) |
+| [Przysięga Chwały](#przysięga-chwały-1) |
+| [Przysięga Pradawnych](#przysięga-pradawnych-1) |
 | Przysięga Szlachetnych Dżinów |
-| [Przysięga Zemsty](#przysięga-zemsty) |
+| [Przysięga Zemsty](#przysięga-zemsty-1) |
 
 ###### Złamanie przysięgi
 
@@ -7813,7 +8385,7 @@ Jeśli twój paladyn bezwstydnie łamie przysięgę, porozmawiaj z MP. Twój pal
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach paladyna 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach paladyna 8, 12 i 16.
 
 ###### Poziom 5: Dodatkowy atak
 
@@ -7823,7 +8395,7 @@ Możesz atakować dwa razy zamiast raz, gdy wykonujesz akcję Atak w swojej turz
 
 Możesz wezwać na pomoc pozaziemskiego wierzchowca.
 
-Zawsze masz przygotowany czar [Znalezienie wierzchowca](#znalezienie-wierzchowca).
+Zawsze masz przygotowany czar [Znalezienie wierzchowca](#znalezienie-wierzchowca-1).
 
 Możesz także rzucić ten czar raz bez zużywania komórki czaru i odzyskujesz tę możliwość po zakończeniu Długiego odpoczynku.
 
@@ -7857,79 +8429,96 @@ Twoja aura ochrony to teraz emanacja o promieniu 9 metrów.
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar prawdziwego widzenia](#dar-prawdziwego-widzenia).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar prawdziwego widzenia](#dar-prawdziwego-widzenia-1).
 
 #### Lista czarów paladyna
 
+#### Paladin Spell List
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:spell-list
+
+---
+
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Błogosławieństwo](#błogosławieństwo) | *Uroku* | Kleryk, Paladyn | Akcja | 9 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Rozkaz](#rozkaz) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
-| [Compelled Duel](#prowokacja) | *Uroku* | Paladyn | Akcja dodatkowa | 9 metrów | V | *^C^*, up to 1 minute |
-| [Leczenie ran](#leczenie-ran) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Wykrycie dobra i zła](#wykrycie-dobra-i-zła) | *Wieszczenia* | Kleryk, Paladyn | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Boska łaska](#boska-łaska) | *Transmutacji* | Paladyn | Akcja dodatkowa | Self | V, S | 1 minute |
-| [Boskie ugodzenie](#boskie-ugodzenie) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
-| [Heroizm](#heroizm) | *Uroku* | Bard, Paladyn | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
-| [Searing Smite](#palące-ugodzenie) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | 1 minute |
-| [Tarcza wiary](#tarcza-wiary) | *Odrzucania* | Kleryk, Paladyn | Akcja dodatkowa | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Thunderous Smite](#grzmiące-ugodzenie) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
+| [Błogosławieństwo](#błogosławieństwo-1) | *Uroku* | Kleryk, Paladyn | Akcja | 9 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Rozkaz](#rozkaz-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V | Natychmiastowy |
+| [Compelled Duel](#prowokacja-1) | *Uroku* | Paladyn | Akcja dodatkowa | 9 metrów | V | *^C^*, up to 1 minute |
+| [Leczenie ran](#leczenie-ran-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Wykrycie dobra i zła](#wykrycie-dobra-i-zła-1) | *Wieszczenia* | Kleryk, Paladyn | Akcja | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Wykrycie trucizny i choroby](#wykrycie-trucizny-i-choroby-1) | *Wieszczenia* | Kleryk, Druid, Paladyn, Łowca | Akcja lub *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Boska łaska](#boska-łaska-1) | *Transmutacji* | Paladyn | Akcja dodatkowa | Self | V, S | 1 minute |
+| [Boskie ugodzenie](#boskie-ugodzenie-1) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
+| [Heroizm](#heroizm-1) | *Uroku* | Bard, Paladyn | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) | *Odrzucania* | Kleryk, Druid, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Oczyszczenie jadła i napoju](#oczyszczenie-jadła-i-napoju-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Paladyn | Akcja lub *^R^* | 3 metrów | V, S | Natychmiastowy |
+| [Searing Smite](#palące-ugodzenie-1) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | 1 minute |
+| [Tarcza wiary](#tarcza-wiary-1) | *Odrzucania* | Kleryk, Paladyn | Akcja dodatkowa | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Thunderous Smite](#grzmiące-ugodzenie-1) | *Wywoływania* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
 | Wardaway | *Odrzucania* | Bard, Kleryk, Paladyn, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Wrathful Smite](#gniewne-ugodzenie) | *Nekromancji* | Paladyn | Akcja dodatkowa(*) | Self | V | 1 minute |
+| [Wrathful Smite](#gniewne-ugodzenie-1) | *Nekromancji* | Paladyn | Akcja dodatkowa(*) | Self | V | 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#pomoc) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
-| [Znalezienie wierzchowca](#znalezienie-wierzchowca) | *Przywoływania* | Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Bezpieczny spoczynek](#bezpieczny-spoczynek) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
-| [Mniejsze przywrócenie](#mniejsze-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
-| [Odnalezienie obiektu](#odnalezienie-obiektu) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magiczna broń](#magiczna-broń) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
-| [Uzdrawiająca modlitwa](#uzdrawiająca-modlitwa) | *Odrzucania* | Kleryk, Paladyn | 10 minutes | 9 metrów | V | Natychmiastowy |
-| [Ochrona przed trucizną](#ochrona-przed-trucizną) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
+| [Aid](#pomoc-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | 9 metrów | V, S, M | 8 hours |
+| [Znalezienie wierzchowca](#znalezienie-wierzchowca-1) | *Przywoływania* | Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Bezpieczny spoczynek](#bezpieczny-spoczynek-1) | *Nekromancji* | Kleryk, Paladyn, Mag | Akcja lub *^R^* | Dotyk | V, S, M(C) | 10 days |
+| [Mniejsze przywrócenie](#mniejsze-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja dodatkowa | Dotyk | V, S | Natychmiastowy |
+| [Odnalezienie obiektu](#odnalezienie-obiektu-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczna broń](#magiczna-broń-1) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
+| [Uzdrawiająca modlitwa](#uzdrawiająca-modlitwa-1) | *Odrzucania* | Kleryk, Paladyn | 10 minutes | 9 metrów | V | Natychmiastowy |
+| [Ochrona przed trucizną](#ochrona-przed-trucizną-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | 1 hour |
 | Searing Orb | *Wywoływania* | Kleryk, Paladyn | Akcja | 18 metrów | S, M | Natychmiastowy |
-| [Shining Smite](#lśniące-ugodzenie) | *Transmutacji* | Paladyn | Akcja dodatkowa(*) | Self | V | *^C^*,up to 1 minute |
-| [Ochronna więź](#ochronna-więź) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S, M | 1 hour |
-| [Strefa prawdy](#strefa-prawdy) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
+| [Shining Smite](#lśniące-ugodzenie-1) | *Transmutacji* | Paladyn | Akcja dodatkowa(*) | Self | V | *^C^*,up to 1 minute |
+| [Ochronna więź](#ochronna-więź-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S, M | 1 hour |
+| [Strefa prawdy](#strefa-prawdy-1) | *Uroku* | Bard, Kleryk, Paladyn | Akcja | 18 metrów | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Vitality](#aura-witalności) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Blinding Smite](#oślepiające-ugodzenie) | *Wywoływania* | Paladyn | Akcja dodatkowa | Self | V | 1 minute |
-| [Create Food And Water](#stworzenie-jadła-i-wody) | *Przywoływania* | Wynalazca, Kleryk, Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Crusader's Mantle](#płaszcz-krzyżowca) | *Wywoływania* | Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Światło dnia](#światło-dnia) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Elemental Weapon](#broń-żywiołu) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Krąg magii](#krąg-magii) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
-| [Zdjęcie klątwy](#zdjęcie-klątwy) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Ożywienie](#ożywienie) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Aura of Vitality](#aura-witalności-1) | *Odrzucania* | Kleryk, Druid, Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Blinding Smite](#oślepiające-ugodzenie-1) | *Wywoływania* | Paladyn | Akcja dodatkowa | Self | V | 1 minute |
+| [Create Food And Water](#stworzenie-jadła-i-wody-1) | *Przywoływania* | Wynalazca, Kleryk, Paladyn | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Crusader's Mantle](#płaszcz-krzyżowca-1) | *Wywoływania* | Paladyn | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Światło dnia](#światło-dnia-1) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Elemental Weapon](#broń-żywiołu-1) | *Transmutacji* | Wynalazca, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Krąg magii](#krąg-magii-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | 1 minute | 3 metrów | V, S, M(C*) | 1 hour |
+| [Zdjęcie klątwy](#zdjęcie-klątwy-1) | *Odrzucania* | Kleryk, Paladyn, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Ożywienie](#ożywienie-1) | *Nekromancji* | Wynalazca, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Life](#aura-życia) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Aura of Purity](#aura-czystości) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Wypędzenie](#wypędzenie) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Osłona przed śmiercią](#osłona-przed-śmiercią) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S | 8 hours |
-| [Odnalezienie istoty](#odnalezienie-istoty) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
-| [Staggering Smite](#wstrząsające-ugodzenie) | *Uroku* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
+| [Aura of Life](#aura-życia-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Aura of Purity](#aura-czystości-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Wypędzenie](#wypędzenie-1) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Osłona przed śmiercią](#osłona-przed-śmiercią-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Dotyk | V, S | 8 hours |
+| [Odnalezienie istoty](#odnalezienie-istoty-1) | *Wieszczenia* | Bard, Kleryk, Druid, Paladyn, Łowca, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 hour |
+| [Staggering Smite](#wstrząsające-ugodzenie-1) | *Uroku* | Paladyn | Akcja dodatkowa(*) | Self | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Banishing Smite](#wypędzające-ugodzenie) | *Przywoływania* | Paladyn | Akcja dodatkowa | Self | V | *^C^*, up to 1 minute |
-| [Circle Of Power](#krąg-mocy) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
-| [Destructive Wave](#fala-zniszczenia) | *Wywoływania* | Paladyn | Akcja | Self | V | Natychmiastowy |
-| [Rozproszenie dobra i zła](#rozproszenie-dobra-i-zła) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Geas](#geas) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
-| [Większe przywrócenie](#większe-przywrócenie) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Wskrzeszenie](#wskrzeszenie) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
-| [Summon Celestial](#przywołanie-niebiańskiego) | *Przywoływania* | Kleryk, Paladyn | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
+| [Banishing Smite](#wypędzające-ugodzenie-1) | *Przywoływania* | Paladyn | Akcja dodatkowa | Self | V | *^C^*, up to 1 minute |
+| [Circle Of Power](#krąg-mocy-1) | *Odrzucania* | Wynalazca, Kleryk, Paladyn, Mag | Akcja | Self | V | *^C^*, up to 10 minutes |
+| [Destructive Wave](#fala-zniszczenia-1) | *Wywoływania* | Paladyn | Akcja | Self | V | Natychmiastowy |
+| [Rozproszenie dobra i zła](#rozproszenie-dobra-i-zła-1) | *Odrzucania* | Kleryk, Paladyn | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Geas](#geas-1) | *Uroku* | Bard, Kleryk, Druid, Paladyn, Mag | 1 minute | 18 metrów | V | 30 days |
+| [Większe przywrócenie](#większe-przywrócenie-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca | Akcja | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Wskrzeszenie](#wskrzeszenie-1) | *Nekromancji* | Bard, Kleryk, Paladyn | 1 hour | Dotyk | V, S, M(C*) | Natychmiastowy |
+| [Summon Celestial](#przywołanie-niebiańskiego-1) | *Przywoływania* | Kleryk, Paladyn | Akcja | 27 metrów | V, S, M(C) | *^C^*, up to 1 hour |
 
 #### Przysięga Gorliwości
+
+### Przysięga Gorliwości
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:oath-of-devotion
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Podtrzymuj ideały sprawiedliwości i porządku*
 
@@ -7951,11 +8540,11 @@ Magia twojej przysięgi zapewnia, że zawsze masz pewne czary przygotowane; gdy 
 
 | Poziom paladyna | Czary |
 | --- | --- |
-| 3 | [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem), [Tarcza wiary](#tarcza-wiary) |
-| 5 | [Pomoc](#pomoc), [Strefa prawdy](#strefa-prawdy) |
-| 9 | [Beacon Of Hope](#promień-nadziei), [Rozproszenie magii](#rozproszenie-magii) |
-| 13 | [Swoboda ruchu](#swoboda-ruchu), [Strażnik wiary](#strażnik-wiary) |
-| 17 | [Kontakt z bóstwem](#kontakt-z-bóstwem), [Słup ognia](#słup-ognia) |
+| 3 | [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1), [Tarcza wiary](#tarcza-wiary-1) |
+| 5 | [Pomoc](#pomoc-1), [Strefa prawdy](#strefa-prawdy-1) |
+| 9 | [Beacon Of Hope](#promień-nadziei-1), [Rozproszenie magii](#rozproszenie-magii-1) |
+| 13 | [Swoboda ruchu](#swoboda-ruchu-1), [Strażnik wiary](#strażnik-wiary-1) |
+| 17 | [Kontakt z bóstwem](#kontakt-z-bóstwem-1), [Słup ognia](#słup-ognia-1) |
 
 ##### Poziom 3: Uświęcona broń
 
@@ -7971,7 +8560,7 @@ Ty i twoi sojusznicy macie niepodatność na stan zauroczony, gdy znajdujecie si
 
 ##### Poziom 15: Ugodzenie ochrony
 
-Twoje magiczne ugodzenie promieniuje teraz energią ochronną. Za każdym razem, gdy rzucasz [Boskie ugodzenie](#boskie-ugodzenie), ty i twoi sojusznicy macie połowiczną osłonę w twojej Aurze ochrony do początku twojej następnej tury.
+Twoje magiczne ugodzenie promieniuje teraz energią ochronną. Za każdym razem, gdy rzucasz [Boskie ugodzenie](#boskie-ugodzenie-1), ty i twoi sojusznicy macie połowiczną osłonę w twojej Aurze ochrony do początku twojej następnej tury.
 
 ##### Poziom 20: Nimb świętości
 
@@ -7985,6 +8574,16 @@ Akcją dodatkową możesz nasycić swoją Aurę ochrony świętą mocą, zyskuj�
 
 #### Przysięga Chwały
 
+### Przysięga Chwały
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:oath-of-glory
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Dąż do szczytów bohaterstwa*
 
 Paladyni składający Przysięgę Chwały wierzą, że oni i ich towarzysze są przeznaczeni do osiągnięcia chwały czynami bohaterskimi. Ćwiczą pilnie i zachęcają swych towarzyszy, by byli gotowi, gdy nadejdzie przeznaczenie.
@@ -7997,7 +8596,7 @@ Ci paladyni kierują się następującymi zasadami:
 
 ##### Poziom 3: Porywające ugodzenie
 
-Natychmiast po rzuceniu [Boskiego ugodzenia](#boskie-ugodzenie) możesz zużyć jedno użycie Aktu wiary i rozdzielić tymczasowe punkty wytrzymałości między istoty według własnego wyboru w promieniu 9 metrów od siebie — możesz objąć siebie. Łączna liczba tymczasowych punktów wytrzymałości wynosi 2k8 plus twój poziom paladyna i dzielisz ją między wybrane istoty według własnego uznania.
+Natychmiast po rzuceniu [Boskiego ugodzenia](#boskie-ugodzenie-1) możesz zużyć jedno użycie Aktu wiary i rozdzielić tymczasowe punkty wytrzymałości między istoty według własnego wyboru w promieniu 9 metrów od siebie — możesz objąć siebie. Łączna liczba tymczasowych punktów wytrzymałości wynosi 2k8 plus twój poziom paladyna i dzielisz ją między wybrane istoty według własnego uznania.
 
 ##### Poziom 3: Czary Przysięgi Chwały
 
@@ -8007,11 +8606,11 @@ Magia twojej przysięgi zapewnia, że zawsze masz pewne czary przygotowane; gdy 
 
 | Poziom paladyna | Czary |
 | --- | --- |
-| 3 | [Pocisk wiodący](#pocisk-wiodący), [Heroizm](#heroizm) |
-| 5 | [Wzmocnienie cechy](#wzmocnienie-cechy), [Magiczna broń](#magiczna-broń) |
-| 9 | [Pośpiech](#przyspieszenie), [Ochrona przed energią](#ochrona-przed-energią) |
-| 13 | [Przymus](#przymus), [Swoboda ruchu](#swoboda-ruchu) |
-| 17 | [Legendarna wiedza](#legendarna-wiedza), [Yolande's Regal Presence](#królewska-obecność-yolande) |
+| 3 | [Pocisk wiodący](#pocisk-wiodący-1), [Heroizm](#heroizm-1) |
+| 5 | [Wzmocnienie cechy](#wzmocnienie-cechy-1), [Magiczna broń](#magiczna-broń-1) |
+| 9 | [Pośpiech](#przyspieszenie-1), [Ochrona przed energią](#ochrona-przed-energią-1) |
+| 13 | [Przymus](#przymus-1), [Swoboda ruchu](#swoboda-ruchu-1) |
+| 17 | [Legendarna wiedza](#legendarna-wiedza-1), [Yolande's Regal Presence](#królewska-obecność-yolande-1) |
 
 ##### Poziom 3: Niezrównany atleta
 
@@ -8041,6 +8640,16 @@ Akcją dodatkową zyskujesz poniższe korzyści na 10 minut. Po użyciu tej cech
 
 #### Przysięga Pradawnych
 
+### Przysięga Pradawnych
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:oath-of-the-ancients
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Chroń życie i światło na świecie*
 
 Przysięga Pradawnych jest tak stara jak pierwsi elfowie.
@@ -8065,11 +8674,11 @@ Magia twojej przysięgi zapewnia, że zawsze masz pewne czary przygotowane; gdy 
 
 | Poziom paladyna | Czary |
 | --- | --- |
-| 3 | [Ensnaring Strike](#pętające-uderzenie), [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami) |
-| 5 | [Krok przez mgłę](#krok-przez-mgłę), [Promień księżyca](#księżycowy-promień) |
-| 9 | [Rozrost roślin](#rozrost-roślin), [Ochrona przed energią](#ochrona-przed-energią) |
-| 13 | [Burza lodu](#burza-lodu), [Kamienna skóra](#kamienna-skóra) |
-| 17 | [Commune With Nature](#kontakt-z-naturą), [Spacer między drzewami](#spacer-między-drzewami) |
+| 3 | [Ensnaring Strike](#pętające-uderzenie-1), [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1) |
+| 5 | [Krok przez mgłę](#krok-przez-mgłę-1), [Promień księżyca](#księżycowy-promień-1) |
+| 9 | [Rozrost roślin](#rozrost-roślin-1), [Ochrona przed energią](#ochrona-przed-energią-1) |
+| 13 | [Burza lodu](#burza-lodu-1), [Kamienna skóra](#kamienna-skóra-1) |
+| 17 | [Commune With Nature](#kontakt-z-naturą-1), [Spacer między drzewami](#spacer-między-drzewami-1) |
 
 ##### Poziom 7: Aura ochrony magicznej
 
@@ -8093,6 +8702,16 @@ Akcją dodatkową możesz nasycić swoją Aurę ochrony pierwotną mocą, zyskuj
 
 #### Przysięga Zemsty
 
+### Przysięga Zemsty
+
+**Klasa:** Paladyn
+**URL źródła:** http://dnd2024.wikidot.com/paladin:oath-of-vengeance
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Karz złoczyńców za wszelką cenę*
 
 Przysięga Zemsty to uroczyste zobowiązanie do karania tych, którzy dopuścili się straszliwych czynów. Gdy złe armie mordują bezbronnych wieśniaków, gdy tyran sprzeciwia się woli bogów, gdy gildia złodziei staje się zbyt brutalna, gdy smok pustoszy okolicę — w takich chwilach powstają paladyni i składają Przysięgę Zemsty, by naprawić to, co poszło źle.
@@ -8111,11 +8730,11 @@ Magia twojej przysięgi zapewnia, że zawsze masz pewne czary przygotowane; gdy 
 
 | Poziom paladyna | Czary |
 | --- | --- |
-| 3 | [Zguba](#zguba), [Znak łowcy](#znak-łowcy) |
-| 5 | [Unieruchomienie osoby](#unieruchomienie-osoby), [Krok przez mgłę](#krok-przez-mgłę) |
-| 9 | [Pośpiech](#przyspieszenie), [Ochrona przed energią](#ochrona-przed-energią) |
-| 13 | [Wypędzenie](#wypędzenie), [Drzwi przez wymiary](#drzwi-przez-wymiary) |
-| 17 | [Unieruchomienie potwora](#unieruchomienie-potwora), [Wizja](#wizja) |
+| 3 | [Zguba](#zguba-1), [Znak łowcy](#znak-łowcy-1) |
+| 5 | [Unieruchomienie osoby](#unieruchomienie-osoby-1), [Krok przez mgłę](#krok-przez-mgłę-1) |
+| 9 | [Pośpiech](#przyspieszenie-1), [Ochrona przed energią](#ochrona-przed-energią-1) |
+| 13 | [Wypędzenie](#wypędzenie-1), [Drzwi przez wymiary](#drzwi-przez-wymiary-1) |
+| 17 | [Unieruchomienie potwora](#unieruchomienie-potwora-1), [Wizja](#wizja-1) |
 
 ##### Poziom 3: Przysięga wrogości
 
@@ -8140,6 +8759,16 @@ Akcją dodatkową zyskujesz poniższe korzyści na 10 minut lub do momentu, gdy 
 **Przerażająca aura.** Za każdym razem, gdy wróg rozpoczyna turę w twojej Aurze ochrony, musi odnieść sukces w rzucie obronnym na Mądrość albo ma stan przerażony przez 1 minutę lub do momentu, gdy otrzyma jakiekolwiek obrażenia. Testy ataku przeciwko przerażonej istocie mają ułatwienie.
 
 ### Wojownik
+
+#### Wojownik
+
+**Klasa:** Wojownik
+**URL źródła:** http://dnd2024.wikidot.com/fighter:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Wojownicy rządzą na wielu polach bitew. Rycerze na questach, królewscy championi, elitarni żołnierze i zahartowani najemnicy — jako wojownicy dzielą niezrównane mistrzostwo w posługiwaniu się bronią i pancerzem. Dobrze znają śmierć — zarówno zadawaną, jak i tę, której stawiają czoło.
 
@@ -8200,7 +8829,7 @@ Jako wojownik zyskujesz następujące cechy klasy po osiągnięciu wskazanych po
 
 ###### Poziom 1: Styl walki
 
-Zyskujesz atut stylu walki według własnego wyboru (patrz rozdział o atutach w Podręczniku Gracza). Zalecana jest [Defensywa](#defensywa).
+Zyskujesz atut stylu walki według własnego wyboru (patrz rozdział o atutach w Podręczniku Gracza). Zalecana jest [Defensywa](#defensywa-1).
 
 Za każdym razem, gdy zyskujesz poziom wojownika, możesz zamienić wybrany atut na inny atut stylu walki.
 
@@ -8237,14 +8866,14 @@ Zyskujesz podklasę wojownika według własnego wyboru. Podklasa to specjalizacj
 | Nazwa |
 | --- |
 | Chorąży |
-| [Mistrz bitew](#mistrz-bitew) |
-| [Czempion](#czempion) |
-| [Mistyczny rycerz](#mistyczny-rycerz) |
-| [Wojownik psioniki](#wojownik-psioniki) |
+| [Mistrz bitew](#mistrz-bitew-1) |
+| [Czempion](#czempion-1) |
+| [Mistyczny rycerz](#mistyczny-rycerz-1) |
+| [Wojownik psioniki](#wojownik-psioniki-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach wojownika 6, 8, 12, 14 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach wojownika 6, 8, 12, 14 i 16.
 
 ###### Poziom 5: Dodatkowy atak
 
@@ -8274,13 +8903,23 @@ Studiujesz swoich przeciwników i uczysz się z każdego ataku, który wykonujes
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar bojowej sprawności](#dar-bojowej-sprawności).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar bojowej sprawności](#dar-bojowej-sprawności-1).
 
 ###### Poziom 20: Trzy dodatkowe ataki
 
 Możesz atakować cztery razy zamiast raz, gdy wykonujesz akcję Atak w swojej turze.
 
 #### Mistrz bitew
+
+### Mistrz bitew
+
+**Klasa:** Wojownik
+**URL źródła:** http://dnd2024.wikidot.com/fighter:battle-master
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Opanuj wyrafinowane manewry bojowe*
 
@@ -8410,6 +9049,16 @@ Gdy trafisz istotę testem ataku bronią lub uderzeniem bez broni, możesz zuży
 
 #### Czempion
 
+### Czempion
+
+**Klasa:** Wojownik
+**URL źródła:** http://dnd2024.wikidot.com/fighter:champion
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Dąż do fizycznej doskonałości w walce*
 
 Czempion skupia się na rozwijaniu biegłości bojowej w nieustannym dążeniu do zwycięstwa. Łączy wyczerpujący trening z fizyczną doskonałością, by zadawać niszczące ciosy, wytrzymywać niebezpieczeństwo i zdobywać chwałę. Czy to na zawodach sportowych, czy we krwawej bitwie — czempioni dążą do korony zwycięzcy.
@@ -8426,7 +9075,7 @@ Ponadto natychmiast po zadaniu trafienia krytycznego możesz przemieścić się 
 
 ##### Poziom 7: Dodatkowy styl walki
 
-Zyskujesz kolejny atut stylu walki według własnego wyboru.
+Zyskujesz kolejny `atut stylu walki` według własnego wyboru.
 
 ##### Poziom 10: Heroiczny wojownik
 
@@ -8446,6 +9095,16 @@ Osiągasz szczyt odporności w walce, co przyznaje ci następujące korzyści.
 
 #### Mistyczny rycerz
 
+### Mistyczny rycerz
+
+**Klasa:** Wojownik
+**URL źródła:** http://dnd2024.wikidot.com/fighter:eldritch-knight
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Wspieraj umiejętności bojowe magią arkaniczną*
 
 Mistyczni rycerze łączą biegłość bojową wspólną dla wszystkich wojowników z uważnym studium magii. Ich czary uzupełniają i rozszerzają umiejętności walki — zapewniają dodatkową ochronę i pozwalają atakować wielu wrogów naraz wybuchową magią.
@@ -8454,13 +9113,13 @@ Mistyczni rycerze łączą biegłość bojową wspólną dla wszystkich wojownik
 
 Nauczyłeś się rzucać czary. Informacje poniżej opisują, jak używasz tych zasad jako mistyczny rycerz.
 
-**Sztuczki.** Znasz dwie sztuczki według własnego wyboru z listy czarów maga. Polecane są [Promień mrozu](#promień-mrozu) i [Porażający uścisk](#porażający-uścisk). Za każdym razem, gdy zyskujesz poziom wojownika, możesz zamienić jedną z tych sztuczek na inną sztuczkę z listy czarów maga.
+**Sztuczki.** Znasz dwie sztuczki według własnego wyboru z [listy czarów maga](#wizard-spell-list). Polecane są [Promień mrozu](#promień-mrozu-1) i [Porażający uścisk](#porażający-uścisk-1). Za każdym razem, gdy zyskujesz poziom wojownika, możesz zamienić jedną z tych sztuczek na inną sztuczkę z listy czarów maga.
 
 Gdy osiągasz poziom wojownika 10, uczysz się kolejnej sztuczki maga według własnego wyboru.
 
 **Komórki czaru.** Tabela Rzucanie czarów mistycznego rycerza pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-**Przygotowane czary 1. kręgu i wyższe.** Przygotowujesz listę czarów 1. kręgu i wyższych dostępnych do rzucenia tą cechą. Na początku wybierz trzy czary 1. kręgu z listy czarów maga. Polecane są [Płonące dłonie](#płonące-dłonie), [Skok](#skok) i [Tarcza](#tarcza).
+**Przygotowane czary 1. kręgu i wyższe.** Przygotowujesz listę czarów 1. kręgu i wyższych dostępnych do rzucenia tą cechą. Na początku wybierz trzy czary 1. kręgu z listy czarów maga. Polecane są [Płonące dłonie](#płonące-dłonie-1), [Skok](#skok-1) i [Tarcza](#tarcza-1).
 
 Liczba czarów na liście rośnie wraz z poziomem wojownika, jak pokazano w kolumnie Przygotowane czary. Gdy ta liczba wzrasta, wybieraj dodatkowe czary z listy maga, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być kręgu, do którego masz komórki. Na przykład jako wojownik 7. poziomu lista może zawierać pięć czarów maga 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -8519,6 +9178,16 @@ Gdy wykonujesz akcję Ataku w swojej turze, możesz zastąpić dwa ataki rzuceni
 
 #### Wojownik psioniki
 
+### Wojownik psioniki
+
+**Klasa:** Wojownik
+**URL źródła:** http://dnd2024.wikidot.com/fighter:psi-warrior
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Wzmacniaj fizyczną moc mocą psioniczną*
 
 Psi-wojownicy budzą moc swojego umysłu, by wzmacniać ciało. Kierują tę psioniczną energię, by nasycać uderzenia broni, wyprowadzać uderzenia telekinetyczne i tworzyć bariery mentalnej siły.
@@ -8570,11 +9239,21 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 ##### Poziom 18: Mistrz telekinezy
 
-Zawsze masz przygotowany czar [telekineza](#telekineza). Tą cechą możesz rzucić go bez komórki czaru i bez komponentów, a twoją cechą rzucania jest Inteligencja. W każdej swojej turze, dopóki utrzymujesz koncentrację na tym czarze, w tym turze, w której go rzucasz, możesz wykonać jeden atak bronią jako akcję dodatkową.
+Zawsze masz przygotowany czar [telekineza](#telekineza-1). Tą cechą możesz rzucić go bez komórki czaru i bez komponentów, a twoją cechą rzucania jest Inteligencja. W każdej swojej turze, dopóki utrzymujesz koncentrację na tym czarze, w tym turze, w której go rzucasz, możesz wykonać jeden atak bronią jako akcję dodatkową.
 
 Po rzuceniu czaru tą cechą nie możesz zrobić tego ponownie w ten sposób, dopóki nie zakończysz Długiego odpoczynku, chyba że zużyjesz Kość energii psionicznej (nie wymaga akcji), by przywrócić możliwość użycia.
 
 ### Zaklinacz
+
+#### Zaklinacz
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:main
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Zaklinacze władają wrodzoną magią wyrytą w ich istocie. Niektórzy nie potrafią wskazać źródła mocy, inni śledzą je do dziwnych wydarzeń z osobistej lub rodzinnej historii. Błogosławieństwo smoka lub driady przy narodzinach, uderzenie błyskawicy z czystego nieba czy dar bóstwa, ekspozycja na dziwną magię innej sfery lub przebłysk wewnętrznych mechanizmów rzeczywistości — wszystko to może rozpalić dar zaklinacza. Cokolwiek było początkiem, skutkiem jest niezatarty znak i wrząca magia przekazywana z pokolenia na pokolenie.
 
@@ -8637,15 +9316,15 @@ Jako zaklinacz zyskujesz następujące cechy klasy po osiągnięciu wskazanych p
 
 ###### Poziom 1: Rzucanie czarów
 
-Czerpiąc z wrodzonej magii, możesz rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów zaklinacza, które wymieniono na liście czarów zaklinacza.
+Czerpiąc z wrodzonej magii, możesz rzucać czary. Zobacz Podręcznik Gracza, aby poznać zasady rzucania czarów. Poniższe informacje opisują, jak stosujesz te zasady do czarów zaklinacza, które wymieniono na [liście czarów zaklinacza](#sorcerer-spell-list).
 
-_Sztuczki._ Znasz cztery sztuczki zaklinacza według własnego wyboru. Zalecane są [Światło](#światło-1), [Kuglarstwo](#kuglarstwo), [Porażający uścisk](#porażający-uścisk) i [Sorcerous Burst](#czarodziejski-wybuch). Za każdym razem, gdy zyskujesz poziom zaklinacza, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę zaklinacza według własnego wyboru.
+_Sztuczki._ Znasz cztery sztuczki zaklinacza według własnego wyboru. Zalecane są [Światło](#światło-2), [Kuglarstwo](#kuglarstwo-1), [Porażający uścisk](#porażający-uścisk-1) i [Sorcerous Burst](#czarodziejski-wybuch-1). Za każdym razem, gdy zyskujesz poziom zaklinacza, możesz zamienić jedną ze swoich sztuczek z tej cechy na inną sztuczkę zaklinacza według własnego wyboru.
 
 Gdy osiągasz poziomy zaklinacza 4 i 10, uczysz się kolejnej sztuczki zaklinacza według własnego wyboru, zgodnie z kolumną Sztuczki w tabeli Cech zaklinacza.
 
 _Komórki czaru._ Tabela Cech zaklinacza pokazuje, ile masz komórek czaru do rzucania czarów 1. kręgu i wyższych. Odzyskujesz wszystkie zużyte komórki po zakończeniu Długiego odpoczynku.
 
-_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary zaklinacza 1. kręgu. Zalecane są [Płonące dłonie](#płonące-dłonie) i [Wykrycie magii](#wykrycie-magii).
+_Przygotowane czary 1. kręgu i wyższych._ Przygotowujesz listę czarów 1. kręgu i wyższych, które możesz rzucić tą cechą. Na początku wybierz dwa czary zaklinacza 1. kręgu. Zalecane są [Płonące dłonie](#płonące-dłonie-1) i [Wykrycie magii](#wykrycie-magii-1).
 
 Liczba czarów na twojej liście rośnie wraz z poziomami zaklinacza, zgodnie z kolumną Przygotowane czary w tabeli Cech zaklinacza. Gdy ta liczba rośnie, wybierasz dodatkowe czary zaklinacza, aż liczba czarów na liście odpowiada wartości w tabeli. Wybrane czary muszą być o kręgu, do którego masz komórki czaru. Na przykład jako zaklinacz 3. poziomu możesz mieć na liście przygotowanych czarów sześć czarów zaklinacza 1. i 2. kręgu w dowolnej kombinacji.
 
@@ -8692,7 +9371,7 @@ Każda komórka czaru stworzona w ten sposób znika po zakończeniu Długiego od
 
 ###### Poziom 2: Metamagia
 
-Ponieważ twoja magia płynie z wnętrza ciebie, możesz dostosowywać swoje czary do potrzeb; zyskujesz dwie opcje metamagii według własnego wyboru z sekcji [Opcje metamagii](#metamagia). Używasz wybranych opcji, aby tymczasowo modyfikować rzucane przez siebie czary. Aby skorzystać z danej opcji, musisz wydać liczbę punktów zaklinania równą jej kosztowi.
+Ponieważ twoja magia płynie z wnętrza ciebie, możesz dostosowywać swoje czary do potrzeb; zyskujesz dwie opcje metamagii według własnego wyboru z sekcji [Opcje metamagii](#metamagia-1). Używasz wybranych opcji, aby tymczasowo modyfikować rzucane przez siebie czary. Aby skorzystać z danej opcji, musisz wydać liczbę punktów zaklinania równą jej kosztowi.
 
 Możesz użyć tylko jednej opcji metamagii na dany czar w momencie jego rzucania, chyba że w jej opisie zaznaczono inaczej.
 
@@ -8706,16 +9385,16 @@ Zyskujesz podklasę zaklinacza według własnego wyboru. Podklasy są opisane po
 
 | Nazwa |
 | --- |
-| [Magia Aberacji](#magia-aberacji) |
-| [Magia Zegara](#magia-zegara) |
-| [Magia smoka](#magia-smoka) |
+| [Magia Aberacji](#magia-aberacji-1) |
+| [Magia Zegara](#magia-zegara-1) |
+| [Magia smoka](#magia-smoka-1) |
 | Magia Cienia |
 | Magia Ognia Czarów |
-| [Dzika magia](#dzika-magia) |
+| [Dzika magia](#dzika-magia-1) |
 
 ###### Poziom 4: Zwiększenie cechy
 
-Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach zaklinacza 8, 12 i 16.
+Zyskujesz atut [Zwiększenie cechy](#zwiększenie-cechy-1) lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zyskujesz tę cechę ponownie na poziomach zaklinacza 8, 12 i 16.
 
 ###### Poziom 5: Przywrócenie mocy
 
@@ -8729,7 +9408,7 @@ Dodatkowo, gdy twoja cecha Wrodzona magia jest aktywna, możesz używać do dwó
 
 ###### Poziom 19: Epicki dar
 
-Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary).
+Zyskujesz atut epickiego daru lub inny atut według własnego wyboru, do którego się kwalifikujesz. Zalecany jest [Dar podróży przez wymiary](#dar-podróży-przez-wymiary-1).
 
 ###### Poziom 20: Tajemna apoteoza
 
@@ -8737,200 +9416,217 @@ Gdy twoja cecha Wrodzona magia jest aktywna, możesz raz w każdej swojej turze 
 
 #### Lista czarów zaklinacza
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Kwasowy rozprysk](#kwasowy-rozprysk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Blade Ward](#osłona-przed-orężem) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Przeszywający dotyk](#przeszywający-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Tańczące światła](#tańczące-światła) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Elementalism](#elementalizm) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Ognisty pocisk](#ognisty-pocisk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Friends](#przyjaźń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
-| [Światło](#światło-1) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Magiczna dłoń](#magiczna-dłoń) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
-| [Naprawa](#naprawa) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
-| [Wiadomość](#wiadomość) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
-| [Mind Sliver](#odłamek-umysłu) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
-| [Pomniejsza iluzja](#pomniejsza-iluzja) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
-| [Trujący rozprysk](#trujący-rozprysk) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Kuglarstwo](#kuglarstwo) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
-| [Promień mrozu](#promień-mrozu) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Porażający uścisk](#porażający-uścisk) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
-| [Sorcerous Burst](#czarodziejski-wybuch) | *Wywoływania* | Zaklinacz | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Grzmot](#grzmot) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
-| [Prawdziwe uderzenie](#prawdziwe-uderzenie) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+#### Sorcerer Spell List
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Płonące dłonie](#płonące-dłonie) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Kwasowy rozprysk](#kwasowy-rozprysk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Blade Ward](#osłona-przed-orężem-1) | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Przeszywający dotyk](#przeszywający-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Tańczące światła](#tańczące-światła-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Elementalism](#elementalizm-1) | *Transmutacji* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Ognisty pocisk](#ognisty-pocisk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Friends](#przyjaźń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | S, M | *^C^*, up to 1 minute |
+| [Światło](#światło-2) | *Wywoływania* | Wynalazca, Bard, Kleryk, Zaklinacz, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Magiczna dłoń](#magiczna-dłoń-1) | *Przywoływania* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 minute |
+| [Naprawa](#naprawa-1) | *Transmutacji* | Bard, Kleryk, Druid, Zaklinacz, Mag | 1 minute | Dotyk | V, S, M | Natychmiastowy |
+| [Wiadomość](#wiadomość-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 36 metrów | S, M | 1 round |
+| [Mind Sliver](#odłamek-umysłu-1) | *Uroku* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | 1 round |
+| [Pomniejsza iluzja](#pomniejsza-iluzja-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | S, M | 1 minute |
+| [Trujący rozprysk](#trujący-rozprysk-1) | *Nekromancji* | Wynalazca, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Kuglarstwo](#kuglarstwo-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | 3 metrów | V, S | Up to 1 hour |
+| [Promień mrozu](#promień-mrozu-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Porażający uścisk](#porażający-uścisk-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | Dotyk | V, S | Natychmiastowy |
+| [Sorcerous Burst](#czarodziejski-wybuch-1) | *Wywoływania* | Zaklinacz | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Grzmot](#grzmot-1) | *Wywoływania* | Wynalazca, Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | Self | S | Natychmiastowy |
+| [Prawdziwe uderzenie](#prawdziwe-uderzenie-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | S, M | Natychmiastowy |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Płonące dłonie](#płonące-dłonie-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
 | Buzzing Bee | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów. | V, S, M | *^C^*, up to 1 minute |
-| [Zauroczenie osoby](#zauroczenie-osoby) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Chromatic Orb](#barwna-kula) | *Wywoływania* | Zaklinacz, Mag | Akcja | 27 metrów | V, S, M(C) | Natychmiastowy |
-| [Kolorowy rozprysk](#kolorowy-rozprysk) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Rozumienie języków](#rozumienie-języków) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
-| [Wykrycie magii](#wykrycie-magii) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Przebranie siebie](#przebranie-siebie) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
-| [Błyskawiczny odwrót](#błyskawiczny-odwrót) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
-| [Fałszywe życie](#fałszywe-życie) | *Nekromancji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Piórkospadanie](#piórkospadanie) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
-| [Chmura mgły](#chmura-mgły) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
-| [Tłuszcz](#tłuszcz) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | 1 minute |
-| [Ice Knife](#lodowy-nóż) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
-| [Skok](#skok) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
-| [Zbroja maga](#zbroja-maga) | *Odrzucania* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
-| [Magiczny Pocisk](#magiczny-pocisk) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Ray of Sickness](#promień-zatrucia) | *Nekromancji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Tarcza](#tarcza) | *Odrzucania* | Zaklinacz, Mag | Reakcja | Self | V, S | 1 round |
-| [Milczący obraz](#milczący-obraz) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Uśpienie](#uśpienie) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zauroczenie osoby](#zauroczenie-osoby-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Chromatic Orb](#barwna-kula-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 27 metrów | V, S, M(C) | Natychmiastowy |
+| [Kolorowy rozprysk](#kolorowy-rozprysk-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Rozumienie języków](#rozumienie-języków-1) | *Wieszczenia* | Bard, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S, M | 1 hour |
+| [Wykrycie magii](#wykrycie-magii-1) | *Wieszczenia* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja lub *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Przebranie siebie](#przebranie-siebie-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S | 1 hour |
+| [Błyskawiczny odwrót](#błyskawiczny-odwrót-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V, S | *^C^* up to 10 minutes |
+| [Fałszywe życie](#fałszywe-życie-1) | *Nekromancji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Piórkospadanie](#piórkospadanie-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Reakcja(*) | 18 metrów | V, M | 1 minute |
+| [Chmura mgły](#chmura-mgły-1) | *Przywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^* up to 1 hour |
+| [Tłuszcz](#tłuszcz-1) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | 1 minute |
+| [Ice Knife](#lodowy-nóż-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | S, M | Natychmiastowy |
+| [Skok](#skok-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | 1 minute |
+| [Zbroja maga](#zbroja-maga-1) | *Odrzucania* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Magiczny Pocisk](#magiczny-pocisk-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Ray of Sickness](#promień-zatrucia-1) | *Nekromancji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Tarcza](#tarcza-1) | *Odrzucania* | Zaklinacz, Mag | Reakcja | Self | V, S | 1 round |
+| [Milczący obraz](#milczący-obraz-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Uśpienie](#uśpienie-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
 | Spellfire Flare | *Wywoływania* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Fala gromu](#fala-gromu) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Witch Bolt](#wiedźmi-pocisk) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Fala gromu](#fala-gromu-1) | *Wywoływania* | Bard, Druid, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Witch Bolt](#wiedźmi-pocisk-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Zmiana siebie](#zmiana-siebie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 1 hour |
-| [Arcane Vigor](#tajemna-witalność) | *Odrzucania* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Self | V, S | Natychmiastowy |
-| [Głuchota/Ślepota](#głuchotaślepota) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
-| [Rozmycie](#rozmycie) | *Iluzji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#chmura-sztyletów) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#korona-obłędu) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Ciemność.](#ciemność) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
-| [Widzenie w ciemności](#widzenie-w-ciemności) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
+| [Zmiana siebie](#zmiana-siebie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 1 hour |
+| [Arcane Vigor](#tajemna-witalność-1) | *Odrzucania* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Self | V, S | Natychmiastowy |
+| [Głuchota/Ślepota](#głuchotaślepota-1) | *Transmutacji* | Bard, Kleryk, Zaklinacz, Mag | Akcja | 36 metrów | V | 1 minute |
+| [Rozmycie](#rozmycie-1) | *Iluzji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#chmura-sztyletów-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#korona-obłędu-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Ciemność.](#ciemność-1) | *Wywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, M | *^C^*, up to 10 minutes |
+| [Widzenie w ciemności](#widzenie-w-ciemności-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | 8 hours |
 | Death Armor | *Nekromancji* | Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
-| [Wykrycie myśli](#wykrycie-myśli) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Dragon's Breath](#oddech-smoka) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | *^C^*, up to 1 minute |
-| [Wzmocnienie cechy](#wzmocnienie-cechy) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Płomienne ostrze](#płomienne-ostrze) | *Wywoływania* | Druid, Zaklinacz | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Płomienna kula](#płomienna-kula) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Poryw wiatru](#poryw-wiatru) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Unieruchomienie osoby](#unieruchomienie-osoby) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Niewidzialność](#niewidzialność) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Kołatka](#kołatka) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Lewitacja](#lewitacja) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Magiczna broń](#magiczna-broń) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
-| [Mind Spike](#kolec-umysłu) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
-| [Lustrzane odbicia](#lustrzane-odbicia) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
-| [Krok przez mgłę](#krok-przez-mgłę) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
-| [Phantasmal Force](#urojona-siła) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Wypalający promień](#wypalający-promień) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Widzenie niewidzialnego](#widzenie-niewidzialnego) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
-| [Trzask](#trzask) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
-| [Pajęcza wspinaczka](#pajęcza-wspinaczka) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Sugestia](#sugestia) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
-| [Web](#pajęczyna) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Wykrycie myśli](#wykrycie-myśli-1) | *Wieszczenia* | Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Dragon's Breath](#oddech-smoka-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S, M | *^C^*, up to 1 minute |
+| [Wzmocnienie cechy](#wzmocnienie-cechy-1) | *Transmutacji* | Wynalazca, Bard, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Powiększenie/Pomniejszenie](#powiększeniepomniejszenie-1) | *Transmutacji* | Wynalazca, Bard, Druid, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Płomienne ostrze](#płomienne-ostrze-1) | *Wywoływania* | Druid, Zaklinacz | Akcja dodatkowa | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Płomienna kula](#płomienna-kula-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Poryw wiatru](#poryw-wiatru-1) | *Wywoływania* | Druid, Łowca, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Unieruchomienie osoby](#unieruchomienie-osoby-1) | *Uroku* | Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Niewidzialność](#niewidzialność-1) | *Iluzji* | Wynalazca, Bard, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Kołatka](#kołatka-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Lewitacja](#lewitacja-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Magiczna broń](#magiczna-broń-1) | *Transmutacji* | Wynalazca, Paladyn, Łowca, Zaklinacz, Mag | Akcja dodatkowa | Dotyk | V, S | 1 hour |
+| [Mind Spike](#kolec-umysłu-1) | *Wieszczenia* | Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S | *^C^*, up to 1 hour |
+| [Lustrzane odbicia](#lustrzane-odbicia-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | 1 minute |
+| [Krok przez mgłę](#krok-przez-mgłę-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | Self | V | Natychmiastowy |
+| [Phantasmal Force](#urojona-siła-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Wypalający promień](#wypalający-promień-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Widzenie niewidzialnego](#widzenie-niewidzialnego-1) | *Wieszczenia* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | Self | V, S, M | 1 hour |
+| [Trzask](#trzask-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Pajęcza wspinaczka](#pajęcza-wspinaczka-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Sugestia](#sugestia-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, M | *^C^*, up to 8 hours |
+| [Web](#pajęczyna-1) | *Przywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astral Flood | *Wywoływania* | Bard, Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Mignięcie](#mignięcie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | 1 minute |
+| [Mignięcie](#mignięcie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | Self | V, S | 1 minute |
 | Cacophonic Tarcza | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | *^C^*, up to 10 minutes |
-| [Jasnowidzenie](#jasnowidzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Przeciwzaklęcie](#przeciwzaklęcie) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
-| [Światło dnia](#światło-dnia) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
-| [Rozproszenie magii](#rozproszenie-magii) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Strach](#strach) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Kula ognia](#kula-ognia) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Fly](#lot) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
-| [Forma gazowa](#forma-gazowa) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
-| [Przyspieszenie](#przyspieszenie) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Hipnotyczny wzór](#hipnotyczny-wzór) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
+| [Jasnowidzenie](#jasnowidzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Mag | 10 minutes | 1,5 km | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Przeciwzaklęcie](#przeciwzaklęcie-1) | *Odrzucania* | Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | S | Natychmiastowy |
+| [Światło dnia](#światło-dnia-1) | *Wywoływania* | Kleryk, Druid, Paladyn, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | 1 hour |
+| [Rozproszenie magii](#rozproszenie-magii-1) | *Odrzucania* | Wynalazca, Bard, Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Strach](#strach-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Kula ognia](#kula-ognia-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Fly](#lot-1) | *Transmutacji* | Wynalazca, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 10 minutes |
+| [Forma gazowa](#forma-gazowa-1) | *Transmutacji* | Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M | *^C^*, up to 1 hour |
+| [Przyspieszenie](#przyspieszenie-1) | *Transmutacji* | Wynalazca, Zaklinacz, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Hipnotyczny wzór](#hipnotyczny-wzór-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | S, M | *^C^*, up to 1 minute |
 | Laeral's Srebro Lanca | *Wywoływania* | Kleryk, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | Natychmiastowy |
-| [Piorun](#piorun) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Większy obraz](#większy-obraz) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Ochrona przed energią](#ochrona-przed-energią) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
-| [Śnieżyca](#śnieżyca) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Wolno](#spowolnienie) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Śmierdząca chmura](#śmierdząca-chmura) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Języki](#języki) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
-| [Wampiryczny dotyk](#wampiryczny-dotyk) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Oddychanie pod wodą](#oddychanie-pod-wodą) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
-| [Spacer po wodzie](#spacer-po-wodzie) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
+| [Piorun](#piorun-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Większy obraz](#większy-obraz-1) | *Iluzji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Ochrona przed energią](#ochrona-przed-energią-1) | *Odrzucania* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 hour |
+| [Śnieżyca](#śnieżyca-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Wolno](#spowolnienie-1) | *Transmutacji* | Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Śmierdząca chmura](#śmierdząca-chmura-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Języki](#języki-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, M | 1 hour |
+| [Wampiryczny dotyk](#wampiryczny-dotyk-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Oddychanie pod wodą](#oddychanie-pod-wodą-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja lub *^R^* | 9 metrów | V, S, M | 24 hours |
+| [Spacer po wodzie](#spacer-po-wodzie-1) | *Transmutacji* | Wynalazca, Kleryk, Druid, Łowca, Zaklinacz | Akcja lub *^R^* | 9 metrów | V, S, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Odrzucania* | Bard, Zaklinacz, Czarownik, Mag | Reakcja | 18 metrów | V | Natychmiastowy |
-| [Wypędzenie](#wypędzenie) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Plaga](#plaga) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
-| [Urok Monster](#zauroczenie-potwora) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
-| [Zamęt](#zamęt) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Drzwi przez wymiary](#drzwi-przez-wymiary) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
-| [Dominacja nad bestią](#dominacja-nad-bestią) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Tarcza ognia](#tarcza-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
-| [Większa niewidzialność](#większa-niewidzialność) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
-| [Burza lodu](#burza-lodu) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
-| [Polimorfia](#polimorfia) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
+| [Wypędzenie](#wypędzenie-1) | *Odrzucania* | Kleryk, Paladyn, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Plaga](#plaga-1) | *Nekromancji* | Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | Natychmiastowy |
+| [Urok Monster](#zauroczenie-potwora-1) | *Uroku* | Bard, Druid, Zaklinacz, Czarownik, Mag | Akcja | 9 metrów | V, S | 1 hour |
+| [Zamęt](#zamęt-1) | *Uroku* | Bard, Druid, Zaklinacz, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Drzwi przez wymiary](#drzwi-przez-wymiary-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V | Natychmiastowy |
+| [Dominacja nad bestią](#dominacja-nad-bestią-1) | *Uroku* | Druid, Łowca, Zaklinacz | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Tarcza ognia](#tarcza-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | 10 minutes |
+| [Większa niewidzialność](#większa-niewidzialność-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | Dotyk | V, S | *^C^*, up to 1 minute |
+| [Burza lodu](#burza-lodu-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
+| [Polimorfia](#polimorfia-1) | *Transmutacji* | Bard, Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 hour |
 | Spellfire Storm | *Wywoływania* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Kamienna skóra](#kamienna-skóra) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Vitriolic sfera](#żrąca-sfera) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Ściana ognia](#ściana-ognia) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Kamienna skóra](#kamienna-skóra-1) | *Transmutacji* | Wynalazca, Druid, Łowca, Zaklinacz, Mag | Akcja | Dotyk | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Vitriolic sfera](#żrąca-sfera-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Ściana ognia](#ściana-ognia-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animowanie obiektu](#animowanie-obiektów) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
-| [Bigby's Hand](#dłoń-bigbyego) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Zabójcza chmura](#zabójcza-chmura) | *Przywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
-| [stożek Of Cold](#stożek-zimna) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
-| [Tworzenie](#cieniste-formowanie) | *Iluzji* | Wynalazca, Zaklinacz, Mag | 1 minute | 9 metrów | V, S, M | Specjalna |
-| [Dominacja nad osobą](#dominacja-nad-osobą) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Unieruchomienie potwora](#unieruchomienie-potwora) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Plaga owadów](#plaga-owadów) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
-| [Pozory](#pozory) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
+| [Animowanie obiektu](#animowanie-obiektów-1) | *Transmutacji* | Wynalazca, Bard, Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 1 minute |
+| [Bigby's Hand](#dłoń-bigbyego-1) | *Wywoływania* | Wynalazca, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Zabójcza chmura](#zabójcza-chmura-1) | *Przywoływania* | Zaklinacz, Mag | Akcja | 36 metrów | V, S | *^C^*, up to 10 minutes |
+| [stożek Of Cold](#stożek-zimna-1) | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | Natychmiastowy |
+| [Tworzenie](#cieniste-formowanie-1) | *Iluzji* | Wynalazca, Zaklinacz, Mag | 1 minute | 9 metrów | V, S, M | Specjalna |
+| [Dominacja nad osobą](#dominacja-nad-osobą-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 minute |
+| [Unieruchomienie potwora](#unieruchomienie-potwora-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 27 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Plaga owadów](#plaga-owadów-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 90 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Pozory](#pozory-1) | *Iluzji* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V, S | 8 hours |
 | Songal's Elemental Suffusion | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Synaptic Static](#synaptyczna-statyka) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
-| [Telekineza](#telekineza) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
-| [Krąg teleportacji](#krąg-teleportacyjny) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
-| [Ściana kamienia](#ściana-kamienia) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
+| [Synaptic Static](#synaptyczna-statyka-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 36 metrów | V, S | Natychmiastowy |
+| [Telekineza](#telekineza-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 10 minutes |
+| [Krąg teleportacji](#krąg-teleportacyjny-1) | *Przywoływania* | Bard, Zaklinacz, Czarownik, Mag | 1 minute | 3 metrów | V, M (C*) | 1 round |
+| [Ściana kamienia](#ściana-kamienia-1) | *Wywoływania* | Wynalazca, Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Brama](#magiczne-wrota) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
-| [Łańcuch błyskawic](#łańcuch-błyskawic) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
-| [Circle Of Death](#krąg-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
-| [Dezintegracja](#dezintegracja) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
+| [Arcane Brama](#magiczne-wrota-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 150 metrów | V, S | *^C^*, up to 10 minutes |
+| [Łańcuch błyskawic](#łańcuch-błyskawic-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Circle Of Death](#krąg-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 45 metrów | V, S, M(C) | Natychmiastowy |
+| [Dezintegracja](#dezintegracja-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | Natychmiastowy |
 | Elminster's Effulgent Spheres | *Wywoływania* | Druid, Zaklinacz, Mag | Akcja | Self | V, S, M(C) | 1 hour |
-| [Kąśliwy wzrok](#kąśliwy-wzrok) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
-| [Ciało w kamień](#ciało-w-kamień) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Sfera niepodatności](#sfera-niepodatności) | *Odrzucania* | Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Kąśliwy wzrok](#kąśliwy-wzrok-1) | *Nekromancji* | Bard, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | *^C^*, up to 1 minute |
+| [Ciało w kamień](#ciało-w-kamień-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 18 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Sfera niepodatności](#sfera-niepodatności-1) | *Odrzucania* | Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
 | Leomund's Lamentable Belaborment | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 9 metrów | V | 1 Minute |
-| [Masowa sugestia](#masowa-sugestia) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
-| [Poruszenie ziemi](#poruszenie-ziemi) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
-| [Otiluke's Mrożąca sfera](#mrożąca-sfera-otilukea) | *Wywoływania* | Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
-| [Promień słońca](#promień-słońca) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
-| [Prawdziwe widzenie](#prawdziwe-widzenie) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
+| [Masowa sugestia](#masowa-sugestia-1) | *Uroku* | Bard, Zaklinacz, Mag | Akcja | 18 metrów | V, M | 24 hours |
+| [Poruszenie ziemi](#poruszenie-ziemi-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 36 metrów | V, S, M | *^C^*, up to 2 hours |
+| [Otiluke's Mrożąca sfera](#mrożąca-sfera-otilukea-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 90 metrów | V, S, M | Natychmiastowy |
+| [Promień słońca](#promień-słońca-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | Self | V, S, M | *^C^*, up to 1 minute |
+| [Prawdziwe widzenie](#prawdziwe-widzenie-1) | *Wieszczenia* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Opóźniona kula ognia](#opóźniona-kula-ognia) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Eteryczność](#eteryczność) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
-| [Palec śmierci](#palec-śmierci) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
-| [Burza ognia](#burza-ognia) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
-| [Sferalny przeskok](#sferalny-przeskok) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
-| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
-| [Odwrócenie grawitacji](#odwrócenie-grawitacji) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Opóźniona kula ognia](#opóźniona-kula-ognia-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Eteryczność](#eteryczność-1) | *Przywoływania* | Bard, Kleryk, Zaklinacz, Czarownik, Mag | Akcja | Self | V, S | Up to 8 hours |
+| [Palec śmierci](#palec-śmierci-1) | *Nekromancji* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | Natychmiastowy |
+| [Burza ognia](#burza-ognia-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz | Akcja | 45 metrów | V, S | Natychmiastowy |
+| [Sferalny przeskok](#sferalny-przeskok-1) | *Przywoływania* | Kleryk, Druid, Zaklinacz, Czarownik, Mag | Akcja | Dotyk | V, S, M(C) | Natychmiastowy |
+| [Pryzmatyczny rozprysk](#pryzmatyczny-rozprysk-1) | *Wywoływania* | Bard, Zaklinacz, Mag | Akcja | Self | V, S | Natychmiastowy |
+| [Odwrócenie grawitacji](#odwrócenie-grawitacji-1) | *Transmutacji* | Druid, Zaklinacz, Mag | Akcja | 30 metrów | V, S, M | *^C^*, up to 1 minute |
 | Simbul's Synostodweomer | *Transmutacji* | Zaklinacz, Mag | Akcja | Dotyk | V, S | 1 hour |
-| [Teleportacja](#teleportacja) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
+| [Teleportacja](#teleportacja-1) | *Przywoływania* | Bard, Zaklinacz, Mag | Akcja | 3 metrów | V | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Demisfera](#demisfera) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
-| [Dominacja nad potworem](#dominacja-nad-potworem) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
-| [Trzęsienie ziemi](#trzęsienie-ziemi) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
-| [Chmura żaru](#chmura-żaru) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
-| [Słowo mocy Stój](#słowo-mocy-stój) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Słoneczny blask](#słoneczny-blask) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
+| [Demisfera](#demisfera-1) | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | S | 1 hour |
+| [Dominacja nad potworem](#dominacja-nad-potworem-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S | *^C^*, up to 1 hour |
+| [Trzęsienie ziemi](#trzęsienie-ziemi-1) | *Transmutacji* | Kleryk, Druid, Zaklinacz | Akcja | 150 metrów | V, S, M | *^C^*, up to 1 minute |
+| [Chmura żaru](#chmura-żaru-1) | *Przywoływania* | Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S | *^C^*, up to 1 minute |
+| [Słowo mocy Stój](#słowo-mocy-stój-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Słoneczny blask](#słoneczny-blask-1) | *Wywoływania* | Kleryk, Druid, Zaklinacz, Mag | Akcja | 45 metrów | V, S, M | Natychmiastowy |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Blade Of Disaster | *Przywoływania* | Zaklinacz, Czarownik, Mag | Akcja dodatkowa | 18 metrów | V, S | *^C^*, up to 1 minute |
-| [Brama](#brama) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
-| [Rój meteorytów](#rój-meteorytów) | *Wywoływania* | Zaklinacz, Mag | Akcja | 1,5 km | V, S | Natychmiastowy |
-| [Słowo mocy Giń](#słowo-mocy-giń) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
-| [Zatrzymanie czasu](#zatrzymanie-czasu) | *Transmutacji* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
-| [Życzenie](#życzenie) | *Przywoływania* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
+| [Brama](#brama-1) | *Przywoływania* | Kleryk, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V, S, M(C) | *^C^*, up to 1 minute |
+| [Rój meteorytów](#rój-meteorytów-1) | *Wywoływania* | Zaklinacz, Mag | Akcja | 1,5 km | V, S | Natychmiastowy |
+| [Słowo mocy Giń](#słowo-mocy-giń-1) | *Uroku* | Bard, Zaklinacz, Czarownik, Mag | Akcja | 18 metrów | V | Natychmiastowy |
+| [Zatrzymanie czasu](#zatrzymanie-czasu-1) | *Transmutacji* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
+| [Życzenie](#życzenie-1) | *Przywoływania* | Zaklinacz, Mag | Akcja | Self | V | Natychmiastowy |
 
 #### Metamagia
+
+#### Metamagia
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:metamagic
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 ##### Opcje metamagii
 
@@ -9020,9 +9716,19 @@ Gdy rzucasz czar zadający obrażenia typu z poniższej listy, możesz wydać 1 
 
 _Koszt: 1 punkt zaklinania_
 
-Gdy rzucasz czar, takim jak [Zauroczenie osoby](#zauroczenie-osoby), który można rzucić wyższą komórką czaru, aby ukierunkować go na dodatkową istotę, możesz wydać 1 punkt zaklinania, aby zwiększyć efektywny krąg czaru o 1.
+Gdy rzucasz czar, takim jak [Zauroczenie osoby](#zauroczenie-osoby-1), który można rzucić wyższą komórką czaru, aby ukierunkować go na dodatkową istotę, możesz wydać 1 punkt zaklinania, aby zwiększyć efektywny krąg czaru o 1.
 
 #### Magia Aberacji
+
+### Magia Aberacji
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:aberrant-sorcery
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Władaj nienaturalną mocą psioniczną*
 
@@ -9038,10 +9744,10 @@ Gdy osiągasz poziom zaklinacza określony w tabeli Czary psioniczne, od tego mo
 
 | Poziom zaklinacza | Czary |
 | --- | --- |
-| 3 | [Ramiona Hadara](#ramiona-hadara), [Wyciszenie emocji](#wyciszenie-emocji), [Wykrycie myśli](#wykrycie-myśli), [Dissonant Whispers](#fałszywe-podszepty), [Mind Sliver](#odłamek-umysłu) |
-| 5 | [Głód Hadara](#głód-hadara), [Nadanie wiadomości](#nadanie-wiadomości) |
-| 7 | [Evard's Black Tentacles](#czarne-macki-evarda), [Summon Aberration](#przywołanie-aberracji) |
-| 9 | [Rary's Telepathic Bond](#telepatyczna-więź-raryego), [Telekineza](#telekineza) |
+| 3 | [Ramiona Hadara](#ramiona-hadara-1), [Wyciszenie emocji](#wyciszenie-emocji-1), [Wykrycie myśli](#wykrycie-myśli-1), [Dissonant Whispers](#fałszywe-podszepty-1), [Mind Sliver](#odłamek-umysłu-1) |
+| 5 | [Głód Hadara](#głód-hadara-1), [Nadanie wiadomości](#nadanie-wiadomości-1) |
+| 7 | [Evard's Black Tentacles](#czarne-macki-evarda-1), [Summon Aberration](#przywołanie-aberracji-1) |
+| 9 | [Rary's Telepathic Bond](#telepatyczna-więź-raryego-1), [Telekineza](#telekineza-1) |
 
 ##### Poziom 3: Mowa telepatyczna
 
@@ -9077,6 +9783,16 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 #### Magia Zegara
 
+### Magia Zegara
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:clockwork-sorcery
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Kieruj kosmicznymi siłami porządku*
 
 Kosmiczna siła porządku napełniła cię magią. Moc ta pochodzi z Mechanus lub podobnego planu — krainy istnienia ukształtowanej wyłącznie przez zegarową sprawność. Ty lub ktoś z twojej linii mógł zostać wciągnięty w machinacje modronów, uporządkowanych istot zamieszkujących Mechanus. Być może twój przodek wziął udział w Wielkim Marszu Modronów. Jakkolwiek powstała w tobie, moc porządku może wydawać się dziwna innym, lecz dla ciebie jest częścią ogromnego i chwalebnego systemu.
@@ -9089,10 +9805,10 @@ Gdy osiągasz poziom zaklinacza określony w tabeli Czary zegara, od tego moment
 
 | Poziom zaklinacza | Czary |
 | --- | --- |
-| 3 | [Pomoc](#pomoc), [Alarm](#alarm), [Mniejsze przywrócenie](#mniejsze-przywrócenie), [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) |
-| 5 | [Rozproszenie magii](#rozproszenie-magii), [Ochrona przed energią](#ochrona-przed-energią) |
-| 7 | [Swoboda ruchu](#swoboda-ruchu), [Summon Construct](#przywołanie-konstruktu) |
-| 9 | [Większe przywrócenie](#większe-przywrócenie), [Ściana siły](#ściana-energii) |
+| 3 | [Pomoc](#pomoc-1), [Alarm](#alarm-1), [Mniejsze przywrócenie](#mniejsze-przywrócenie-1), [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) |
+| 5 | [Rozproszenie magii](#rozproszenie-magii-1), [Ochrona przed energią](#ochrona-przed-energią-1) |
+| 7 | [Swoboda ruchu](#swoboda-ruchu-1), [Summon Construct](#przywołanie-konstruktu-1) |
+| 9 | [Większe przywrócenie](#większe-przywrócenie-1), [Ściana siły](#ściana-energii-1) |
 
 Ponadto skorzystaj z tabeli Objawy porządku i wybierz lub wylosuj sposób, w jaki twoje połączenie z porządkiem objawia się podczas rzucania czarów zaklinacza.
 
@@ -9137,6 +9853,16 @@ Na chwilę przywołujesz duchy porządku, by usunąć chaos wokół ciebie. Akcj
 
 #### Magia smoka
 
+### Magia smoka
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:draconic-sorcery
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Oddychaj magią smoków*
 
 Twoja wrodzona magia pochodzi z daru smoka. Być może starożytny smok stający w obliczu śmierci przekazał część swojej mocy tobie lub twojemu przodkowi. Możliwe, że wchłonąłeś magię z miejsca przesiąkniętego mocą smoków, trzymałeś skarb ze smoczego skarbca nasączony smoczą mocą albo masz smoka wśród przodków.
@@ -9155,10 +9881,10 @@ Gdy osiągasz poziom zaklinacza określony w tabeli Smocze czary, od tego moment
 
 | Poziom zaklinacza | Czary |
 | --- | --- |
-| 3 | [Zmiana siebie](#zmiana-siebie), [Chromatic Orb](#barwna-kula), [Rozkaz](#rozkaz), [Dragon's Breath](#oddech-smoka) |
-| 5 | [Strach](#strach), [Lot](#lot) |
-| 7 | [Magiczne Oko](#magiczne-oko), [Charm Monster](#zauroczenie-potwora) |
-| 9 | [Legendarna wiedza](#legendarna-wiedza), [Summon Dragon](#przywołanie-smoka) |
+| 3 | [Zmiana siebie](#zmiana-siebie-1), [Chromatic Orb](#barwna-kula-1), [Rozkaz](#rozkaz-1), [Dragon's Breath](#oddech-smoka-1) |
+| 5 | [Strach](#strach-1), [Lot](#lot-1) |
+| 7 | [Magiczne Oko](#magiczne-oko-1), [Charm Monster](#zauroczenie-potwora-1) |
+| 9 | [Legendarna wiedza](#legendarna-wiedza-1), [Summon Dragon](#przywołanie-smoka-1) |
 
 ##### Poziom 6: Pokrewieństwo żywiołów
 
@@ -9174,11 +9900,21 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 
 ##### Poziom 18: Smoczy towarzysz
 
-Możesz rzucić [Summon Dragon](#przywołanie-smoka) bez komponentu materialnego. Możesz też rzucić go raz bez komórki czaru i odzyskujesz możliwość takiego rzutu po zakończeniu Długiego odpoczynku.
+Możesz rzucić [Summon Dragon](#przywołanie-smoka-1) bez komponentu materialnego. Możesz też rzucić go raz bez komórki czaru i odzyskujesz możliwość takiego rzutu po zakończeniu Długiego odpoczynku.
 
 Za każdym razem, gdy zaczynasz rzucać ten czar, możesz go zmodyfikować tak, by nie wymagał koncentracji. Jeśli to zrobisz, czas trwania czaru dla tego rzutu wynosi 1 minutę.
 
 #### Dzika magia
+
+### Dzika magia
+
+**Klasa:** Zaklinacz
+**URL źródła:** http://dnd2024.wikidot.com/sorcerer:wild-magic-sorcery
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Uwolnij chaotyczną magię*
 
@@ -9218,7 +9954,7 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 | 05–08 | W losowej niezajętej przestrzeni w promieniu 18 metrów od ciebie pojawia się istota przychylna tobie. Istota jest pod kontrolą MP i znika po 1 minucie. Rzuć 1k4, by określić istotę: przy 1 pojawia się modron duodron; przy 2 — flumph; przy 3 — modron monodron; przy 4 — jednorożec. Blok statystyk znajdziesz w Podręczniku Potworów. |
 | 09–12 | Przez następną minutę na początku każdej swojej tury odzyskujesz 5 punktów wytrzymałości. |
 | 13–16 | Istoty mają utrudnienie do rzutów obronnych przeciwko następnemu czarowi, który rzucisz w ciągu następnej minuty i który wymaga rzutu obronnego. |
-| 17–20 | Podlegasz efektowi trwającemu 1 minutę, chyba że opis stanowi inaczej. Rzuć 1k8, by określić efekt: przy 1 otacza cię słaba, eteryczna muzyka słyszalna tylko dla ciebie i istot w promieniu 1,5 metra; przy 2 twój rozmiar wzrasta o jedną kategorię; przy 3 wyrasta ci długa broda z piór, która pozostaje, dopóki nie kichniesz — wtedy pióra wybuchają z twarzy i znikają; przy 4 musisz krzyczeć, gdy mówisz; przy 5 iluzoryczne motyle trzepoczą w powietrzu w promieniu 3 metrów; przy 6 na czole pojawia się oko, dając ułatwienie do testów Mądrości (Percepcja); przy 7 z ust unoszą się różowe bańki, gdy mówisz; przy 8 skóra nabiera żywego odcienia niebieskiego na 24 godziny lub do zakończenia efektu przez [Zdjęcie klątwy](#zdjęcie-klątwy). |
+| 17–20 | Podlegasz efektowi trwającemu 1 minutę, chyba że opis stanowi inaczej. Rzuć 1k8, by określić efekt: przy 1 otacza cię słaba, eteryczna muzyka słyszalna tylko dla ciebie i istot w promieniu 1,5 metra; przy 2 twój rozmiar wzrasta o jedną kategorię; przy 3 wyrasta ci długa broda z piór, która pozostaje, dopóki nie kichniesz — wtedy pióra wybuchają z twarzy i znikają; przy 4 musisz krzyczeć, gdy mówisz; przy 5 iluzoryczne motyle trzepoczą w powietrzu w promieniu 3 metrów; przy 6 na czole pojawia się oko, dając ułatwienie do testów Mądrości (Percepcja); przy 7 z ust unoszą się różowe bańki, gdy mówisz; przy 8 skóra nabiera żywego odcienia niebieskiego na 24 godziny lub do zakończenia efektu przez [Zdjęcie klątwy](#zdjęcie-klątwy-1). |
 | 21–24 | Przez następną minutę wszystkie twoje czary z czasem rzucania równym akcji mają czas rzucania równy akcji dodatkowej. |
 | 25–28 | Zostajesz przeniesiony na Plan Astralny do końca swojej następnej tury. Następnie wracasz do przestrzeni, którą wcześniej zajmowałeś, albo do najbliższej niezajętej przestrzeni, jeśli ta jest zajęta. |
 | 29–32 | Następnym razem, gdy w ciągu następnej minuty rzucisz czar zadający obrażenia, nie rzucaj kości obrażeń tego czaru — zamiast tego użyj najwyższej możliwej liczby na każdej kości obrażeń. |
@@ -9226,11 +9962,11 @@ Po użyciu tej cechy nie możesz zrobić tego ponownie, dopóki nie zakończysz 
 | 37–40 | Zamieniasz się w roślinę w doniczce do początku swojej następnej tury. Będąc rośliną, masz stan obezwładniony i podatność na wszystkie obrażenia. Gdy spadasz do 0 punktów wytrzymałości, doniczka pęka i twoja forma wraca. |
 | 41–44 | Przez następną minutę w każdej swojej turze możesz teleportować się do 6 metrów jako akcję dodatkową. |
 | 45–48 | Ty i do trzech wybranych przez ciebie istot w promieniu 9 metrów od siebie macie stan niewidzialny przez 1 minutę. Niewidzialność kończy się u istoty natychmiast po wykonaniu testu ataku, zadaniu obrażeń lub rzuceniu czaru. |
-| 49–52 | Przez następną minutę w pobliżu unosi się widmowa tarcza, dając +2 do KP i niepodatność na [Magiczny Pocisk](#magiczny-pocisk). |
+| 49–52 | Przez następną minutę w pobliżu unosi się widmowa tarcza, dając +2 do KP i niepodatność na [Magiczny Pocisk](#magiczny-pocisk-1). |
 | 53–56 | W tej turze możesz wykonać jedną dodatkową akcję. |
-| 57–60 | Rzucasz losowy czar. Jeśli czar normalnie wymaga koncentracji, w tym przypadku jej nie wymaga; czar trwa pełny czas trwania. Rzuć 1k10, by określić czar: przy 1 — [Zamęt](#zamęt); przy 2 — [Kula ognia](#kula-ognia); przy 3 — [Chmura mgły](#chmura-mgły); przy 4 — [Lot](#lot) (na losową istotę w promieniu 18 metrów); przy 5 — [Tłuszcz](#tłuszcz); przy 6 — [Lewitacja](#lewitacja) (na siebie); przy 7 — [Magiczny Pocisk](#magiczny-pocisk) (jako czar 5. kręgu); przy 8 — [Lustrzane odbicia](#lustrzane-odbicia); przy 9 — [Polimorfia](#polimorfia) (na siebie), a przy nieudanym rzucie obronnym zamieniasz się w kozę (patrz dodatek B); przy 10 — [Widzenie niewidzialnego](#widzenie-niewidzialnego). |
+| 57–60 | Rzucasz losowy czar. Jeśli czar normalnie wymaga koncentracji, w tym przypadku jej nie wymaga; czar trwa pełny czas trwania. Rzuć 1k10, by określić czar: przy 1 — [Zamęt](#zamęt-1); przy 2 — [Kula ognia](#kula-ognia-1); przy 3 — [Chmura mgły](#chmura-mgły-1); przy 4 — [Lot](#lot-1) (na losową istotę w promieniu 18 metrów); przy 5 — [Tłuszcz](#tłuszcz-1); przy 6 — [Lewitacja](#lewitacja-1) (na siebie); przy 7 — [Magiczny Pocisk](#magiczny-pocisk-1) (jako czar 5. kręgu); przy 8 — [Lustrzane odbicia](#lustrzane-odbicia-1); przy 9 — [Polimorfia](#polimorfia-1) (na siebie), a przy nieudanym rzucie obronnym zamieniasz się w kozę (patrz dodatek B); przy 10 — [Widzenie niewidzialnego](#widzenie-niewidzialnego-1). |
 | 61–64 | Przez następną minutę każdy łatwopalny, niemagiczny obiekt, którego dotkniesz i który nie jest noszony ani trzymany przez inną istotę, zapala się, otrzymuje 1k4 obrażeń od ognia i płonie. |
-| 65–68 | Jeśli umrzesz w ciągu następnej godziny, natychmiast ożywasz jak przez [Reinkarnację](#reinkarnacja). |
+| 65–68 | Jeśli umrzesz w ciągu następnej godziny, natychmiast ożywasz jak przez [Reinkarnację](#reinkarnacja-1). |
 | 69–72 | Masz stan przerażony do końca swojej następnej tury. MP określa źródło twojego strachu. |
 | 73–76 | Teleportujesz się do 18 metrów do niezajętej przestrzeni, którą widzisz. |
 | 77–80 | Losowa istota w promieniu 18 metrów od ciebie ma stan zatruty przez 1k4 godzin. |
@@ -9292,160 +10028,288 @@ Każdy gatunek daje postaci szczególne cechy — unikalne właściwości wynika
 
 #### Akolita
 
+### Akolita
+
+**URL źródła:** http://dnd2024.wikidot.com/background:acolyte
+
+---
+
+Źródło: Podręcznik Gracza
+
 Poświęciłeś się służbie w świątyni — w mieście albo w ukrytym gaju świętym. Odprawiałeś tam obrzędy na cześć bóstwa lub panteonu. Służyłeś pod kierunkiem kapłana i studiowałeś religię. Dzięki jego nauczaniu i własnej pobożności nauczyłeś się też kanalizować odrobinę boskiej mocy w służbie miejscu kultu i ludziom, którzy się tam modlili.
 
 **Wartości cech:** Inteligencja, Mądrość, Charyzma
-**Atut:** [Wtajemniczony (Kleryk)](#wtajemniczony)
+**Atut:** [Wtajemniczony (Kleryk)](#wtajemniczony-1)
 **Biegłości w umiejętnościach:** Intuicja i Religia
 **Biegłość w narzędziach:** [Przybory kaligraficzne](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Przybory kaligraficzne, Księga (modlitwy), Święty symbol, Pergamin (10 arkuszy), Szata, 8 sz; lub (B) 50 sz
 
 #### Artysta
 
+### Artysta
+
+**URL źródła:** http://dnd2024.wikidot.com/background:entertainer
+
+---
+
+Źródło: Podręcznik Gracza
+
 Młodość spędziłeś, podążając za wędrownymi jarmarkami i karnawałami, wykonując dziwne zlecenia dla muzyków i akrobatów w zamian za lekcje. Być może nauczyłeś się chodzić po linie, grać na lutni w charakterystycznym stylu albo recytować poezję z nienaganną dykcją. Do dziś rozkwitasz pod brawami i tęsknisz za sceną.
 
 **Wartości cech:** Siła, Zręczność, Charyzma
-**Atut:** [Musician](#muzyk)
+**Atut:** [Musician](#muzyk-1)
 **Biegłości w umiejętnościach:** Akrobatyka i Występy
 **Biegłość w narzędziach:** Wybierz jeden rodzaj [Musical Instrument](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Musical Instrument (jak wyżej), 2 Kostiums, Lustro, Perfumy, Ubranie podróżne, 11 sz; lub (B) 50 sz
 
 #### Kupiec
 
+### Kupiec
+
+**URL źródła:** http://dnd2024.wikidot.com/background:merchant
+
+---
+
+Źródło: Podręcznik Gracza
+
 Byłeś uczniem kupca, mistrza karawany albo sklepikarza i poznałeś podstawy handlu. Dużo podróżowałeś i zarabiałeś na kupnie i sprzedaży surowców potrzebnych rzemieślnikom albo gotowych wyrobów od nich. Może przewoziłeś towary (statkiem, wozem albo karawaną) albo kupowałeś od wędrownych handlarzy i sprzedawałeś w własnym sklepie.
 
 **Wartości cech:** Kondycja, Inteligencja, Charyzma
-**Atut:** [Szczęście](#szczęściarz)
+**Atut:** [Szczęście](#szczęściarz-1)
 **Biegłości w umiejętnościach:** Opieka nad zwierzętami i Perswazja
 **Biegłość w narzędziach:** [Przybory nawigatora](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Przybory nawigatora, 2 torby, Ubranie podróżne, 22 sz; lub (B) 50 sz
 
 #### Marynarz
 
+### Marynarz
+
+**URL źródła:** http://dnd2024.wikidot.com/background:sailor
+
+---
+
+Źródło: Podręcznik Gracza
+
 Żyłeś jako żeglarz — wiatr w plecy, pokład kołyszący się pod stopami. Siedziałeś na stołkach w niezliczonych portach, stawiałeś czoła potężnym sztormom i wymieniałeś się opowieściami z istotami żyjącymi pod falami.
 
 **Wartości cech:** Siła, Zręczność, Mądrość
-**Atut:** [Tavern Brawler](#bijacz-z-tawerny)
+**Atut:** [Tavern Brawler](#bijacz-z-tawerny-1)
 **Biegłości w umiejętnościach:** Akrobatyka i Percepcja
 **Biegłość w narzędziach:** [Przybory nawigatora](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Sztylet, Przybory nawigatora, Linę, Ubranie podróżne, 20 sz; lub (B) 50 sz
 
 #### Mędrzec
 
+### Mędrzec
+
+**URL źródła:** http://dnd2024.wikidot.com/background:sage
+
+---
+
+Źródło: Podręcznik Gracza
+
 Formacyjne lata spędziłeś, podróżując między dworami a klasztorami i wykonując różne zlecenia w zamian za dostęp do bibliotek. Wiele długich wieczorów poświęciłeś na książki i zwoje, poznając wiedzę o multiwersum — nawet podstawy magii — i twój umysł wciąż pragnie więcej.
 
 **Wartości cech:** Kondycja, Inteligencja, Mądrość
-**Atut:** [Wtajemniczony (Mag)](#wtajemniczony)
+**Atut:** [Wtajemniczony (Mag)](#wtajemniczony-1)
 **Biegłości w umiejętnościach:** Wiedza tajemna i Historia
 **Biegłość w narzędziach:** [Przybory kaligraficzne](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Drąg, Przybory kaligraficzne, Książka (history), Pergamin (8 sheets), Szata, 8 sz; lub (B) 50 sz
 
 #### Przestępca
 
+### Przestępca
+
+**URL źródła:** http://dnd2024.wikidot.com/background:criminal
+
+---
+
+Źródło: Podręcznik Gracza
+
 Ledwo wiązałeś koniec z końcem w ciemnych zaułkach, obcinając sakiewki albo włamując się do sklepów. Być może należałeś do małego gangu podobnie myślących złoczyńców, którzy na siebie uważali. A może byłeś samotnym wilkiem, broniącym się przed miejscową gildią złodziei i groźniejszymi przestępcami.
 
 **Wartości cech:** Zręczność, Kondycja, Inteligencja
-**Atut:** [Czujność](#czujność)
+**Atut:** [Czujność](#czujność-1)
 **Biegłości w umiejętnościach:** Zwinne dłonie i Skradanie się
 **Biegłość w narzędziach:** [Zestaw złodzieja](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) 2 sztylety, Zestaw złodzieja, Łom, 2 torby, Ubranie podróżne, 16 sz; lub (B) 50 sz
 
 #### Przewodnik
 
+### Przewodnik
+
+**URL źródła:** http://dnd2024.wikidot.com/background:guide
+
+---
+
+Źródło: Podręcznik Gracza
+
 Dorastałeś na łonie natury, daleko od osiedli. Domem było każde miejsce, gdzie rozłożyłeś śpiwór. W dziczy są cuda — dziwne potwory, dziewicze lasy i strumienie, porośnięte ruinami wspaniałych sal, którymi kiedyś stąpały olbrzymy — i nauczyłeś się radzić sobie sam, gdy je odkrywałeś. Od czasu do czasu prowadziłeś przyjaznych kapłanów natury, którzy nauczyli cię podstaw kanalizowania magii dziczy.
 
 **Wartości cech:** Zręczność, Kondycja, Mądrość
-**Atut:** [Wtajemniczony (Druid)](#wtajemniczony)
+**Atut:** [Wtajemniczony (Druid)](#wtajemniczony-1)
 **Biegłości w umiejętnościach:** Skradanie się i Sztuka przetrwania
 **Biegłość w narzędziach:** [Przybory kartografa](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Krótki łuk, 20 Strzały, Przybory kartografa, Śpiwór, Kołczan, Namiot, Ubranie podróżne, 3 sz; lub (B) 50 sz
 
 #### Pustelnik
 
+### Pustelnik
+
+**URL źródła:** http://dnd2024.wikidot.com/background:hermit
+
+---
+
+Źródło: Podręcznik Gracza
+
 Wczesne lata spędziłeś w odosobnieniu w chatce lub klasztorze daleko poza obrzeżami najbliższej osady. Towarzyszyły ci wtedy tylko leśne stworzenia i ci, którzy odwiedzali cię, by przynieść wieści ze świata i zapasy. Samotność pozwoliła ci spędzić wiele godzin nad tajemnicami stworzenia.
 
 **Wartości cech:** Kondycja, Mądrość, Charyzma
-**Atut:** [Healer](#uzdrowiciel)
+**Atut:** [Healer](#uzdrowiciel-1)
 **Biegłości w umiejętnościach:** Medycyna i Religia
 **Biegłość w narzędziach:** [Zestaw zielarza](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Drąg, Zestaw zielarza, Śpiwór, Książka (filozofia), Lampa, Olej (3 butelki), Ubranie podróżne, 16 sz; lub (B) 50 sz
 
 #### Rolnik
 
+### Rolnik
+
+**URL źródła:** http://dnd2024.wikidot.com/background:farmer
+
+---
+
+Źródło: Podręcznik Gracza
+
 Wychowałeś się blisko ziemi. Lata opieki nad zwierzętami i uprawy nagrodziły cię cierpliwością i dobrym zdrowiem. Masz głębokie uznanie dla obfitości natury i zdrowy respekt przed jej gniewem.
 
 **Wartości cech:** Siła, Kondycja, Mądrość
-**Atut:** [Mówi się trudno](#twardziel)
+**Atut:** [Mówi się trudno](#twardziel-1)
 **Biegłości w umiejętnościach:** Opieka nad zwierzętami i Przyroda
 **Biegłość w narzędziach:** [Narzędzia cieśli](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Sierp, Narzędzia cieśli, Zestaw uzdrowiciela, Żelazny garnek, Łopata, Ubranie podróżne, 30 sz; lub (B) 50 sz
 
 #### Rzemieślnik
 
+### Rzemieślnik
+
+**URL źródła:** http://dnd2024.wikidot.com/background:artisan
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zacząłeś od mycia podłóg i szorowania lad w warsztacie rzemieślnika za kilka miedziaków dziennie, gdy tylko byłeś w stanie unieść wiadro. Gdy dorósłeś na ucznia, nauczyłeś się tworzyć podstawowe wyroby i przekonywać wymagających klientów. Twój fach dał ci też wyczucie detalu.
 
 **Wartości cech:** Siła, Zręczność, Inteligencja
-**Atut:** [Crafter](#rzemieślnik-1)
+**Atut:** [Crafter](#rzemieślnik-3)
 **Biegłości w umiejętnościach:** Śledztwo i Perswazja
 **Biegłość w narzędziach:** Wybierz jeden rodzaj [Narzędzia rzemieślnicze](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Narzędzia rzemieślnicze (jak wyżej), 2 torby, Ubranie podróżne, 32 sz; lub (B) 50 sz
 
 #### Skryba
 
+### Skryba
+
+**URL źródła:** http://dnd2024.wikidot.com/background:scribe
+
+---
+
+Źródło: Podręcznik Gracza
+
 Formacyjne lata spędziłeś w skryptorium, klasztorze strzegącym wiedzy albo urzędzie państwowym, gdzie nauczyłeś się pisać czytelnie i tworzyć starannie opracowane teksty. Być może spisywałeś dokumenty urzędowe albo kopiowałeś tomy literatury. Możesz mieć talent do poezji, narracji albo prac naukowych. Przede wszystkim masz skrupulatną dbałość o szczegóły, dzięki której nie wprowadzasz błędów do kopiowanych i tworzonych dokumentów.
 
 **Wartości cech:** Zręczność, Inteligencja, Mądrość
-**Atut:** [Uzdolniony](#uzdolniony)
+**Atut:** [Uzdolniony](#uzdolniony-1)
 **Biegłości w umiejętnościach:** Śledztwo i Percepcja
 **Biegłość w narzędziach:** [Przybory kaligraficzne](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Przybory kaligraficzne, Eleganckie ubranie, Lampa, Olej (3 butelki), Pergamin (12 arkuszy), 23 sz; lub (B) 50 sz
 
 #### Strażnik
 
+### Strażnik
+
+**URL źródła:** http://dnd2024.wikidot.com/background:guard
+
+---
+
+Źródło: Podręcznik Gracza
+
 Stopy bolą na wspomnienie niezliczonych godzin na posterunku w wieży. Wyszkolono cię, by jednym okiem patrzeć za mur — na maruderów wyłaniających się z pobliskiego lasu — a drugim wewnątrz, szukając kieszonkowców i awanturników.
 
 **Wartości cech:** Siła, Inteligencja, Mądrość
-**Atut:** [Czujność](#czujność)
+**Atut:** [Czujność](#czujność-1)
 **Biegłości w umiejętnościach:** Atletyka i Percepcja
 **Biegłość w narzędziach:** Wybierz jeden rodzaj [Zestaw do gier](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Włócznia, Kusza lekka, 20 Bełty, Zestaw do gier (jak wyżej), Latarnia zamykana, Kajdany, Kołczan, Ubranie podróżne, 12 sz; lub (B) 50 sz
 
 #### Szarlatan
 
+### Szarlatan
+
+**URL źródła:** http://dnd2024.wikidot.com/background:charlatan
+
+---
+
+Źródło: Podręcznik Gracza
+
 Gdy skończyłeś tyle lat, by zamówić piwo, w każdej karczmie w promieniu dziesięciu mil od miejsca urodzenia miałeś swój ulubiony stołek. Wędrując od zajazdu do zajazdu, nauczyłeś się żerować na nieszczęśnikach szukających pocieszającej kłamstewka — może pozorowanej mikstury albo sfałszowanych aktów rodowych.
 
 **Wartości cech:** Zręczność, Kondycja, Charyzma
-**Atut:** [Uzdolniony](#uzdolniony)
+**Atut:** [Uzdolniony](#uzdolniony-1)
 **Biegłości w umiejętnościach:** Oszustwo i Zwinne dłonie
 **Biegłość w narzędziach:** [Zestaw fałszerza](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Zestaw fałszerza, Kostium, Eleganckie ubranie, 15 sz; lub (B) 50 sz
 
 #### Szlachcic
 
+### Szlachcic
+
+**URL źródła:** http://dnd2024.wikidot.com/background:noble
+
+---
+
+Źródło: Podręcznik Gracza
+
 Wychowałeś się w zamku, wśród bogactwa, władzy i przywilejów. Rodzina drobnej arystokracji zadbała o pierwszorzędne wykształcenie — część doceniałeś, część gardziłeś. Czas spędzony na dworze, zwłaszcza obserwując rodzinę w sprawach państwowych, nauczył cię wiele o przywództwie.
 
 **Wartości cech:** Siła, Inteligencja, Charyzma
-**Atut:** [Uzdolniony](#uzdolniony)
+**Atut:** [Uzdolniony](#uzdolniony-1)
 **Biegłości w umiejętnościach:** Historia i Perswazja
 **Biegłość w narzędziach:** Wybierz jeden rodzaj [Zestaw do gier](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Zestaw do gier (jak wyżej), Eleganckie ubranie, Perfumy, 29 sz; lub (B) 50 sz
 
 #### Wędrowiec
 
+### Wędrowiec
+
+**URL źródła:** http://dnd2024.wikidot.com/background:wayfarer
+
+---
+
+Źródło: Podręcznik Gracza
+
 Dorastałeś na ulicach wśród podobnie nieszczęśliwych odrzuconych — część z nich przyjaciółmi, część rywalami. Spałeś, gdzie się dało, i wykonywałeś dorywcze roboty za jedzenie. Czasem, gdy głód stawał się nie do zniesienia, uciekałeś się do kradzieży. Mimo to nigdy nie straciłeś dumy i nigdy nie porzuciłeś nadziei. Los jeszcze z tobą nie skończył.
 
 **Wartości cech:** Zręczność, Mądrość, Charyzma
-**Atut:** [Szczęście](#szczęściarz)
+**Atut:** [Szczęście](#szczęściarz-1)
 **Biegłości w umiejętnościach:** Intuicja i Skradanie się
 **Biegłość w narzędziach:** [Zestaw złodzieja](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) 2 sztylety, Zestaw złodzieja, Zestaw do gier (dowolny), Śpiwór, 2 torby, Ubranie podróżne, 16 sz; lub (B) 50 sz
 
 #### Żołnierz
 
+### Żołnierz
+
+**URL źródła:** http://dnd2024.wikidot.com/background:soldier
+
+---
+
+Źródło: Podręcznik Gracza
+
 Szkolenie do wojny rozpocząłeś, gdy tylko osiągnąłeś pełnoletność, i niewiele pamiętasz z życia sprzed brania w ręce oręża. Bitwa płynie w twojej krwi. Czasem łapiesz się na tym, że mimowolnie wykonujesz podstawowe ćwiczenia bojowe. W końcu wykorzystałeś to szkolenie na polu bitwy, chroniąc krainę prowadząc wojnę.
 
 **Wartości cech:** Siła, Zręczność, Kondycja
-**Atut:** [Brutalny napastnik](#brutalny-napastnik)
+**Atut:** [Brutalny napastnik](#brutalny-napastnik-1)
 **Biegłości w umiejętnościach:** Atletyka i Zastraszanie
 **Biegłość w narzędziach:** Wybierz jeden rodzaj [Zestaw do gier](#narzędzia-1)
 **Wyposażenie:** Wybierz A lub B: (A) Włócznia, Krótki łuk, 20 Strzały, Zestaw do gier (jak wyżej), Zestaw uzdrowiciela, Kołczan, Ubranie podróżne, 14 sz; lub (B) 50 sz
@@ -9453,6 +10317,15 @@ Szkolenie do wojny rozpocząłeś, gdy tylko osiągnąłeś pełnoletność, i n
 ### Opisy gatunków
 
 #### Aasimar
+
+#### Aasimar
+
+**URL źródła:** http://dnd2024.wikidot.com/species:aasimar
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Aasimar (wym. AH-sih-mar) to śmiertelnicy, w których duszy tli się iskra Górnych Planów. Niezależnie od tego, czy wywodzą się od istoty anielskiej, czy zostali napełnieni niebiańską mocą, potrafią rozniecić tę iskrę, by przynieść światło, uzdrowienie i niebiański gniew. Aasimarzy mogą pojawić się wśród każdej populacji śmiertelników. Przypominają swoich rodziców, lecz żyją do 160 lat i mają cechy wskazujące na niebiańskie dziedzictwo — metaliczne piegi, świetliste oczy, aureolę albo kolor skóry anioła (srebrny, opalizująco zielony lub miedzianoczerwony). Z początku są subtelne i stają się wyraźne, gdy aasimar uczy się ujawniać swoją pełną niebiańską naturę.
 
@@ -9468,7 +10341,7 @@ _Widzenie w ciemności._ Masz widzenie w ciemności o zasięgu 18 metrów.
 
 _Leczące dłonie._ Akcją magiczną dotykasz istoty i rzucasz liczbę k4 równą twojej premii z biegłości. Istota odzyskuje punkty wytrzymałości równe łącznemu wynikowi. Po użyciu tej cechy nie możesz użyć jej ponownie, dopóki nie zakończysz Długiego odpoczynku.
 
-_Nosiciel światła._ Znasz sztuczkę [Światło](#światło-1). Charyzma jest twoją cechą bazową rzucania czarów dla tej sztuczki.
+_Nosiciel światła._ Znasz sztuczkę [Światło](#światło-2). Charyzma jest twoją cechą bazową rzucania czarów dla tej sztuczki.
 
 _Niebiańskie ujawnienie._ Gdy osiągasz 3. poziom postaci, możesz przemienić się akcją dodatkową, korzystając z jednej z poniższych opcji (wybierasz opcję za każdym razem, gdy się przemieniasz). Przemiana trwa 1 minutę lub do momentu, gdy ją zakończysz (nie wymaga akcji). Po przemianie nie możesz przemienić się ponownie, dopóki nie zakończysz Długiego odpoczynku.
 
@@ -9484,6 +10357,14 @@ _Nekrotyczna aura._ Twoje oczy na chwilę stają się kałużami ciemności, a n
 
 #### Człowiek
 
+#### Człowiek
+
+**URL źródła:** http://dnd2024.wikidot.com/species:human
+
+---
+
+Źródło: Podręcznik Gracza
+
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Średni (około 1,2–2,1 metra wzrostu) lub mały (około 0,6–1,2 metra wzrostu), wybierany przy wyborze tego gatunku
 **Szybkość:** 9 metrów
@@ -9497,6 +10378,15 @@ _Umiejętny._ Zdobywasz biegłość w jednej, wybranej przez siebie umiejętnoś
 _Wszechstronny._ Zdobywasz atut pochodzenia według własnego wyboru (patrz rozdział „Atuty”). Zalecaną opcją jest Uzdolniony.
 
 #### Diabelstwo
+
+#### Diabelstwo
+
+**URL źródła:** http://dnd2024.wikidot.com/species:tiefling
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Diabelstwa rodzą się na Dolnych Planach albo mają czarcich przodków, którzy się tam wywodzą. Diabelstwo (wym. TEE-fling) jest krwią powiązane z diabłem, demonem lub innym czartem. To połączenie z Dolnymi Planami stanowi czarcie dziedzictwo diabelstwa — obietnicę mocy, która nie wpływa na jego moralne nastawienie.
 
@@ -9544,28 +10434,36 @@ Inteligencja, Mądrość lub Charyzma jest twoją cechą bazową rzucania czaró
   <tbody>
     <tr>
       <td>Otchłanna</td>
-      <td>Masz odporność na obrażenia od trucizn. Znasz także sztuczkę [Trujący rozprysk](#trujący-rozprysk).</td>
-      <td>[Promień zatrucia](#promień-zatrucia)</td>
-      <td>[Unieruchomienie osoby](#unieruchomienie-osoby)</td>
+      <td>Masz odporność na obrażenia od trucizn. Znasz także sztuczkę [Trujący rozprysk](#trujący-rozprysk-1).</td>
+      <td>[Promień zatrucia](#promień-zatrucia-1)</td>
+      <td>[Unieruchomienie osoby](#unieruchomienie-osoby-1)</td>
     </tr>
     <tr>
       <td>Chtoniczna</td>
-      <td>Masz odporność na obrażenia nekrotyczne. Znasz także sztuczkę [Przeszywający dotyk](#przeszywający-dotyk).</td>
-      <td>[Fałszywe życie](#fałszywe-życie)</td>
-      <td>[Promień osłabienia](#promień-osłabienia)</td>
+      <td>Masz odporność na obrażenia nekrotyczne. Znasz także sztuczkę [Przeszywający dotyk](#przeszywający-dotyk-1).</td>
+      <td>[Fałszywe życie](#fałszywe-życie-1)</td>
+      <td>[Promień osłabienia](#promień-osłabienia-1)</td>
     </tr>
     <tr>
       <td>Piekielna</td>
-      <td>Masz odporność na obrażenia od ognia. Znasz także sztuczkę [Ognisty pocisk](#ognisty-pocisk).</td>
-      <td>[Piekielna reprymenda](#piekielna-reprymenda)</td>
-      <td>[Ciemność](#ciemność)</td>
+      <td>Masz odporność na obrażenia od ognia. Znasz także sztuczkę [Ognisty pocisk](#ognisty-pocisk-1).</td>
+      <td>[Piekielna reprymenda](#piekielna-reprymenda-1)</td>
+      <td>[Ciemność](#ciemność-1)</td>
     </tr>
   </tbody>
 </table>
 
-_Nieziemska obecność._ Znasz sztuczkę [Taumaturgia](#taumaturgia). Gdy rzucasz ją za pomocą tej cechy, czar wykorzystuje tę samą cechę bazową rzucania czarów, której używasz dla cechy Czarcia spuścizna.
+_Nieziemska obecność._ Znasz sztuczkę [Taumaturgia](#taumaturgia-1). Gdy rzucasz ją za pomocą tej cechy, czar wykorzystuje tę samą cechę bazową rzucania czarów, której używasz dla cechy Czarcia spuścizna.
 
 #### Drakon
+
+#### Drakon
+
+**URL źródła:** http://dnd2024.wikidot.com/species:dragonborn
+
+---
+
+Źródło: Podręcznik Gracza
 
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Średni (około 1,5–2,1 metra wzrostu)
@@ -9632,6 +10530,14 @@ _Smoczy lot._ Gdy osiągasz 5. poziom postaci, możesz ukierunkować smoczą mag
 
 #### Elf
 
+#### Elf
+
+**URL źródła:** http://dnd2024.wikidot.com/species:elf
+
+---
+
+Źródło: Podręcznik Gracza
+
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Średni (około 1,5–1,8 metra wzrostu)
 **Szybkość:** 9 metrów
@@ -9687,6 +10593,15 @@ _Trans._ Nie musisz spać, a magia nie może cię uśpić. Możesz zakończyć D
 
 #### Gnom
 
+#### Gnom
+
+**URL źródła:** http://dnd2024.wikidot.com/species:gnome
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
+
 Gnomy to magiczny lud stworzony przez bogów wynalazków, iluzji i życia pod ziemią. Najdawniejsze gnomy rzadko pokazywały się innym ludom ze względu na swoją skrytość i skłonność do życia w lasach i norach. Tego, czego brakowało im w rozmiarze, nadrabiały sprytem — myliły drapieżniki pułapkami i labiryntowymi tunelami. Nauczyły się też magii od bogów takich jak Garl Błyskozłoty, Baervan Dziki Wędrowiec i Baravar Płaszcz Cienia, którzy odwiedzali je w przebraniu. Ta magia ostatecznie dała początek liniom gnomów leśnych i skalnych.
 
 Gnomy to drobni ludzie z dużymi oczami i spiczastymi uszami, żyjący około 425 lat. Wielu gnomów lubi uczucie dachu nad głową — nawet jeśli ten „dach” to nic więcej niż kapelusz.
@@ -9705,11 +10620,19 @@ _Gnomi spryt._ Masz ułatwienie przy rzutach obronnych na Inteligencję, Mądro�
 
 _Gnomi rodowód._ Należysz do rodu, który obdarza cię nadnaturalnymi zdolnościami. Wybierz jedną z poniższych opcji; niezależnie od wyboru Inteligencja, Mądrość lub Charyzma jest twoją cechą bazową rzucania czarów dla czarów rzucanych dzięki tej cesze (wybierz cechę, gdy wybierasz rodowód):
 
-**Gnom leśny.** Znasz sztuczkę [Pomniejsza iluzja](#pomniejsza-iluzja). Masz także zawsze przygotowany czar [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami). Możesz rzucić go bez użycia komórki czaru liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego odpoczynku. Możesz także używać posiadanych komórek czaru do jego rzucania.
+**Gnom leśny.** Znasz sztuczkę [Pomniejsza iluzja](#pomniejsza-iluzja-1). Masz także zawsze przygotowany czar [Rozmawianie ze zwierzętami](#rozmawianie-ze-zwierzętami-1). Możesz rzucić go bez użycia komórki czaru liczbę razy równą twojej premii z biegłości, a wszystkie zużyte użycia odzyskujesz po zakończeniu Długiego odpoczynku. Możesz także używać posiadanych komórek czaru do jego rzucania.
 
-**Gnom skalny.** Znasz sztuczki [Naprawa](#naprawa) i [Kuglarstwo](#kuglarstwo). Dodatkowo możesz poświęcić 10 minut na rzucenie _Kuglarstwa_, aby stworzyć malutkie mechaniczne urządzenie (KP 5, 1 PW), takie jak zabawka, zapalniczka lub pozytywka. Tworząc urządzenie, określasz jego funkcję, wybierając jeden efekt z _Kuglarstwa_; urządzenie wywołuje ten efekt, gdy ty lub inna istota aktywujecie je dotykiem, używając akcji dodatkowej. Jeśli wybrany efekt ma opcje, wybierasz jedną z nich podczas tworzenia urządzenia. Na przykład, jeśli wybierzesz efekt zapalania i gaszenia ognia, określasz, czy urządzenie zapala, czy gasi ogień — nie może robić obu rzeczy jednocześnie. Możesz mieć jednocześnie do trzech takich urządzeń, a każde z nich rozpada się po 8 godzinach od stworzenia lub gdy je rozmontujesz dotykiem, używając akcji Użycie obiektu.
+**Gnom skalny.** Znasz sztuczki [Naprawa](#naprawa-1) i [Kuglarstwo](#kuglarstwo-1). Dodatkowo możesz poświęcić 10 minut na rzucenie _Kuglarstwa_, aby stworzyć malutkie mechaniczne urządzenie (KP 5, 1 PW), takie jak zabawka, zapalniczka lub pozytywka. Tworząc urządzenie, określasz jego funkcję, wybierając jeden efekt z _Kuglarstwa_; urządzenie wywołuje ten efekt, gdy ty lub inna istota aktywujecie je dotykiem, używając akcji dodatkowej. Jeśli wybrany efekt ma opcje, wybierasz jedną z nich podczas tworzenia urządzenia. Na przykład, jeśli wybierzesz efekt zapalania i gaszenia ognia, określasz, czy urządzenie zapala, czy gasi ogień — nie może robić obu rzeczy jednocześnie. Możesz mieć jednocześnie do trzech takich urządzeń, a każde z nich rozpada się po 8 godzinach od stworzenia lub gdy je rozmontujesz dotykiem, używając akcji Użycie obiektu.
 
 #### Goliat
+
+#### Goliat
+
+**URL źródła:** http://dnd2024.wikidot.com/species:goliath
+
+---
+
+Źródło: Podręcznik Gracza
 
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Średni (około 2,1–2,4 metra wzrostu)
@@ -9737,6 +10660,14 @@ _Potężna budowa._ Masz ułatwienie do testów wykonywanych w celu zakończenia
 
 #### Krasnolud
 
+#### Krasnolud
+
+**URL źródła:** http://dnd2024.wikidot.com/species:dwarf
+
+---
+
+Źródło: Podręcznik Gracza
+
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Średni (około 1,2–1,5 metra wzrostu)
 **Szybkość:** 9 metrów
@@ -9755,6 +10686,14 @@ Możesz użyć tej akcji dodatkowej liczbę razy równą twojej premii z biegło
 
 #### Nizołek
 
+#### Nizołek
+
+**URL źródła:** http://dnd2024.wikidot.com/species:halfling
+
+---
+
+Źródło: Podręcznik Gracza
+
 **Typ stworzenia:** Humanoid
 **Rozmiar:** Mały (około 0,6–0,9 metra wzrostu)
 **Szybkość:** 9 metrów
@@ -9770,6 +10709,15 @@ _Szczęście._ Gdy wyrzucisz 1 na k20 w teście k20, możesz przerzucić kość 
 _Niezauważalny._ Możesz wykonać akcję Ukrycia się, nawet jeśli jesteś zasłonięty tylko przez stworzenie o co najmniej jeden rozmiar większe od ciebie.
 
 #### Ork
+
+#### Ork
+
+**URL źródła:** http://dnd2024.wikidot.com/species:orc
+**Źródło:** Podręcznik Gracza
+
+---
+
+Źródło: Podręcznik Gracza
 
 Orkowie wywodzą swoje pochodzenie od Gruumsha, potężnego boga wędrującego po rozległych przestrzeniach Planu Materialnego. Gruumsh obdarzył swoje dzieci darami, by pomóc im przemierzać wielkie równiny, rozległe jaskinie i wzburzone morza oraz stawiać czoła czającym się tam potworom. Nawet gdy oddają cześć innym bogom, orkowie zachowują dary Gruumsha: wytrzymałość, determinację i zdolność widzenia w ciemności.
 
@@ -9811,9 +10759,25 @@ _Powtarzalny._ Atut można wybrać tylko raz, chyba że w podsekcji „Powtarzal
 
 #### Brutalny napastnik
 
+# Brutalny napastnik
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:savage-attacker
+
+---
+
+Źródło: Podręcznik Gracza
+
 Wytrenowałeś się w zadawaniu wyjątkowo dotkliwych ciosów. Raz na turę, gdy trafisz cel bronią, możesz rzucić kośćmi obrażeń broni dwukrotnie i wybrać jeden z wyników przeciwko celowi.
 
 #### Czujność
+
+# Czujność
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:alert
+
+---
+
+Źródło: Podręcznik Gracza
 
 Zyskujesz następujące korzyści.
 
@@ -9823,15 +10787,31 @@ Zyskujesz następujące korzyści.
 
 #### Uzdolniony
 
+# Uzdolniony
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:skilled
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zyskujesz biegłość w dowolnej kombinacji trzech wybranych umiejętności lub narzędzi.
 
 **Powtarzalny.** Możesz wybrać ten atut więcej niż raz.
 
 #### Wtajemniczony
 
+# Wtajemniczony
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:magic-initiate
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zyskujesz następujące korzyści.
 
-**Dwie sztuczki.** Uczysz się dwóch sztuczek według własnego wyboru z listy czarów kleryka, listy czarów druida lub listy czarów maga. Inteligencja, Mądrość lub Charyzma jest twoją cechą bazową przy rzucaniu czarów z tego atutu (wybierz przy wyborze atutu).
+**Dwie sztuczki.** Uczysz się dwóch sztuczek według własnego wyboru z [listy czarów kleryka](#cleric-spell-list), [listy czarów druida](#druid-spell-list) lub [listy czarów maga](#wizard-spell-list). Inteligencja, Mądrość lub Charyzma jest twoją cechą bazową przy rzucaniu czarów z tego atutu (wybierz przy wyborze atutu).
 
 **Czar 1. kręgu.** Wybierz czar 1. kręgu z tej samej listy, z której wybrałeś sztuczki dla tego atutu. Zawsze masz ten czar przygotowany. Możesz rzucić go raz bez użycia komórki czaru, a możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku. Możesz też rzucać ten czar, używając posiadanych komórek czaru.
 
@@ -9842,6 +10822,14 @@ Zyskujesz następujące korzyści.
 ### Atuty ogólne
 
 #### Adept żywiołów
+
+# Adept żywiołów
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:elemental-adept
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, zdolność rzucanie czarów lub magia paktu)*
 
@@ -9855,6 +10843,14 @@ Zyskujesz następujące korzyści.
 
 #### Aktor
 
+# Aktor
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:actor
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Charyzma 13+)*
 
 Zyskujesz następujące korzyści.
@@ -9866,6 +10862,14 @@ Zyskujesz następujące korzyści.
 **Naśladowanie.** Potrafisz naśladować dźwięki innych istot, w tym mowę. Istota, która słyszy to naśladowanie, musi odnieść sukces w teście Mądrości (Intuicja), aby stwierdzić, że efekt jest fałszywy (ST 8 plus twój modyfikator z Charyzmy i premia z biegłości).
 
 #### Atleta
+
+# Atleta
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:athlete
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
@@ -9881,6 +10885,14 @@ Zyskujesz następujące korzyści.
 
 #### Bijacz z tawerny
 
+# Bijacz z tawerny
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:tavern-brawler
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zyskujesz następujące korzyści.
 
 **Ulepszone uderzenie bez broni.** Gdy trafisz uderzeniem bez broni i zadajesz obrażenia, możesz zadać obrażenia od obuchu równe 1k4 plus twój modyfikator z Siły zamiast normalnych obrażeń uderzenia bez broni.
@@ -9892,6 +10904,14 @@ Zyskujesz następujące korzyści.
 **Odepchnięcie.** Gdy w swojej turze trafisz istotę uderzeniem bez broni w ramach akcji Atak, możesz zadać celowi obrażenia i dodatkowo odepchnąć go o 1,5 metra od siebie. Z tej korzyści możesz skorzystać tylko raz na turę.
 
 #### Bystry umysł
+
+# Bystry umysł
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:keen-mind
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Inteligencja 13+)*
 
@@ -9905,6 +10925,14 @@ Zyskujesz następujące korzyści.
 
 #### Ciężko opancerzony
 
+# Ciężko opancerzony
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:heavily-armored
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, wyszkolenie w średnich pancerzach)*
 
 Zyskujesz następujące korzyści.
@@ -9914,6 +10942,14 @@ Zyskujesz następujące korzyści.
 **Wyszkolenie w pancerzach.** Zyskujesz wyszkolenie w ciężkich pancerzach.
 
 #### Czatownik
+
+# Czatownik
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:skulker
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Zręczność 13+)*
 
@@ -9929,6 +10965,14 @@ Zyskujesz następujące korzyści.
 
 #### Defensywny fechter
 
+# Defensywny fechter
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:defensive-duelist
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Zręczność 13+)*
 
 Zyskujesz następujące korzyści.
@@ -9939,15 +10983,31 @@ Zyskujesz następujące korzyści.
 
 #### Dotknięty cieniem
 
+# Dotknięty cieniem
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:shadow-touched
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zetknięcie z magią Shadowfell zapewnia ci następujące korzyści.
 
 **Zwiększenie wartości cech.** Zwiększ swoją Inteligencję, Mądrość lub Charyzma o 1, maksymalnie do 20.
 
-**Magia cienia.** Wybierz jeden czar 1. kręgu ze szkoły iluzji lub nekromancji. Zawsze masz przygotowany ten czar oraz [Niewidzialność](#niewidzialność). Każdy z tych czarów możesz rzucić raz bez zużywania komórki czaru. Gdy rzucisz któryś z nich w ten sposób, nie możesz ponownie rzucić go w ten sposób, dopóki nie zakończysz długiego odpoczynku. Możesz też rzucać te czary, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tych czarów jest cecha zwiększona tym atutem.
+**Magia cienia.** Wybierz jeden czar 1. kręgu ze szkoły iluzji lub nekromancji. Zawsze masz przygotowany ten czar oraz [Niewidzialność](#niewidzialność-1). Każdy z tych czarów możesz rzucić raz bez zużywania komórki czaru. Gdy rzucisz któryś z nich w ten sposób, nie możesz ponownie rzucić go w ten sposób, dopóki nie zakończysz długiego odpoczynku. Możesz też rzucać te czary, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tych czarów jest cecha zwiększona tym atutem.
 
 #### Dotknięty Fey
+
+# Dotknięty Fey
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:fey-touched
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -9955,9 +11015,17 @@ Zetknięcie z magią Feywild zapewnia ci następujące korzyści.
 
 **Zwiększenie wartości cech.** Zwiększ swoją Inteligencję, Mądrość lub Charyzma o 1, maksymalnie do 20.
 
-**Magia Fey.** Wybierz jeden czar 1. kręgu ze szkoły wieszczenia lub uroku. Zawsze masz przygotowany ten czar oraz [Krok przez mgłę](#krok-przez-mgłę). Każdy z tych czarów możesz rzucić raz bez zużywania komórki czaru. Gdy rzucisz któryś z nich w ten sposób, nie możesz ponownie rzucić go w ten sposób, dopóki nie zakończysz długiego odpoczynku. Możesz też rzucać te czary, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tych czarów jest cecha zwiększona tym atutem.
+**Magia Fey.** Wybierz jeden czar 1. kręgu ze szkoły wieszczenia lub uroku. Zawsze masz przygotowany ten czar oraz [Krok przez mgłę](#krok-przez-mgłę-1). Każdy z tych czarów możesz rzucić raz bez zużywania komórki czaru. Gdy rzucisz któryś z nich w ten sposób, nie możesz ponownie rzucić go w ten sposób, dopóki nie zakończysz długiego odpoczynku. Możesz też rzucać te czary, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tych czarów jest cecha zwiększona tym atutem.
 
 #### Ekspert od kusz
+
+# Ekspert od kusz
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:crossbow-expert
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Zręczność 13+)*
 
@@ -9973,6 +11041,14 @@ Zyskujesz następujące korzyści.
 
 #### Ekspert od umiejętności
 
+# Ekspert od umiejętności
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:skill-expert
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -9985,6 +11061,14 @@ Zyskujesz następujące korzyści.
 
 #### Inspirujący przywódca
 
+# Inspirujący przywódca
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:inspiring-leader
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Mądrość lub Charyzma 13+)*
 
 Zyskujesz następujące korzyści.
@@ -9994,6 +11078,14 @@ Zyskujesz następujące korzyści.
 **Wzmacniający występ.** Gdy kończysz krótki lub długi odpoczynek, możesz wygłosić inspirujący występ: przemowienie, pieśń lub taniec. Gdy to robisz, wybierz do sześciu sojuszników (możesz włączyć siebie) w odległości do 9 metrów od siebie, którzy byli świadkami występu. Wybrane istoty zyskują tymczasowe punkty wytrzymałości równe twojemu poziomowi postaci plus modyfikator cechy zwiększonej tym atutem.
 
 #### Jeździec
+
+# Jeździec
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:mounted-combatant
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10009,6 +11101,14 @@ Zyskujesz następujące korzyści.
 
 #### Kucharz
 
+# Kucharz
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:chef
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10023,6 +11123,14 @@ Zyskujesz następujące korzyści.
 
 #### Lekko opancerzony
 
+# Lekko opancerzony
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:lightly-armored
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10032,6 +11140,14 @@ Zyskujesz następujące korzyści.
 **Wyszkolenie w pancerzach.** Zyskujesz wyszkolenie w lekkich pancerzach i tarczach.
 
 #### Miażdżyciel
+
+# Miażdżyciel
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:crusher
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10045,6 +11161,14 @@ Zyskujesz następujące korzyści.
 
 #### Mistrz broni
 
+# Mistrz broni
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:weapon-master
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10054,6 +11178,14 @@ Zyskujesz następujące korzyści.
 **Właściwość mistrzostwa.** Twoje szkolenie w posługiwaniu się bronią pozwala ci używać właściwości mistrzostwa jednego rodzaju prostej lub bojowej broni według własnego wyboru, pod warunkiem że masz w niej biegłość. Za każdym razem, gdy kończysz długi odpoczynek, możesz zmienić rodzaj broni na inny kwalifikujący się rodzaj.
 
 #### Mistrz broni drzewcowej
+
+# Mistrz broni drzewcowej
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:polearm-master
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
@@ -10067,6 +11199,14 @@ Zyskujesz następujące korzyści.
 
 #### Mistrz broni dwuręcznej
 
+# Mistrz broni dwuręcznej
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:great-weapon-master
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Siła 13+)*
 
 Zyskujesz następujące korzyści.
@@ -10079,6 +11219,14 @@ Zyskujesz następujące korzyści.
 
 #### Mistrz ciężkiego pancerza
 
+# Mistrz ciężkiego pancerza
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:heavy-armor-master
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, wyszkolenie w ciężkich pancerzach)*
 
 Zyskujesz następujące korzyści.
@@ -10088,6 +11236,14 @@ Zyskujesz następujące korzyści.
 **Redukcja obrażeń.** Gdy zostaniesz trafiony atakiem, nosząc ciężki pancerz, wszelkie obrażenia obuchowe, przeszywające i sieczne zadane ci tym atakiem są zmniejszone o wartość równą twojej premii z biegłości.
 
 #### Mistrz tarczy
+
+# Mistrz tarczy
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:shield-master
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, wyszkolenie w tarczach)*
 
@@ -10101,6 +11257,14 @@ Zyskujesz następujące korzyści.
 
 #### Mistrz średniego pancerza
 
+# Mistrz średniego pancerza
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:medium-armor-master
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, wyszkolenie w średnich pancerzach)*
 
 Zyskujesz następujące korzyści.
@@ -10111,6 +11275,14 @@ Zyskujesz następujące korzyści.
 
 #### Muzyk
 
+# Muzyk
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:musician
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zyskujesz następujące korzyści.
 
 **Szkolenie instrumentalne.** Zyskujesz biegłość w trzech instrumentach muzycznych według własnego wyboru.
@@ -10118,6 +11290,14 @@ Zyskujesz następujące korzyści.
 **Piosenka zachęty.** Gdy kończysz krótki lub długi odpoczynek, możesz zagrać piosenkę na instrumencie muzycznym, w którym masz biegłość, i nadać heroiczną inspirację sojusznikom, którzy ją usłyszą. Liczba sojuszników, na których możesz wpłynąć w ten sposób, jest równa twojej premii z biegłości.
 
 #### Odporny
+
+# Odporny
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:resilient
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10128,6 +11308,14 @@ Zyskujesz następujące korzyści.
 **Biegłość w rzutach obronnych.** Zyskujesz biegłość w rzutach obronnych na wybraną cechę.
 
 #### Ostrzelec
+
+# Ostrzelec
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:sharpshooter
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Zręczność 13+)*
 
@@ -10143,6 +11331,14 @@ Zyskujesz następujące korzyści.
 
 #### Przebijacz
 
+# Przebijacz
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:piercer
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10155,6 +11351,14 @@ Zyskujesz następujące korzyści.
 
 #### Rytualista
 
+# Rytualista
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:ritual-caster
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Inteligencja, Mądrość lub Charyzma 13+)*
 
 Zyskujesz następujące korzyści.
@@ -10166,6 +11370,14 @@ Zyskujesz następujące korzyści.
 **Szybki rytuał.** Dzięki tej korzyści możesz rzucić przygotowany czar rytualny, używając jego zwykłego czasu rzucania zamiast wydłużonego czasu rytuału. Nie wymaga to komórki czaru. Gdy rzucisz czar w ten sposób, nie możesz ponownie skorzystać z tej korzyści, dopóki nie zakończysz długiego odpoczynku.
 
 #### Rzemieślnik
+
+# Rzemieślnik
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:crafter
+
+---
+
+Źródło: Podręcznik Gracza
 
 Zyskujesz następujące korzyści.
 
@@ -10190,6 +11402,14 @@ Zyskujesz następujące korzyści.
 
 #### Siepacz
 
+# Siepacz
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:slasher
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10201,6 +11421,14 @@ Zyskujesz następujące korzyści.
 **Ulepszone trafienie krytyczne.** Gdy zadasz trafienie krytyczne zadające obrażenia od siecznych istocie, ma ona utrudnienie w testach ataku do początku twojej następnej tury.
 
 #### Snajper czarów
+
+# Snajper czarów
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:spell-sniper
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, zdolność rzucanie czarów lub magia paktu)*
 
@@ -10216,6 +11444,14 @@ Zyskujesz następujące korzyści.
 
 #### Spostrzegawczy
 
+# Spostrzegawczy
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:observant
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Inteligencja lub Mądrość 13+)*
 
 Zyskujesz następujące korzyści.
@@ -10227,6 +11463,14 @@ Zyskujesz następujące korzyści.
 **Szybkie przeszukiwanie.** Możesz wykonać akcję Przeszukiwanie jako akcję dodatkową.
 
 #### Strażnik
+
+# Strażnik
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:sentinel
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
@@ -10240,6 +11484,14 @@ Zyskujesz następujące korzyści.
 
 #### Szarża
 
+# Szarża
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:charger
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
 Zyskujesz następujące korzyści.
@@ -10252,6 +11504,14 @@ Zyskujesz następujące korzyści.
 
 #### Szczęściarz
 
+# Szczęściarz
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:lucky
+
+---
+
+Źródło: Podręcznik Gracza
+
 Zyskujesz następujące korzyści.
 
 **Punkty szczęścia.** Masz liczbę punktów szczęścia równą swojej premii z biegłości i możesz wydać je na korzyści poniżej. Wydane punkty szczęścia odzyskujesz po zakończeniu długiego odpoczynku.
@@ -10262,6 +11522,14 @@ Zyskujesz następujące korzyści.
 
 #### Szkolenie w broni bojowej
 
+# Szkolenie w broni bojowej
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:martial-weapon-training
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10271,6 +11539,14 @@ Zyskujesz następujące korzyści.
 **Biegłość w broni.** Zyskujesz biegłość w broni bojowej.
 
 #### Szybki
+
+# Szybki
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:speedy
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Zręczność lub Kondycja 13+)*
 
@@ -10286,17 +11562,33 @@ Zyskujesz następujące korzyści.
 
 #### Telekinetyk
 
+# Telekinetyk
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:telekinetic
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
 
 **Zwiększenie wartości cech.** Zwiększ swoją Inteligencję, Mądrość lub Charyzma o 1, maksymalnie do 20.
 
-**Drobna telekineza.** Uczysz się zaklęcia [Magiczna dłoń](#magiczna-dłoń). Możesz je rzucić bez komponentów werbalnych lub somatycznych, możesz sprawić, że widmowa dłoń będzie niewidzialna, a jej zasięg oraz maksymalna odległość od ciebie zwiększają się o 9 metrów, gdy je rzucasz. Cechą bazową tego zaklęcia jest cecha zwiększona tym atutem.
+**Drobna telekineza.** Uczysz się zaklęcia [Magiczna dłoń](#magiczna-dłoń-1). Możesz je rzucić bez komponentów werbalnych lub somatycznych, możesz sprawić, że widmowa dłoń będzie niewidzialna, a jej zasięg oraz maksymalna odległość od ciebie zwiększają się o 9 metrów, gdy je rzucasz. Cechą bazową tego zaklęcia jest cecha zwiększona tym atutem.
 
 **Telekinetyczne pchnięcie.** Jako akcję dodatkową możesz telekinetycznie pchnąć jedną widzianą przez ciebie istotę znajdującą się w odległości do 9 metrów od siebie. Gdy to robisz, cel musi odnieść sukces w rzucie obronnym na Siłę (ST 8 plus modyfikator cechy zwiększonej tym atutem i twoja premia z biegłości) albo zostaje przesunięty o 1,5 metra w twoim kierunku lub od ciebie.
 
 #### Telepata
+
+# Telepata
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:telepathic
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10306,9 +11598,17 @@ Zyskujesz następujące korzyści.
 
 **Telepatyczna wypowiedź.** Możesz mówić telepatycznie do dowolnej istoty, którą widzisz w odległości do 18 metrów od siebie. Twoje telepatyczne wypowiedzi są w języku, który znasz, a istota rozumie cię tylko wtedy, gdy zna ten język. Twoja komunikacja nie daje istocie możliwości odpowiadania ci telepatycznie.
 
-**Wykrycie myśli.** Zawsze masz przygotowane zaklęcie [Wykrycie myśli](#wykrycie-myśli). Możesz je rzucić bez komórki czaru i bez komponentów, a możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku. Możesz też rzucać to zaklęcie, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tego zaklęcia jest cecha zwiększona tym atutem.
+**Wykrycie myśli.** Zawsze masz przygotowane zaklęcie [Wykrycie myśli](#wykrycie-myśli-1). Możesz je rzucić bez komórki czaru i bez komponentów, a możliwość takiego rzucenia odzyskujesz po zakończeniu długiego odpoczynku. Możesz też rzucać to zaklęcie, używając posiadanych komórek czaru o odpowiednim kręgu. Cechą bazową tego zaklęcia jest cecha zwiększona tym atutem.
 
 #### Truciciel
+
+# Truciciel
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:poisoner
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10322,9 +11622,25 @@ Zyskujesz następujące korzyści.
 
 #### Twardziel
 
+# Twardziel
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:tough
+
+---
+
+Źródło: Podręcznik Gracza
+
 Maksymalna liczba twoich punktów wytrzymałości zwiększa się o wartość równą podwojonemu poziomowi postaci w momencie zdobycia tego atutu. Za każdym razem, gdy później zdobędziesz poziom postaci, maksymalna liczba twoich punktów wytrzymałości zwiększa się o dodatkowe 2 punkty wytrzymałości.
 
 #### Uzdrowiciel
+
+# Uzdrowiciel
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:healer
+
+---
+
+Źródło: Podręcznik Gracza
 
 Zyskujesz następujące korzyści.
 
@@ -10333,6 +11649,14 @@ Zyskujesz następujące korzyści.
 **Przerzuty leczenia.** Za każdym razem, gdy rzucasz kością, aby określić liczbę punktów wytrzymałości przywracanych zaklęciem lub korzyścią Medyk polowy tego atutu, możesz przerzucić kość, jeśli wypadnie 1, i musisz użyć nowego wyniku.
 
 #### Wojownik czarów
+
+# Wojownik czarów
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:war-caster
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, zdolność rzucanie czarów lub magia paktu)*
 
@@ -10348,6 +11672,14 @@ Zyskujesz następujące korzyści.
 
 #### Wojownik dwoma broniami
 
+# Wojownik dwoma broniami
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:dual-wielder
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
 Zyskujesz następujące korzyści.
@@ -10359,6 +11691,14 @@ Zyskujesz następujące korzyści.
 **Szybkie dobywanie.** Możesz dobyć lub schować dwie bronie bez właściwości dwuręczna, gdy normalnie mógłbyś dobyć lub schować tylko jedną.
 
 #### Wytrzymały
+
+# Wytrzymały
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:durable
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+)*
 
@@ -10372,6 +11712,14 @@ Zyskujesz następujące korzyści.
 
 #### Zabójca zaklinaczy
 
+# Zabójca zaklinaczy
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:mage-slayer
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zyskujesz następujące korzyści.
@@ -10383,6 +11731,14 @@ Zyskujesz następujące korzyści.
 **Chroniony umysł.** Gdy ponosisz porażkę w rzucie obronnym na Inteligencję, Mądrość lub Charyzmę, możesz sprawić, że zamiast tego odniesiesz sukces. Gdy skorzystasz z tej korzyści, nie możesz użyć jej ponownie, dopóki nie zakończysz krótkiego lub długiego odpoczynku.
 
 #### Zapaśnik
+
+# Zapaśnik
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:grappler
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, Siła lub Zręczność 13+)*
 
@@ -10398,6 +11754,14 @@ Zyskujesz następujące korzyści.
 
 #### Zwiększenie cechy
 
+# Zwiększenie cechy
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:ability-score-improvement
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut ogólny (wymaganie: poziom 4+)*
 
 Zwiększ jedną wybraną przez ciebie wartość cechy o 2 lub zwiększ dwie wybrane przez ciebie wartości cech o 1. Ten atut nie może podnieść wartości cechy powyżej 20.
@@ -10405,6 +11769,14 @@ Zwiększ jedną wybraną przez ciebie wartość cechy o 2 lub zwiększ dwie wybr
 **Powtarzalny.** Możesz wybrać ten atut więcej niż raz.
 
 #### Średnio opancerzony
+
+# Średnio opancerzony
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:moderately-armored
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut ogólny (wymaganie: poziom 4+, wyszkolenie w lekkich pancerzach)*
 
@@ -10418,11 +11790,27 @@ Zyskujesz następujące korzyści.
 
 #### Defensywa
 
+# Defensywa
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:defense
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
 Gdy nosisz lekką, średnią lub ciężką zbroję, zyskujesz premię +1 do klasy pancerza.
 
 #### Fechtunek
+
+# Fechtunek
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:dueling
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
@@ -10430,11 +11818,27 @@ Gdy trzymasz broń do walki wręcz w jednej dłoni i nie masz innych broni, zysk
 
 #### Ochrona
 
+# Ochrona
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:protection
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
 Gdy widziana przez ciebie istota atakuje cel inny niż ty, znajdujący się w odległości do 1,5 metra od ciebie, możesz wykonać reakcję, aby wstawić się tarczą, jeśli ją trzymasz. Nakładasz utrudnienie na wywołujący test ataku oraz wszystkie inne testy ataku przeciwko temu celowi do początku twojej następnej tury, jeśli pozostajesz w odległości do 1,5 metra od celu.
 
 #### Przechwyt
+
+# Przechwyt
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:interception
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
@@ -10442,11 +11846,27 @@ Gdy widziana przez ciebie istota trafia inna istotę znajdującą się w odległ
 
 #### Strzelectwo
 
+# Strzelectwo
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:archery
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
 Zyskujesz premię +2 do testów ataku, które wykonujesz za pomocą broni dystansowych.
 
 #### Walka bez broni
+
+# Walka bez broni
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:unarmed-fighting
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
@@ -10456,11 +11876,27 @@ Na początku każdej swojej tury możesz zadać 1k4 obrażeń od obuchu jednej i
 
 #### Walka bronią dwuręczną
 
+# Walka bronią dwuręczną
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:great-weapon-fighting
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
 Gdy wykonujesz rzut na obrażenia ataku bronią do walki wręcz, którą trzymasz oburącz, możesz traktować każdy wynik 1 lub 2 na kości obrażeń jako 3. Broń musi posiadać właściwość dwuręczna lub wszechstronna, aby skorzystać z tej korzyści.
 
 #### Walka bronią miotaną
+
+# Walka bronią miotaną
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:thrown-weapon-fighting
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
@@ -10468,11 +11904,27 @@ Gdy trafisz w teście ataku dystansowym, używając broni z właściwością mio
 
 #### Walka dwiema broniami
 
+# Walka dwiema broniami
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:two-weapon-fighting
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
 Gdy wykonujesz dodatkowy atak w wyniku użycia broni posiadającej właściwość lekka, możesz dodać swój modyfikator z cechy do obrażeń tego ataku, jeśli jeszcze go nie dodajesz do obrażeń.
 
 #### Walka w ślepej
+
+# Walka w ślepej
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:blind-fighting
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut stylu walki (wymaganie: zdolność styl walki)*
 
@@ -10481,6 +11933,14 @@ Masz ślepowidzenie o zasięgu 3 metrów.
 ### Atuty boskich łask
 
 #### Dar bojowej sprawności
+
+# Dar bojowej sprawności
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-combat-prowess
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -10492,6 +11952,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar hartu
 
+# Dar hartu
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-fortitude
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
 Zyskujesz następujące korzyści.
@@ -10501,6 +11969,14 @@ Zyskujesz następujące korzyści.
 **Wzmocnione zdrowie.** Twoje maksimum punktów wytrzymałości zwiększa się o 40. Ponadto za każdym razem, gdy odzyskujesz punkty wytrzymałości, możesz odzyskać dodatkowe punkty wytrzymałości równe twojemu modyfikatorowi z Kondycji. Gdy odzyskasz te dodatkowe punkty wytrzymałości, nie możesz zrobić tego ponownie do początku swojej następnej tury.
 
 #### Dar nieodpartej ofensywy
+
+# Dar nieodpartej ofensywy
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-irresistible-offense
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -10514,6 +11990,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar nocnego widma
 
+# Dar nocnego widma
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-the-night-spirit
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
 Zyskujesz następujące korzyści.
@@ -10525,6 +12009,14 @@ Zyskujesz następujące korzyści.
 **Cienista postać.** Przebywając w słabym świetle lub ciemności, masz odporność na wszystkie obrażenia z wyjątkiem obrażeń psychicznych i od światła.
 
 #### Dar odporności na energię
+
+# Dar odporności na energię
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-energy-resistance
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -10538,6 +12030,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar odzyskania czaru
 
+# Dar odzyskania czaru
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-spell-recall
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+, zdolność rzucania czarów)*
 
 Zyskujesz następujące korzyści.
@@ -10547,6 +12047,14 @@ Zyskujesz następujące korzyści.
 **Darmowe rzucanie czarów.** Za każdym razem, gdy rzucasz czar, używając komórki czaru od 1. do 4. kręgu, rzuć 1k4. Jeśli wynik rzutu jest równy kręgowi użytej komórki czaru, komórka nie zostaje zużyta.
 
 #### Dar podróży przez wymiary
+
+# Dar podróży przez wymiary
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-dimensional-travel
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -10558,6 +12066,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar prawdziwego widzenia
 
+# Dar prawdziwego widzenia
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-truesight
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
 Zyskujesz następujące korzyści.
@@ -10568,6 +12084,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar przeznaczenia
 
+# Dar przeznaczenia
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-fate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
 Zyskujesz następujące korzyści.
@@ -10577,6 +12101,14 @@ Zyskujesz następujące korzyści.
 **Poprawa przeznaczenia.** Gdy ty lub inna istota w odległości do 18 metrów od ciebie odniesie sukces lub poniesie porażkę w teście K20, możesz rzucić 2k4 i dodać uzyskany wynik jako premię lub karę do rzutu k20. Po użyciu tej korzyści nie możesz z niej skorzystać ponownie, dopóki nie wykonasz rzutu na inicjatywę lub nie zakończysz krótkiego albo długiego odpoczynku.
 
 #### Dar regeneracji
+
+# Dar regeneracji
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-recovery
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -10590,6 +12122,14 @@ Zyskujesz następujące korzyści.
 
 #### Dar szybkości
 
+# Dar szybkości
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-speed
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
 Zyskujesz następujące korzyści.
@@ -10601,6 +12141,14 @@ Zyskujesz następujące korzyści.
 **Zwinność.** Twoja szybkość zwiększa się o 9 metrów.
 
 #### Dar umiejętności
+
+# Dar umiejętności
+
+**URL źródła:** http://dnd2024.wikidot.com/feat:boon-of-skill
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Atut epickiego daru (wymaganie: poziom 19+)*
 
@@ -12622,6 +14170,14 @@ Efekty różnych czarów sumują się, gdy ich czasy trwania się pokrywają. Ef
 
 #### Alarm
 
+# Alarm
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:alarm
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (wynalazca, łowca, mag)*
 
 **Czas rzucania:** 1 minuta lub rytuał
@@ -12639,6 +14195,14 @@ Ustawiasz alarm przeciw włamaniu. Wybierz drzwi, okno lub obszar w zasięgu nie
 **Alarm mentalny.** Otrzymujesz mentalny sygnał, jeśli znajdujesz się w promieniu 1,6 kilometra od strzeżonego obszaru. Sygnał budzi cię, jeśli śpisz.
 
 #### Animowanie obiektów
+
+# Animowanie obiektów
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:animate-objects
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przemian (wynalazca, bard, zaklinacz, mag)*
 
@@ -12677,6 +14241,14 @@ Do końca zaklęcia akcją dodatkową możesz w myślach rozkazać dowolnej utwo
 
 #### Animowanie zmarłego
 
+# Animowanie zmarłego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:animate-dead
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, nekromancji (kleryk, mag)*
 
 **Czas rzucania:** 1 minuta
@@ -12696,6 +14268,14 @@ Istota jest pod twoją kontrolą przez 24 godziny, po czym przestaje wykonywać 
 **Użycie komórki czaru wyższego kręgu.** Ożywiasz lub ponownie przejmujesz kontrolę nad dwiema dodatkowymi nieumarłymi istotami za każdy krąg komórki czaru powyżej 3. Każda musi pochodzić z innych zwłok lub stosu kości.
 
 #### Antypatia/Sympatia
+
+# Antypatia/Sympatia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:antipathy-sympathy
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, uroków (bard, druid, mag)*
 
@@ -12717,6 +14297,14 @@ Rzucając zaklęcie, wybierasz, czy tworzy antypatię, czy sympatię, i wskazuje
 
 #### Aura czystości
 
+# Aura czystości
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-purity
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, odpychania (kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -12730,6 +14318,14 @@ Rzucając zaklęcie, wybierasz, czy tworzy antypatię, czy sympatię, i wskazuje
 Przez czas trwania zaklęcia od ciebie rozchodzi się aura w postaci emanacji o promieniu 9 metrów. Dopóki jesteś w aurze, ty i twoi sojusznicy macie odporność na obrażenia od trucizny oraz ułatwienie w rzutach obronnych, by uniknąć albo zakończyć efekty obejmujące stany oślepiony, zauroczony, ogłuchony, przerażony, sparaliżowany, zatruty albo ogłuszony.
 
 #### Aura witalności
+
+# Aura witalności
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-vitality
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, odpychania (kleryk, druid, paladyn)*
 
@@ -12745,6 +14341,14 @@ Przez czas trwania zaklęcia od ciebie rozchodzi się aura w postaci emanacji o 
 
 #### Aura życia
 
+# Aura życia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:aura-of-life
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, odpychania (kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -12759,6 +14363,14 @@ Przez czas trwania zaklęcia od ciebie rozchodzi się aura w postaci emanacji o 
 
 #### Automatyczny kołczan
 
+# Automatyczny kołczan
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:swift-quiver
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przemian (łowca)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -12772,6 +14384,14 @@ Przez czas trwania zaklęcia od ciebie rozchodzi się aura w postaci emanacji o 
 Gdy rzucasz zaklęcie oraz akcją dodatkową w każdej swojej turze do jego końca możesz wykonać dwa ataki bronią wystrzeliwującą strzały albo bełty, taką jak długi łuk albo lekka kusza. Czar magicznie tworzy amunicję potrzebną do każdego ataku. Każda strzała albo bełt stworzony przez czar zadaje obrażenia jak niemagiczna amunicja tego rodzaju i natychmiast rozpada się po trafieniu albo chybieniu.
 
 #### Bariera ostrzy
+
+# Bariera ostrzy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blade-barrier
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, wywoływania (kleryk)*
 
@@ -12789,6 +14409,14 @@ Każda istota w przestrzeni ściany wykonuje rzut obronny na Zręczność, otrzy
 
 #### Bariera przeciw życiu
 
+# Bariera przeciw życiu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:antilife-shell
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, odpychania (druid)*
 
 **Czas rzucania:** Akcja
@@ -12804,6 +14432,14 @@ Od ciebie rozchodzi się aura w postaci emanacji o promieniu 3 metrów na czas t
 Jeśli poruszysz się tak, że dotknięta istota zostanie zmuszona przejść przez barierę, zaklęcie się kończy.
 
 #### Barwna kula
+
+# Barwna kula
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:chromatic-orb
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (zaklinacz, mag)*
 
@@ -12823,6 +14459,14 @@ Jeśli wyrzucisz tę samą liczbę na dwóch lub więcej k8, kula przeskakuje do
 
 #### Bezpieczny spoczynek
 
+# Bezpieczny spoczynek
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:gentle-repose
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, nekromancji (kleryk, paladyn, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -12835,9 +14479,17 @@ Jeśli wyrzucisz tę samą liczbę na dwóch lub więcej k8, kula przeskakuje do
 
 Dotykasz zwłok lub innych szczątków. Przez czas trwania zaklęcia cel jest chroniony przed rozkładem i nie może stać się nieumarłym.
 
-Zaklęcie w praktyce wydłuża też limit czasu na wskrzeszenie celu — dni spędzone pod jego wpływem nie wliczają się do limitu czasowego zaklęć takich jak [Wskrzeszenie](#wskrzeszenie).
+Zaklęcie w praktyce wydłuża też limit czasu na wskrzeszenie celu — dni spędzone pod jego wpływem nie wliczają się do limitu czasowego zaklęć takich jak [Wskrzeszenie](#wskrzeszenie-1).
 
 #### Blask faerie
+
+# Blask faerie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:faerie-fire
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (wynalazca, bard, druid)*
 
@@ -12855,6 +14507,14 @@ Testy ataku przeciwko objętej istocie lub obiektowi mają ułatwienie, jeśli a
 
 #### Boska łaska
 
+# Boska łaska
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:divine-favor
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przemian (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -12868,6 +14528,14 @@ Testy ataku przeciwko objętej istocie lub obiektowi mają ułatwienie, jeśli a
 Do końca zaklęcia twoje ataki bronią zadają przy trafieniu dodatkowe 1k4 obrażeń od światła.
 
 #### Boskie ugodzenie
+
+# Boskie ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:divine-smite
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (paladyn)*
 
@@ -12884,6 +14552,14 @@ Cel otrzymuje dodatkowo 2k8 obrażeń od światła w wyniku ataku. Obrażenia zw
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 1.
 
 #### Brama
+
+# Brama
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:gate
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, przywoływania (kleryk, zaklinacz, czarownik, mag)*
 
@@ -12905,6 +14581,14 @@ Rzucając to zaklęcie, możesz wymienić imię konkretnej istoty (pseudonim, ty
 
 #### Broń żywiołu
 
+# Broń żywiołu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:elemental-weapon
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja
@@ -12920,6 +14604,14 @@ Niemagiczna broń, której dotykasz, staje się magiczną bronią. Wybierz jeden
 **Użycie komórki czaru wyższego kręgu.** Przy komórce 5.–6. kręgu premia do testów ataku wynosi +2, a dodatkowe obrażenia 2k4. Przy komórce 7. kręgu lub wyższej premia wynosi +3, a dodatkowe obrażenia 3k4.
 
 #### Burza blasku Jallarzi
+
+# Burza blasku Jallarzi
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:jallarzi-s-storm-of-radiance
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wywoływania (czarownik, mag)*
 
@@ -12939,6 +14631,14 @@ Gdy burza się pojawia, każda istota w niej wykonuje rzut obronny na Kondycję,
 
 #### Burza lodu
 
+# Burza lodu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ice-storm
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, wywoływania (druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -12957,6 +14657,14 @@ Grad zamienia grunt w walcu w trudny teren do końca twojej następnej tury.
 
 #### Burza ognia
 
+# Burza ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fire-storm
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, wywoływania (kleryk, druid, czarownik)*
 
 **Czas rzucania:** Akcja
@@ -12972,6 +14680,14 @@ W zasięgu pojawia się burza ognia. Jej obszar składa się z maksymalnie dzies
 Łatwopalne obiekty w obszarze, które nie są noszone ani trzymane, zapalają się.
 
 #### Burza zemsty
+
+# Burza zemsty
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:storm-of-vengeance
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, przywoływania (druid)*
 
@@ -12997,6 +14713,14 @@ Na początku każdej twojej późniejszej tury burza wywołuje inne efekty, jak 
 
 #### Błogosławieństwo
 
+# Błogosławieństwo
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:bless
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, uroków (kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -13012,6 +14736,14 @@ Błogosławisz do trzech istot w zasięgu. Dopóki zaklęcie trwa, za każdym ra
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 1.
 
 #### Błyskawiczne przywołanie Drawmija
+
+# Błyskawiczne przywołanie Drawmija
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:drawmij-s-instant-summons
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (mag)*
 
@@ -13031,6 +14763,14 @@ Jeśli inna istota trzyma albo niesie przedmiot, rozgniecenie szafiru go nie prz
 
 #### Błyskawiczny odwrót
 
+# Błyskawiczny odwrót
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:expeditious-retreat
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przemian (wynalazca, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -13044,6 +14784,14 @@ Jeśli inna istota trzyma albo niesie przedmiot, rozgniecenie szafiru go nie prz
 Wykonujesz akcję Sprint, a do końca zaklęcia możesz ponownie wykonać akcję Sprint akcją dodatkową.
 
 #### Cela mocy
+
+# Cela mocy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:forcecage
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, wywoływania (bard, czarownik, mag)*
 
@@ -13067,6 +14815,14 @@ Tego zaklęcia nie można rozproszyć Rozproszeniem magii.
 
 #### Chatka Leomunda
 
+# Chatka Leomunda
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:leomund-s-tiny-hut
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (bard, mag)*
 
 **Czas rzucania:** 1 minuta lub rytuał
@@ -13087,6 +14843,14 @@ Zaklęcie kończy się wcześniej, jeśli opuścisz emanację albo jeśli rzucis
 
 #### Chmura mgły
 
+# Chmura mgły
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fog-cloud
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (druid, łowca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13097,11 +14861,19 @@ Zaklęcie kończy się wcześniej, jeśli opuścisz emanację albo jeśli rzucis
 
 **Czas trwania:** Koncentracja, do 1 godziny
 
-Tworzysz sferę mgły o promieniu 6 metrów ze środkiem w punkcie w zasięgu. Obszar jest silnie przesłonięty. Mgła utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru)) ją rozproszy.
+Tworzysz sferę mgły o promieniu 6 metrów ze środkiem w punkcie w zasięgu. Obszar jest silnie przesłonięty. Mgła utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru-1)) ją rozproszy.
 
 **Użycie komórki czaru wyższego kręgu.** Promień mgły zwiększa się o 6 metrów za każdy krąg komórki czaru powyżej 1.
 
 #### Chmura sztyletów
+
+# Chmura sztyletów
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:cloud-of-daggers
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przywoływania (bard, zaklinacz, czarownik, mag)*
 
@@ -13121,6 +14893,14 @@ W późniejszych turach możesz akcją magiczną teleportować sześcian o maksy
 
 #### Chmura żaru
 
+# Chmura żaru
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:incendiary-cloud
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, przywoływania (druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13138,6 +14918,14 @@ Gdy chmura się pojawia, każda istota w niej wykonuje rzut obronny na Zręczno�
 Na początku każdej swojej tury chmura przesuwa się o 3 metry od ciebie w wybranym przez ciebie kierunku.
 
 #### Chwytne pnącze
+
+# Chwytne pnącze
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:grasping-vine
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (druid, łowca)*
 
@@ -13159,6 +14947,14 @@ Akcją dodatkową w późniejszych turach możesz powtórzyć atak przeciwko ist
 
 #### Ciało w kamień
 
+# Ciało w kamień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:flesh-to-stone
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, przemian (druid, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -13173,9 +14969,17 @@ Próbujesz zamienić w kamień jedną istotę, którą widzisz w zasięgu. Cel w
 
 Unieruchomiony cel na końcu każdej swojej tury wykonuje kolejny rzut obronny na Kondycję. Jeśli trzy razy zda ten rzut, zaklęcie się kończy. Jeśli trzy razy go nie zda, zamienia się w kamień i ma stan skamieniały przez czas trwania zaklęcia. Sukcesy i porażki nie muszą być kolejne — prowadź oba liczniki, aż cel zbierze trzy z jednego rodzaju.
 
-Jeśli utrzymujesz koncentrację przez pełny możliwy czas trwania zaklęcia, cel pozostaje skamieniały, dopóki stan nie zostanie zakończony przez [Większe przywrócenie](#większe-przywrócenie) lub podobną magię.
+Jeśli utrzymujesz koncentrację przez pełny możliwy czas trwania zaklęcia, cel pozostaje skamieniały, dopóki stan nie zostanie zakończony przez [Większe przywrócenie](#większe-przywrócenie-1) lub podobną magię.
 
 #### Ciemność
+
+# Ciemność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:darkness
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, wywoływania (zaklinacz, czarownik, mag)*
 
@@ -13194,6 +14998,14 @@ Możesz też rzucić zaklęcie na obiekt, który nie jest noszony ani trzymany, 
 Jeśli jakakolwiek część obszaru tego zaklęcia nachodzi na obszar jasnego lub słabego światła stworzonego zaklęciem 2. kręgu lub niższego, to drugie zaklęcie zostaje rozproszone.
 
 #### Cieniste formowanie
+
+# Cieniste formowanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:creation
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, iluzji (wynalazca, zaklinacz, mag)*
 
@@ -13223,6 +15035,14 @@ Czas trwania zależy od materiału — patrz tabela. Przy wielu materiałach uż
 
 #### Cierniowy bicz
 
+# Cierniowy bicz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:thorn-whip
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka z przemian (Wynalazca, Druid)*
 
 **Czas rzucania:** Akcja
@@ -13239,6 +15059,14 @@ Tworzysz pnącze przypominające bicz, pokryte cierniami, który na twój rozkaz
 
 #### Cisza
 
+# Cisza
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:silence
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, iluzji (bard, kleryk, łowca)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -13252,6 +15080,14 @@ Tworzysz pnącze przypominające bicz, pokryte cierniami, który na twój rozkaz
 Przez czas trwania zaklęcia w sferze o promieniu 6 metrów ze środkiem w wybranym przez ciebie punkcie w zasięgu nie można wytworzyć dźwięku ani przenieść go przez nią. Każda istota lub obiekt w całości w sferze ma niepodatność na obrażenia od dźwięku, a istoty w całości w środku mają stan ogłuchony. Rzucenie zaklęcia z komponentem werbalnym (V) jest tam niemożliwe.
 
 #### Czarne macki Evarda
+
+# Czarne macki Evarda
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:evard-s-black-tentacles
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (mag)*
 
@@ -13271,6 +15107,14 @@ Istota unieruchomiona może wykonać akcję, aby wykonać test Siły (Atletyka) 
 
 #### Czarodziejski wybuch
 
+# Czarodziejski wybuch
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sorcerous-burst
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (zaklinacz)*
 
 **Czas rzucania:** Akcja
@@ -13289,6 +15133,14 @@ Jeśli wyrzucisz 8 na k8 przy tym zaklęciu, możesz rzucić kolejną k8 i doda�
 
 #### Czysty umysł
 
+# Czysty umysł
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mind-blank
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, odpychania (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -13299,9 +15151,17 @@ Jeśli wyrzucisz 8 na k8 przy tym zaklęciu, możesz rzucić kolejną k8 i doda�
 
 **Czas trwania:** 24 godziny
 
-Do końca zaklęcia jedna chętna istota, której dotykasz, ma niepodatność na obrażenia psychiczne i stan zauroczony. Cel nie jest też dotknięty niczym, co wyczuwałoby jego emocje albo nastawienie, czytało myśli albo magicznie wykrywało jego położenie, a żaden czar — nawet [Życzenie](#życzenie) — nie może zebrać informacji o celu, obserwować go zdalnie ani kontrolować jego umysłu.
+Do końca zaklęcia jedna chętna istota, której dotykasz, ma niepodatność na obrażenia psychiczne i stan zauroczony. Cel nie jest też dotknięty niczym, co wyczuwałoby jego emocje albo nastawienie, czytało myśli albo magicznie wykrywało jego położenie, a żaden czar — nawet [Życzenie](#życzenie-1) — nie może zebrać informacji o celu, obserwować go zdalnie ani kontrolować jego umysłu.
 
 #### Demisfera
+
+# Demisfera
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:demiplane
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, przywoływania (zaklinacz, czarownik, mag)*
 
@@ -13321,6 +15181,14 @@ Za każdym razem, gdy rzucasz to zaklęcie, możesz stworzyć nową demisferę a
 
 #### Dezintegracja
 
+# Dezintegracja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:disintegrate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, przemian (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13331,15 +15199,23 @@ Za każdym razem, gdy rzucasz to zaklęcie, możesz stworzyć nową demisferę a
 
 **Czas trwania:** Natychmiastowy
 
-Wystrzeliwujesz zielony promień w cel, który widzisz w zasięgu. Może to być istota, niemagiczny obiekt albo wytwór magicznej siły, na przykład ściana z zaklęcia [Ściana energii](#ściana-energii).
+Wystrzeliwujesz zielony promień w cel, który widzisz w zasięgu. Może to być istota, niemagiczny obiekt albo wytwór magicznej siły, na przykład ściana z zaklęcia [Ściana energii](#ściana-energii-1).
 
-Istota będąca celem wykonuje rzut obronny na Zręczność. Przy nieudanym rzucie otrzymuje 10k6 + 40 obrażeń od mocy. Jeśli te obrażenia sprowadzą ją do 0 PW, zostaje zdezintegrowana wraz ze wszystkim niemagicznym, co nosi i trzyma — w szary pył. Cel można wskrzesić tylko zaklęciem [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie) albo [Życzenie](#życzenie).
+Istota będąca celem wykonuje rzut obronny na Zręczność. Przy nieudanym rzucie otrzymuje 10k6 + 40 obrażeń od mocy. Jeśli te obrażenia sprowadzą ją do 0 PW, zostaje zdezintegrowana wraz ze wszystkim niemagicznym, co nosi i trzyma — w szary pył. Cel można wskrzesić tylko zaklęciem [Prawdziwe zmartwychwstanie](#prawdziwe-zmartwychwstanie-1) albo [Życzenie](#życzenie-1).
 
 Zaklęcie automatycznie dezintegruje niemagiczny obiekt Duży lub mniejszy albo wytwór magicznej siły. Jeśli taki cel jest Ogromny lub większy, dezintegracji ulega jego fragment w kształcie sześcianu o boku 3 metrów.
 
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 3k6 za każdy krąg komórki czaru powyżej 6.
 
 #### Dobre jagody
+
+# Dobre jagody
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:goodberry
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przywoływania (druid, łowca)*
 
@@ -13356,6 +15232,14 @@ W twojej dłoni pojawia się dziesięć jagód nasyconych magią na czas trwania
 Niezjedzone jagody znikają, gdy zaklęcie się kończy.
 
 #### Dominacja nad bestią
+
+# Dominacja nad bestią
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dominate-beast
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, uroków (druid, łowca, czarownik)*
 
@@ -13377,6 +15261,14 @@ Możesz nakazać celowi wykonanie reakcji, ale musisz zużyć własną reakcję.
 
 #### Dominacja nad osobą
 
+# Dominacja nad osobą
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dominate-person
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, uroków (bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13397,6 +15289,14 @@ Możesz nakazać celowi wykonanie reakcji, ale musisz zużyć własną reakcję.
 
 #### Dominacja nad potworem
 
+# Dominacja nad potworem
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dominate-monster
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -13416,6 +15316,14 @@ Możesz nakazać celowi wykonanie reakcji, ale musisz zużyć własną reakcję.
 **Użycie komórki czaru wyższego kręgu.** Koncentracja może trwać do 8 godzin przy komórce 9. kręgu.
 
 #### Druidzkie sztuczki
+
+# Druidzkie sztuczki
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:druidcraft
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, przemian (druid)*
 
@@ -13439,6 +15347,14 @@ Szeptem zwracasz się do duchów natury i tworzysz w zasięgu jeden z poniższyc
 
 #### Drzwi przez wymiary
 
+# Drzwi przez wymiary
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dimension-door
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przywoływania (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -13456,6 +15372,14 @@ Możesz też teleportować jedną chętną istotę. Musi znajdować się w odleg
 Jeśli ty, druga istota lub oboje mielibyście pojawić się w przestrzeni zajętej przez istotę albo całkowicie wypełnionej przez jeden lub więcej obiektów, ty i każda podróżująca z tobą istota otrzymujecie 4k6 obrażeń od mocy, a teleportacja się nie udaje.
 
 #### Duchowa broń
+
+# Duchowa broń
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:spiritual-weapon
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, wywoływania (kleryk)*
 
@@ -13475,6 +15399,14 @@ Jako akcję dodatkową w swoich późniejszych turach możesz przesunąć siłę
 
 #### Duchowi strażnicy
 
+# Duchowi strażnicy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:spirit-guardians
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przywoływania (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -13493,6 +15425,14 @@ Gdy rzucasz to zaklęcie, możesz wyznaczyć istoty, które na nie nie reagują.
 
 #### Dziwo
 
+# Dziwo
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:weird
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, iluzji (czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -13509,6 +15449,14 @@ Istota w stanie przerażonym na koniec każdej swojej tury wykonuje rzut obronny
 
 #### Dzwonek śmierci
 
+# Dzwonek śmierci
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:toll-the-dead
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka z nekromancji (Kleryk, Czarownik, Mag)*
 
 **Czas rzucania:** Akcja
@@ -13524,6 +15472,14 @@ Wskazujesz jedną istotę, którą widzisz w zasięgu, a w promieniu 3 metrów o
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o jedną kość, gdy osiągniesz 5. poziom (2k8 albo 2k12), 11. poziom (3k8 albo 3k12) i 17. poziom (4k8 albo 4k12).
 
 #### Dłoń Bigby’ego
+
+# Dłoń Bigby’ego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:bigby-s-hand
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wywoływania (wynalazca, zaklinacz, mag)*
 
@@ -13553,6 +15509,14 @@ Gdy rzucasz zaklęcie oraz akcją dodatkową w późniejszych turach, możesz pr
 
 #### Elementalizm
 
+# Elementalizm
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:elementalism
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka z przemian (Wynalazca, Druid, Zaklinacz, Mag)*
 
 **Czas rzucania:** Akcja
@@ -13577,6 +15541,14 @@ Panujesz nad żywiołami, tworząc w zasięgu jeden z poniższych efektów.
 
 #### Elokwencja
 
+# Elokwencja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:glibness
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, uroków (bard, czarownik)*
 
 **Czas rzucania:** Akcja
@@ -13590,6 +15562,14 @@ Panujesz nad żywiołami, tworząc w zasięgu jeden z poniższych efektów.
 Do końca zaklęcia, gdy wykonujesz test Charyzmy, możesz zastąpić wyrzuconą wartość liczbą 15. Ponadto bez względu na to, co powiesz, magia sprawdzająca, czy mówisz prawdę, wskazuje, że jesteś szczery.
 
 #### Eteryczność
+
+# Eteryczność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:etherealness
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przywoływania (bard, kleryk, zaklinacz, czarownik, mag)*
 
@@ -13613,6 +15593,14 @@ Zaklęcie kończy się natychmiast, jeśli rzucisz je będąc w Sferze Eteryczne
 
 #### Fala gromu
 
+# Fala gromu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:thunderwave
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (bard, druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13631,6 +15619,14 @@ Ponadto niezabezpieczone przedmioty znajdujące się w całości w sześcianie z
 
 #### Fala zniszczenia
 
+# Fala zniszczenia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:destructive-wave
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, wywoływania (paladyn)*
 
 **Czas rzucania:** Akcja
@@ -13645,6 +15641,14 @@ Niszczycielska energia rozchodzi się falą w emanacji o promieniu 9 metrów wok
 
 #### Fascynacja
 
+# Fascynacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:enthrall
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, uroków (bard, czarownik)*
 
 **Czas rzucania:** Akcja
@@ -13658,6 +15662,14 @@ Niszczycielska energia rozchodzi się falą w emanacji o promieniu 9 metrów wok
 Splatasz słowa odciągające uwagę, przez co wybrane przez ciebie istoty, które widzisz w zasięgu, wykonują rzut obronny na Mądrość. Każda istota, z którą ty lub twoi sojusznicy walczycie, automatycznie odnosi sukces w tym rzucie. Przy nieudanym rzucie cel ma karę −10 do testów Mądrości (Percepcja) i pasywnej Percepcji do końca zaklęcia.
 
 #### Fałszywe podszepty
+
+# Fałszywe podszepty
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dissonant-whispers
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (bard)*
 
@@ -13675,6 +15687,14 @@ Jedna wybrana przez ciebie istota, którą widzisz w zasięgu, słyszy w umyśle
 
 #### Fałszywe życie
 
+# Fałszywe życie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:false-life
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, nekromancji (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13690,6 +15710,14 @@ Zyskujesz 2k4 + 4 tymczasowych PW.
 **Użycie komórki czaru wyższego kręgu.** Zyskujesz 5 dodatkowych tymczasowych PW za każdy krąg komórki czaru powyżej 1.
 
 #### Forma gazowa
+
+# Forma gazowa
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:gaseous-form
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przemian (zaklinacz, czarownik, mag)*
 
@@ -13711,6 +15739,14 @@ Cel nie może mówić ani manipulować przedmiotami, a żadnych noszonych lub tr
 
 #### Geas
 
+# Geas
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:geas
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, uroków (bard, kleryk, druid, paladyn, mag)*
 
 **Czas rzucania:** 1 minuta
@@ -13727,11 +15763,19 @@ Będąc zauroczony, cel otrzymuje 5k10 obrażeń psychicznych, gdy działa w spo
 
 Możesz wydać dowolny rozkaz, o ile nie prowadzi do pewnej śmierci. Jeśli wydasz rozkaz samobójczy, zaklęcie się kończy.
 
-[Zdjęcie klątwy](#zdjęcie-klątwy), [Większe przywrócenie](#większe-przywrócenie) albo [Życzenie](#życzenie) kończy to zaklęcie.
+[Zdjęcie klątwy](#zdjęcie-klątwy-1), [Większe przywrócenie](#większe-przywrócenie-1) albo [Życzenie](#życzenie-1) kończy to zaklęcie.
 
 **Użycie komórki czaru wyższego kręgu.** Przy komórce 7. lub 8. kręgu czas trwania wynosi 365 dni. Przy komórce 9. kręgu zaklęcie trwa do chwili zakończenia jednym z wymienionych czarów.
 
 #### Glif strażniczy
+
+# Glif strażniczy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:glyph-of-warding
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, odpychania (wynalazca, bard, kleryk, mag)*
 
@@ -13763,6 +15807,14 @@ Gdy glif się uruchomi, zamknięte zaklęcie zadziała. Jeśli ma cel, trafia w 
 
 #### Gniewne ugodzenie
 
+# Gniewne ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wrathful-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, nekromancji (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu istoty bronią wręcz lub atakiem bez broni
@@ -13778,6 +15830,14 @@ Cel otrzymuje dodatkowo 1k6 obrażeń nekrotycznych w wyniku ataku i musi odnie�
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k6 za każdy krąg komórki czaru powyżej 1.
 
 #### Grad cierni
+
+# Grad cierni
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hail-of-thorns
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przywoływania (łowca)*
 
@@ -13795,6 +15855,14 @@ Gdy trafiasz cel, z twojej broni dystansowej lub amunicji wyrasta deszcz cierni.
 
 #### Grzmiące ugodzenie
 
+# Grzmiące ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:thunderous-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu celu bronią wręcz lub atakiem bez broni
@@ -13810,6 +15878,14 @@ Twój cios rozbrzmiewa grzmotem słyszalnym w promieniu 90 metrów od ciebie, a 
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k6 za każdy krąg komórki czaru powyżej 1.
 
 #### Grzmot
+
+# Grzmot
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:thunderclap
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, wywoływania (wynalazca, bard, druid, zaklinacz, czarownik, mag)*
 
@@ -13827,6 +15903,14 @@ Każda istota w emanacji o promieniu 1,5 metra wychodzącej od ciebie musi odnie
 
 #### Gwiezdna iskra
 
+# Gwiezdna iskra
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:starry-wisp
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (bard, druid)*
 
 **Czas rzucania:** Akcja
@@ -13843,6 +15927,14 @@ Rzucasz cząstkę światła w jedną istotę lub obiekt w zasięgu. Wykonaj test
 
 #### Głuchota/Ślepota
 
+# Głuchota/Ślepota
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blindness-deafness
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (bard, kleryk, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -13858,6 +15950,14 @@ Jedna istota, którą widzisz w zasięgu, musi odnieść sukces w rzucie obronny
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 2.
 
 #### Głód Hadara
+
+# Głód Hadara
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hunger-of-hadar
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przywoływania (czarownik)*
 
@@ -13877,6 +15977,14 @@ Każda istota, która zaczyna turę w obszarze, otrzymuje 2k6 obrażeń od zimna
 
 #### Heroizm
 
+# Heroizm
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:heroism
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, uroków (bard, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -13892,6 +16000,14 @@ Chętna istota, której dotykasz, zostaje napełniona odwagą. Dopóki zaklęcie
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 1.
 
 #### Hipnotyczny wzór
+
+# Hipnotyczny wzór
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hypnotic-pattern
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, iluzji (bard, zaklinacz, czarownik, mag)*
 
@@ -13909,6 +16025,14 @@ Zaklęcie kończy się u objętego celu, jeśli otrzyma jakiekolwiek obrażenia 
 
 #### Identyfikacja
 
+# Identyfikacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:identify
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wieszczenia (wynalazca, bard, mag)*
 
 **Czas rzucania:** 1 minuta lub rytuał
@@ -13924,6 +16048,14 @@ Przez cały czas rzucania dotykasz obiekt. Jeśli obiekt jest magicznym przedmio
 Jeśli zamiast tego przez cały czas rzucania dotykasz istotę, dowiadujesz się, jakie trwające zaklęcia, jeśli w ogóle, na nią wpływają.
 
 #### Iluzoryczny manuskrypt
+
+# Iluzoryczny manuskrypt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:illusory-script
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, iluzji (bard, czarownik, mag)*
 
@@ -13943,6 +16075,14 @@ Istota z prawdziwym widzeniem może odczytać ukrytą wiadomość.
 
 #### Iluzoryczny teren
 
+# Iluzoryczny teren
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hallucinatory-terrain
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, iluzji (bard, druid, czarownik, mag)*
 
 **Czas rzucania:** 10 minut
@@ -13959,6 +16099,14 @@ Właściwości dotykowe terenu pozostają takie same, więc istoty wchodzące do
 
 #### Jasnowidzenie
 
+# Jasnowidzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:clairvoyance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wieszczenia (bard, kleryk, zaklinacz, mag)*
 
 **Czas rzucania:** 10 minut
@@ -13973,9 +16121,17 @@ Tworzysz niewidzialny czujnik w zasięgu — w miejscu, które znasz (odwiedził
 
 Gdy rzucasz zaklęcie, wybierasz widzenie albo słuch. Możesz korzystać z wybranego zmysłu przez czujnik, jakbyś był w jego przestrzeni. Akcją dodatkową możesz przełączać się między widzeniem a słuchem.
 
-Istota, która widzi czujnik (na przykład dzięki [Widzeniu niewidzialnego](#widzenie-niewidzialnego) albo prawdziwemu widzeniu), widzi świetlistą kulę wielkości twojej pięści.
+Istota, która widzi czujnik (na przykład dzięki [Widzeniu niewidzialnego](#widzenie-niewidzialnego-1) albo prawdziwemu widzeniu), widzi świetlistą kulę wielkości twojej pięści.
 
 #### Języki
+
+# Języki
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tongues
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, wieszczenia (bard, kleryk, zaklinacz, czarownik, mag)*
 
@@ -13991,6 +16147,14 @@ Zaklęcie daje istocie, której dotykasz, zdolność rozumienia dowolnego mówio
 
 #### Kamienna skóra
 
+# Kamienna skóra
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:stoneskin
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przemian (wynalazca, druid, łowca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14005,6 +16169,14 @@ Dopóki zaklęcie trwa, jedna chętna istota, której dotykasz, ma odporność n
 
 #### Kamienny kształt
 
+# Kamienny kształt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:stone-shape
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przemian (wynalazca, kleryk, druid, mag)*
 
 **Czas rzucania:** Akcja
@@ -14018,6 +16190,14 @@ Dopóki zaklęcie trwa, jedna chętna istota, której dotykasz, ma odporność n
 Dotykasz kamiennego obiektu Średniej wielkości lub mniejszego albo fragmentu kamienia o wymiarze nie większym niż 1,5 metra w dowolnym kierunku i nadajesz mu dowolny kształt. Na przykład możesz uformować duży głaz w broń, posąg albo skrzynię, albo wyciąć wąskie przejście przez ścianę o grubości 1,5 metra. Możesz też ukształtować kamienne drzwi lub ich framugę tak, by je zablokować. Utworzony obiekt może mieć maksymalnie dwa zawiasy i zatrzask, ale drobniejsze mechanizmy są niemożliwe.
 
 #### Klon
+
+# Klon
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:clone
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, nekromancji (mag)*
 
@@ -14035,6 +16215,14 @@ Jeśli oryginalna istota umrze po uformowaniu klona, jej dusza przenosi się do 
 
 #### Kolec umysłu
 
+# Kolec umysłu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mind-spike
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -14051,6 +16239,14 @@ Wbijasz kolec psionicznej energii w umysł jednej istoty, którą widzisz w zasi
 
 #### Kolorowy rozprysk
 
+# Kolorowy rozprysk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:color-spray
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, iluzji (bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14064,6 +16260,14 @@ Wbijasz kolec psionicznej energii w umysł jednej istoty, którą widzisz w zasi
 Wystrzeliwujesz olśniewającą salwę migających, kolorowych świateł. Każda istota w stożku o długości 4,5 metra wychodzącym od ciebie musi odnieść sukces w rzucie obronnym na Kondycję albo ma stan oślepiony do końca twojej następnej tury.
 
 #### Konsekracja
+
+# Konsekracja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hallow
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, odpychania (kleryk)*
 
@@ -14103,6 +16307,14 @@ Dotykasz punktu i nasycasz otaczający go obszar świętą albo nieświętą moc
 
 #### Kontakt z bóstwem
 
+# Kontakt z bóstwem
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:commune
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, wieszczenia (kleryk)*
 
 **Czas rzucania:** 1 minuta lub rytuał
@@ -14121,6 +16333,14 @@ Jeśli rzucisz to zaklęcie więcej niż raz przed ukończeniem długiego odpocz
 
 #### Kontakt z inną sferą
 
+# Kontakt z inną sferą
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:contact-other-plane
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, wieszczenia (czarownik, mag)*
 
 **Czas rzucania:** 1 minuta lub rytuał
@@ -14133,9 +16353,17 @@ Jeśli rzucisz to zaklęcie więcej niż raz przed ukończeniem długiego odpocz
 
 Nawiązujesz kontakt umysłowy z półbogiem, duchem dawno zmarłego mędrca lub inną uczoną istotą z innej płaszczyzny. Kontakt z taką inteligencją może złamać twój umysł. Gdy rzucasz to zaklęcie, wykonujesz rzut obronny na Inteligencję o ST 15. Przy udanym rzucie możesz zadać bytowi do pięciu pytań — musisz je zadać, zanim zaklęcie się skończy. MP na każde pytanie odpowiada jednym słowem, na przykład: „tak”, „nie”, „może”, „nigdy”, „nieistotne” albo „niejasne” (gdy byt nie zna odpowiedzi). Jeśli odpowiedź jednym słowem wprowadzałaby w błąd, MP może zamiast tego podać krótką frazę.
 
-Przy nieudanym rzucie otrzymujesz 6k6 obrażeń psychicznych i masz stan obezwładniony do ukończenia długiego odpoczynku. Zaklęcie [Większe przywrócenie](#większe-przywrócenie) rzucane na ciebie kończy ten efekt.
+Przy nieudanym rzucie otrzymujesz 6k6 obrażeń psychicznych i masz stan obezwładniony do ukończenia długiego odpoczynku. Zaklęcie [Większe przywrócenie](#większe-przywrócenie-1) rzucane na ciebie kończy ten efekt.
 
 #### Kontakt z naturą
+
+# Kontakt z naturą
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:commune-with-nature
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wieszczenia (druid, łowca)*
 
@@ -14160,6 +16388,14 @@ Wybierz trzy z poniższych faktów; poznajesz je w odniesieniu do obszaru zaklę
 Na przykład możesz ustalić położenie potężnego potwora w okolicy, zbiorników wodnych i miast.
 
 #### Kontrola pogody
+
+# Kontrola pogody
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:control-weather
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, przemian (kleryk, druid, mag)*
 
@@ -14210,6 +16446,14 @@ Zmieniając warunki, znajdź bieżący stan w tabelach poniżej i przesuń go o 
 
 #### Kontrola wody
 
+# Kontrola wody
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:control-water
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przemian (kleryk, druid, mag)*
 
 **Czas rzucania:** Akcja
@@ -14234,6 +16478,14 @@ Podwyższony poziom wody utrzymuje się do końca zaklęcia albo do wyboru inneg
 
 #### Kordon strzał
 
+# Kordon strzał
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:cordon-of-arrows
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (łowca)*
 
 **Czas rzucania:** Akcja
@@ -14251,6 +16503,14 @@ Rzucając zaklęcie, możesz wyznaczyć dowolne istoty, które je ignoruje.
 **Użycie komórki czaru wyższego kręgu.** Liczba pocisków, na które działa czar, rośnie o dwa za każdy krąg komórki czaru powyżej 2.
 
 #### Korona obłędu
+
+# Korona obłędu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:crown-of-madness
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
@@ -14270,6 +16530,14 @@ W swoich późniejszych turach musisz wykonać akcję magiczną, by utrzymać ko
 
 #### Korowa skóra
 
+# Korowa skóra
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:barkskin
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (druid, łowca)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -14283,6 +16551,14 @@ W swoich późniejszych turach musisz wykonać akcję magiczną, by utrzymać ko
 Dotykasz chętnej istoty. Do końca zaklęcia skóra celu przybiera wygląd kory, a jego KP wynosi 17, jeśli było niższe.
 
 #### Kołatka
+
+# Kołatka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:knock
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (bard, zaklinacz, mag)*
 
@@ -14298,11 +16574,19 @@ Wybierz obiekt, który widzisz w zasięgu. Może to być drzwi, skrzynia, kufer,
 
 Cel zamknięty zwykłą kłódką, zablokowany lub zabarykadowany zostaje otwarty, odblokowany lub odbarykadowany. Jeśli obiekt ma wiele zamków, otwierany jest tylko jeden z nich.
 
-Jeśli cel jest zamknięty zaklęciem [Magiczny zamek](#magiczny-zamek), to zaklęcie zostaje stłumione na 10 minut, w czasie których cel można otwierać i zamykać.
+Jeśli cel jest zamknięty zaklęciem [Magiczny zamek](#magiczny-zamek-1), to zaklęcie zostaje stłumione na 10 minut, w czasie których cel można otwierać i zamykać.
 
 Gdy rzucasz to zaklęcie, z celu dobiega głośne pukanie słyszalne w promieniu 90 metrów.
 
 #### Krok przez mgłę
+
+# Krok przez mgłę
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:misty-step
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przywoływania (zaklinacz, czarownik, mag)*
 
@@ -14318,6 +16602,14 @@ Na krótko otoczony srebrzystą mgłą teleportujesz się na odległość do 9 m
 
 #### Krzywda
 
+# Krzywda
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:harm
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, nekromancji (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -14332,6 +16624,14 @@ Na istotę, którą widzisz w zasięgu, uwalniasz złośliwą magię. Cel wykonu
 
 #### Królewska obecność Yolande
 
+# Królewska obecność Yolande
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:yolande-s-regal-presence
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, uroków (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -14345,6 +16645,14 @@ Na istotę, którą widzisz w zasięgu, uwalniasz złośliwą magię. Cel wykonu
 Otaczasz się nadprzyrodzoną majestatycznością w emanacji o promieniu 3 metrów. Gdy emanacja wchodzi w przestrzeń istoty, którą widzisz, oraz gdy istota, którą widzisz, wchodzi w emanację albo kończy w niej turę, możesz zmusić ją do rzutu obronnego na Mądrość. Przy nieudanym rzucie cel otrzymuje 4k6 obrażeń psychicznych i ma stan powalony, a ty możesz odepchnąć go o maksymalnie 3 metry. Przy udanym rzucie otrzymuje tylko połowę obrażeń. Każda istota wykonuje ten rzut tylko raz na turę.
 
 #### Krąg magii
+
+# Krąg magii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:magic-circle
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, odpychania (kleryk, paladyn, czarownik, mag)*
 
@@ -14370,6 +16678,14 @@ Za każdym razem, gdy rzucasz to zaklęcie, możesz sprawić, że działa odwrot
 
 #### Krąg mocy
 
+# Krąg mocy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:circle-of-power
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, odpychania (wynalazca, kleryk, paladyn, mag)*
 
 **Czas rzucania:** Akcja
@@ -14383,6 +16699,14 @@ Za każdym razem, gdy rzucasz to zaklęcie, możesz sprawić, że działa odwrot
 Przez czas trwania zaklęcia od ciebie rozchodzi się aura w postaci emanacji o promieniu 9 metrów. Dopóki jesteś w aurze, ty i twoi sojusznicy macie ułatwienie w rzutach obronnych przeciwko czarom i innym efektom magicznym. Gdy dotknięta istota wykonuje rzut obronny przeciwko czarowi albo efektowi magicznemu, który przy sukcesie zadaje tylko połowę obrażeń, przy udanym rzucie nie otrzymuje obrażeń wcale.
 
 #### Krąg teleportacyjny
+
+# Krąg teleportacyjny
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:teleportation-circle
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przywoływania (bard, zaklinacz, czarownik, mag)*
 
@@ -14404,6 +16728,14 @@ Stały krąg teleportacyjny tworzysz, rzucając to zaklęcie codziennie w tym sa
 
 #### Krąg śmierci
 
+# Krąg śmierci
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:circle-of-death
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, nekromancji (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -14420,6 +16752,14 @@ Negatywna energia rozchodzi się falą w sferze o promieniu 18 metrów ze środk
 
 #### Księżycowy promień
 
+# Księżycowy promień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:moonbeam
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (druid)*
 
 **Czas rzucania:** Akcja
@@ -14432,11 +16772,19 @@ Negatywna energia rozchodzi się falą w sferze o promieniu 18 metrów ze środk
 
 Srebrzysty promień bladego światła pada w walec o promieniu 1,5 metra i wysokości 12 metrów ze środkiem w punkcie w zasięgu. Dopóki zaklęcie trwa, walec wypełnia słabe światło i w późniejszych turach możesz przesunąć go o 18 metrów akcją magiczną.
 
-Gdy walec się pojawia, każda istota w nim wykonuje rzut obronny na Kondycję. Przy nieudanym rzucie istota otrzymuje 2k10 obrażeń od światła, a jeśli jest przemieniona kształtem (na przykład przez zaklęcie [Polimorfia](#polimorfia)), wraca do prawdziwej formy i nie może się przemieniać, dopóki nie opuści walca. Przy udanym rzucie otrzymuje tylko połowę obrażeń. Istota wykonuje ten rzut również, gdy obszar zaklęcia wchodzi w jej przestrzeń, gdy wchodzi w obszar zaklęcia lub kończy tam turę. Wykonuje ten rzut tylko raz na turę.
+Gdy walec się pojawia, każda istota w nim wykonuje rzut obronny na Kondycję. Przy nieudanym rzucie istota otrzymuje 2k10 obrażeń od światła, a jeśli jest przemieniona kształtem (na przykład przez zaklęcie [Polimorfia](#polimorfia-1)), wraca do prawdziwej formy i nie może się przemieniać, dopóki nie opuści walca. Przy udanym rzucie otrzymuje tylko połowę obrażeń. Istota wykonuje ten rzut również, gdy obszar zaklęcia wchodzi w jej przestrzeń, gdy wchodzi w obszar zaklęcia lub kończy tam turę. Wykonuje ten rzut tylko raz na turę.
 
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k10 za każdy krąg komórki czaru powyżej 2.
 
 #### Kuglarstwo
+
+# Kuglarstwo
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:prestidigitation
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, przemian (wynalazca, bard, zaklinacz, czarownik, mag)*
 
@@ -14464,6 +16812,14 @@ Tworzysz magiczny efekt w zasięgu. Wybierz efekt z poniższych opcji. Jeśli rz
 
 #### Kula ognia
 
+# Kula ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fireball
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14482,6 +16838,14 @@ Jasna smuga błyska od ciebie do wybranego punktu w zasięgu, po czym z rykiem r
 
 #### Kwasowa strzała Melfa
 
+# Kwasowa strzała Melfa
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:melfs-acid-arrow
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (mag)*
 
 **Czas rzucania:** Akcja
@@ -14498,6 +16862,14 @@ Lśniąca zielona strzała mknie w kierunku celu w zasięgu i rozpryskuje kwasem
 
 #### Kwasowy rozprysk
 
+# Kwasowy rozprysk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:acid-splash
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, przywoływania (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14513,6 +16885,14 @@ Tworzysz kwasową bańkę w punkcie w zasięgu. Wybierz jedną istotę, którą 
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k6, gdy osiągniesz 5. poziom (2k6), 11. poziom (3k6) i 17. poziom (4k6).
 
 #### Kąśliwy wzrok
+
+# Kąśliwy wzrok
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:eyebite
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, nekromancji (bard, zaklinacz, czarownik, mag)*
 
@@ -14536,6 +16916,14 @@ W każdej swojej turze do końca zaklęcia akcją magiczną możesz wskazać inn
 
 #### Labirynt
 
+# Labirynt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:maze
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, przywoływania (mag)*
 
 **Czas rzucania:** Akcja
@@ -14554,6 +16942,14 @@ Gdy zaklęcie się kończy, cel pojawia się z powrotem na miejscu, które opuś
 
 #### Leczenie ran
 
+# Leczenie ran
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:cure-wounds
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (wynalazca, bard, kleryk, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja
@@ -14569,6 +16965,14 @@ Istota, której dotykasz, odzyskuje punkty wytrzymałości równe 2k8 plus twój
 **Użycie komórki czaru wyższego kręgu.** Leczenie zwiększa się o 2k8 za każdy krąg komórki czaru powyżej 1.
 
 #### Legendarna wiedza
+
+# Legendarna wiedza
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:legend-lore
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wieszczenia (bard, kleryk, mag)*
 
@@ -14588,6 +16992,14 @@ Jeśli wybrana przez ciebie rzecz wcale nie jest sławna, słyszysz smutną melo
 
 #### Lewitacja
 
+# Lewitacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:levitate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14606,6 +17018,14 @@ Gdy zaklęcie się kończy, cel delikatnie opada na ziemię, jeśli wciąż jest
 
 #### Lodowy nóż
 
+# Lodowy nóż
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ice-knife
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14622,6 +17042,14 @@ Tworzysz odłamek lodu i ciskasz nim w jedną istotę w zasięgu. Wykonaj test a
 
 #### Lot
 
+# Lot
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fly
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -14637,6 +17065,14 @@ Dotykasz chętnej istoty. Przez czas trwania zaklęcia cel zyskuje szybkość lo
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 3.
 
 #### Lustrzane odbicia
+
+# Lustrzane odbicia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mirror-image
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, iluzji (bard, zaklinacz, czarownik, mag)*
 
@@ -14656,6 +17092,14 @@ Istota nie jest objęta tym zaklęciem, jeśli ma stan oślepiony, ślepowidzeni
 
 #### Lśniące ugodzenie
 
+# Lśniące ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shining-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu istoty bronią wręcz lub atakiem bez broni
@@ -14672,6 +17116,14 @@ Cel trafiony atakiem otrzymuje dodatkowo 2k6 obrażeń od światła. Do końca z
 
 #### Magiczna aura Nystula
 
+# Magiczna aura Nystula
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:nystul-s-magic-aura
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, iluzji (mag)*
 
 **Czas rzucania:** Akcja
@@ -14686,9 +17138,17 @@ Dotknięciem nakładasz iluzję na chętną istotę albo obiekt, który nie jest
 
 **Maska (istota).** Wybierz typ istoty inny niż rzeczywisty typ celu. Zaklęcia i inne magiczne efekty traktują cel, jakby był istotą wybranego typu.
 
-**Fałszywa aura (obiekt).** Zmieniasz sposób, w jaki cel jawi się zaklęciom i magicznym efektom wykrywającym magiczne aury, takim jak [Wykrycie magii](#wykrycie-magii). Możesz sprawić, że niemagiczny obiekt wygląda na magiczny, magiczny przedmiot na niemagiczny, albo zmienić aurę obiektu tak, by wydawała się należeć do wybranej szkoły magii.
+**Fałszywa aura (obiekt).** Zmieniasz sposób, w jaki cel jawi się zaklęciom i magicznym efektom wykrywającym magiczne aury, takim jak [Wykrycie magii](#wykrycie-magii-1). Możesz sprawić, że niemagiczny obiekt wygląda na magiczny, magiczny przedmiot na niemagiczny, albo zmienić aurę obiektu tak, by wydawała się należeć do wybranej szkoły magii.
 
 #### Magiczna broń
+
+# Magiczna broń
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:magic-weapon
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, paladyn, łowca, zaklinacz, mag)*
 
@@ -14705,6 +17165,14 @@ Dotykasz niemagicznej broni. Do końca zaklęcia broń staje się magiczna z pre
 **Użycie komórki czaru wyższego kręgu.** Premia wynosi +2 przy komórce z kręgu 3.–5. i +3 przy komórce z kręgu 6. lub wyższego.
 
 #### Magiczna dłoń
+
+# Magiczna dłoń
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mage-hand
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, przywoływania (wynalazca, bard, zaklinacz, czarownik, mag)*
 
@@ -14726,6 +17194,14 @@ Ręka nie może atakować, aktywować magicznych przedmiotów ani nosić więcej
 
 #### Magiczne oko
 
+# Magiczne oko
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:arcane-eye
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, wieszczenia (wynalazca, mag)*
 
 **Czas rzucania:** Akcja
@@ -14741,6 +17217,14 @@ Tworzysz niewidzialne, niezniszczalne oko w zasięgu, które unosi się przez cz
 Akcją dodatkową możesz przesunąć oko o maksymalnie 9 metrów w dowolnym kierunku. Lita przeszkoda blokuje jego ruch, ale oko może przejść przez otwór o średnicy zaledwie 2,5 centymetra.
 
 #### Magiczne usta
+
+# Magiczne usta
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:magic-mouth
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, iluzji (wynalazca, bard, mag)*
 
@@ -14760,6 +17244,14 @@ Wyzwalacz może być ogólny lub szczegółowy, ale musi opierać się na warunk
 
 #### Magiczne wrota
 
+# Magiczne wrota
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:arcane-gate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, przywoływania (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -14778,6 +17270,14 @@ Portal jest otwarty tylko z jednej strony (wybierasz którą). Wszystko, co wejd
 
 #### Magiczny pocisk
 
+# Magiczny pocisk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:magic-missile
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14794,6 +17294,14 @@ Wywołujesz trzy świetliste strzałki stworzone z magicznej energii. Każda z n
 
 #### Magiczny słój
 
+# Magiczny słój
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:magic-jar
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, nekromancji (mag)*
 
 **Czas rzucania:** 1 minuta
@@ -14806,7 +17314,7 @@ Wywołujesz trzy świetliste strzałki stworzone z magicznej energii. Każda z n
 
 Twoje ciało wpada w stan katatonii, gdy dusza je opuszcza i wchodzi do naczynia użytego jako komponent materiałny. Dopóki dusza przebywa w naczyniu, jesteś świadomy otoczenia, jak gdybyś był na jego miejscu. Nie możesz się poruszać ani wykonywać Reakcji. Jedyną akcją, jaką możesz podjąć, jest wysłanie duszy do 30 metrów poza naczynie — albo powrót do żywego ciała (kończąc zaklęcie), albo próba opętania ciała humanoida.
 
-Możesz spróbować opętać dowolnego humanoida w promieniu 30 metrów od ciebie, którego widzisz (istot chronionych zaklęciem [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem) albo [Krąg magii](#krąg-magii) nie można opętać). Cel wykonuje rzut obronny na Charyzmę. Przy nieudanym rzucie twoja dusza wchodzi w ciało celu, a dusza celu zostaje uwięziona w naczyniu. Przy udanym rzucie cel opiera się opętaniu i nie możesz próbować go opętać ponownie przez 24 godziny.
+Możesz spróbować opętać dowolnego humanoida w promieniu 30 metrów od ciebie, którego widzisz (istot chronionych zaklęciem [Ochrona przed dobrem i złem](#ochrona-przed-dobrem-i-złem-1) albo [Krąg magii](#krąg-magii-1) nie można opętać). Cel wykonuje rzut obronny na Charyzmę. Przy nieudanym rzucie twoja dusza wchodzi w ciało celu, a dusza celu zostaje uwięziona w naczyniu. Przy udanym rzucie cel opiera się opętaniu i nie możesz próbować go opętać ponownie przez 24 godziny.
 
 Gdy opętasz ciało, kontrolujesz je. Twoje PW, kości wytrzymałości, Siła, Zręczność, Kondycja, prędkość i zmysły zastępuje je cechy istoty. W pozostałym zakresie zachowujesz swoje statystyki gry.
 
@@ -14819,6 +17327,14 @@ Jeśli naczynie zostanie zniszczone albo zaklęcie się skończy, twoja dusza wr
 Gdy zaklęcie się kończy, naczynie zostaje zniszczone.
 
 #### Magiczny zamek
+
+# Magiczny zamek
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:arcane-lock
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, odpychania (wynalazca, mag)*
 
@@ -14833,6 +17349,14 @@ Gdy zaklęcie się kończy, naczynie zostaje zniszczone.
 Dotykasz zamkniętych drzwi, okna, bramy, pojemnika lub włazu i magicznie je zamykasz na czas trwania zaklęcia. Zamka nie da się otworzyć żadnym niemagicznym sposobem. Ty i wszystkie istoty, które wskażesz przy rzucaniu zaklęcia, możecie otwierać i zamykać obiekt mimo zamka. Możesz też ustawić hasło — wypowiedziane w promieniu 1,5 metra od obiektu odblokowuje go na 1 minutę.
 
 #### Masowa sugestia
+
+# Masowa sugestia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mass-suggestion
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, uroków (bard, czarownik, mag)*
 
@@ -14852,6 +17376,14 @@ Każdy cel musi odnieść sukces w rzucie obronnym na Mądrość albo ma stan za
 
 #### Masowe kojące słowo
 
+# Masowe kojące słowo
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mass-healing-word
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (bard, kleryk)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -14867,6 +17399,14 @@ Do sześciu wybranych przez ciebie istot, które widzisz w zasięgu, odzyskuje P
 **Użycie komórki czaru wyższego kręgu.** Leczenie zwiększa się o 1k4 za każdy krąg komórki czaru powyżej 3.
 
 #### Masowe leczenie ran
+
+# Masowe leczenie ran
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mass-cure-wounds
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, odpychania (bard, kleryk, druid)*
 
@@ -14884,6 +17424,14 @@ Z punktu, który widzisz w zasięgu, rozchodzi się fala leczącej energii. Wybi
 
 #### Masowe uleczenie
 
+# Masowe uleczenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mass-heal
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, odpychania (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -14897,6 +17445,14 @@ Z punktu, który widzisz w zasięgu, rozchodzi się fala leczącej energii. Wybi
 Fala leczącej energii wypływa z ciebie na otaczające istoty. Przywracasz do 700 PW, dzieląc je według własnego wyboru między dowolną liczbę istot, które widzisz w zasięgu. Istoty uleczone tym czarem tracą też stany oślepiony, ogłuchony i zatruty.
 
 #### Miecz Mordenkainena
+
+# Miecz Mordenkainena
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-sword
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, wywoływania (bard, mag)*
 
@@ -14916,6 +17472,14 @@ W późniejszych turach możesz akcją dodatkową przesunąć miecz o maksymalni
 
 #### Mignięcie
 
+# Mignięcie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blink
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -14931,6 +17495,14 @@ Na końcu każdej swojej tury przez czas trwania zaklęcia rzucasz k6. Przy wyni
 Wracasz na drugą płaszczyznę na początku swojej następnej tury, a gdy zaklęcie się kończy — jeśli wciąż jesteś na Sferze Eterycznej. Pojawiasz się na wolnym miejscu według własnego wyboru, które widzisz w promieniu 3 metrów od miejsca, które opuściłeś. Jeśli w tym promieniu nie ma wolnego miejsca, pojawiasz się na najbliższym wolnym miejscu.
 
 #### Milczący obraz
+
+# Milczący obraz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:silent-image
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, iluzji (bard, zaklinacz, mag)*
 
@@ -14949,6 +17521,14 @@ Jako akcję magiczną możesz przenieść obraz w dowolne miejsce w zasięgu. Gd
 Fizyczna interakcja z obrazem ujawnia, że to iluzja, ponieważ przedmioty przechodzą przez nią. Istota, która wykona akcję Nauka, aby zbadać obraz, może stwierdzić, że to iluzja, odnosząc sukces w teście Inteligencji (Śledztwo) przeciwko twojemu ST rzutu obronnego na czary. Jeśli istota rozpozna iluzję, może przejrzeć obraz.
 
 #### Miraż
+
+# Miraż
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mirage-arcane
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, iluzji (bard, druid, mag)*
 
@@ -14970,6 +17550,14 @@ Istoty z prawdziwym widzeniem widzą przez iluzję prawdziwy kształt terenu; po
 
 #### Mniejsze przywrócenie
 
+# Mniejsze przywrócenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:lesser-restoration
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, odpychania (wynalazca, bard, kleryk, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -14983,6 +17571,14 @@ Istoty z prawdziwym widzeniem widzą przez iluzję prawdziwy kształt terenu; po
 Dotykasz istotę i kończysz u niej jeden stan: oślepiony, ogłuchony, sparaliżowany lub zatruty.
 
 #### Mrożąca sfera Otiluke’a
+
+# Mrożąca sfera Otiluke’a
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:otiluke-s-freezing-sphere
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, wywoływania (zaklinacz, mag)*
 
@@ -15004,6 +17600,14 @@ Po zakończeniu rzucania możesz wstrzymać się od wystrzelenia kuli. Wtedy w t
 
 #### Nadanie wiadomości
 
+# Nadanie wiadomości
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sending
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wieszczenia (bard, kleryk, mag)*
 
 **Czas rzucania:** Akcja
@@ -15022,6 +17626,14 @@ Po otrzymaniu twojej wiadomości istota może zablokować ci możliwość ponown
 
 #### Naprawa
 
+# Naprawa
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mending
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, przemian (bard, kleryk, druid, zaklinacz, mag)*
 
 **Czas rzucania:** 1 minuta
@@ -15037,6 +17649,14 @@ Zaklęcie naprawia pojedyncze pęknięcie lub rozdarcie dotkniętego obiektu, na
 Zaklęcie może fizycznie naprawić magiczny przedmiot, ale nie przywraca mu magii.
 
 #### Nałożenie klątwy
+
+# Nałożenie klątwy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:bestow-curse
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, nekromancji (bard, kleryk, mag)*
 
@@ -15059,6 +17679,14 @@ Dotykasz istoty, która musi odnieść sukces w rzucie obronnym na Mądrość al
 
 #### Nieodparty taniec Ottona
 
+# Nieodparty taniec Ottona
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:otto-s-irresistible-dance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, uroków (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -15074,6 +17702,14 @@ Jedna istota, którą widzisz w zasięgu, musi wykonać rzut obronny na Mądroś
 Przy nieudanym rzucie cel ma stan zauroczony na czas trwania zaklęcia. Będąc zauroczony, komicznie tańczy, musi zużywać cały ruch na taniec w miejscu, ma utrudnienie w rzutach obronnych na Zręczność i testach ataku, a inne istoty mają ułatwienie w testach ataku przeciwko niemu. W każdej swojej turze cel może wykonać akcję, by się opanować i powtórzyć rzut, kończąc zaklęcie u siebie przy sukcesie.
 
 #### Niewidoczny sługa
+
+# Niewidoczny sługa
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:unseen-servant
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przywoływania (bard, czarownik, mag)*
 
@@ -15093,6 +17729,14 @@ Jeśli rozkażesz słudze zadanie, które oddali go o więcej niż 18 metrów od
 
 #### Niewidzialność
 
+# Niewidzialność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:invisibility
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, iluzji (wynalazca, bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -15109,6 +17753,14 @@ Dotknięta przez ciebie istota ma stan niewidzialny, dopóki zaklęcie trwa. Zak
 
 #### Niewykrywalność
 
+# Niewykrywalność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:nondetection
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (bard, łowca, mag)*
 
 **Czas rzucania:** Akcja
@@ -15122,6 +17774,14 @@ Dotknięta przez ciebie istota ma stan niewidzialny, dopóki zaklęcie trwa. Zak
 Przez czas trwania zaklęcia ukrywasz dotknięty cel przed czarami wieszczenia. Celem może być chętna istota, miejsce albo obiekt o wymiarach nie większych niż 3 metry w każdym kierunku. Cel nie może zostać wskazany żadnym czarem wieszczenia ani dostrzeżony przez magiczne czujniki szpiegowskie.
 
 #### Nieziemskie uderzenie
+
+# Nieziemskie uderzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:eldritch-blast
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, wywoływania (czarownik)*
 
@@ -15139,6 +17799,14 @@ Wystrzeliwujesz promień trzaskającej energii. Wykonaj test ataku czarem dystan
 
 #### Ochrona przed dobrem i złem
 
+# Ochrona przed dobrem i złem
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:protection-from-evil-and-good
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (kleryk, druid, paladyn, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -15152,6 +17820,14 @@ Wystrzeliwujesz promień trzaskającej energii. Wykonaj test ataku czarem dystan
 Dopóki zaklęcie trwa, jedna chętna istota, której dotykasz, jest chroniona przed istotami będącymi wynaturzeniami, niebiańskimi, żywiołakami, fey, czartami lub nieumarłymi. Ochrona daje kilka korzyści. Istoty tych typów mają utrudnienie w testach ataku przeciwko celowi. Cel nie może też zostać opętany przez nie ani zyskać od nich stanu zauroczonego lub przerażonego. Jeśli cel jest już opętany, zauroczony lub przerażony przez taką istotę, ma ułatwienie w każdym nowym rzucie obronnym przeciwko odpowiedniemu efektowi.
 
 #### Ochrona przed energią
+
+# Ochrona przed energią
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:protection-from-energy
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, odpychania (wynalazca, kleryk, druid, łowca, czarownik, mag)*
 
@@ -15167,6 +17843,14 @@ Przez czas trwania zaklęcia chętna istota, której dotykasz, ma odporność na
 
 #### Ochrona przed trucizną
 
+# Ochrona przed trucizną
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:protection-from-poison
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, odpychania (wynalazca, kleryk, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja
@@ -15180,6 +17864,14 @@ Przez czas trwania zaklęcia chętna istota, której dotykasz, ma odporność na
 Dotykasz istoty i kończysz u niej stan zatruty. Przez czas trwania zaklęcia cel ma ułatwienie w rzutach obronnych, by uniknąć stanu zatruty lub się od niego uwolnić, oraz odporność na obrażenia od trucizny.
 
 #### Ochronna więź
+
+# Ochronna więź
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:warding-bond
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, odpychania (kleryk, paladyn)*
 
@@ -15197,6 +17889,14 @@ Zaklęcie kończy się, jeśli spadniesz do 0 PW albo jeśli ty i cel oddalicie 
 
 #### Ochronne glify
 
+# Ochronne glify
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:guards-and-wards
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, odpychania (bard, mag)*
 
 **Czas rzucania:** 1 godzina
@@ -15211,23 +17911,31 @@ Tworzysz barierę chroniącą do 232 metrów kwadratowych powierzchni podłogi. 
 
 Rzucając zaklęcie, możesz wskazać osoby, które nie odczuwają jego efektów. Możesz też ustalić hasło — wypowiedziane na głos w promieniu 1,5 metra od chronionego obszaru sprawia, że mówca jest odporny na te efekty.
 
-Zaklęcie tworzy w chronionym obszarze efekty opisane poniżej. [Rozproszenie magii](#rozproszenie-magii) nie ma wpływu na samą *Ochronę glifów*, lecz każdy z poniższych efektów można rozproszyć. Jeśli rozproszysz wszystkie cztery, *Ochrona glifów* się kończy. Jeśli rzucasz zaklęcie codziennie przez 365 dni w tym samym miejscu, potem trwa do rozproszenia wszystkich efektów.
+Zaklęcie tworzy w chronionym obszarze efekty opisane poniżej. [Rozproszenie magii](#rozproszenie-magii-1) nie ma wpływu na samą *Ochronę glifów*, lecz każdy z poniższych efektów można rozproszyć. Jeśli rozproszysz wszystkie cztery, *Ochrona glifów* się kończy. Jeśli rzucasz zaklęcie codziennie przez 365 dni w tym samym miejscu, potem trwa do rozproszenia wszystkich efektów.
 
 **Korytarze.** Mgła wypełnia wszystkie chronione korytarze, czyniąc je silnie przesłoniętymi. Ponadto na każdym skrzyżowaniu albo rozwidleniu oferującym wybór kierunku jest 50% szans, że istota inna niż ty uzna, iż idzie w kierunku przeciwnym do wybranego.
 
-**Drzwi.** Wszystkie drzwi w chronionym obszarze są magicznie zamknięte, jakby zabezpieczone zaklęciem [Magiczny zamek](#magiczny-zamek). Ponadto możesz przykryć do dziesięciu drzwi iluzją sprawiającą, że wyglądają jak zwykłe fragmenty ściany.
+**Drzwi.** Wszystkie drzwi w chronionym obszarze są magicznie zamknięte, jakby zabezpieczone zaklęciem [Magiczny zamek](#magiczny-zamek-1). Ponadto możesz przykryć do dziesięciu drzwi iluzją sprawiającą, że wyglądają jak zwykłe fragmenty ściany.
 
 **Schody.** Sieci wypełniają wszystkie schody w chronionym obszarze od góry do dołu, jak w zaklęciu [Sieć](#sieć). Jeśli zostaną zniszczone, odrastają w 10 minut, dopóki trwa *Ochrona glifów*.
 
 **Inny efekt czaru.** Umieść w chronionym obszarze jeden z poniższych magicznych efektów:
 
-- [Tańczące światła](#tańczące-światła) w czterech korytarzach, z prostym programem powtarzanym tak długo, jak trwa *Ochrona glifów*
-- [Magiczne usta](#magiczne-usta) w dwóch miejscach
-- [Śmierdząca chmura](#śmierdząca-chmura) w dwóch miejscach (opary wracają w 10 minut, jeśli zostaną rozproszone, dopóki trwa *Ochrona glifów*)
-- [Poryw wiatru](#poryw-wiatru) w jednym korytarzu albo pomieszczeniu (wiatr wieje stale, dopóki trwa zaklęcie)
-- [Sugestia](#sugestia) w jednym kwadracie o boku 1,5 metra; każda istota wchodząca w ten kwadrat otrzymuje sugestię telepatycznie
+- [Tańczące światła](#tańczące-światła-1) w czterech korytarzach, z prostym programem powtarzanym tak długo, jak trwa *Ochrona glifów*
+- [Magiczne usta](#magiczne-usta-1) w dwóch miejscach
+- [Śmierdząca chmura](#śmierdząca-chmura-1) w dwóch miejscach (opary wracają w 10 minut, jeśli zostaną rozproszone, dopóki trwa *Ochrona glifów*)
+- [Poryw wiatru](#poryw-wiatru-1) w jednym korytarzu albo pomieszczeniu (wiatr wieje stale, dopóki trwa zaklęcie)
+- [Sugestia](#sugestia-1) w jednym kwadracie o boku 1,5 metra; każda istota wchodząca w ten kwadrat otrzymuje sugestię telepatycznie
 
 #### Oczyszczenie jadła i napoju
+
+# Oczyszczenie jadła i napoju
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:purify-food-and-drink
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przemian (wynalazca, kleryk, druid, paladyn)*
 
@@ -15242,6 +17950,14 @@ Zaklęcie tworzy w chronionym obszarze efekty opisane poniżej. [Rozproszenie ma
 Usuwasz truciznę i zepsucie z niemagicznego jedzenia i napojów w sferze o promieniu 1,5 metra ze środkiem w punkcie w zasięgu.
 
 #### Oddech smoka
+
+# Oddech smoka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dragon-s-breath
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, zaklinacz, mag)*
 
@@ -15259,6 +17975,14 @@ Dotykasz jednej chętnej istoty i wybierasz kwas, zimno, ogień, elektryczność
 
 #### Oddychanie pod wodą
 
+# Oddychanie pod wodą
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:water-breathing
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, druid, łowca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -15272,6 +17996,14 @@ Dotykasz jednej chętnej istoty i wybierasz kwas, zimno, ogień, elektryczność
 Zaklęcie daje do dziesięciu chętnych istot wybranych przez ciebie w zasięgu zdolność oddychania pod wodą do końca jego trwania. Objęte istoty zachowują też swój zwykły sposób oddychania.
 
 #### Odnalezienie istoty
+
+# Odnalezienie istoty
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:locate-creature
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, wieszczenia (bard, kleryk, druid, paladyn, łowca, mag)*
 
@@ -15291,6 +18023,14 @@ Zaklęcie nie odnajdzie istoty, jeśli między tobą a nią stoi jakakolwiek war
 
 #### Odnalezienie obiektu
 
+# Odnalezienie obiektu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:locate-object
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (bard, kleryk, druid, paladyn, łowca, mag)*
 
 **Czas rzucania:** Akcja
@@ -15309,6 +18049,14 @@ Zaklęcie nie namierzy obiektu, jeśli między tobą a nim w linii prostej znajd
 
 #### Odnalezienie zwierząt lub roślin
 
+# Odnalezienie zwierząt lub roślin
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:locate-animals-or-plants
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (bard, druid, łowca)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -15322,6 +18070,14 @@ Zaklęcie nie namierzy obiektu, jeśli między tobą a nim w linii prostej znajd
 Opisujesz albo wymieniasz konkretny gatunek bestii, roślinnej istoty albo niemagicznej rośliny. Poznajesz kierunek i odległość do najbliższej takiej istoty albo rośliny w promieniu 8 kilometrów, jeśli jakieś się tam znajdują.
 
 #### Odnalezienie ścieżki
+
+# Odnalezienie ścieżki
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:find-the-path
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, wieszczenia (bard, kleryk, druid)*
 
@@ -15338,6 +18094,14 @@ Magicznie wyczuwasz najbardziej bezpośrednią fizyczną trasę do miejsca, któ
 Przez czas trwania zaklęcia, dopóki jesteś na tej samej płaszczyźnie co cel, wiesz, jak daleko leży i w jakim kierunku. Gdy na drodze stoisz przed wyborem ścieżek, wiesz, która jest najkrótsza.
 
 #### Odosobnienie
+
+# Odosobnienie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sequester
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przemian (mag)*
 
@@ -15357,6 +18121,14 @@ Możesz ustawić warunek wcześniejszego zakończenia zaklęcia. Warunek może b
 
 #### Odporność
 
+# Odporność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:resistance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, odpychania (wynalazca, kleryk, druid)*
 
 **Czas rzucania:** Akcja
@@ -15370,6 +18142,14 @@ Możesz ustawić warunek wcześniejszego zakończenia zaklęcia. Warunek może b
 Dotykasz chętnej istoty i wybierasz typ obrażeń: kwasu, obuchowe, zimna, ognia, elektryczności, nekrotyczne, kłute, trucizny, światła, cięte lub dźwięku. Gdy istota otrzyma obrażenia wybranego typu, zanim zaklęcie się skończy, zmniejsza łączne otrzymane obrażenia o 1k4. Istota może skorzystać z tego zaklęcia tylko raz na turę.
 
 #### Odwrócenie grawitacji
+
+# Odwrócenie grawitacji
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:reverse-gravity
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przemian (druid, czarownik, mag)*
 
@@ -15387,6 +18167,14 @@ Jeśli podczas lotu w górę napotka sufit albo zakotwiczony obiekt, istoty i ob
 
 #### Odłamek umysłu
 
+# Odłamek umysłu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mind-sliver
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka z uroku (Zaklinacz, Czarownik, Mag)*
 
 **Czas rzucania:** Akcja
@@ -15403,6 +18191,14 @@ Próbujesz chwilowo rozszczepić umysł jednej istoty, którą widzisz w zasięg
 
 #### Ognisty pocisk
 
+# Ognisty pocisk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fire-bolt
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -15418,6 +18214,14 @@ Ciskasz iskrę ognia w istotę lub obiekt w zasięgu. Wykonaj test ataku czarem 
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k10, gdy osiągniesz 5. poziom (2k10), 11. poziom (3k10) i 17. poziom (4k10).
 
 #### Ohydny śmiech Tashy
+
+# Ohydny śmiech Tashy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tasha-s-hideous-laughter
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (bard, czarownik, mag)*
 
@@ -15436,6 +18240,14 @@ Na koniec każdej swojej tury oraz za każdym razem, gdy otrzyma obrażenia, wyk
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 1.
 
 #### Olbrzymi owad
+
+# Olbrzymi owad
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:giant-insect
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (druid)*
 
@@ -15484,6 +18296,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Oplątanie
 
+# Oplątanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:entangle
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -15499,6 +18319,14 @@ Chwytające rośliny wyrastają z ziemi na kwadracie o boku 6 metrów w zasięgu
 Każda istota (oprócz ciebie) na obszarze w chwili rzucenia zaklęcia musi odnieść sukces w rzucie obronnym na Siłę albo ma stan unieruchomiony do końca działania zaklęcia. Istota ze stanem unieruchomionym może wykonać akcję, aby wykonać test Siły (Atletyka) przeciwko twojemu ST rzutu obronnego na czary. Przy sukcesie uwalnia się z chwytających roślin i nie jest już przez nie unieruchomiona.
 
 #### Opóźniona kula ognia
+
+# Opóźniona kula ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:delayed-blast-fireball
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, wywoływania (zaklinacz, mag)*
 
@@ -15521,6 +18349,14 @@ Gdy kulka wybucha, łatwopalne przedmioty w obszarze wybuchu, które nie są nos
 **Użycie komórki czaru wyższego kręgu.** Bazowe obrażenia rosną o 1k6 za każdy krąg komórki czaru powyżej 7.
 
 #### Osobiste sanktuarium Mordenkainena
+
+# Osobiste sanktuarium Mordenkainena
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-private-sanctum
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, odpychania (wynalazca, mag)*
 
@@ -15549,6 +18385,14 @@ Rzucanie tego zaklęcia codziennie przez 365 dni w tym samym miejscu sprawia, ż
 
 #### Osłona przed orężem
 
+# Osłona przed orężem
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blade-ward
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, odpychania (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -15562,6 +18406,14 @@ Rzucanie tego zaklęcia codziennie przez 365 dni w tym samym miejscu sprawia, ż
 Zanim zaklęcie się skończy, za każdym razem gdy istota wykonuje test ataku przeciwko tobie, atakujący odejmuje 1k4 od wyniku tego testu.
 
 #### Osłona przed śmiercią
+
+# Osłona przed śmiercią
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:death-ward
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, odpychania (kleryk, paladyn)*
 
@@ -15579,6 +18431,14 @@ Jeśli zaklęcie wciąż działa, gdy cel zostaje poddany efektowi, który zabi�
 
 #### Oślepiające ugodzenie
 
+# Oślepiające ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blinding-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu celu bronią wręcz lub atakiem bez broni
@@ -15595,6 +18455,14 @@ Cel trafiony atakiem otrzymuje dodatkowo 3k8 obrażeń od światła i ma stan o�
 
 #### Ożywienie
 
+# Ożywienie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:revivify
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, nekromancji (wynalazca, kleryk, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja
@@ -15608,6 +18476,14 @@ Cel trafiony atakiem otrzymuje dodatkowo 3k8 obrażeń od światła i ma stan o�
 Dotykasz istoty, która umarła w ciągu ostatniej minuty. Istota wraca do życia z 1 PW. To zaklęcie nie może wskrzesić istoty, która umarła ze starości, ani nie przywraca brakujących części ciała.
 
 #### Pajęcza wspinaczka
+
+# Pajęcza wspinaczka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:spider-climb
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, zaklinacz, czarownik, mag)*
 
@@ -15624,6 +18500,14 @@ Do końca zaklęcia jedna chętna istota, której dotykasz, może poruszać się
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 2.
 
 #### Pajęczyna
+
+# Pajęczyna
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:web
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przywoływania (wynalazca, zaklinacz, mag)*
 
@@ -15647,6 +18531,14 @@ Sieci są łatwopalne. Każdy sześcian o boku 1,5 metra sieci wystawiony na ogi
 
 #### Palec śmierci
 
+# Palec śmierci
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:finger-of-death
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, nekromancji (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -15662,6 +18554,14 @@ Uwalniasz negatywną energię w kierunku istoty, którą widzisz w zasięgu. Cel
 Humanoid zabity tym zaklęciem na początku twojej następnej tury powstaje jako zombi wykonujący twoje polecenia wydane słownie.
 
 #### Palące ugodzenie
+
+# Palące ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:searing-smite
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (paladyn)*
 
@@ -15679,6 +18579,14 @@ Gdy trafiasz cel, zadajesz mu dodatkowo 1k6 obrażeń od ognia. Na początku ka�
 
 #### Piekielna reprymenda
 
+# Piekielna reprymenda
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hellish-rebuke
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (czarownik)*
 
 **Czas rzucania:** Reakcja, którą wykonujesz w odpowiedzi na otrzymanie obrażeń od istoty, którą widzisz w promieniu 18 metrów od siebie
@@ -15695,6 +18603,14 @@ Istota, która zadała ci obrażenia, zostaje na chwilę otoczona zielonymi pło
 
 #### Piorun
 
+# Piorun
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:lightning-bolt
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -15710,6 +18626,14 @@ Uderzenie błyskawicy w postaci linii długości 30 metrów i szerokości 1,5 me
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k6 za każdy krąg komórki czaru powyżej 3.
 
 #### Piorunostrzał
+
+# Piorunostrzał
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:lightning-arrow
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przemian (łowca)*
 
@@ -15729,6 +18653,14 @@ Broń albo amunicja wraca potem do normalnej postaci.
 
 #### Piórkospadanie
 
+# Piórkospadanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:feather-fall
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przemian (wynalazca, bard, zaklinacz, mag)*
 
 **Czas rzucania:** Reakcja, którą wykonujesz, gdy ty lub istota, którą widzisz w promieniu 18 metrów od siebie, spada
@@ -15742,6 +18674,14 @@ Broń albo amunicja wraca potem do normalnej postaci.
 Wybierz do pięciu spadających istot w zasięgu. Szybkość spadania spadającej istoty zwalnia do 18 metrów na rundę, dopóki zaklęcie trwa. Jeśli istota wyląduje, zanim zaklęcie się skończy, nie otrzymuje obrażeń od upadku i zaklęcie kończy się u niej.
 
 #### Plaga
+
+# Plaga
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blight
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, nekromancji (druid, zaklinacz, czarownik, mag)*
 
@@ -15761,6 +18701,14 @@ Alternatywnie możesz wskazać niemagiczną roślinę, która nie jest istotą �
 
 #### Plaga owadów
 
+# Plaga owadów
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:insect-plague
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (kleryk, druid, czarownik)*
 
 **Czas rzucania:** Akcja
@@ -15779,6 +18727,14 @@ Gdy rój się pojawia, każda istota w nim wykonuje rzut obronny na Kondycję, o
 
 #### Pocisk wiodący
 
+# Pocisk wiodący
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:guiding-bolt
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -15794,6 +18750,14 @@ Wystrzeliwujesz pocisk światła w istotę w zasięgu. Wykonaj test ataku czarem
 **Użycie komórki czaru wyższego kręgu.** Za każdy krąg komórki czaru powyżej 1. obrażenia zwiększają się o 1k6.
 
 #### Podmiana wspomnień
+
+# Podmiana wspomnień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:modify-memory
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, uroków (bard, mag)*
 
@@ -15813,11 +18777,19 @@ Musisz opisać celowi, jak zmieniają się jego wspomnienia, a on musi rozumieć
 
 Zmienione wspomnienie nie musi zmieniać zachowania istoty, zwłaszcza gdy zaprzecza jej naturze, charakterowi albo przekonaniom. Nieracjonalne wspomnienie — na przykład fałszywe wspomnienie, jak bardzo podobało jej się pływanie w kwasie — zostanie odrzucone jak zły sen. MP może uznać wspomnienie za zbyt absurdalne, by wpłynąć na istotę.
 
-[Zdjęcie klątwy](#zdjęcie-klątwy) albo [Większe przywrócenie](#większe-przywrócenie) rzucone na cel przywracają prawdziwe wspomnienia.
+[Zdjęcie klątwy](#zdjęcie-klątwy-1) albo [Większe przywrócenie](#większe-przywrócenie-1) rzucone na cel przywracają prawdziwe wspomnienia.
 
 **Użycie komórki czaru wyższego kręgu.** Możesz zmienić wspomnienie zdarzenia sprzed 7 dni (komórka 6. kręgu), 30 dni (7. krąg), 365 dni (8. krąg) albo z dowolnego momentu w przeszłości celu (9. krąg).
 
 #### Podróż przez rośliny
+
+# Podróż przez rośliny
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:transport-via-plants
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (druid)*
 
@@ -15832,6 +18804,14 @@ Zmienione wspomnienie nie musi zmieniać zachowania istoty, zwłaszcza gdy zaprz
 Czar tworzy magiczne połączenie między nieożywioną rośliną Dużej wielkości lub większą w zasięgu a inną rośliną w dowolnej odległości na tej samej płaszczyźnie istnienia. Musiałeś wcześniej choć raz zobaczyć albo dotknąć rośliny docelowej. Przez czas trwania zaklęcia każda istota może wejść do rośliny źródłowej i wyjść z rośliny docelowej, zużywając 1,5 metra ruchu.
 
 #### Pole antymagii
+
+# Pole antymagii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:antimagic-field
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, odpychania (kleryk, mag)*
 
@@ -15849,9 +18829,17 @@ Obszary działania stworzone przez zaklęcia lub inną magię nie mogą sięgać
 
 Trwające zaklęcia — z wyjątkiem tych rzuconych przez artefakt lub bóstwo — są stłumione na obszarze. Dopóki efekt jest stłumiony, nie działa, ale czas spędzony w stłumieniu wlicza się do jego czasu trwania.
 
-[Rozproszenie magii](#rozproszenie-magii) nie ma wpływu na aurę, a aury stworzone przez różne zaklęcia Pola antymagii nie znoszą się nawzajem.
+[Rozproszenie magii](#rozproszenie-magii-1) nie ma wpływu na aurę, a aury stworzone przez różne zaklęcia Pola antymagii nie znoszą się nawzajem.
 
 #### Polimorfia
+
+# Polimorfia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:polymorph
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przemian (bard, druid, zaklinacz, mag)*
 
@@ -15873,6 +18861,14 @@ Wyposażenie celu stapia się z nową formą. Istota nie może używać tego ekw
 
 #### Pomniejsza iluzja
 
+# Pomniejsza iluzja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:minor-illusion
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, iluzji (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -15893,6 +18889,14 @@ Jeśli istota wykona akcję Nauka, aby zbadać dźwięk lub obraz, może stwierd
 
 #### Pomoc
 
+# Pomoc
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:aid
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, odpychania (wynalazca, bard, kleryk, druid, paladyn, łowca)*
 
 **Czas rzucania:** Akcja
@@ -15909,6 +18913,14 @@ Wybierz do trzech istot w zasięgu. Maksymalne PW i aktualne PW każdego celu zw
 
 #### Porażający uścisk
 
+# Porażający uścisk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shocking-grasp
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -15924,6 +18936,14 @@ Z twojej dłoni wyskakuje błyskawica w kierunku istoty, którą próbujesz dotk
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k8, gdy osiągniesz 5. poziom (2k8), 11. poziom (3k8) i 17. poziom (4k8).
 
 #### Poruszenie ziemi
+
+# Poruszenie ziemi
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:move-earth
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przemian (druid, zaklinacz, mag)*
 
@@ -15945,6 +18965,14 @@ Podobnie czar nie wpływa bezpośrednio na roślinność — przesuwana ziemia z
 
 #### Poryw wiatru
 
+# Poryw wiatru
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:gust-of-wind
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (druid, łowca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -15964,6 +18992,14 @@ Podmuch rozprasza gazy i opary, gasi świece i podobne niechronione płomienie w
 Akcją dodatkową w późniejszych turach możesz zmienić kierunek, w którym wieje linia.
 
 #### Powiększenie/Pomniejszenie
+
+# Powiększenie/Pomniejszenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:enlarge-reduce
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, bard, druid, zaklinacz, mag)*
 
@@ -15985,6 +19021,14 @@ Wszystko, co nosi lub trzyma objęta istota, zmienia rozmiar razem z nią. Każd
 
 #### Powstrzymanie śmierci
 
+# Powstrzymanie śmierci
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:spare-the-dying
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, nekromancji (wynalazca, kleryk, druid)*
 
 **Czas rzucania:** Akcja
@@ -16000,6 +19044,14 @@ Wybierz istotę w zasięgu, która ma 0 PW i nie jest martwa. Istota staje się 
 **Ulepszenie sztuczki.** Zasięg podwaja się, gdy osiągniesz 5. poziom (9 metrów), 11. poziom (18 metrów) i 17. poziom (36 metrów).
 
 #### Pozory
+
+# Pozory
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:seeming
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, iluzji (bard, zaklinacz, mag)*
 
@@ -16021,6 +19073,14 @@ Istota, która wykona akcję Nauka, by zbadać cel, może wykonać test Intelige
 
 #### Pozór śmierci
 
+# Pozór śmierci
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:feign-death
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, nekromancji (bard, kleryk, druid, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -16038,6 +19098,14 @@ Przez czas trwania zaklęcia cel wygląda na martwego przy zewnętrznej ocenie i
 Cel ma też odporność na wszystkie obrażenia oprócz psychicznych oraz niepodatność na stan zatruty.
 
 #### Prawdziwa polimorfia
+
+# Prawdziwa polimorfia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:true-polymorph
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, przemian (bard, czarownik, mag)*
 
@@ -16069,6 +19137,14 @@ Jeśli zaklęcie trwa dłużej niż godzinę, tracisz kontrolę nad istotą. Mo�
 
 #### Prawdziwe uderzenie
 
+# Prawdziwe uderzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:true-strike
+
+---
+
+Źródło: Podręcznik Gracza
+
 Sztuczka, Wieszczenia (Bard, Czarownik, Zaklinacz, Mag)
 **Czas rzucania:** Akcja
 **Zasięg:** Ty
@@ -16077,6 +19153,14 @@ Sztuczka, Wieszczenia (Bard, Czarownik, Zaklinacz, Mag)
 Wyciągasz dłoń, wskazując palcem cel w zasięgu czaru. Twoja magia umożliwia ci krótki wgląd w jego obronę. W swojej następnej turze masz ułatwienie w pierwszym teście ataku przeciw niemu, zakładając, że w międzyczasie czar nie dobiegł końca.
 
 #### Prawdziwe widzenie
+
+# Prawdziwe widzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:true-seeing
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, wieszczenia (bard, kleryk, zaklinacz, czarownik, mag)*
 
@@ -16091,6 +19175,14 @@ Wyciągasz dłoń, wskazując palcem cel w zasięgu czaru. Twoja magia umożliwi
 Przez czas trwania zaklęcia dotknięta przez ciebie chętna istota ma prawdziwe widzenie na odległość 36 metrów.
 
 #### Prawdziwe zmartwychwstanie
+
+# Prawdziwe zmartwychwstanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:true-resurrection
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, nekromancji (kleryk, druid)*
 
@@ -16110,6 +19202,14 @@ Zaklęcie może zapewnić nowe ciało, jeśli oryginał już nie istnieje — wt
 
 #### Produkcja
 
+# Produkcja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fabricate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przemian (wynalazca, mag)*
 
 **Czas rzucania:** 10 minut
@@ -16128,6 +19228,14 @@ Zaklęcie nie tworzy istot ani przedmiotów magicznych. Nie możesz też wytwarz
 
 #### Profetyzm
 
+# Profetyzm
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:foresight
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, wieszczenia (bard, druid, czarownik, mag)*
 
 **Czas rzucania:** 1 minuta
@@ -16141,6 +19249,14 @@ Zaklęcie nie tworzy istot ani przedmiotów magicznych. Nie możesz też wytwarz
 Dotykasz chętnej istoty i obdarzasz ją ograniczoną zdolnością widzenia bezpośredniej przyszłości. Przez czas trwania zaklęcia cel ma ułatwienie w testach K20, a inne istoty mają utrudnienie w testach ataku przeciwko niemu. Zaklęcie kończy się wcześniej, jeśli rzucisz je ponownie.
 
 #### Projekcja astralna
+
+# Projekcja astralna
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:astral-projection
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, nekromancji (kleryk, czarownik, mag)*
 
@@ -16164,6 +19280,14 @@ Gdy zaklęcie kończy się dla celu, który nie jest martwy, cel pojawia się z 
 
 #### Projekcja obrazu
 
+# Projekcja obrazu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:project-image
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, iluzji (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -16182,6 +19306,14 @@ Fizyczna interakcja z obrazem ujawnia, że to iluzja, ponieważ przedmioty przez
 
 #### Promień mrozu
 
+# Promień mrozu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-frost
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -16198,6 +19330,14 @@ Lodowaty promień biało-błękitnego światła wystrzeliwuje ku istocie w zasi�
 
 #### Promień nadziei
 
+# Promień nadziei
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:beacon-of-hope
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -16211,6 +19351,14 @@ Lodowaty promień biało-błękitnego światła wystrzeliwuje ku istocie w zasi�
 Wybierz dowolną liczbę istot w zasięgu. Przez czas trwania zaklęcia każdy cel ma ułatwienie w rzutach obronnych na Mądrość i rzutach przeciw śmierci oraz odzyskuje maksymalną możliwą liczbę PW z każdego leczenia.
 
 #### Promień osłabienia
+
+# Promień osłabienia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-enfeeblement
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, nekromancji (czarownik, mag)*
 
@@ -16227,6 +19375,14 @@ Z ciebie w kierunku istoty w zasięgu wystrzeliwuje wiązka wysysającej energii
 Przy nieudanym rzucie ma utrudnienie w testach K20 opartych na Sile przez czas trwania zaklęcia. W tym czasie odejmuje też 1k8 od wszystkich swoich rzutów na obrażenia. Na końcu każdej swojej tury cel powtarza rzut, kończąc zaklęcie u siebie przy sukcesie.
 
 #### Promień słońca
+
+# Promień słońca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sunbeam
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, wywoływania (kleryk, druid, czarownik, mag)*
 
@@ -16246,6 +19402,14 @@ Przez czas trwania nad tobą świeci drobina olśniewającego blasku. Emituje ja
 
 #### Promień zatrucia
 
+# Promień zatrucia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ray-of-sickness
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, nekromancji (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -16261,6 +19425,14 @@ Wystrzeliwujesz zielonkawy promień w istotę w zasięgu. Wykonaj test ataku cza
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 1.
 
 #### Prowokacja
+
+# Prowokacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:compelled-duel
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (paladyn)*
 
@@ -16278,6 +19450,14 @@ Zaklęcie kończy się, jeśli wykonasz test ataku przeciwko istocie innej niż 
 
 #### Pryzmatyczny mur
 
+# Pryzmatyczny mur
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:prismatic-wall
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, odpychania (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -16294,7 +19474,7 @@ Migocząca, wielobarwna płaszczyzna światła tworzy pionową, nieprzezroczyst�
 
 Ściana składa się z siedmiu warstw, każda w innym kolorze. Gdy istota wkłada coś do ściany albo przez nią przechodzi, czyni to warstwa po warstwie przez wszystkie warstwy. Każda warstwa zmusza istotę do rzutu obronnego na Zręczność albo do poddania się właściwościom tej warstwy opisanym w tabeli Pryzmatyczne warstwy.
 
-Ściana ma KP 10 i może zostać zniszczona warstwa po warstwie, od czerwonej do fioletowej, specyficznymi dla każdej warstwy sposobami. Jeśli warstwa zostanie zniszczona, znika na czas trwania zaklęcia. [Pole antymagii](#pole-antymagii) nie ma wpływu na ścianę, a [Rozproszenie magii](#rozproszenie-magii) może dotknąć tylko warstwy fioletowej.
+Ściana ma KP 10 i może zostać zniszczona warstwa po warstwie, od czerwonej do fioletowej, specyficznymi dla każdej warstwy sposobami. Jeśli warstwa zostanie zniszczona, znika na czas trwania zaklęcia. [Pole antymagii](#pole-antymagii-1) nie ma wpływu na ścianę, a [Rozproszenie magii](#rozproszenie-magii-1) może dotknąć tylko warstwy fioletowej.
 
 ##### Pryzmatyczne warstwy
 
@@ -16303,12 +19483,20 @@ Migocząca, wielobarwna płaszczyzna światła tworzy pionową, nieprzezroczyst�
 | 1 | **Czerwony.** *Nieudany rzut*: 12k6 obrażeń od ognia. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* niemagiczne ataki dystansowe nie przechodzą przez tę warstwę; zostaje zniszczona, jeśli otrzyma co najmniej 25 obrażeń od zimna. |
 | 2 | **Pomarańczowy.** *Nieudany rzut*: 12k6 obrażeń od kwasu. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* magiczne ataki dystansowe nie przechodzą przez tę warstwę; zostaje zniszczona przez silny wiatr (np. z Porywu wiatru). |
 | 3 | **Żółty.** *Nieudany rzut*: 12k6 obrażeń od pioruna. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* warstwa zostaje zniszczona, jeśli otrzyma co najmniej 60 obrażeń od mocy. |
-| 4 | **Zielony.** *Nieudany rzut*: 12k6 obrażeń od trucizny. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* zaklęcie [Przejście w murze](#przejście-w-murze) albo inny czar równego lub wyższego kręgu otwierający portal w solidnej powierzchni niszczy tę warstwę. |
+| 4 | **Zielony.** *Nieudany rzut*: 12k6 obrażeń od trucizny. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* zaklęcie [Przejście w murze](#przejście-w-murze-1) albo inny czar równego lub wyższego kręgu otwierający portal w solidnej powierzchni niszczy tę warstwę. |
 | 5 | **Niebieski.** *Nieudany rzut*: 12k6 obrażeń od zimna. *Udany rzut*: połowa obrażeń. *Dodatkowe efekty:* warstwa zostaje zniszczona, jeśli otrzyma co najmniej 25 obrażeń od ognia. |
-| 6 | **Indygo.** *Nieudany rzut*: cel ma stan pochwycony i na koniec każdej swojej tury wykonuje rzut obronny na Kondycję. Po trzech udanych rzutach stan się kończy. Po trzech nieudanych cel ma stan skamieniały, dopóki nie zostanie uwolniony efektem takim jak [Większe przywrócenie](#większe-przywrócenie). Sukcesy i porażki nie muszą być kolejne — śledź oba, aż cel zbierze trzy z jednego rodzaju. *Dodatkowe efekty:* przez tę warstwę nie można rzucać czarów; zostaje zniszczona przez jasne światło emitowane przez zaklęcie [Światło dnia](#światło-dnia). |
-| 7 | **Fioletowy.** *Nieudany rzut*: cel ma stan oślepiony i na początku twojej następnej tury wykonuje rzut obronny na Mądrość. Przy udanym rzucie stan się kończy. Przy nieudanym stan się kończy, a istota teleportuje się na inną płaszczyznę istnienia (wybór MP). *Dodatkowe efekty:* tę warstwę niszczy [Rozproszenie magii](#rozproszenie-magii). |
+| 6 | **Indygo.** *Nieudany rzut*: cel ma stan pochwycony i na koniec każdej swojej tury wykonuje rzut obronny na Kondycję. Po trzech udanych rzutach stan się kończy. Po trzech nieudanych cel ma stan skamieniały, dopóki nie zostanie uwolniony efektem takim jak [Większe przywrócenie](#większe-przywrócenie-1). Sukcesy i porażki nie muszą być kolejne — śledź oba, aż cel zbierze trzy z jednego rodzaju. *Dodatkowe efekty:* przez tę warstwę nie można rzucać czarów; zostaje zniszczona przez jasne światło emitowane przez zaklęcie [Światło dnia](#światło-dnia-1). |
+| 7 | **Fioletowy.** *Nieudany rzut*: cel ma stan oślepiony i na początku twojej następnej tury wykonuje rzut obronny na Mądrość. Przy udanym rzucie stan się kończy. Przy nieudanym stan się kończy, a istota teleportuje się na inną płaszczyznę istnienia (wybór MP). *Dodatkowe efekty:* tę warstwę niszczy [Rozproszenie magii](#rozproszenie-magii-1). |
 
 #### Pryzmatyczny rozprysk
+
+# Pryzmatyczny rozprysk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:prismatic-spray
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, wywoływania (bard, zaklinacz, mag)*
 
@@ -16337,6 +19525,14 @@ Z ciebie wystrzeliwuje osiem promieni światła w stożku o długości 18 metró
 
 #### Przebranie siebie
 
+# Przebranie siebie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:disguise-self
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, iluzji (wynalazca, bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -16355,6 +19551,14 @@ Aby stwierdzić, że jesteś przebrany, istota musi wykonać akcję Nauka, aby z
 
 #### Przebudzenie
 
+# Przebudzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:awaken
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przemian (bard, druid)*
 
 **Czas rzucania:** 8 godzin
@@ -16371,6 +19575,14 @@ Obudzony cel ma stan zauroczony przez 30 dni albo do chwili, gdy ty lub twoi soj
 
 #### Przeciwzaklęcie
 
+# Przeciwzaklęcie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:counterspell
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Reakcja, którą wykonujesz, gdy widzisz, jak istota w promieniu 18 metrów od siebie rzuca zaklęcie ze składnikami werbalnym, somatycznym lub materialnym
@@ -16385,6 +19597,14 @@ Próbujesz przerwać istotę w trakcie rzucania zaklęcia. Istota wykonuje rzut 
 
 #### Przejście bez śladu
 
+# Przejście bez śladu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:pass-without-trace
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, odpychania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -16398,6 +19618,14 @@ Próbujesz przerwać istotę w trakcie rzucania zaklęcia. Istota wykonuje rzut 
 Emitujesz aurę maskującą w emanacji o promieniu 9 metrów przez czas trwania zaklęcia. Dopóki pozostajesz w aurze, ty i każda wybrana przez ciebie istota macie premię +10 do testów Zręczności (Skradanie się) i nie pozostawiacie śladów.
 
 #### Przejście w murze
+
+# Przejście w murze
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:passwall
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przemian (mag)*
 
@@ -16415,6 +19643,14 @@ Gdy otwór znika, wszystkie istoty i przedmioty nadal znajdujące się w utworzo
 
 #### Przeszywający dotyk
 
+# Przeszywający dotyk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:chill-touch
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, nekromancji (zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -16430,6 +19666,14 @@ Kierując chłód grobu, wykonujesz test ataku czarem wręcz przeciwko celowi w 
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k10, gdy osiągniesz 5. poziom (2k10), 11. poziom (3k10) i 17. poziom (4k10).
 
 #### Przezorność
+
+# Przezorność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:contingency
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, odpychania (mag)*
 
@@ -16449,6 +19693,14 @@ Czar warunkowy działa tylko na ciebie, nawet jeśli normalnie mógłby celować
 
 #### Przyjaciel zwierząt
 
+# Przyjaciel zwierząt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:animal-friendship
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, uroków (bard, druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -16464,6 +19716,14 @@ Wybierz bestię, którą widzisz w zasięgu. Cel musi odnieść sukces w rzucie 
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową bestię za każdy krąg komórki czaru powyżej 1.
 
 #### Przyjaźń
+
+# Przyjaźń
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:friends
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, uroków (bard, zaklinacz, czarownik, mag)*
 
@@ -16481,6 +19741,14 @@ Zaklęcie kończy się wcześniej, jeśli cel otrzyma obrażenia albo jeśli wyk
 
 #### Przymus
 
+# Przymus
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:compulsion
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, uroków (bard)*
 
 **Czas rzucania:** Akcja
@@ -16497,6 +19765,14 @@ Przez czas trwania zaklęcia akcją dodatkową możesz wskazać kierunek poziomy
 
 #### Przyspieszenie
 
+# Przyspieszenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:haste
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -16512,6 +19788,14 @@ Wybierz chętną istotę, którą widzisz w zasięgu. Dopóki zaklęcie trwa, sz
 Gdy zaklęcie się kończy, cel ma stan obezwładniony i szybkość 0 do końca swojej następnej tury, gdyż ogarnia go fala ospałości.
 
 #### Przywołanie aberracji
+
+# Przywołanie aberracji
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-aberration
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (czarownik, mag)*
 
@@ -16561,6 +19845,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Przywołanie bestii
 
+# Przywołanie bestii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-beast
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -16605,6 +19897,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 **Rozdarcie.** *Test ataku wręcz:* premia równa premii z twojego testu ataku czarem, zasięg 1,5 metra. *Trafienie:* 1k8 + 4 + krąg czaru obrażeń kłutych.
 
 #### Przywołanie czarta
+
+# Przywołanie czarta
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-fiend
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (czarownik, mag)*
 
@@ -16657,6 +19957,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Przywołanie fey
 
+# Przywołanie fey
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-fey
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, przywoływania (druid)*
 
 **Czas rzucania:** Akcja
@@ -16674,6 +19982,14 @@ Akcją dodatkową w późniejszych turach możesz teleportować ducha na wolne m
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k12 za każdy krąg komórki czaru powyżej 6.
 
 #### Przywołanie feya
+
+# Przywołanie feya
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-fey
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przywoływania (druid, łowca, czarownik, mag)*
 
@@ -16720,6 +20036,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 - **Psotny.** Duch wypełnia magiczną ciemnością sześcian o boku 3 metry w promieniu 1,5 metra od siebie; trwa do końca następnej tury ducha.
 
 #### Przywołanie konstruktu
+
+# Przywołanie konstruktu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-construct
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (wynalazca, mag)*
 
@@ -16770,6 +20094,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Przywołanie leśnych istot
 
+# Przywołanie leśnych istot
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-woodland-beings
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -16788,6 +20120,14 @@ Ponadto przez czas trwania zaklęcia możesz wykonać akcję Odstąpienie jako a
 
 #### Przywołanie mniejszych żywiołaków
 
+# Przywołanie mniejszych żywiołaków
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-minor-elementals
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przywoływania (druid, mag)*
 
 **Czas rzucania:** Akcja
@@ -16805,6 +20145,14 @@ Ponadto grunt w emanacji jest trudnym terenem dla twoich wrogów.
 **Użycie komórki czaru wyższego kręgu.** Dodatkowe obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 4.
 
 #### Przywołanie niebianina
+
+# Przywołanie niebianina
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-celestial
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przywoływania (kleryk)*
 
@@ -16829,6 +20177,14 @@ Za każdym razem, gdy walec wchodzi w przestrzeń istoty, którą widzisz, albo 
 **Użycie komórki czaru wyższego kręgu.** Leczenie i obrażenia zwiększają się o 1k12 za każdy krąg komórki czaru powyżej 7.
 
 #### Przywołanie niebiańskiego
+
+# Przywołanie niebiańskiego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-celestial
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przywoływania (kleryk, paladyn)*
 
@@ -16872,6 +20228,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 **Uzdrawiający dotyk (1/dzień).** Duch dotyka innej istoty. Cel odzyskuje PW równe 2k8 + krąg czaru.
 
 #### Przywołanie nieumarłego
+
+# Przywołanie nieumarłego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-undead
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, nekromancji (czarownik, mag)*
 
@@ -16921,6 +20285,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Przywołanie ognia
 
+# Przywołanie ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-barrage
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przywoływania (łowca)*
 
 **Czas rzucania:** Akcja
@@ -16937,6 +20309,14 @@ Wymachujesz bronią użytą do rzucenia zaklęcia i przywołujesz podobne widmow
 
 #### Przywołanie ostrzału
 
+# Przywołanie ostrzału
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-volley
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (łowca)*
 
 **Czas rzucania:** Akcja
@@ -16950,6 +20330,14 @@ Wymachujesz bronią użytą do rzucenia zaklęcia i przywołujesz podobne widmow
 Wymachujesz bronią użytą do rzucenia zaklęcia i wybierasz punkt w zasięgu. Setki podobnych widmowych broni (albo odpowiedniej amunicji) spadają gradem i znikają. Każda wybrana przez ciebie istota, którą widzisz w walcu o promieniu 12 metrów i wysokości 6 metrów ze środkiem w tym punkcie, wykonuje rzut obronny na Zręczność, otrzymując 8k8 obrażeń od mocy przy nieudanym rzucie lub połowę tych obrażeń przy udanym.
 
 #### Przywołanie smoka
+
+# Przywołanie smoka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-dragon
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przywoływania (mag)*
 
@@ -16996,6 +20384,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Przywołanie zwierząt
 
+# Przywołanie zwierząt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-animals
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -17016,6 +20412,14 @@ Gdy wataha zbliży się na mniej niż 3 metry do istoty, którą widzisz, albo g
 
 #### Przywołanie żywiołaka
 
+# Przywołanie żywiołaka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:conjure-elemental
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (druid, mag)*
 
 **Czas rzucania:** Akcja
@@ -17033,6 +20437,14 @@ Za każdym razem, gdy istota, którą widzisz, wejdzie w przestrzeń ducha albo 
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 5.
 
 #### Przywołanie żywiołaka
+
+# Przywołanie żywiołaka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:summon-elemental
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (druid, łowca, mag)*
 
@@ -17077,6 +20489,14 @@ Istota jest sojusznikiem ciebie i twoich sojuszników. W walce dzieli z tobą wy
 
 #### Pętające uderzenie
 
+# Pętające uderzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:ensnaring-strike
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (łowca)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu istoty bronią
@@ -17095,6 +20515,14 @@ Dopóki cel ma stan unieruchomiony, na początku każdej swojej tury otrzymuje 1
 
 #### Płaszcz krzyżowca
 
+# Płaszcz krzyżowca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:crusader-s-mantle
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (paladyn)*
 
 **Czas rzucania:** Akcja
@@ -17108,6 +20536,14 @@ Dopóki cel ma stan unieruchomiony, na początku każdej swojej tury otrzymuje 1
 Promieniuje od ciebie magiczna aura w postaci emanacji o promieniu 9 metrów. Dopóki jesteś w aurze, ty i twoi sojusznicy zadajecie dodatkowe 1k4 obrażeń od światła przy trafieniu bronią albo atakiem bez broni.
 
 #### Płomienna kula
+
+# Płomienna kula
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:flaming-sphere
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przywoływania (druid, zaklinacz, mag)*
 
@@ -17129,6 +20565,14 @@ Gdy poruszasz kulą, możesz poprowadzić ją przez przeszkody do 1,5 metra wyso
 
 #### Płomienne ostrze
 
+# Płomienne ostrze
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:flame-blade
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (druid, zaklinacz)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -17149,6 +20593,14 @@ Płomienne ostrze emituje jasne światło w promieniu 3 metrów i słabe świat�
 
 #### Płonące dłonie
 
+# Płonące dłonie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:burning-hands
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -17167,6 +20619,14 @@ Z ciebie wystrzeliwuje cienka warstwa płomieni. Każda istota w stożku o dług
 
 #### Ramiona Hadara
 
+# Ramiona Hadara
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:arms-of-hadar
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (czarownik)*
 
 **Czas rzucania:** Akcja
@@ -17183,6 +20643,14 @@ Przyzywając Hadara, sprawiasz, że z ciebie wyrastają macki. Każda istota w e
 
 #### Regeneracja
 
+# Regeneracja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:regenerate
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, przemian (bard, kleryk, druid)*
 
 **Czas rzucania:** 1 minuta
@@ -17196,6 +20664,14 @@ Przyzywając Hadara, sprawiasz, że z ciebie wyrastają macki. Każda istota w e
 Istota, której dotykasz, odzyskuje 4k8 + 15 PW. Przez czas trwania zaklęcia cel odzyskuje 1 PW na początku każdej swojej tury, a odcięte części ciała odrastają po 2 minutach.
 
 #### Reinkarnacja
+
+# Reinkarnacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:reincarnate
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, nekromancji (druid)*
 
@@ -17226,6 +20702,14 @@ Reinkarnowana istota dokonuje wyborów oferowanych w opisie gatunku i pamięta p
 
 #### Rozgrzanie metalu
 
+# Rozgrzanie metalu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:heat-metal
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (wynalazca, bard, druid)*
 
 **Czas rzucania:** Akcja
@@ -17243,6 +20727,14 @@ Jeśli istota trzyma lub nosi obiekt i otrzyma od niego obrażenia, musi odnieś
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 2.
 
 #### Rozkaz
+
+# Rozkaz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:command
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (bard, kleryk, paladyn)*
 
@@ -17270,6 +20762,14 @@ Wypowiadasz jednosłowny rozkaz skierowany do istoty, którą widzisz w zasięgu
 
 #### Rozmawianie z roślinami
 
+# Rozmawianie z roślinami
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:speak-with-plants
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (bard, druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -17290,6 +20790,14 @@ Jeśli w obszarze jest roślinna istota, możesz z nią rozmawiać, jakbyście m
 
 #### Rozmawianie z umarłymi
 
+# Rozmawianie z umarłymi
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:speak-with-dead
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, nekromancji (bard, kleryk, mag)*
 
 **Czas rzucania:** Akcja
@@ -17305,6 +20813,14 @@ Nadajesz pozór życia wybranym zwłokom w zasięgu, pozwalając im odpowiadać 
 Dopóki zaklęcie trwa, możesz zadać zwłokom do pięciu pytań. Zwłoki wiedzą tylko tyle, ile wiedziały za życia, włącznie z językami, które znały. Odpowiedzi są zwykle krótkie, zagadkowe lub powtarzalne, a zwłoki nie są zobowiązane do prawdomównego odpowiadania, jeśli jesteś wobec nich wrogo nastawiony albo rozpoznają cię jako wroga. To zaklęcie nie przywraca duszy do ciała — tylko ożywiający duch. Zwłoki nie mogą zdobyć nowych informacji, nie rozumieją niczego, co wydarzyło się po śmierci, i nie mogą spekulować o przyszłości.
 
 #### Rozmawianie ze zwierzętami
+
+# Rozmawianie ze zwierzętami
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:speak-with-animals
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wieszczenia (bard, druid, łowca, czarownik)*
 
@@ -17322,6 +20838,14 @@ Większość bestii ma niewiele do powiedzenia na tematy niezwiązane z przetrwa
 
 #### Rozmycie
 
+# Rozmycie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:blur
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, iluzji (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -17335,6 +20859,14 @@ Większość bestii ma niewiele do powiedzenia na tematy niezwiązane z przetrwa
 Twoje ciało staje się rozmyte. Przez czas trwania każda istota ma utrudnienie w testach ataku przeciwko tobie. Atakujący jest odporny na ten efekt, jeśli postrzega cię dzięki ślepowidzeniu lub prawdziwemu widzeniu.
 
 #### Rozproszenie dobra i zła
+
+# Rozproszenie dobra i zła
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dispel-evil-and-good
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, odpychania (kleryk, paladyn)*
 
@@ -17354,6 +20886,14 @@ Przez czas trwania zaklęcia istoty niebiańskie, żywiołaki, fey, czarty i nie
 
 #### Rozproszenie magii
 
+# Rozproszenie magii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dispel-magic
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (wynalazca, bard, kleryk, druid, paladyn, łowca, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17369,6 +20909,14 @@ Wybierz jedną istotę, obiekt lub efekt magiczny w zasięgu. Wszystkie trwając
 **Użycie komórki czaru wyższego kręgu.** Automatycznie kończysz zaklęcie na celu, jeśli jego krąg jest równy lub niższy niż krąg zużytej komórki czaru.
 
 #### Rozrost roślin
+
+# Rozrost roślin
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:plant-growth
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przemian (bard, druid, łowca)*
 
@@ -17388,6 +20936,14 @@ To zaklęcie tchnie witalność w rośliny. Użyty czas rzucania określa, czy m
 
 #### Rozumienie języków
 
+# Rozumienie języków
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:comprehend-languages
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wieszczenia (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -17401,6 +20957,14 @@ To zaklęcie tchnie witalność w rośliny. Użyty czas rzucania określa, czy m
 Przez czas trwania zaklęcia rozumiesz dosłowne znaczenie każdego języka mówionego lub migowego, który słyszysz lub widzisz. Rozumiesz też każdy język pisany, który widzisz, ale musisz dotykać powierzchni, na której zapisano słowa. Przeczytanie jednej strony tekstu zajmuje około 1 minuty. Zaklęcie nie rozszyfrowuje symboli ani tajnych wiadomości.
 
 #### Rój meteorytów
+
+# Rój meteorytów
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:meteor-swarm
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, wywoływania (zaklinacz, mag)*
 
@@ -17418,6 +20982,14 @@ Niemagiczny przedmiot, który nie jest noszony ani niesiony, też otrzymuje obra
 
 #### Sanktuarium
 
+# Sanktuarium
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sanctuary
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (wynalazca, kleryk)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -17433,6 +21005,14 @@ Osłaniasz istotę w zasięgu. Dopóki zaklęcie trwa, każda istota, która wyb
 Zaklęcie kończy się, jeśli chroniona istota wykona test ataku, rzuci zaklęcie lub zada obrażenia.
 
 #### Sekretny kufer Leomunda
+
+# Sekretny kufer Leomunda
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:leomunds-secret-chest
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (wynalazca, mag)*
 
@@ -17451,6 +21031,14 @@ Dopóki kufer pozostaje na Sferze Eterycznej, możesz akcją magiczną dotknąć
 Po 60 dniach na koniec każdego dnia rośnie skumulowane o 5% ryzyko, że zaklęcie się kończy. Kończy się też, jeśli rzucisz je ponownie albo jeśli zniszczona zostanie Drobniejsza replika. Gdy zaklęcie się kończy, a większy kufer jest na Sferze Eterycznej, pozostaje tam — możesz go odnaleźć ty albo ktoś inny.
 
 #### Sen
+
+# Sen
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dream
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, iluzji (bard, czarownik, mag)*
 
@@ -17472,6 +21060,14 @@ Możesz sprawić, że posłaniec będzie dla celu przerażający. Wtedy może pr
 
 #### Sfera niepodatności
 
+# Sfera niepodatności
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:globe-of-invulnerability
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, odpychania (czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17489,6 +21085,14 @@ Wokół ciebie pojawia się nieruchoma, migocząca bariera w postaci emanacji o 
 **Użycie komórki czaru wyższego kręgu.** Bariera blokuje czary o 1 krąg wyższe za każdy krąg komórki czaru powyżej 6.
 
 #### Sferalne wiązanie
+
+# Sferalne wiązanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:planar-binding
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, odpychania (bard, kleryk, druid, czarownik, mag)*
 
@@ -17508,6 +21112,14 @@ Związana istota musi wykonywać twoje rozkazy najlepiej, jak potrafi. Możesz k
 
 #### Sferalny przeskok
 
+# Sferalny przeskok
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:plane-shift
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, przywoływania (kleryk, druid, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17523,6 +21135,14 @@ Ty i do ośmiu chętnych istot, które łączą się w krąg za ręce, zostajeci
 Możesz też, jeśli znasz sekwencję pieczęci kręgu teleportacyjnego na innej płaszczyźnie istnienia, sprawić, że zaklęcie zabierze was do tego kręgu. Jeśli krąg jest zbyt mały, by pomieścić wszystkie przeniesione istoty, pojawiają się na najbliższych wolnych miejscach obok kręgu.
 
 #### Sferalny sojusznik
+
+# Sferalny sojusznik
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:planar-ally
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (kleryk)*
 
@@ -17546,6 +21166,14 @@ Gdy istota wykona zadanie albo upłynie uzgodniony czas służby, wraca na macie
 
 #### Shillelagh
 
+# Shillelagh
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shillelagh
+
+---
+
+Źródło: Podręcznik Gracza
+
 Sztuczka, Przemian (Druid)
 **Czas rzucania:** Akcja dodatkowa
 **Zasięg:** Ty
@@ -17555,6 +21183,14 @@ Sztuczka, Przemian (Druid)
 Drewno drąga lub pałki napełnia się w twoich rękach mocą natury. Podczas działania czaru w testach ataku tą bronią i przy zadawaniu nią obrażeń możesz zamiast Siły użyć swojej cechy bazowej, a kość obrażeń zamieniasz na k8. Broń staje się też magiczna, jeśli wcześniej nie była. Czar wygasa, kiedy rzucisz go ponownie albo gdy wypuścisz zaklętą broń z rąk.
 
 #### Skok
+
+# Skok
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:jump
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przemian (wynalazca, druid, łowca, zaklinacz, mag)*
 
@@ -17572,6 +21208,14 @@ Dotykasz chętnej istoty. Raz w każdej swojej turze, do końca zaklęcia, może
 
 #### Spacer między drzewami
 
+# Spacer między drzewami
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tree-stride
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -17587,6 +21231,14 @@ Zyskujesz zdolność wejścia do drzewa i przeniesienia się z wnętrza jednego 
 Z tej zdolności podróży możesz skorzystać tylko raz w każdej swojej turze. Każdą turę musisz zakończyć poza drzewem.
 
 #### Spacer na wietrze
+
+# Spacer na wietrze
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wind-walk
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przemian (druid)*
 
@@ -17604,6 +21256,14 @@ Jeśli cel w formie chmury lata, gdy efekt się kończy, opada 18 metrów na run
 
 #### Spacer po wodzie
 
+# Spacer po wodzie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:water-walk
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przemian (wynalazca, kleryk, druid, łowca, zaklinacz)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -17619,6 +21279,14 @@ Zaklęcie daje zdolność poruszania się po dowolnej powierzchni cieczy — wod
 Objęta istota musi wydać akcję dodatkową, by przejść z powierzchni cieczy do jej wnętrza albo z powrotem na powierzchnię, ale jeśli spadnie do cieczy, przenika przez powierzchnię w głąb.
 
 #### Spowolnienie
+
+# Spowolnienie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:slow
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przemian (bard, zaklinacz, mag)*
 
@@ -17638,6 +21306,14 @@ Objęty cel powtarza rzut na końcu każdej swojej tury, kończąc zaklęcie u s
 
 #### Sprężysta sfera Otiluke’a
 
+# Sprężysta sfera Otiluke’a
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:otilukes-resilient-sphere
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, odpychania (wynalazca, mag)*
 
 **Czas rzucania:** Akcja
@@ -17654,9 +21330,17 @@ Nic — ani przedmioty fizyczne, energia, ani inne efekty czarów — nie przech
 
 Sfera jest bezwładna i ma dokładnie taki rozmiar, by pomieścić zawartość. Uwięziona istota może wykonać akcję, by naciskać na ściany sfery i toczyć ją z prędkością do połowy własnej prędkości. Podobnie kulę można podnieść i przenosić inne istoty.
 
-Zaklęcie [Dezintegracja](#dezintegracja) celujące w kulę niszczy ją, nie szkodząc niczemu w środku.
+Zaklęcie [Dezintegracja](#dezintegracja-1) celujące w kulę niszczy ją, nie szkodząc niczemu w środku.
 
 #### Stożek zimna
+
+# Stożek zimna
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:cone-of-cold
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wywoływania (druid, zaklinacz, mag)*
 
@@ -17674,6 +21358,14 @@ Uwalniasz podmuch zimnego powietrza. Każda istota w stożku o długości 18 met
 
 #### Strach
 
+# Strach
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fear
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, iluzji (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17689,6 +21381,14 @@ Każda istota w stożku o długości 9 metrów musi odnieść sukces w rzucie ob
 Przerażona istota w każdej swojej turze wykonuje akcję Sprint i oddala się od ciebie najbezpieczniejszą drogą, chyba że nie ma dokąd uciec. Jeśli kończy turę w miejscu, skąd nie ma do ciebie pola widzenia, wykonuje rzut obronny na Mądrość. Przy sukcesie zaklęcie kończy się u niej.
 
 #### Strażnik wiary
+
+# Strażnik wiary
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:guardian-of-faith
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, przywoływania (kleryk)*
 
@@ -17706,6 +21406,14 @@ Każdy wróg, który po raz pierwszy w turze wejdzie w przestrzeń w promieniu 3
 
 #### Strefa prawdy
 
+# Strefa prawdy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:zone-of-truth
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, uroków (bard, kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -17722,6 +21430,14 @@ Objęta istota wie o zaklęciu i może unikać odpowiadania na pytania, na któr
 
 #### Stworzenie jadła i wody
 
+# Stworzenie jadła i wody
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:create-food-and-water
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przywoływania (wynalazca, kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -17735,6 +21451,14 @@ Objęta istota wie o zaklęciu i może unikać odpowiadania na pytania, na któr
 Tworzysz na ziemi lub w pojemnikach w zasięgu około 20 kilogramów żywności i 113 litrów świeżej wody — przydatne w walce z niedożywieniem i odwodnieniem. Jedzenie jest mdłe, ale pożywne i wygląda jak wybrane przez ciebie danie, a woda jest czysta. Niezjedzona żywność psuje się po 24 godzinach.
 
 #### Stworzenie lub zniszczenie wody
+
+# Stworzenie lub zniszczenie wody
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:create-or-destroy-water
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przemian (kleryk, druid)*
 
@@ -17756,6 +21480,14 @@ Wykonujesz jedną z poniższych czynności:
 
 #### Stworzenie nieumarłego
 
+# Stworzenie nieumarłego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:create-undead
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, nekromancji (kleryk, czarownik, mag)*
 
 **Czas rzucania:** 1 minuta
@@ -17776,6 +21508,14 @@ Istota pozostaje pod twoją kontrolą przez 24 godziny, po czym przestaje wykony
 
 #### Sugestia
 
+# Sugestia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:suggestion
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17791,6 +21531,14 @@ Sugerujesz plan działania — opisany w nie więcej niż 25 słowach — jednej
 Cel musi odnieść sukces w rzucie obronnym na Mądrość albo ma stan zauroczony przez czas trwania zaklęcia lub do chwili, gdy ty lub twoi sojusznicy zadasz mu obrażenia. Zauroczony cel realizuje sugestię najlepiej, jak potrafi. Sugerowane działanie może trwać cały czas działania zaklęcia, ale jeśli da się je ukończyć szybciej, zaklęcie kończy się u celu po jego wykonaniu.
 
 #### Swoboda ruchu
+
+# Swoboda ruchu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:freedom-of-movement
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, odpychania (wynalazca, bard, kleryk, druid, łowca)*
 
@@ -17809,6 +21557,14 @@ Dodatkowo cel może wydać 1,5 metra ruchu, aby automatycznie uwolnić się z ni
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 4.
 
 #### Symbol
+
+# Symbol
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:symbol
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, odpychania (bard, kleryk, druid, mag)*
 
@@ -17846,6 +21602,14 @@ Po wyzwoleniu glif świeci, wypełniając sferę o promieniu 18 metrów słabym 
 
 #### Symulakrum
 
+# Symulakrum
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:simulacrum
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, iluzji (mag)*
 
 **Czas rzucania:** 12 godzin
@@ -17866,6 +21630,14 @@ Symulakrum trwa, dopóki nie spadnie do 0 PW — wtedy wraca do postaci śniegu 
 
 #### Synaptyczna statyka
 
+# Synaptyczna statyka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:synaptic-static
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17881,6 +21653,14 @@ Sprawiasz, że energia psychiczna wybucha w punkcie w zasięgu. Każda istota w 
 Przy nieudanym rzucie cel ma też na 1 minutę zamglone myśli. W tym czasie odejmuje 1k6 od wszystkich testów ataku i testów cech, a także od rzutów obronnych na Kondycję na utrzymanie koncentracji. Na koniec każdej swojej tury cel wykonuje rzut obronny na Inteligencję, kończąc efekt u siebie przy sukcesie.
 
 #### Sztuczka z liną
+
+# Sztuczka z liną
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:rope-trick
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, mag)*
 
@@ -17898,6 +21678,14 @@ Przestrzeń pomieści do ośmiu istot Średniej wielkości lub mniejszych. Ataki
 
 #### Szybkonogi
 
+# Szybkonogi
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:longstrider
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przemian (wynalazca, bard, druid, łowca, mag)*
 
 **Czas rzucania:** Akcja
@@ -17913,6 +21701,14 @@ Dotykasz istotę. Szybkość celu zwiększa się o 3 metry, dopóki zaklęcie tr
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 1.
 
 #### Słoneczny blask
+
+# Słoneczny blask
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sunburst
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, wywoływania (kleryk, druid, zaklinacz, mag)*
 
@@ -17932,6 +21728,14 @@ Zaklęcie rozprasza Ciemność w swoim obszarze stworzoną przez dowolny czar.
 
 #### Słowo boże
 
+# Słowo boże
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:divine-word
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, wywoływania (kleryk)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -17942,7 +21746,7 @@ Zaklęcie rozprasza Ciemność w swoim obszarze stworzoną przez dowolny czar.
 
 **Czas trwania:** Natychmiastowy
 
-Wypowiadasz słowo nasycone mocą Górnych Płaszczyzn. Każda wybrana przez ciebie istota w zasięgu wykonuje rzut obronny na Charyzmę. Przy nieudanym rzucie cel z 50 PW lub mniej doznaje efektu zależnego od bieżących PW, jak w tabeli poniżej. Niezależnie od PW niebiański, żywiołak, fey albo czart, który nie zdał rzutu, zostaje odesłany na macierzystą płaszczyznę (jeśli jeszcze na niej nie przebywa) i nie może wrócić na obecną płaszczyznę przez 24 godziny żadnym sposobem krótszym niż [Życzenie](#życzenie).
+Wypowiadasz słowo nasycone mocą Górnych Płaszczyzn. Każda wybrana przez ciebie istota w zasięgu wykonuje rzut obronny na Charyzmę. Przy nieudanym rzucie cel z 50 PW lub mniej doznaje efektu zależnego od bieżących PW, jak w tabeli poniżej. Niezależnie od PW niebiański, żywiołak, fey albo czart, który nie zdał rzutu, zostaje odesłany na macierzystą płaszczyznę (jeśli jeszcze na niej nie przebywa) i nie może wrócić na obecną płaszczyznę przez 24 godziny żadnym sposobem krótszym niż [Życzenie](#życzenie-1).
 
 ##### Efekty Słowa bożego
 
@@ -17954,6 +21758,14 @@ Wypowiadasz słowo nasycone mocą Górnych Płaszczyzn. Każda wybrana przez cie
 | 41–50 | Cel ma stan ogłuchony przez 1 minutę. |
 
 #### Słowo leczenia
+
+# Słowo leczenia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:healing-word
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (bard, kleryk, druid)*
 
@@ -17971,6 +21783,14 @@ Istota, którą widzisz w zasięgu, odzyskuje PW w liczbie 2k4 plus twój modyfi
 
 #### Słowo mocy: Giń
 
+# Słowo mocy: Giń
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:power-word-kill
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -17984,6 +21804,14 @@ Istota, którą widzisz w zasięgu, odzyskuje PW w liczbie 2k4 plus twój modyfi
 Zmuszasz jedną istotę, którą widzisz w zasięgu, do śmierci. Jeśli cel ma 100 PW lub mniej, umiera. W przeciwnym razie otrzymuje 12k12 obrażeń psychicznych.
 
 #### Słowo mocy: Stój
+
+# Słowo mocy: Stój
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:power-word-stun
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
@@ -18001,6 +21829,14 @@ Ogłuszony cel na końcu każdej swojej tury wykonuje rzut obronny na Kondycję,
 
 #### Słowo mocy: Ulecz
 
+# Słowo mocy: Ulecz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:power-word-heal
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, uroków (bard, kleryk)*
 
 **Czas rzucania:** Akcja
@@ -18015,6 +21851,14 @@ Fala leczącej energii spływa na jedną istotę, którą widzisz w zasięgu. Ce
 
 #### Słowo mocy: Wzmocnij
 
+# Słowo mocy: Wzmocnij
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:power-word-fortify
+
+---
+
+Źródło: Podręcznik Gracza
+
 *7. krąg, uroków (bard, kleryk)*
 
 **Czas rzucania:** Akcja
@@ -18028,6 +21872,14 @@ Fala leczącej energii spływa na jedną istotę, którą widzisz w zasięgu. Ce
 Wzmacniasz do sześciu istot, które widzisz w zasięgu. Zaklęcie nadaje 120 tymczasowych PW, które dzielisz między odbiorców według własnego wyboru.
 
 #### Słowo powrotu
+
+# Słowo powrotu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:word-of-recall
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (kleryk)*
 
@@ -18045,6 +21897,14 @@ Sanktuarium wyznaczasz, rzucając to zaklęcie w wybranym miejscu — na przykł
 
 #### Słowo promienistości
 
+# Słowo promienistości
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:word-of-radiance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka z wywoływania (Kleryk)*
 
 **Czas rzucania:** Akcja
@@ -18060,6 +21920,14 @@ Płonąca promienistość wybucha z ciebie w emanacji o promieniu 1,5 metra. Ka�
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k6, gdy osiągniesz 5. poziom (2k6), 11. poziom (3k6) i 17. poziom (4k6).
 
 #### Słup ognia
+
+# Słup ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:flame-strike
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wywoływania (kleryk)*
 
@@ -18077,6 +21945,14 @@ Z nieba z rykiem spada pionowa kolumna ognistego światła. Każda istota w walc
 
 #### Tajemna witalność
 
+# Tajemna witalność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:arcane-vigor
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, odpychania (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -18093,9 +21969,17 @@ Czerpiesz z własnej siły życiowej, by się uleczyć. Rzuć jedną albo dwiema
 
 #### Tarcza
 
+# Tarcza
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shield
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (zaklinacz, mag)*
 
-**Czas rzucania:** Reakcja, którą podejmujesz, gdy zostaniesz trafiony testem ataku lub gdy zostaniesz celem zaklęcia [Magiczny pocisk](#magiczny-pocisk)
+**Czas rzucania:** Reakcja, którą podejmujesz, gdy zostaniesz trafiony testem ataku lub gdy zostaniesz celem zaklęcia [Magiczny pocisk](#magiczny-pocisk-1)
 
 **Zasięg:** Ty
 
@@ -18106,6 +21990,14 @@ Czerpiesz z własnej siły życiowej, by się uleczyć. Rzuć jedną albo dwiema
 Chroni cię niedostrzegalna bariera magicznej siły. Do początku twojej następnej tury masz premię +5 do KP, w tym przeciwko atakowi wyzwalającemu, i nie otrzymujesz żadnych obrażeń od Magicznego pocisku.
 
 #### Tarcza ognia
+
+# Tarcza ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fire-shield
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, wywoływania (druid, zaklinacz, mag)*
 
@@ -18125,6 +22017,14 @@ Dodatkowo za każdym razem, gdy istota w odległości do 1,5 metra od ciebie tra
 
 #### Tarcza wiary
 
+# Tarcza wiary
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shield-of-faith
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (kleryk, paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -18138,6 +22038,14 @@ Dodatkowo za każdym razem, gdy istota w odległości do 1,5 metra od ciebie tra
 Migoczące pole otacza wybraną przez ciebie istotę w zasięgu, dając jej premię +2 do KP na czas trwania zaklęcia.
 
 #### Taumaturgia
+
+# Taumaturgia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:thaumaturgy
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, przemian (kleryk)*
 
@@ -18165,6 +22073,14 @@ Manifestujesz drobny cud w zasięgu. Tworzysz jeden z poniższych efektów w zas
 
 #### Tańczące światła
 
+# Tańczące światła
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:dancing-lights
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, iluzji (wynalazca, bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -18180,6 +22096,14 @@ Tworzysz w zasięgu do czterech świateł wielkości pochodni — wyglądają ja
 Jako akcję dodatkową możesz przesunąć światła o 18 metrów na miejsce w zasięgu. Światło musi znajdować się w odległości do 6 metrów od innego światła stworzonego tym zaklęciem i znika, jeśli przekroczy zasięg zaklęcia.
 
 #### Telekineza
+
+# Telekineza
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:telekinesis
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, przemian (zaklinacz, mag)*
 
@@ -18203,6 +22127,14 @@ Telekinetycznym chwytem możesz precyzyjnie sterować obiektami — na przykład
 
 #### Telepatia
 
+# Telepatia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:telepathy
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, wieszczenia (mag)*
 
 **Czas rzucania:** Akcja
@@ -18219,6 +22151,14 @@ Do końca zaklęcia ty i cel możecie natychmiast wymieniać się przez łącze 
 
 #### Telepatyczna więź Rary’ego
 
+# Telepatyczna więź Rary’ego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:rary-s-telepathic-bond
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, wieszczenia (bard, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -18234,6 +22174,14 @@ Tworzysz telepatyczne połączenie między maksymalnie ośmioma chętnymi istota
 Do końca zaklęcia cele mogą komunikować się telepatycznie przez więź, niezależnie od wspólnego języka. Komunikacja jest możliwa na dowolną odległość, lecz nie sięga innych płaszczyzn istnienia.
 
 #### Teleportacja
+
+# Teleportacja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:teleport
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przywoływania (bard, zaklinacz, mag)*
 
@@ -18279,6 +22227,14 @@ Miejsce docelowe musi być ci znane i leżeć na tej samej płaszczyźnie istnie
 
 #### Trujący rozprysk
 
+# Trujący rozprysk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:poison-spray
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, nekromancji (wynalazca, druid, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18294,6 +22250,14 @@ Rozpylasz toksyczną mgłę na istotę w zasięgu. Wykonaj test ataku czarem dys
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k12, gdy osiągniesz 5. poziom (2k12), 11. poziom (3k12) i 17. poziom (4k12).
 
 #### Trzask
+
+# Trzask
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shatter
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, wywoływania (bard, zaklinacz, mag)*
 
@@ -18312,6 +22276,14 @@ Niemagiczny obiekt, który nie jest noszony ani trzymany, również otrzymuje ob
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 2.
 
 #### Trzęsienie ziemi
+
+# Trzęsienie ziemi
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:earthquake
+
+---
+
+Źródło: Podręcznik Gracza
 
 *8. krąg, przemian (kleryk, druid, czarownik)*
 
@@ -18337,6 +22309,14 @@ Istota w odległości równej połowie wysokości zapadającej się konstrukcji 
 
 #### Tsunami
 
+# Tsunami
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tsunami
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, przywoływania (druid)*
 
 **Czas rzucania:** 1 minuta
@@ -18357,6 +22337,14 @@ Istota uwięziona w ścianie może się poruszać, pływając. Z powodu siły fa
 
 #### Tłuszcz
 
+# Tłuszcz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:grease
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, przywoływania (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -18372,6 +22360,14 @@ Niepalny tłuszcz pokrywa grunt na kwadracie o boku 3 metrów ze środkiem w pun
 Gdy tłuszcz się pojawia, każda istota stojąca na obszarze musi odnieść sukces w rzucie obronnym na Zręczność albo ma stan powalony. Istota, która wchodzi na obszar lub kończy tam turę, również musi odnieść sukces w tym rzucie obronnym albo ma stan powalony.
 
 #### Uczta bohaterów
+
+# Uczta bohaterów
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:heroes-feast
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (bard, kleryk, druid)*
 
@@ -18389,6 +22385,14 @@ Istota, która weźmie udział w uczcie, zyskuje na 24 godziny kilka korzyści. 
 
 #### Uderzenie stalowego wiatru
 
+# Uderzenie stalowego wiatru
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:steel-wind-strike
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (łowca, mag)*
 
 **Czas rzucania:** Akcja
@@ -18404,6 +22408,14 @@ Wymachujesz bronią użytą przy rzuceniu i znikasz, by uderzyć jak wiatr. Wybi
 Następnie teleportujesz się na wolne miejsce, które widzisz, w promieniu 1,5 metra od jednego z celów.
 
 #### Uleczenie
+
+# Uleczenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:heal
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, odpychania (kleryk, druid)*
 
@@ -18421,6 +22433,14 @@ Wybierz istotę, którą widzisz w zasięgu. Pozytywna energia przepływa przez 
 
 #### Unieruchomienie osoby
 
+# Unieruchomienie osoby
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hold-person
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, uroków (bard, kleryk, druid, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18437,6 +22457,14 @@ Wybierz humanoida, którego widzisz w zasięgu. Cel musi odnieść sukces w rzuc
 
 #### Unieruchomienie potwora
 
+# Unieruchomienie potwora
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hold-monster
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, uroków (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18452,6 +22480,14 @@ Wybierz istotę, którą widzisz w zasięgu. Cel musi odnieść sukces w rzucie 
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 5.
 
 #### Urojona siła
+
+# Urojona siła
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:phantasmal-force
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, iluzji (bard, zaklinacz, mag)*
 
@@ -18473,6 +22509,14 @@ Dotknięty cel może nawet otrzymać obrażenia od iluzji, jeśli urojenie przed
 
 #### Urojony zabójca
 
+# Urojony zabójca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:phantasmal-killer
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, iluzji (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -18491,6 +22535,14 @@ Przez czas trwania zaklęcia cel na końcu każdej swojej tury wykonuje rzut obr
 
 #### Urok
 
+# Urok
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hex
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, uroków (czarownik)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -18508,6 +22560,14 @@ Jeśli cel spadnie do 0 PW, zanim zaklęcie się skończy, możesz w późniejsz
 **Użycie komórki czaru wyższego kręgu.** Twoja koncentracja może trwać dłużej: komórka 2. kręgu — do 4 godzin; 3.–4. kręgu — do 8 godzin; 5. kręgu lub wyższego — 24 godziny.
 
 #### Uwięzienie
+
+# Uwięzienie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:imprisonment
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, odpychania (czarownik, mag)*
 
@@ -18535,9 +22595,17 @@ Do końca zaklęcia cel jest też objęty jednym z poniższych efektów według 
 
 **Kończenie zaklęcia.** Przy rzuceniu określasz wyzwalacz, który je zakończy. Wyzwalacz może być prosty albo złożony, lecz MP musi uznać, że z dużym prawdopodobieństwem nastąpi w ciągu najbliższej dekady. Wyzwalacz musi być obserwowalnym działaniem, na przykład złożeniem określonej ofiary w świątyni twojego bóstwa, uratowaniem twojej prawdziwej miłości albo pokonaniem konkretnego potwora.
 
-Zaklęcie [Rozproszenie magii](#rozproszenie-magii) może je zakończyć tylko wtedy, gdy zostanie rzucone z komórką 9. kręgu, celując w więzienie albo komponent użyty do jego stworzenia.
+Zaklęcie [Rozproszenie magii](#rozproszenie-magii-1) może je zakończyć tylko wtedy, gdy zostanie rzucone z komórką 9. kręgu, celując w więzienie albo komponent użyty do jego stworzenia.
 
 #### Uzdrawiająca modlitwa
+
+# Uzdrawiająca modlitwa
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:prayer-of-healing
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, odpychania (kleryk, paladyn)*
 
@@ -18555,6 +22623,14 @@ Do pięciu wybranych przez ciebie istot, które przez cały czas rzucania pozost
 
 #### Uśpienie
 
+# Uśpienie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sleep
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, uroków (bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -18570,6 +22646,14 @@ Każda wybrana przez ciebie istota w sferze o promieniu 1,5 metra ze środkiem w
 Istoty, które nie śpią, takie jak elfy, albo które mają niepodatność na stan wyczerpania, automatycznie odnoszą sukces w rzutach obronnych przeciwko temu zaklęciu.
 
 #### Wampiryczny dotyk
+
+# Wampiryczny dotyk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:vampiric-touch
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, nekromancji (zaklinacz, czarownik, mag)*
 
@@ -18588,6 +22672,14 @@ Dopóki zaklęcie trwa, w każdej swojej turze możesz powtórzyć ten atak akcj
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k6 za każdy krąg komórki czaru powyżej 3.
 
 #### Wezwanie błyskawicy
+
+# Wezwanie błyskawicy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:call-lightning
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przywoływania (druid)*
 
@@ -18611,6 +22703,14 @@ Jeśli rzucasz to zaklęcie na zewnątrz podczas burzy, przejmujesz kontrolę na
 
 #### Wiadomość
 
+# Wiadomość
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:message
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, przemian (wynalazca, bard, druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -18626,6 +22726,14 @@ Wskazujesz palcem istotę w zasięgu i szepczesz wiadomość. Cel (i tylko cel) 
 Możesz rzucić to zaklęcie przez lite przedmioty, jeśli znasz cel i wiesz, że jest za barierą. Cisza magiczna, 30 centymetrów kamienia, metalu lub drewna albo cienki arkusz ołowiu blokują zaklęcie.
 
 #### Widmowy wierzchowiec
+
+# Widmowy wierzchowiec
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:phantom-steed
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, iluzji (mag)*
 
@@ -18643,6 +22751,14 @@ Przez czas trwania zaklęcia ty albo wskazana przez ciebie istota możecie jeźd
 
 #### Widzenie niewidzialnego
 
+# Widzenie niewidzialnego
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:see-invisibility
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (wynalazca, bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -18656,6 +22772,14 @@ Przez czas trwania zaklęcia ty albo wskazana przez ciebie istota możecie jeźd
 Przez czas trwania widzisz istoty i obiekty ze stanem niewidzialny, jakby były widoczne, i możesz widzieć na Sferę Eteryczną. Istoty i obiekty tam wyglądają na widmowe.
 
 #### Widzenie w ciemności
+
+# Widzenie w ciemności
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:darkvision
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, druid, łowca, zaklinacz, mag)*
 
@@ -18671,6 +22795,14 @@ Przez czas trwania zaklęcia chętna istota, której dotykasz, ma widzenie w cie
 
 #### Wieczny ogień
 
+# Wieczny ogień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:continual-flame
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (wynalazca, kleryk, druid, mag)*
 
 **Czas rzucania:** Akcja
@@ -18684,6 +22816,14 @@ Przez czas trwania zaklęcia chętna istota, której dotykasz, ma widzenie w cie
 Z obiektu, którego dotykasz, bucha płomień. Efekt emituje jasne światło w promieniu 6 metrów i słabe światło w promieniu kolejnych 6 metrów. Wygląda jak zwykły ogień, ale nie wydziela ciepła i nie zużywa paliwa. Płomień można zakryć lub ukryć, ale nie stłumić ani zgasić.
 
 #### Wiedźmi pocisk
+
+# Wiedźmi pocisk
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:witch-bolt
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wywoływania (zaklinacz, czarownik, mag)*
 
@@ -18705,6 +22845,14 @@ Zaklęcie kończy się, jeśli cel znajdzie się poza zasięgiem zaklęcia albo 
 
 #### Wierny ogar Mordenkainena
 
+# Wierny ogar Mordenkainena
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-faithful-hound
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, przywoływania (wynalazca, mag)*
 
 **Czas rzucania:** Akcja
@@ -18725,6 +22873,14 @@ W późniejszych turach możesz akcją magiczną przesunąć ogara o maksymalnie
 
 #### Wieszczenie
 
+# Wieszczenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:divination
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, wieszczenia (kleryk, druid, mag)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -18740,6 +22896,14 @@ Zaklęcie łączy cię z bogiem albo sługami boga. Zadajesz jedno pytanie o kon
 Jeśli rzucisz to zaklęcie więcej niż raz przed ukończeniem długiego odpoczynku, po pierwszym rzuceniu każde kolejne ma skumulowane 25% szans na brak odpowiedzi.
 
 #### Wizja
+
+# Wizja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:scrying
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wieszczenia (bard, kleryk, druid, czarownik, mag)*
 
@@ -18773,6 +22937,14 @@ Zamiast istoty możesz wskazać miejsce, które widziałeś. Wtedy czujnik pojaw
 
 #### Większa niewidzialność
 
+# Większa niewidzialność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:greater-invisibility
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, iluzji (bard, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18786,6 +22958,14 @@ Zamiast istoty możesz wskazać miejsce, które widziałeś. Wtedy czujnik pojaw
 Dotknięta przez ciebie istota ma stan niewidzialny do końca zaklęcia.
 
 #### Większe przywrócenie
+
+# Większe przywrócenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:greater-restoration
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, odpychania (wynalazca, bard, kleryk, druid, paladyn, łowca)*
 
@@ -18807,6 +22987,14 @@ Dotykasz istoty i magicznie usuwasz z niej jeden z poniższych efektów:
 
 #### Większy obraz
 
+# Większy obraz
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:major-image
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, iluzji (bard, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18827,6 +23015,14 @@ Fizyczna interakcja z obrazem zdradza iluzję, bo rzeczy mogą przez nią przech
 
 #### Wrzący kocioł Tashy
 
+# Wrzący kocioł Tashy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tasha-s-bubbling-cauldron
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, przywoływania (czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -18839,11 +23035,19 @@ Fizyczna interakcja z obrazem zdradza iluzję, bo rzeczy mogą przez nią przech
 
 Przywołujesz kocioł na trójnogach wypełniony wrzącą cieczą. Kocioł pojawia się na wolnym miejscu na ziemi w promieniu 1,5 metra od ciebie i utrzymuje się przez czas trwania. Nie można go przesunąć; znika wraz z wrzącą cieczą, gdy zaklęcie się kończy.
 
-Ciecz w kotle powiela właściwości pospolitej albo niepospolitej mikstury według twojego wyboru (np. [Mikstura leczenia](#mikstura-leczenia)). Akcją dodatkową ty albo sojusznik możecie sięgnąć do kotła i wyciągnąć jedną miksturę tego rodzaju. Mikstura jest w fiolce, która znika po wypiciu. Kocioł może wyprodukować tyle mikstur, ile wynosi twój modyfikator rzucania czarami (minimum 1). Gdy ostatnia mikstura zostanie wyciągnięta, kocioł znika i zaklęcie się kończy.
+Ciecz w kotle powiela właściwości pospolitej albo niepospolitej `mikstury` według twojego wyboru (np. [Mikstura leczenia](#mikstura-leczenia)). Akcją dodatkową ty albo sojusznik możecie sięgnąć do kotła i wyciągnąć jedną miksturę tego rodzaju. Mikstura jest w fiolce, która znika po wypiciu. Kocioł może wyprodukować tyle mikstur, ile wynosi twój modyfikator rzucania czarami (minimum 1). Gdy ostatnia mikstura zostanie wyciągnięta, kocioł znika i zaklęcie się kończy.
 
 Mikstury z kotła, które nie zostaną wypite, znikają, gdy ponownie rzucisz to zaklęcie.
 
 #### Wróżba
+
+# Wróżba
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:augury
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, wieszczenia (kleryk, druid, mag)*
 
@@ -18872,6 +23076,14 @@ Jeśli rzucisz to zaklęcie więcej niż raz przed ukończeniem długiego odpocz
 
 #### Wskazówki
 
+# Wskazówki
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:guidance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wieszczenia (wynalazca, kleryk, druid)*
 
 **Czas rzucania:** Akcja
@@ -18885,6 +23097,14 @@ Jeśli rzucisz to zaklęcie więcej niż raz przed ukończeniem długiego odpocz
 Dotykasz chętnej istoty i wybierasz umiejętność. Dopóki zaklęcie trwa, istota dodaje 1k4 do każdego testu cechy wykonywanego z użyciem wybranej umiejętności.
 
 #### Wskrzeszenie
+
+# Wskrzeszenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:raise-dead
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, nekromancji (bard, kleryk, paladyn)*
 
@@ -18905,6 +23125,14 @@ Zaklęcie zamyka wszystkie śmiertelne rany, ale nie przywraca brakujących czę
 Powrót z martwych to ciężka próba. Cel ma karę −4 do testów K20. Za każdym razem, gdy cel kończy Długi odpoczynek, kara zmniejsza się o 1, aż spadnie do 0.
 
 #### Wspaniała posiadłość Mordenkainena
+
+# Wspaniała posiadłość Mordenkainena
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mordenkainen-s-magnificent-mansion
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, przywoływania (bard, mag)*
 
@@ -18928,6 +23156,14 @@ Gdy zaklęcie się kończy, wszystkie istoty i przedmioty pozostawione w przestr
 
 #### Wstrząsające ugodzenie
 
+# Wstrząsające ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:staggering-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, uroków (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu celu bronią wręcz lub atakiem bez broni
@@ -18943,6 +23179,14 @@ Cel otrzymuje dodatkowo 4k6 obrażeń psychicznych od ataku i musi odnieść suk
 **Użycie komórki czaru wyższego kręgu.** Dodatkowe obrażenia zwiększają się o 1k6 za każdy krąg komórki czaru powyżej 4.
 
 #### Wtopienie w kamień
+
+# Wtopienie w kamień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:meld-into-stone
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przemian (kleryk, druid, łowca)*
 
@@ -18962,6 +23206,14 @@ Drobne uszkodzenie kamienia ci nie szkodzi, ale częściowe zniszczenie albo zmi
 
 #### Wyciszenie emocji
 
+# Wyciszenie emocji
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:calm-emotions
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, uroków (bard, kleryk)*
 
 **Czas rzucania:** Akcja
@@ -18980,6 +23232,14 @@ Każdy humanoid w sferze o promieniu 6 metrów ze środkiem w punkcie w zasięgu
 
 #### Wykrycie dobra i zła
 
+# Wykrycie dobra i zła
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:detect-evil-and-good
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wieszczenia (kleryk, paladyn)*
 
 **Czas rzucania:** Akcja
@@ -18990,11 +23250,19 @@ Każdy humanoid w sferze o promieniu 6 metrów ze środkiem w punkcie w zasięgu
 
 **Czas trwania:** Koncentracja, do 10 minut
 
-Przez czas trwania zaklęcia wyczuwasz położenie wszystkich wynaturzeń, istot niebiańskich, żywiołaków, fey, czartów lub nieumarłych w promieniu 9 metrów od siebie. Wyczuwasz też, czy w danym miejscu działa zaklęcie [Konsekracja](#konsekracja), a jeśli tak — gdzie.
+Przez czas trwania zaklęcia wyczuwasz położenie wszystkich wynaturzeń, istot niebiańskich, żywiołaków, fey, czartów lub nieumarłych w promieniu 9 metrów od siebie. Wyczuwasz też, czy w danym miejscu działa zaklęcie [Konsekracja](#konsekracja-1), a jeśli tak — gdzie.
 
 Zaklęcie jest blokowane przez 30 centymetrów kamienia, ziemi lub drewna; 2,5 centymetra metalu; albo cienką warstwę ołowiu.
 
 #### Wykrycie magii
+
+# Wykrycie magii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:detect-magic
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wieszczenia (wynalazca, bard, kleryk, druid, paladyn, łowca, zaklinacz, czarownik, mag)*
 
@@ -19011,6 +23279,14 @@ Przez czas trwania wyczuwasz obecność efektów magicznych w promieniu 9 metró
 Zaklęcie jest blokowane przez 30 centymetrów kamienia, ziemi lub drewna; 2,5 centymetra metalu; lub cienki arkusz ołowiu.
 
 #### Wykrycie myśli
+
+# Wykrycie myśli
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:detect-thoughts
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, wieszczenia (bard, zaklinacz, mag)*
 
@@ -19034,6 +23310,14 @@ Jako akcję magiczną w swojej następnej turze możesz spróbować zagłębić 
 
 #### Wykrycie pułapek
 
+# Wykrycie pułapek
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:find-traps
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (kleryk, druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -19044,11 +23328,19 @@ Jako akcję magiczną w swojej następnej turze możesz spróbować zagłębić 
 
 **Czas trwania:** Natychmiastowy
 
-Wyczuwasz każdą pułapkę w zasięgu, która znajduje się w linii wzroku. Pułapką jest tu każdy obiekt lub mechanizm stworzony, by zadawać obrażenia albo inne niebezpieczeństwo. Zaklęcie wykryłoby więc [Alarm](#alarm) albo [Glif strażniczy](#glif-strażniczy), a także mechaniczną zapadnię, lecz nie ujawni naturalnej słabości podłogi, niestabilnego sufitu ani ukrytego zapadliska.
+Wyczuwasz każdą pułapkę w zasięgu, która znajduje się w linii wzroku. Pułapką jest tu każdy obiekt lub mechanizm stworzony, by zadawać obrażenia albo inne niebezpieczeństwo. Zaklęcie wykryłoby więc [Alarm](#alarm-1) albo [Glif strażniczy](#glif-strażniczy-1), a także mechaniczną zapadnię, lecz nie ujawni naturalnej słabości podłogi, niestabilnego sufitu ani ukrytego zapadliska.
 
 Zaklęcie ujawnia obecność pułapki, ale nie jej położenie. Poznajesz ogólną naturę zagrożenia, jakie stwarza wykryta pułapka.
 
 #### Wykrycie trucizny i choroby
+
+# Wykrycie trucizny i choroby
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:detect-poison-and-disease
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, wieszczenia (kleryk, druid, paladyn, łowca)*
 
@@ -19066,6 +23358,14 @@ Zaklęcie jest blokowane przez 30 centymetrów kamienia, ziemi lub drewna, 2,5 c
 
 #### Wypalający promień
 
+# Wypalający promień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:scorching-ray
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19082,6 +23382,14 @@ Wystrzeliwujesz trzy ogniste promienie. Możesz skierować je w jeden cel w zasi
 
 #### Wypędzające ugodzenie
 
+# Wypędzające ugodzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:banishing-smite
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (paladyn)*
 
 **Czas rzucania:** Akcja dodatkowa, którą wykonujesz natychmiast po trafieniu celu bronią wręcz lub atakiem bez broni
@@ -19095,6 +23403,14 @@ Wystrzeliwujesz trzy ogniste promienie. Możesz skierować je w jeden cel w zasi
 Cel trafiony testem ataku otrzymuje dodatkowo 5k10 obrażeń od mocy od ataku. Jeśli atak obniży PW celu do 50 lub mniej, cel musi odnieść sukces w rzucie obronnym na Charyzmę albo zostaje przeniesiony na nieszkodliwą półpłaszczyznę na czas trwania zaklęcia. Tam ma stan obezwładniony. Gdy zaklęcie się kończy, cel wraca w miejsce, które opuścił, albo na najbliższe wolne miejsce, jeśli tamto jest zajęte.
 
 #### Wypędzenie
+
+# Wypędzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:banishment
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, odpychania (kleryk, paladyn, zaklinacz, czarownik, mag)*
 
@@ -19114,6 +23430,14 @@ Jeśli celem jest wynaturzenie, niebiański, żywiołak, fey lub czart, nie wrac
 
 #### Wywołanie płomienia
 
+# Wywołanie płomienia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:produce-flame
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, przywoływania (druid)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -19132,6 +23456,14 @@ Dopóki zaklęcie trwa, możesz wykonać akcję magiczną, aby cisnąć ogniem w
 
 #### Wyłączenie
 
+# Wyłączenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:forbiddance
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, odpychania (kleryk)*
 
 **Czas rzucania:** 10 minut lub rytuał
@@ -19142,7 +23474,7 @@ Dopóki zaklęcie trwa, możesz wykonać akcję magiczną, aby cisnąć ogniem w
 
 **Czas trwania:** 1 dzień
 
-Tworzysz barierę przeciw magicznym sposobom podróżowania. Chroni ona obszar o powierzchni do 3600 metrów kwadratowych i wysokości do 9 metrów od podłoża. Przez czas trwania zaklęcia istoty nie mogą teleportować się do obszaru ani wejść tam przez portale, takie jak te stworzone zaklęciem [Brama](#brama). Zaklęcie zabezpiecza obszar przed podróżą między płaszczyznami, więc nie można wejść do niego przez Sferę Astralną, Sferę Eteryczną, Krainę Fey, Cienisty Płaszcz ani zaklęciem [Sferalny przeskok](#sferalny-przeskok).
+Tworzysz barierę przeciw magicznym sposobom podróżowania. Chroni ona obszar o powierzchni do 3600 metrów kwadratowych i wysokości do 9 metrów od podłoża. Przez czas trwania zaklęcia istoty nie mogą teleportować się do obszaru ani wejść tam przez portale, takie jak te stworzone zaklęciem [Brama](#brama-1). Zaklęcie zabezpiecza obszar przed podróżą między płaszczyznami, więc nie można wejść do niego przez Sferę Astralną, Sferę Eteryczną, Krainę Fey, Cienisty Płaszcz ani zaklęciem [Sferalny przeskok](#sferalny-przeskok-1).
 
 Ponadto zaklęcie zadaje obrażenia wybranym typom istot. Przy rzuceniu wybierz jeden lub więcej z poniższych: aberracje, istoty niebiańskie, żywiołaki, fey, czarty i nieumarłe. Gdy istota wybranego typu po raz pierwszy w turze wchodzi do obszaru albo kończy tam turę, otrzymuje 5k10 obrażeń od światła albo obrażeń nekrotycznych (wybierasz przy rzuceniu).
 
@@ -19151,6 +23483,14 @@ Możesz wyznaczyć hasło przy rzuceniu zaklęcia. Istota, która wypowie je wch
 Obszar tego zaklęcia nie może nachodzić na obszar innego *Wyłączenia*. Jeśli rzucisz *Wyłączenie* codziennie przez 30 dni w tym samym miejscu, zaklęcie trwa do rozproszenia, a komponenty materiałne zużywają się przy ostatnim rzuceniu.
 
 #### Wzmocnienie cechy
+
+# Wzmocnienie cechy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:enhance-ability
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przemian (wynalazca, bard, kleryk, druid, łowca, zaklinacz, mag)*
 
@@ -19168,6 +23508,14 @@ Dotykasz istotę i wybierasz Siłę, Zręczność, Inteligencję, Mądrość lub
 
 #### Wzrost kolców
 
+# Wzrost kolców
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:spike-growth
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -19183,6 +23531,14 @@ Grunt w sferze o promieniu 6 metrów ze środkiem w punkcie w zasięgu pokrywa s
 Przemiana gruntu jest zamaskowana tak, by wyglądała naturalnie. Każda istota, która nie widziała obszaru w chwili rzucania zaklęcia, musi wykonać akcję Przeszukiwanie i odnieść sukces w teście Mądrości (Percepcja lub Przetrwanie) przeciw twojej ST rzucania czarów, by rozpoznać teren jako niebezpieczny, zanim do niego wejdzie.
 
 #### Wędrujący dysk Tensera
+
+# Wędrujący dysk Tensera
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:tenser-s-floating-disk
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przywoływania (mag)*
 
@@ -19202,6 +23558,14 @@ Jeśli oddalisz się o więcej niż 30 metrów od dysku (zwykle dlatego, że nie
 
 #### Zabójcza chmura
 
+# Zabójcza chmura
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:cloudkill
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, przywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19212,7 +23576,7 @@ Jeśli oddalisz się o więcej niż 30 metrów od dysku (zwykle dlatego, że nie
 
 **Czas trwania:** Koncentracja, do 10 minut
 
-W punkcie w zasięgu tworzysz sferę żółtozielonej mgły o promieniu 6 metrów. Mgła utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru)) ją rozproszy i zakończy zaklęcie. Obszar jest silnie przesłonięty.
+W punkcie w zasięgu tworzysz sferę żółtozielonej mgły o promieniu 6 metrów. Mgła utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru-1)) ją rozproszy i zakończy zaklęcie. Obszar jest silnie przesłonięty.
 
 Każda istota w sferze wykonuje rzut obronny na Kondycję, otrzymując 5k8 obrażeń od trucizny przy nieudanym rzucie lub połowę tych obrażeń przy udanym. Istota wykonuje ten rzut również wtedy, gdy sfera wchodzi w jej przestrzeń, gdy wchodzi w sferę albo kończy tam turę. Wykonuje ten rzut tylko raz na turę.
 
@@ -19221,6 +23585,14 @@ Na początku każdej twojej tury sfera przesuwa się o 3 metry od ciebie.
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k8 za każdy krąg komórki czaru powyżej 5.
 
 #### Zadawanie ran
+
+# Zadawanie ran
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:inflict-wounds
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, nekromancji (kleryk)*
 
@@ -19237,6 +23609,14 @@ Dotknięta przez ciebie istota wykonuje rzut obronny na Kondycję, otrzymując 2
 **Użycie komórki czaru wyższego kręgu.** Obrażenia zwiększają się o 1k10 za każdy krąg komórki czaru powyżej 1.
 
 #### Zamęt
+
+# Zamęt
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:confusion
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, uroków (bard, druid, zaklinacz, mag)*
 
@@ -19263,6 +23643,14 @@ Na końcu każdej swojej tury objęty cel powtarza rzut, kończąc zaklęcie u s
 
 #### Zaplanowana iluzja
 
+# Zaplanowana iluzja
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:programmed-illusion
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, iluzji (bard, mag)*
 
 **Czas rzucania:** Akcja
@@ -19283,6 +23671,14 @@ Fizyczna interakcja z obrazem ujawnia, że to iluzja, ponieważ przedmioty przez
 
 #### Zaraza
 
+# Zaraza
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:contagion
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, nekromancji (kleryk, druid)*
 
 **Czas rzucania:** Akcja
@@ -19301,6 +23697,14 @@ Za każdym razem, gdy zatruty cel otrzyma efekt kończący stan zatruty, musi od
 
 #### Zatrzymanie czasu
 
+# Zatrzymanie czasu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:time-stop
+
+---
+
+Źródło: Podręcznik Gracza
+
 *9. krąg, przemian (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19316,6 +23720,14 @@ Na chwilę zatrzymujesz upływ czasu dla wszystkich oprócz siebie. Dla innych i
 Zaklęcie kończy się, jeśli jedna z akcji użytych w tym czasie albo jakikolwiek efekt, który w tym czasie tworzysz, dotknie istoty innej niż ty albo przedmiotu noszonego albo niesionego przez kogoś innego niż ty. Kończy się też, jeśli przemieścisz się w miejsce oddalone o więcej niż 300 metrów od położenia, w którym je rzuciłeś.
 
 #### Zauroczenie osoby
+
+# Zauroczenie osoby
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:charm-person
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (bard, druid, zaklinacz, czarownik, mag)*
 
@@ -19333,6 +23745,14 @@ Jeden widziany przez ciebie humanoid w zasięgu wykonuje rzut obronny na Mądro�
 
 #### Zauroczenie potwora
 
+# Zauroczenie potwora
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:charm-monster
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, uroków (bard, druid, zaklinacz, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -19348,6 +23768,14 @@ Jedna istota, którą widzisz w zasięgu, wykonuje rzut obronny na Mądrość. R
 **Użycie komórki czaru wyższego kręgu.** Możesz wskazać jedną dodatkową istotę za każdy krąg komórki czaru powyżej 4.
 
 #### Zbroja Agathys
+
+# Zbroja Agathys
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:armor-of-agathys
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, odpychania (czarownik)*
 
@@ -19365,6 +23793,14 @@ Otacza cię ochronny magiczny mróz. Zyskujesz 5 tymczasowych PW. Jeśli istota 
 
 #### Zbroja maga
 
+# Zbroja maga
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mage-armor
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, odpychania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19379,6 +23815,14 @@ Dotykasz chętnej istoty, która nie nosi pancerza. Dopóki zaklęcie trwa, pods
 
 #### Zdjęcie klątwy
 
+# Zdjęcie klątwy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:remove-curse
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, odpychania (kleryk, paladyn, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -19392,6 +23836,14 @@ Dotykasz chętnej istoty, która nie nosi pancerza. Dopóki zaklęcie trwa, pods
 Twoim dotknięciem kończą się wszystkie klątwy wpływające na jedną istotę lub obiekt. Jeśli obiektem jest przeklęty magiczny przedmiot, klątwa na nim pozostaje, ale zaklęcie przerywa zestrojenie właściciela z przedmiotem, dzięki czemu można go zdjąć lub wyrzucić.
 
 #### Zguba
+
+# Zguba
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:bane
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, uroków (bard, kleryk, czarownik)*
 
@@ -19409,6 +23861,14 @@ Do trzech wybranych przez ciebie istot, które widzisz w zasięgu, musi wykonać
 
 #### Zjadliwe szyderstwo
 
+# Zjadliwe szyderstwo
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:vicious-mockery
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, uroków (bard)*
 
 **Czas rzucania:** Akcja
@@ -19424,6 +23884,14 @@ Wypowiadasz serię upokarzających słów pod adresem istoty, którą słyszysz 
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k6, gdy osiągniesz 5. poziom (2k6), 11. poziom (3k6) i 17. poziom (4k6).
 
 #### Zmartwychwstanie
+
+# Zmartwychwstanie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:resurrection
+
+---
+
+Źródło: Podręcznik Gracza
 
 *7. krąg, nekromancji (bard, kleryk)*
 
@@ -19445,6 +23913,14 @@ Rzucenie tego zaklęcia, by wskrzesić istotę martwą od 365 dni lub dłużej, 
 
 #### Zmiana siebie
 
+# Zmiana siebie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:alter-self
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, przemian (wynalazca, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19464,6 +23940,14 @@ Zmieniasz swoją fizyczną formę. Wybierz jedną z poniższych opcji. Jej efekt
 **Naturalna broń.** Wyrastają ci pazury (cięte), kły (kłute), rogi (kłute) albo kopyta (obuchowe). Gdy atakiem bez broni zadajesz obrażenia nowym narządem, zadaje on 1k6 obrażeń podanego typu zamiast zwykłych obrażeń ataku bez broni, a do testu ataku i rzutu na obrażenia używasz modyfikatora rzucania czarami zamiast Siły.
 
 #### Zmiennokształtność
+
+# Zmiennokształtność
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:shapechange
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, przemian (druid, mag)*
 
@@ -19485,6 +23969,14 @@ Przy przeobrażeniu decydujesz, czy twój ekwipunek spada na ziemię, czy zmieni
 
 #### Zmieszanie umysłu
 
+# Zmieszanie umysłu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:befuddlement
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, uroków (bard, druid, czarownik, mag)*
 
 **Czas rzucania:** Akcja
@@ -19497,11 +23989,19 @@ Przy przeobrażeniu decydujesz, czy twój ekwipunek spada na ziemię, czy zmieni
 
 Uderzasz w umysł istoty, którą widzisz w zasięgu. Cel wykonuje rzut obronny na Inteligencję.
 
-Przy nieudanym rzucie otrzymuje 10k12 obrażeń psychicznych i nie może rzucać czarów ani wykonywać akcji magicznej. Na koniec każdych 30 dni cel powtarza rzut, kończąc efekt przy sukcesie. Można go też zakończyć zaklęciem [Większe przywrócenie](#większe-przywrócenie), Uzdrowienie albo [Życzenie](#życzenie).
+Przy nieudanym rzucie otrzymuje 10k12 obrażeń psychicznych i nie może rzucać czarów ani wykonywać akcji magicznej. Na koniec każdych 30 dni cel powtarza rzut, kończąc efekt przy sukcesie. Można go też zakończyć zaklęciem [Większe przywrócenie](#większe-przywrócenie-1), Uzdrowienie albo [Życzenie](#życzenie-1).
 
 Przy udanym rzucie otrzymuje tylko połowę obrażeń.
 
 #### Zmyłka
+
+# Zmyłka
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:mislead
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, iluzji (bard, czarownik, mag)*
 
@@ -19521,6 +24021,14 @@ Widzisz jego oczami i słyszysz jego uszami, jak gdybyś znajdował się tam, gd
 
 #### Znak łowcy
 
+# Znak łowcy
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:hunter-s-mark
+
+---
+
+Źródło: Podręcznik Gracza
+
 *1. krąg, wieszczenia (łowca)*
 
 **Czas rzucania:** Akcja dodatkowa
@@ -19538,6 +24046,14 @@ Jeśli cel spadnie do 0 punktów wytrzymałości, zanim zaklęcie się skończy,
 **Użycie komórki czaru wyższego kręgu.** Przy komórce czaru 3. lub 4. kręgu koncentracja może trwać do 8 godzin. Przy komórce czaru 5. kręgu lub wyższym może trwać do 24 godzin.
 
 #### Znalezienie chowańca
+
+# Znalezienie chowańca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:find-familiar
+
+---
+
+Źródło: Podręcznik Gracza
 
 *1. krąg, przywoływania (mag)*
 
@@ -19562,6 +24078,14 @@ Gdy rzucasz zaklęcie o zasięgu dotyk, chowaniec może dostarczyć dotknięcie.
 **Tylko jeden chowaniec.** Nie możesz mieć więcej niż jednego chowańca naraz. Jeśli rzucisz to zaklęcie, gdy masz już chowańca, zamiast tego sprawiasz, że przyjmuje nową dozwoloną formę.
 
 #### Znalezienie wierzchowca
+
+# Znalezienie wierzchowca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:find-steed
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, przywoływania (paladyn)*
 
@@ -19614,6 +24138,14 @@ Rumak przypomina wybrane przez ciebie duże zwierzę, na którym można jeździ�
 
 #### Zwierzęce kształty
 
+# Zwierzęce kształty
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:animal-shapes
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, przemian (druid)*
 
 **Czas rzucania:** Akcja
@@ -19632,6 +24164,14 @@ Cel zyskuje tymczasowe PW równe PW pierwszej przyjętej formy. Tymczasowe PW zn
 
 #### Zwierzęce zmysły
 
+# Zwierzęce zmysły
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:beast-sense
+
+---
+
+Źródło: Podręcznik Gracza
+
 *2. krąg, wieszczenia (druid, łowca)*
 
 **Czas rzucania:** Akcja lub rytuał
@@ -19645,6 +24185,14 @@ Cel zyskuje tymczasowe PW równe PW pierwszej przyjętej formy. Tymczasowe PW zn
 Dotykasz chętnej bestii. Przez czas trwania zaklęcia możesz postrzegać świat zmysłami bestii oraz własnymi. Gdy korzystasz ze zmysłów bestii, zyskujesz też jej zmysły specjalne.
 
 #### Zwierzęcy posłaniec
+
+# Zwierzęcy posłaniec
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:animal-messenger
+
+---
+
+Źródło: Podręcznik Gracza
 
 *2. krąg, uroków (bard, druid, łowca)*
 
@@ -19664,6 +24212,14 @@ Gdy bestia dotrze, przekazuje wiadomość istocie, którą opisałeś, naśladuj
 
 #### Łańcuch błyskawic
 
+# Łańcuch błyskawic
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:chain-lightning
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19681,6 +24237,14 @@ Każdy cel wykonuje rzut obronny na Zręczność, otrzymując 10k8 obrażeń od 
 **Użycie komórki czaru wyższego kręgu.** Z pierwszego celu przeskakuje jedna dodatkowa błyskawica na kolejny cel za każdy krąg komórki czaru powyżej 6.
 
 #### Ściana cierni
+
+# Ściana cierni
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-thorns
+
+---
+
+Źródło: Podręcznik Gracza
 
 *6. krąg, przywoływania (druid)*
 
@@ -19702,6 +24266,14 @@ Istota może przejść przez ścianę, lecz powoli i boleśnie. Za każde 30 cen
 
 #### Ściana energii
 
+# Ściana energii
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-force
+
+---
+
+Źródło: Podręcznik Gracza
+
 *5. krąg, wywoływania (mag)*
 
 **Czas rzucania:** Akcja
@@ -19714,9 +24286,17 @@ Istota może przejść przez ścianę, lecz powoli i boleśnie. Za każde 30 cen
 
 W wybranym przez ciebie punkcie w zasięgu pojawia się niewidzialna ściana z czystej energii. Może być w dowolnej orientacji — pozioma, pionowa albo pod kątem — unosić się w powietrzu lub spoczywać na twardej powierzchni. Możesz uformować kopułę lub kulę o promieniu do 3 metrów albo płaską powierzchnię z dziesięciu paneli 3 na 3 metry. Każdy panel musi przylegać do innego. W każdej formie ściana ma grubość około 6 milimetrów i utrzymuje się przez czas trwania zaklęcia. Jeśli przy pojawieniu się ściana przecina przestrzeń istoty, zostaje ona odepchnięta na jedną stronę ściany (wybierasz którą).
 
-Nic nie może fizycznie przejść przez ścianę. Ma niepodatność na wszystkie obrażenia i nie daje się rozproszyć [Rozproszeniem magii](#rozproszenie-magii). Zaklęcie [Dezintegracja](#dezintegracja) niszczy ścianę natychmiast. Ściana sięga także na Sferę Eteryczną i blokuje eteryczną podróż przez nią.
+Nic nie może fizycznie przejść przez ścianę. Ma niepodatność na wszystkie obrażenia i nie daje się rozproszyć [Rozproszeniem magii](#rozproszenie-magii-1). Zaklęcie [Dezintegracja](#dezintegracja-1) niszczy ścianę natychmiast. Ściana sięga także na Sferę Eteryczną i blokuje eteryczną podróż przez nią.
 
 #### Ściana kamienia
+
+# Ściana kamienia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-stone
+
+---
+
+Źródło: Podręcznik Gracza
 
 *5. krąg, wywoływania (wynalazca, druid, czarownik, mag)*
 
@@ -19742,6 +24322,14 @@ Jeśli utrzymujesz koncentrację przez pełny czas trwania zaklęcia, ściana st
 
 #### Ściana lodu
 
+# Ściana lodu
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-ice
+
+---
+
+Źródło: Podręcznik Gracza
+
 *6. krąg, wywoływania (mag)*
 
 **Czas rzucania:** Akcja
@@ -19764,6 +24352,14 @@ Istota, która po raz pierwszy w turze przechodzi przez lodowate powietrze, wyko
 
 #### Ściana ognia
 
+# Ściana ognia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wall-of-fire
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, wywoływania (druid, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19784,6 +24380,14 @@ Jedna strona ściany — wybrana przez ciebie podczas rzucania — zadaje 5k8 ob
 
 #### Ściana wichru
 
+# Ściana wichru
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wind-wall
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, wywoływania (druid, łowca)*
 
 **Czas rzucania:** Akcja
@@ -19802,6 +24406,14 @@ Silny wiatr odpędza mgłę, dym i inne gazy. Małe lub mniejsze latające istot
 
 #### Śmierdząca chmura
 
+# Śmierdząca chmura
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:stinking-cloud
+
+---
+
+Źródło: Podręcznik Gracza
+
 *3. krąg, przywoływania (bard, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19812,11 +24424,19 @@ Silny wiatr odpędza mgłę, dym i inne gazy. Małe lub mniejsze latające istot
 
 **Czas trwania:** Koncentracja, do 1 minuty
 
-Tworzysz sferę żółtego, mdłego gazu o promieniu 6 metrów ze środkiem w punkcie w zasięgu. Obszar jest silnie przesłonięty. Chmura utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru)) ją rozproszy.
+Tworzysz sferę żółtego, mdłego gazu o promieniu 6 metrów ze środkiem w punkcie w zasięgu. Obszar jest silnie przesłonięty. Chmura utrzymuje się przez czas trwania zaklęcia albo do chwili, gdy silny wiatr (na przykład z zaklęcia [Poryw wiatru](#poryw-wiatru-1)) ją rozproszy.
 
 Każda istota, która rozpoczyna turę w sferze, musi odnieść sukces w rzucie obronnym na Kondycję albo ma stan zatruty do końca bieżącej tury. Będąc w ten sposób zatruta, nie może wykonać akcji ani akcji dodatkowej.
 
 #### Śnieżyca
+
+# Śnieżyca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sleet-storm
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, przywoływania (druid, czarownik, mag)*
 
@@ -19834,6 +24454,14 @@ Grunt w walcu to trudny teren. Gdy istota po raz pierwszy w turze wchodzi do wal
 
 #### Światło
 
+# Światło
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:light
+
+---
+
+Źródło: Podręcznik Gracza
+
 *Sztuczka, wywoływania (wynalazca, bard, kleryk, zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19849,6 +24477,14 @@ Dotykasz jeden obiekt Duży lub mniejszy, który nie jest noszony ani trzymany p
 Przykrycie obiektu czymś nieprzezroczystym blokuje światło. Zaklęcie kończy się, jeśli rzucisz je ponownie.
 
 #### Światło dnia
+
+# Światło dnia
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:daylight
+
+---
+
+Źródło: Podręcznik Gracza
 
 *3. krąg, wywoływania (kleryk, druid, paladyn, łowca, czarownik)*
 
@@ -19868,6 +24504,14 @@ Jeśli jakakolwiek część obszaru tego zaklęcia nachodzi na obszar Ciemności
 
 #### Święta aura
 
+# Święta aura
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:holy-aura
+
+---
+
+Źródło: Podręcznik Gracza
+
 *8. krąg, odpychania (kleryk)*
 
 **Czas rzucania:** Akcja
@@ -19881,6 +24525,14 @@ Jeśli jakakolwiek część obszaru tego zaklęcia nachodzi na obszar Ciemności
 Przez czas trwania zaklęcia emitujesz aurę w postaci emanacji o promieniu 9 metrów. Istoty wybrane przez ciebie w aurze mają ułatwienie we wszystkich rzutach obronnych, a inne istoty mają utrudnienie w testach ataku przeciwko nim. Ponadto gdy czart albo nieumarły trafi dotkniętą istotę testem ataku wręcz, atakujący musi odnieść sukces w rzucie obronnym na Kondycję albo ma stan oślepiony do końca swojej następnej tury.
 
 #### Święty płomień
+
+# Święty płomień
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:sacred-flame
+
+---
+
+Źródło: Podręcznik Gracza
 
 *Sztuczka, wywoływania (kleryk)*
 
@@ -19897,6 +24549,14 @@ Promienista poświata spływa na istotę, którą widzisz w zasięgu. Cel musi o
 **Ulepszenie sztuczki.** Obrażenia zwiększają się o 1k8, gdy osiągniesz 5. poziom (2k8), 11. poziom (3k8) i 17. poziom (4k8).
 
 #### Źródło światła księżyca
+
+# Źródło światła księżyca
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:fount-of-moonlight
+
+---
+
+Źródło: Podręcznik Gracza
 
 *4. krąg, wywoływania (bard, druid)*
 
@@ -19916,6 +24576,14 @@ Ponadto zaraz po tym, gdy otrzymasz obrażenia od istoty, którą widzisz w prom
 
 #### Żrąca sfera
 
+# Żrąca sfera
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:vitriolic-sphere
+
+---
+
+Źródło: Podręcznik Gracza
+
 *4. krąg, wywoływania (zaklinacz, mag)*
 
 **Czas rzucania:** Akcja
@@ -19931,6 +24599,14 @@ Wskazujesz miejsce w zasięgu, a świecąca kula kwasu o średnicy około 30 cen
 **Użycie komórki czaru wyższego kręgu.** Obrażenia początkowe rosną o 2k4 za każdy krąg komórki czaru powyżej 4.
 
 #### Życzenie
+
+# Życzenie
+
+**URL źródła:** http://dnd2024.wikidot.com/spell:wish
+
+---
+
+Źródło: Podręcznik Gracza
 
 *9. krąg, przywoływania (zaklinacz, mag)*
 
@@ -19949,7 +24625,7 @@ Podstawowe użycie tego zaklęcia polega na powieleniu dowolnego innego czaru do
 Alternatywnie możesz stworzyć jeden z poniższych efektów według wyboru:
 
 - **Tworzenie przedmiotu.** Tworzysz jeden przedmiot o wartości do 25 000 sz, który nie jest magicznym przedmiotem. Przedmiot może mieć maksymalnie 90 metrów w dowolnym wymiarze i pojawia się na wolnym miejscu na ziemi, które widzisz.
-- **Natychmiastowe zdrowie.** Przywracasz wszystkie PW sobie i maksymalnie dwudziestu istotom, które widzisz, i kończysz na nich wszystkie efekty wymienione w zaklęciu [Większe przywrócenie](#większe-przywrócenie).
+- **Natychmiastowe zdrowie.** Przywracasz wszystkie PW sobie i maksymalnie dwudziestu istotom, które widzisz, i kończysz na nich wszystkie efekty wymienione w zaklęciu [Większe przywrócenie](#większe-przywrócenie-1).
 - **Odporność.** Nadajesz maksymalnie dziesięciu istotom, które widzisz, odporność na jeden wybrany typ obrażeń. Odporność ta jest trwała.
 - **Niepodatność na czar.** Nadajesz maksymalnie dziesięciu widzianym istotom niepodatność na jeden czar albo inny magiczny efekt na 8 godzin.
 - **Nagła wiedza.** Zamieniasz jeden ze swoich atutów na inny atut, na który się kwalifikujesz. Tracisz wszystkie korzyści starego atutu i zyskujesz korzyści nowego. Nie możesz zamienić atutu będącego wymaganiem dla innych atutów albo zdolności.

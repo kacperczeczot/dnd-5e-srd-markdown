@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [beacon-of-hope](beacon-of-hope.md)
-
----
 
 # Promień nadziei
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-cavalier](subclass-fighter-cavalier.md)
-
----
 
 # Cavalier (UA)
 

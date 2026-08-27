@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-gainful-exercise](manual-of-gainful-exercise.md)
-
----
 
 # Manual of Gainful Exercise
 

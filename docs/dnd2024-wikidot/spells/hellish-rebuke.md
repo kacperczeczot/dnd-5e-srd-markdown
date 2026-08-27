@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [hellish-rebuke](hellish-rebuke.md)
-
----
 
 # Hellish Rebuke
 

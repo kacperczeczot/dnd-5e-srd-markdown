@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [skill-expert](skill-expert.md)
-
----
 
 # Ekspert od umiejętności
 

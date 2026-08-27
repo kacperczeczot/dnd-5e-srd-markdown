@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [barbarian-path-of-the-berserker](barbarian-path-of-the-berserker.md)
-
----
 
 # Ścieżka berserkera
 

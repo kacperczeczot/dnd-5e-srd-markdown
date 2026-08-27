@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [hag-eye](hag-eye.md)
-
----
 
 # Hag Eye
 

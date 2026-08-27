@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-missile-snaring](gloves-of-missile-snaring.md)
-
----
 
 # Gloves of Missile Snaring
 

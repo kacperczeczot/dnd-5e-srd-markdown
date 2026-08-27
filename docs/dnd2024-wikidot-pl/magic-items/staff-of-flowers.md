@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-flowers](staff-of-flowers.md)
-
----
 
 # Kostur kwiatów
 

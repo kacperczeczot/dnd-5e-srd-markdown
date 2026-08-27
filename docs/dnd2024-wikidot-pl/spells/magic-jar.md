@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [magic-jar](magic-jar.md)
-
----
 
 # Magiczny słój
 

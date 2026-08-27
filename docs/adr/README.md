@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [Dokumentacja](../README.md) > [ADR](README.md)
-
----
 
 # Rejestr Decyzji Architektonicznych (ADR)
 

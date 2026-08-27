@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-grave-domain](subclass-cleric-grave-domain.md)
-
----
 
 # Grave Domain (UA)
 

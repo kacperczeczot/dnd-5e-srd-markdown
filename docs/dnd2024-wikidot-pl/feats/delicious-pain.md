@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [delicious-pain](delicious-pain.md)
-
----
 
 # Smakowity ból
 

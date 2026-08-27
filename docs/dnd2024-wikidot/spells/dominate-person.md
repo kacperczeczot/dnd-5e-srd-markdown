@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dominate-person](dominate-person.md)
-
----
 
 # Dominate Person
 

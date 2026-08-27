@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [conjuration-school](conjuration-school.md)
-
----
 
 # Czary przywoływania
 

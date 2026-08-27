@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-homunculus-servant](spell-homunculus-servant.md)
-
----
 
 # Homunculus Servant (UA)
 

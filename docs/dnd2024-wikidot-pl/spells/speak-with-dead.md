@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [speak-with-dead](speak-with-dead.md)
-
----
 
 # Rozmawianie z umarłymi
 

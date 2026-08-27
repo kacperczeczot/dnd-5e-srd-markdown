@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [wand](wand.md)
-
----
 
 # Magic Items - Wands
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-levitation](boots-of-levitation.md)
-
----
 
 # Buty lewitacji
 

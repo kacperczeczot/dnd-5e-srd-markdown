@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [blind-fighting](blind-fighting.md)
-
----
 
 # Blind Fighting
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [dead-magic-dweller](dead-magic-dweller.md)
-
----
 
 # Dead Magic Dweller
 

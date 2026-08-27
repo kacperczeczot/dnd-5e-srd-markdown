@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [tasha-s-hideous-laughter](tasha-s-hideous-laughter.md)
-
----
 
 # Ohydny śmiech Tashy
 

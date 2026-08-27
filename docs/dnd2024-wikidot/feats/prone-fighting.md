@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [prone-fighting](prone-fighting.md)
-
----
 
 # Prone Fighting
 

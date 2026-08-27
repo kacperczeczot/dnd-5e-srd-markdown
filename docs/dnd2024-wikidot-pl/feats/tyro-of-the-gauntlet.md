@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [tyro-of-the-gauntlet](tyro-of-the-gauntlet.md)
-
----
 
 # Nowicjusz Rękawicy
 

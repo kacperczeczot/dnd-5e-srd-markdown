@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [lorwyn-expert](lorwyn-expert.md)
-
----
 
 # Ekspert Lorwyn
 

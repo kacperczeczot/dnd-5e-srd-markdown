@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [cure-wounds](cure-wounds.md)
-
----
 
 # Cure Wounds
 

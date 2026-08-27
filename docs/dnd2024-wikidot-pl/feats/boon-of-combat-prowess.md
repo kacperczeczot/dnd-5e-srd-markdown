@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-combat-prowess](boon-of-combat-prowess.md)
-
----
 
 # Dar bojowej sprawności
 

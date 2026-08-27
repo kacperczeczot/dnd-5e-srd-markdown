@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-the-bandit-king](feat-boon-of-the-bandit-king.md)
-
----
 
 # Boon of the Bandit King (UA)
 

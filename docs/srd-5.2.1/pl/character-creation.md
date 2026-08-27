@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [pl](README.md) > [character-creation](character-creation.md)
-
----
 
 # Tworzenie postaci
 

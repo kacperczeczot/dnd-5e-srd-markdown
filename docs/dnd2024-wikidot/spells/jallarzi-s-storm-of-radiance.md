@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [jallarzi-s-storm-of-radiance](jallarzi-s-storm-of-radiance.md)
-
----
 
 # Jallarzi's Storm of Radiance
 

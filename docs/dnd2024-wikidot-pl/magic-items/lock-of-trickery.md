@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [lock-of-trickery](lock-of-trickery.md)
-
----
 
 # Zamek podstępu
 

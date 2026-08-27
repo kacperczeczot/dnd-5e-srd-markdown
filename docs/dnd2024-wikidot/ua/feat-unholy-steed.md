@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-unholy-steed](feat-unholy-steed.md)
-
----
 
 # Unholy Steed (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [protection-from-evil-and-good](protection-from-evil-and-good.md)
-
----
 
 # Protection from Evil and Good
 

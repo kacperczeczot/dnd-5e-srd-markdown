@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [feather-fall](feather-fall.md)
-
----
 
 # Feather Fall
 

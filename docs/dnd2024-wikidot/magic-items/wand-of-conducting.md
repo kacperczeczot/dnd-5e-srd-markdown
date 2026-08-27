@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-conducting](wand-of-conducting.md)
-
----
 
 # Wand of Conducting
 

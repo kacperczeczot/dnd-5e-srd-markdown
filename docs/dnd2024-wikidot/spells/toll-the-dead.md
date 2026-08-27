@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [toll-the-dead](toll-the-dead.md)
-
----
 
 # Toll the Dead
 

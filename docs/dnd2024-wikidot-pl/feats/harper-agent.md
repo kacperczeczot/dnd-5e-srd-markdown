@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [harper-agent](harper-agent.md)
-
----
 
 # Agent Harpersów
 

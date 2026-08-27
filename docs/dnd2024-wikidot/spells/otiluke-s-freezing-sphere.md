@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [otiluke-s-freezing-sphere](otiluke-s-freezing-sphere.md)
-
----
 
 # Otiluke's Freezing Sphere
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [equipment](README.md) > [currency](currency.md)
-
----
 
 # Currency
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [class-artificer2](class-artificer2.md)
-
----
 
 # Wynalazca (UA3 — 27.02.2025)
 

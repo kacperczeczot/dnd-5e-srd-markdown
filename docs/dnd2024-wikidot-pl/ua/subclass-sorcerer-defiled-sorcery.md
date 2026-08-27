@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-defiled-sorcery](subclass-sorcerer-defiled-sorcery.md)
-
----
 
 # Zbezczeszczona magia (UA)
 

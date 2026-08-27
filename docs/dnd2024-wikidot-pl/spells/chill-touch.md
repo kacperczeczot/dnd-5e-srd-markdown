@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [chill-touch](chill-touch.md)
-
----
 
 # Przeszywający dotyk
 

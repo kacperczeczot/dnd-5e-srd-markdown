@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [flaming-sphere](flaming-sphere.md)
-
----
 
 # Flaming Sphere
 

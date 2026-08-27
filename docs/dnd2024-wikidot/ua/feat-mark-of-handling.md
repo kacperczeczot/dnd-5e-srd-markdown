@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-handling](feat-mark-of-handling.md)
-
----
 
 # Mark of Handling (UA)
 

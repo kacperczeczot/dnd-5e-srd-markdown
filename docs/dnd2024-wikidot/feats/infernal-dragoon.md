@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [infernal-dragoon](infernal-dragoon.md)
-
----
 
 # Infernal Dragoon
 

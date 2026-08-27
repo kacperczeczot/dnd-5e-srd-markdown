@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mist-walker](mist-walker.md)
-
----
 
 # Mist Walker
 

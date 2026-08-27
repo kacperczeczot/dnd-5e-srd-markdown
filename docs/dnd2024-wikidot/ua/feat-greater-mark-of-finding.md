@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-finding](feat-greater-mark-of-finding.md)
-
----
 
 # Greater Mark of Finding (UA)
 

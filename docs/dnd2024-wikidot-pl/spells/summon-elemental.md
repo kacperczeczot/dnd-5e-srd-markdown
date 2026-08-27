@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [summon-elemental](summon-elemental.md)
-
----
 
 # Przywołanie żywiołaka
 

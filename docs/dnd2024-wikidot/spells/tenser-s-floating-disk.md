@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [tenser-s-floating-disk](tenser-s-floating-disk.md)
-
----
 
 # Tenser's Floating Disk
 

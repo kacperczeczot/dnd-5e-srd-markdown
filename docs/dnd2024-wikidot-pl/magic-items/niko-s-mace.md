@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [niko-s-mace](niko-s-mace.md)
-
----
 
 # Buława Niko
 

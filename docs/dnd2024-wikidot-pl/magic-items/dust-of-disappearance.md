@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dust-of-disappearance](dust-of-disappearance.md)
-
----
 
 # Pył zniknięcia
 

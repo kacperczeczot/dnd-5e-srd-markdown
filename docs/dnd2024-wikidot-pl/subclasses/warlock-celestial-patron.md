@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [warlock-celestial-patron](warlock-celestial-patron.md)
-
----
 
 # Patron Niebiański
 

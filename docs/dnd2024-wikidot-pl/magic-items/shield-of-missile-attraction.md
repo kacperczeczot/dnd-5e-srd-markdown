@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-of-missile-attraction](shield-of-missile-attraction.md)
-
----
 
 # Tarcza przyciągania pocisków
 

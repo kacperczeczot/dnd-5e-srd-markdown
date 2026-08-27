@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-irresistible-offense](boon-of-irresistible-offense.md)
-
----
 
 # Boon of Irresistible Offense
 

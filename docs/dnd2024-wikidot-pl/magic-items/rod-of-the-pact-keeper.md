@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-the-pact-keeper](rod-of-the-pact-keeper.md)
-
----
 
 # Berło strażnika paktu
 

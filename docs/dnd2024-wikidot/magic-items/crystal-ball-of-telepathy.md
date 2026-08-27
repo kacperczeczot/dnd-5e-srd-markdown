@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball-of-telepathy](crystal-ball-of-telepathy.md)
-
----
 
 # Crystal Ball of Telepathy
 

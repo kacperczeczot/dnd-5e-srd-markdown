@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-cryokinesis](feat-cryokinesis.md)
-
----
 
 # Cryokinesis (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [spirit-medium](spirit-medium.md)
-
----
 
 # Medium duchów
 

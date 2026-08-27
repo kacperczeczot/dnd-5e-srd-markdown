@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-the-hunter-s-eye](feat-boon-of-the-hunter-s-eye.md)
-
----
 
 # Boon of the Hunter's Eye (UA)
 

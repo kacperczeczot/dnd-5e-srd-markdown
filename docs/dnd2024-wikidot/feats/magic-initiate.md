@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [magic-initiate](magic-initiate.md)
-
----
 
 # Magic Initiate
 

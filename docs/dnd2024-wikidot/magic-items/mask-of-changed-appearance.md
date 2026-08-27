@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mask-of-changed-appearance](mask-of-changed-appearance.md)
-
----
 
 # Mask of Changed Appearance
 

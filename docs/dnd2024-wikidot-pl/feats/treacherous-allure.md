@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [treacherous-allure](treacherous-allure.md)
-
----
 
 # Zdradliwy urok
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-understanding](tome-of-understanding.md)
-
----
 
 # Księga zrozumienia
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [plate-armor-of-etherealness](plate-armor-of-etherealness.md)
-
----
 
 # Zbroja płytowa eteryczności
 

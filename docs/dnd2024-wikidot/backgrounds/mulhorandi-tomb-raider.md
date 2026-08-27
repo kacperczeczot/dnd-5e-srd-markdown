@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [mulhorandi-tomb-raider](mulhorandi-tomb-raider.md)
-
----
 
 # Mulhorandi Tomb Raider
 

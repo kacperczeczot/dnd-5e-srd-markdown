@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [saddle-of-the-cavalier](saddle-of-the-cavalier.md)
-
----
 
 # Saddle of the Cavalier
 

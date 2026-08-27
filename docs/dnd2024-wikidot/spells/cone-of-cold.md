@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [cone-of-cold](cone-of-cold.md)
-
----
 
 # Cone Of Cold
 

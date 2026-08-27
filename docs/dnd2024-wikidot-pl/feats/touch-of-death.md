@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [touch-of-death](touch-of-death.md)
-
----
 
 # Dotyk śmierci
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-vengeance](sword-of-vengeance.md)
-
----
 
 # Miecz zemsty
 

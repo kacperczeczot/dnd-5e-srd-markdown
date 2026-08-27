@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [meteor-swarm](meteor-swarm.md)
-
----
 
 # Meteor Swarm
 

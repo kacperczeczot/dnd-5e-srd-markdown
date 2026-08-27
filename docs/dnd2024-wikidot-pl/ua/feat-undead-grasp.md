@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-undead-grasp](feat-undead-grasp.md)
-
----
 
 # Chwyt nieumarłego (UA)
 

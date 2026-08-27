@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [equipment](README.md) > [crafting](crafting.md)
-
----
 
 # Crafting Non-Magical Items
 

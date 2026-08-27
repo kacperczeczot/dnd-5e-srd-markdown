@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball-of-mind-reading](crystal-ball-of-mind-reading.md)
-
----
 
 # Crystal Ball of Mind Reading
 

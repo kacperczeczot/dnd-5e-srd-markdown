@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-water-walking](ring-of-water-walking.md)
-
----
 
 # Ring of Water Walking
 

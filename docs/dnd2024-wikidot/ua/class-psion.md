@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [class-psion](class-psion.md)
-
----
 
 # Psion (UA5 - 27.05.2025)
 

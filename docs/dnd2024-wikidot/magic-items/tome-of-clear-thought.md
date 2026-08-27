@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-clear-thought](tome-of-clear-thought.md)
-
----
 
 # Tome of Clear Thought
 

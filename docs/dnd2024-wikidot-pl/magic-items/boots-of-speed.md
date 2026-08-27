@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-speed](boots-of-speed.md)
-
----
 
 # Buty szybkości
 

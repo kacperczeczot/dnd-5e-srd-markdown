@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-thunder-and-lightning](staff-of-thunder-and-lightning.md)
-
----
 
 # Kostur gromu i błyskawicy
 

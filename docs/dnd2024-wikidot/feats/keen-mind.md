@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [keen-mind](keen-mind.md)
-
----
 
 # Keen Mind
 

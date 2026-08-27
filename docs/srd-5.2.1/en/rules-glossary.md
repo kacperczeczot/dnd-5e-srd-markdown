@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [en](README.md) > [rules-glossary](rules-glossary.md)
-
----
 
 # Rules Glossary
 

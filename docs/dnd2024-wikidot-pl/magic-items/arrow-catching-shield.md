@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [arrow-catching-shield](arrow-catching-shield.md)
-
----
 
 # Tarcza pociskochwytna
 

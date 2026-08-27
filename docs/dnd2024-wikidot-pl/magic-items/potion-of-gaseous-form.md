@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-gaseous-form](potion-of-gaseous-form.md)
-
----
 
 # Mikstura formy gazowej
 

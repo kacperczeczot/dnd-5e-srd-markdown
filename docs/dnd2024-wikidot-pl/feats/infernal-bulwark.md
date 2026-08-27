@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [infernal-bulwark](infernal-bulwark.md)
-
----
 
 # Piekielny bulwar
 

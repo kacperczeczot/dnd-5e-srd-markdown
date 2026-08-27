@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-purple-dragon-knight](subclass-fighter-purple-dragon-knight.md)
-
----
 
 # Rycerz Purpurowego Smoka (UA)
 

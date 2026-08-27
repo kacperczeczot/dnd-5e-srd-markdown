@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-abi-dalzim-s-horrid-wilting](spell-abi-dalzim-s-horrid-wilting.md)
-
----
 
 # Abi-Dalzim's Horrid Wilting (UA)
 

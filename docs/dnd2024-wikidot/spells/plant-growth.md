@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [plant-growth](plant-growth.md)
-
----
 
 # Plant Growth
 

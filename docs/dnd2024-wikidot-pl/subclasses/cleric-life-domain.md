@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [cleric-life-domain](cleric-life-domain.md)
-
----
 
 # Domena życia
 

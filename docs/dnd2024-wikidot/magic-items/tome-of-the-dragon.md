@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-the-dragon](tome-of-the-dragon.md)
-
----
 
 # Tome of the Dragon
 

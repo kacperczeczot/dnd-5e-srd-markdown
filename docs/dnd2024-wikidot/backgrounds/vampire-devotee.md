@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [vampire-devotee](vampire-devotee.md)
-
----
 
 # Vampire Devotee
 

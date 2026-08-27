@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [crossbow-expert](crossbow-expert.md)
-
----
 
 # Ekspert od kusz
 

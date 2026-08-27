@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tentacle-rod](tentacle-rod.md)
-
----
 
 # Tentacle Rod
 

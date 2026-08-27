@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [polymorph](polymorph.md)
-
----
 
 # Polimorfia
 

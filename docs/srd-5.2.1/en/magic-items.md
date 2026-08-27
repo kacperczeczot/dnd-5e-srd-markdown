@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [en](README.md) > [magic-items](magic-items.md)
-
----
 
 # Magic Items
 

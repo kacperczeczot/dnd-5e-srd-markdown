@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-sentinel](greater-mark-of-sentinel.md)
-
----
 
 # Greater Mark of Sentinel
 

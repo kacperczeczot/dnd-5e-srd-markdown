@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-scintillating-colors](robe-of-scintillating-colors.md)
-
----
 
 # Robe of Scintillating Colors
 

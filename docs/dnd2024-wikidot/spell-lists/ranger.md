@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spell-lists](README.md) > [ranger](ranger.md)
-
----
 
 # Ranger Spell List
 

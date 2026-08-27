@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [vampire-survivor](vampire-survivor.md)
-
----
 
 # Vampire Survivor
 

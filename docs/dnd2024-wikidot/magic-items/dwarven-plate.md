@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dwarven-plate](dwarven-plate.md)
-
----
 
 # Dwarven Plate
 

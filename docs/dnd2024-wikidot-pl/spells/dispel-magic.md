@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dispel-magic](dispel-magic.md)
-
----
 
 # Rozproszenie magii
 

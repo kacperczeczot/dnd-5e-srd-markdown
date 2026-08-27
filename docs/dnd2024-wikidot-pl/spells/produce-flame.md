@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [produce-flame](produce-flame.md)
-
----
 
 # Wywołanie płomienia
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-the-archmagi](robe-of-the-archmagi.md)
-
----
 
 # Robe of the Archmagi
 

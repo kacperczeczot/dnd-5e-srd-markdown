@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-web](wand-of-web.md)
-
----
 
 # Różdżka pajęczyny
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [prayer-of-healing](prayer-of-healing.md)
-
----
 
 # Prayer of Healing
 

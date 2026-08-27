@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-false-tracks](boots-of-false-tracks.md)
-
----
 
 # Boots of False Tracks
 

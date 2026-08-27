@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [periapt-of-proof-against-poison](periapt-of-proof-against-poison.md)
-
----
 
 # Talizman ochrony przed trucizną
 

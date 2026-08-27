@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [carouser](carouser.md)
-
----
 
 # Carouser
 

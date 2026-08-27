@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [commune](commune.md)
-
----
 
 # Kontakt z bóstwem
 

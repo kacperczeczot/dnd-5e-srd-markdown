@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-orcus](wand-of-orcus.md)
-
----
 
 # Różdżka Orcusa
 

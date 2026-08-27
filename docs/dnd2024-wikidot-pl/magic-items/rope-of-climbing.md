@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-climbing](rope-of-climbing.md)
-
----
 
 # Sznur wspinaczki
 

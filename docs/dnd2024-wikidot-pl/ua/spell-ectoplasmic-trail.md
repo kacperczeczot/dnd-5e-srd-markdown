@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-ectoplasmic-trail](spell-ectoplasmic-trail.md)
-
----
 
 # Ektoplazmowy ślad (UA)
 

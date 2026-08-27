@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-teleportation](helm-of-teleportation.md)
-
----
 
 # Helm of Teleportation
 

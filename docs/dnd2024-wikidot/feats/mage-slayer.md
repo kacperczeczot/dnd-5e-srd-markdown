@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mage-slayer](mage-slayer.md)
-
----
 
 # Mage Slayer
 

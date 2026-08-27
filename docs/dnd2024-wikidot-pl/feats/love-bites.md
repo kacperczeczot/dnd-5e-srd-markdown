@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [love-bites](love-bites.md)
-
----
 
 # Miłosne ugryzienia
 

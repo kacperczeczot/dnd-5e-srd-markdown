@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [horseshoes-of-speed](horseshoes-of-speed.md)
-
----
 
 # Podkowy szybkości
 

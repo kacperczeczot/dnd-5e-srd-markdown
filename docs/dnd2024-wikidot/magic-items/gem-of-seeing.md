@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gem-of-seeing](gem-of-seeing.md)
-
----
 
 # Gem of Seeing
 

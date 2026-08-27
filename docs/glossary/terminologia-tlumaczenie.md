@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [glossary](README.md) > [terminologia-tlumaczenie](terminologia-tlumaczenie.md)
-
----
 
 # Słownik terminologii mechanicznej (EN → PL)
 

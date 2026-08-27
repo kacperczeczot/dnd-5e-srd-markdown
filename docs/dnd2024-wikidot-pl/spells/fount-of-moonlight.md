@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [fount-of-moonlight](fount-of-moonlight.md)
-
----
 
 # Źródło światła księżyca
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-revelry](boon-of-revelry.md)
-
----
 
 # Dar hulanki
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [hammer-of-thunderbolts](hammer-of-thunderbolts.md)
-
----
 
 # Młot piorunów
 

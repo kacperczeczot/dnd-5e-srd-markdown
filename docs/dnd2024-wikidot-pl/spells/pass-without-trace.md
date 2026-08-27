@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [pass-without-trace](pass-without-trace.md)
-
----
 
 # Przejście bez śladu
 

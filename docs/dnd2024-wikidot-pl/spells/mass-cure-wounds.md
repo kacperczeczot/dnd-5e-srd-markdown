@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mass-cure-wounds](mass-cure-wounds.md)
-
----
 
 # Masowe leczenie ran
 

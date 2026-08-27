@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [cult-of-the-dragon-initiate](cult-of-the-dragon-initiate.md)
-
----
 
 # Inicjacja Kultu Smoka
 

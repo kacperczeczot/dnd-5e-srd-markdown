@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [abjuration-school](abjuration-school.md)
-
----
 
 # Abjuration Spells
 

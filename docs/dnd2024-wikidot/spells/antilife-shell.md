@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [antilife-shell](antilife-shell.md)
-
----
 
 # Antilife Shell
 

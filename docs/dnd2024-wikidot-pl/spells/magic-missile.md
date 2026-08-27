@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [magic-missile](magic-missile.md)
-
----
 
 # Magiczny pocisk
 

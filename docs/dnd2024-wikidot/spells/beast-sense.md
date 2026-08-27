@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [beast-sense](beast-sense.md)
-
----
 
 # Beast Sense
 

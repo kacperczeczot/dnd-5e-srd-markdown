@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-enfeeblement](ray-of-enfeeblement.md)
-
----
 
 # Ray of Enfeeblement
 

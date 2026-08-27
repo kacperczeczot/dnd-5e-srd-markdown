@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-prayer-beads](necklace-of-prayer-beads.md)
-
----
 
 # Naszyjnik modlitewny
 

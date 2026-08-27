@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [gathered-whispers](gathered-whispers.md)
-
----
 
 # Zebrane szepty
 

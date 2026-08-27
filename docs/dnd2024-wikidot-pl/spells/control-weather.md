@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [control-weather](control-weather.md)
-
----
 
 # Kontrola pogody
 

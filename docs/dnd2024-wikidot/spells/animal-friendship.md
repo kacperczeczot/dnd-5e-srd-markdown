@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [animal-friendship](animal-friendship.md)
-
----
 
 # Animal Friendship
 

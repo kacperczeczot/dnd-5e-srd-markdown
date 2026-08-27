@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-fate](boon-of-fate.md)
-
----
 
 # Dar przeznaczenia
 

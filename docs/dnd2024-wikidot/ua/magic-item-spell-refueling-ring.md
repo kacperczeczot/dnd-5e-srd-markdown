@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-spell-refueling-ring](magic-item-spell-refueling-ring.md)
-
----
 
 # Spell-Refueling Ring (UA)
 

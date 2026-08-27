@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-shadow-sorcery](subclass-sorcerer-shadow-sorcery.md)
-
----
 
 # Shadow Sorcery (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [flame-blade](flame-blade.md)
-
----
 
 # Płomienne ostrze
 

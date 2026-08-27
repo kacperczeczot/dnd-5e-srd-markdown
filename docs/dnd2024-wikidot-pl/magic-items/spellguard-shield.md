@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [spellguard-shield](spellguard-shield.md)
-
----
 
 # Czaroodporna tarcza
 

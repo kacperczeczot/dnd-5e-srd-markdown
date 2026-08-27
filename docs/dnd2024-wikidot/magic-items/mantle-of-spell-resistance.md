@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mantle-of-spell-resistance](mantle-of-spell-resistance.md)
-
----
 
 # Mantle of Spell Resistance
 

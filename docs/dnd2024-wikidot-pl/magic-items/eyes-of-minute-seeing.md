@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-minute-seeing](eyes-of-minute-seeing.md)
-
----
 
 # Soczewki drobnego widzenia
 

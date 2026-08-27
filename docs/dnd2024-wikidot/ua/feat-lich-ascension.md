@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-lich-ascension](feat-lich-ascension.md)
-
----
 
 # Lich Ascension (UA)
 

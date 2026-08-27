@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-swarming-insects](staff-of-swarming-insects.md)
-
----
 
 # Staff of Swarming Insects
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [demonomicon-of-iggwilv](demonomicon-of-iggwilv.md)
-
----
 
 # Demonomicon of Iggwilv
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [create-or-destroy-water](create-or-destroy-water.md)
-
----
 
 # Create or Destroy Water
 

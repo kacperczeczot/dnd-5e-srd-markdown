@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [vicious-weapon](vicious-weapon.md)
-
----
 
 # Okrutna broń
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [haste](haste.md)
-
----
 
 # Haste
 

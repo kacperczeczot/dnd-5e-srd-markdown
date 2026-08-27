@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-artillerist](subclass-artificer-artillerist.md)
-
----
 
 # Artillerist (UA)
 

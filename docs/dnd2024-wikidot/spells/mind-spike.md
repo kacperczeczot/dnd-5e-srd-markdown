@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mind-spike](mind-spike.md)
-
----
 
 # Mind Spike
 

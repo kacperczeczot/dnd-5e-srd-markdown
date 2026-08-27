@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-conjurer](subclass-wizard-conjurer.md)
-
----
 
 # Przywoływacz (UA6 — 26.06.2025)
 

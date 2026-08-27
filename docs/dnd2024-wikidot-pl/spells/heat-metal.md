@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [heat-metal](heat-metal.md)
-
----
 
 # Rozgrzanie metalu
 

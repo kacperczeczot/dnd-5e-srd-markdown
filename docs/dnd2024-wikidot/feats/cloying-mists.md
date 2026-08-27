@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [cloying-mists](cloying-mists.md)
-
----
 
 # Cloying Mists
 

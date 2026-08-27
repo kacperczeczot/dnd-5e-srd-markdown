@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-storm](feat-mark-of-storm.md)
-
----
 
 # Piętno burzy (UA)
 

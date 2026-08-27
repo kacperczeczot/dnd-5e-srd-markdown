@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [shocking-grasp](shocking-grasp.md)
-
----
 
 # Shocking Grasp
 

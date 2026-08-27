@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [summon-dragon](summon-dragon.md)
-
----
 
 # Summon Dragon
 

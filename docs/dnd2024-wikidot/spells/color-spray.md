@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [color-spray](color-spray.md)
-
----
 
 # Color Spray
 

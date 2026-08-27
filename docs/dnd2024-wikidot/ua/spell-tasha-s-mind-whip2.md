@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-tasha-s-mind-whip2](spell-tasha-s-mind-whip2.md)
-
----
 
 # Tasha's Mind Whip (UA9 - 02.10.2025)
 

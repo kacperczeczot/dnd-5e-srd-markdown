@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-withering](staff-of-withering.md)
-
----
 
 # Kostur obumierania
 

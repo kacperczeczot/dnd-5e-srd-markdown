@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-tattooed-warrior2](subclass-monk-tattooed-warrior2.md)
-
----
 
 # Tattooed Warrior (UA8 - 18.09.25)
 

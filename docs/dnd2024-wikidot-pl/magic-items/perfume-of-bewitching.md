@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [perfume-of-bewitching](perfume-of-bewitching.md)
-
----
 
 # Perfumy oczarowania
 

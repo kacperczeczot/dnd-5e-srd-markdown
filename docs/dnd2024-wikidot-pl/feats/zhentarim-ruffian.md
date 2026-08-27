@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [zhentarim-ruffian](zhentarim-ruffian.md)
-
----
 
 # Oprych Zhentarim
 

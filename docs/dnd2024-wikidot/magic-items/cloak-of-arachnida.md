@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-arachnida](cloak-of-arachnida.md)
-
----
 
 # Cloak of Arachnida
 

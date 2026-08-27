@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eye-and-hand-of-vecna](eye-and-hand-of-vecna.md)
-
----
 
 # Oko i Ręka Vecny
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-the-manta-ray](cloak-of-the-manta-ray.md)
-
----
 
 # Cloak of the Manta Ray
 

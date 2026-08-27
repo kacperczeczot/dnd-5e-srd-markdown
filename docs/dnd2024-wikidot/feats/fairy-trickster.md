@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [fairy-trickster](fairy-trickster.md)
-
----
 
 # Fairy Trickster
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-clairvoyance](potion-of-clairvoyance.md)
-
----
 
 # Mikstura jasnowidzenia
 

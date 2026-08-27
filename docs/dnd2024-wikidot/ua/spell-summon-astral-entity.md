@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-summon-astral-entity](spell-summon-astral-entity.md)
-
----
 
 # Summon Astral Entity (UA)
 

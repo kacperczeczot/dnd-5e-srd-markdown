@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [archaeologist](archaeologist.md)
-
----
 
 # Archaeologist
 

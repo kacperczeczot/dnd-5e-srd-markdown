@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-fear](wand-of-fear.md)
-
----
 
 # Wand of Fear
 

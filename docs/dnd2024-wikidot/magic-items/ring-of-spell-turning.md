@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-spell-turning](ring-of-spell-turning.md)
-
----
 
 # Ring of Spell Turning
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-the-ram](ring-of-the-ram.md)
-
----
 
 # Pierścień barana
 

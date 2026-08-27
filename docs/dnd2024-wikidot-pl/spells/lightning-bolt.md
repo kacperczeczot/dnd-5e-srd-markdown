@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [lightning-bolt](lightning-bolt.md)
-
----
 
 # Piorun
 

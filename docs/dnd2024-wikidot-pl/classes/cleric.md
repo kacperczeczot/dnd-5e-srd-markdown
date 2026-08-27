@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [classes](README.md) > [cleric](cleric.md)
-
----
 
 # Kleryk
 

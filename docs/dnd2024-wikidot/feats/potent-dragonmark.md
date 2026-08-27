@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [potent-dragonmark](potent-dragonmark.md)
-
----
 
 # Potent Dragonmark
 

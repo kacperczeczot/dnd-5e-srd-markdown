@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [sharp-eye](sharp-eye.md)
-
----
 
 # Sharp Eye
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [moderately-armored](moderately-armored.md)
-
----
 
 # Moderately Armored
 

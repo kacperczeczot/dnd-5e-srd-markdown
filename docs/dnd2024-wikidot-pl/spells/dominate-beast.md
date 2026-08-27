@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dominate-beast](dominate-beast.md)
-
----
 
 # Dominacja nad bestią
 

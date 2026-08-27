@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [otto-s-irresistible-dance](otto-s-irresistible-dance.md)
-
----
 
 # Otto's Irresistible Dance
 

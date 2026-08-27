@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-tasha-s-mind-whip](spell-tasha-s-mind-whip.md)
-
----
 
 # Mentalny bicz Tashy (UA)
 

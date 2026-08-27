@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pole-of-angling](pole-of-angling.md)
-
----
 
 # Tyczka wędkarska
 

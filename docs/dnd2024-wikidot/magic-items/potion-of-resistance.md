@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-resistance](potion-of-resistance.md)
-
----
 
 # Potion of Resistance
 

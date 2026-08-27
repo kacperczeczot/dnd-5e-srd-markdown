@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [power-word-kill](power-word-kill.md)
-
----
 
 # Słowo mocy: Giń
 

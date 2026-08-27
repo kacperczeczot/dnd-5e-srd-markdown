@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [zone-of-truth](zone-of-truth.md)
-
----
 
 # Zone of Truth
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [true-resurrection](true-resurrection.md)
-
----
 
 # True Resurrection
 

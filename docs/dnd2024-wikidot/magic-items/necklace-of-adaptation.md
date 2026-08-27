@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [necklace-of-adaptation](necklace-of-adaptation.md)
-
----
 
 # Necklace of Adaptation
 

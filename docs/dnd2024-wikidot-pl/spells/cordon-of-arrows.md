@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [cordon-of-arrows](cordon-of-arrows.md)
-
----
 
 # Kordon strzał
 

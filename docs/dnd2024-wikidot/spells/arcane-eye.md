@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [arcane-eye](arcane-eye.md)
-
----
 
 # Arcane Eye
 

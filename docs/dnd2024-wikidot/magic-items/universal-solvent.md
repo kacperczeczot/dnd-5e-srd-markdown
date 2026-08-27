@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [universal-solvent](universal-solvent.md)
-
----
 
 # Universal Solvent
 

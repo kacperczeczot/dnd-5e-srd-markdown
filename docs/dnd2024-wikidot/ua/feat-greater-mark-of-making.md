@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-making](feat-greater-mark-of-making.md)
-
----
 
 # Greater Mark of Making (UA)
 

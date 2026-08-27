@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [hypnotic-pattern](hypnotic-pattern.md)
-
----
 
 # Hypnotic Pattern
 

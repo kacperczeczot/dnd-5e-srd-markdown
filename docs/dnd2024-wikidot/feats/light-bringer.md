@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [light-bringer](light-bringer.md)
-
----
 
 # Light Bringer
 

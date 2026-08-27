@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [conjure-barrage](conjure-barrage.md)
-
----
 
 # Przywołanie ognia
 

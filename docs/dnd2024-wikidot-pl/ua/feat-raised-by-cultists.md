@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-raised-by-cultists](feat-raised-by-cultists.md)
-
----
 
 # Wychowany przez kultystów (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-potent-dragonmark](feat-potent-dragonmark.md)
-
----
 
 # Potężne piętno smoka (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mage-hand](mage-hand.md)
-
----
 
 # Mage Hand
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mythal-touched](mythal-touched.md)
-
----
 
 # Dotknięty mythalem
 

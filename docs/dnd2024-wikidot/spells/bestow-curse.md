@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [bestow-curse](bestow-curse.md)
-
----
 
 # Bestow Curse
 

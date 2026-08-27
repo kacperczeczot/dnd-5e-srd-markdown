@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [entertainer](entertainer.md)
-
----
 
 # Entertainer
 

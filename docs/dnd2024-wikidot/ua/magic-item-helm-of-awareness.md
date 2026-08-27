@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-helm-of-awareness](magic-item-helm-of-awareness.md)
-
----
 
 # Helm of Awareness (UA)
 

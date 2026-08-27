@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [folding-boat](folding-boat.md)
-
----
 
 # Składana łódź
 

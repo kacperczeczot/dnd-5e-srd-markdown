@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-hospitality](feat-greater-mark-of-hospitality.md)
-
----
 
 # Greater Mark of Hospitality (UA)
 

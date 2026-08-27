@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-arcane-archer](subclass-fighter-arcane-archer.md)
-
----
 
 # Łucznik arkaniczny (UA6 — 26.06.2025)
 

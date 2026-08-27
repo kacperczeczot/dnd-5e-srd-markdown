@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-shadow](feat-mark-of-shadow.md)
-
----
 
 # Mark of Shadow (UA)
 

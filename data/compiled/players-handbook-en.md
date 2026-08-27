@@ -1,7 +1,3 @@
-[Strona główna](../../README.md) > [compiled](README.md) > [players-handbook-en](players-handbook-en.md)
-
----
-
 # Player's Handbook
 
 ## Contents
@@ -26,20 +22,84 @@
   - [Trinkets](#trinkets)
 - [Ch. 3: Character Classes](#ch-3-character-classes)
   - [Barbarian](#barbarian)
+  - [Path of the Berserker](#path-of-the-berserker-1)
+  - [Path of the Wild Heart](#path-of-the-wild-heart-1)
+  - [Path of the World Tree](#path-of-the-world-tree-1)
+  - [Path of the Zealot](#path-of-the-zealot-1)
   - [Bard](#bard)
+  - [College of Dance](#college-of-dance-1)
+  - [College of Glamour](#college-of-glamour-1)
+  - [College of Lore](#college-of-lore-1)
+  - [College of Valor](#college-of-valor-1)
   - [Cleric](#cleric)
+  - [Life Domain](#life-domain-1)
+  - [Light Domain](#light-domain-1)
+  - [Trickery Domain](#trickery-domain-1)
+  - [War Domain](#war-domain-1)
   - [Druid](#druid)
+  - [Circle of the Land](#circle-of-the-land-1)
+  - [Circle of the Moon](#circle-of-the-moon-1)
+  - [Circle of the Sea](#circle-of-the-sea-1)
+  - [Circle of the Stars](#circle-of-the-stars-1)
   - [Fighter](#fighter)
+  - [Battle Master](#battle-master-1)
+  - [Champion](#champion-1)
+  - [Eldritch Knight](#eldritch-knight-1)
+  - [Psi Warrior](#psi-warrior-1)
   - [Monk](#monk)
+  - [Warrior of Mercy](#warrior-of-mercy-1)
+  - [Warrior of Shadow](#warrior-of-shadow-1)
+  - [Warrior of the Elements](#warrior-of-the-elements-1)
+  - [Warrior of the Open Hand](#warrior-of-the-open-hand-1)
   - [Paladin](#paladin)
+  - [Oath of Devotion](#oath-of-devotion-1)
+  - [Oath of Glory](#oath-of-glory-1)
+  - [Oath of the Ancients](#oath-of-the-ancients-1)
+  - [Oath of Vengeance](#oath-of-vengeance-1)
   - [Ranger](#ranger)
+  - [Beast Master](#beast-master-1)
+  - [Fey Wanderer](#fey-wanderer-1)
+  - [Gloom Stalker](#gloom-stalker-1)
+  - [Hunter](#hunter-1)
   - [Rogue](#rogue)
+  - [Arcane Trickster](#arcane-trickster-1)
+  - [Assassin](#assassin-1)
+  - [Soulknife](#soulknife-1)
+  - [Thief](#thief-1)
   - [Sorcerer](#sorcerer)
+  - [Aberrant Sorcery](#aberrant-sorcery-1)
+  - [Clockwork Sorcery](#clockwork-sorcery-1)
+  - [Draconic Sorcery](#draconic-sorcery-1)
+  - [Wild Magic Sorcery](#wild-magic-sorcery-1)
   - [Warlock](#warlock)
+  - [Archfey Patron](#archfey-patron-1)
+  - [Celestial Patron](#celestial-patron-1)
+  - [Fiend Patron](#fiend-patron-1)
+  - [Great Old One Patron](#great-old-one-patron-1)
   - [Wizard](#wizard)
+  - [Abjurer](#abjurer-1)
+  - [Diviner](#diviner-1)
+  - [Evoker](#evoker-1)
+  - [Illusionist](#illusionist-1)
 - [Ch. 4: Character Origins](#ch-4-character-origins)
   - [Origin Components](#origin-components)
   - [Background Descriptions](#background-descriptions)
+  - [Acolyte](#acolyte-1)
+  - [Artisan](#artisan-1)
+  - [Charlatan](#charlatan-1)
+  - [Criminal](#criminal-1)
+  - [Entertainer](#entertainer-1)
+  - [Farmer](#farmer-1)
+  - [Guard](#guard-1)
+  - [Guide](#guide-1)
+  - [Hermit](#hermit-1)
+  - [Merchant](#merchant-1)
+  - [Noble](#noble-1)
+  - [Sage](#sage-1)
+  - [Sailor](#sailor-1)
+  - [Scribe](#scribe-1)
+  - [Soldier](#soldier-1)
+  - [Wayfarer](#wayfarer-1)
   - [Species Descriptions](#species-descriptions)
 - [Ch. 5: Feats](#ch-5-feats)
   - [Feat Descriptions](#feat-descriptions)
@@ -3133,6 +3193,15 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 ### Barbarian
 
+#### Barbarian
+
+**Class:** barbarian
+**Source URL:** http://dnd2024.wikidot.com/barbarian:main
+
+---
+
+Source: Player's Handbook
+
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator’s ferocity, a storm's fury, and a sea's turmoil.
 
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
@@ -3170,19 +3239,19 @@ Barbarians often serve as protectors and leaders in their communities. They char
 | 1 | +2 | [Rage](#level-1-rage), [Unarmored Defense](#level-1-unarmored-defense-1), [Weapon Mastery](#level-1-weapon-mastery-4) | 2 | +2 | 2 |
 | 2 | +2 | [Danger Sense](#level-2-danger-sense), [Reckless Attack](#level-2-reckless-attack) | 2 | +2 | 2 |
 | 3 | +2 | [Barbarian Subclass](#level-3-barbarian-subclass), [Primal Knowledge](#level-3-primal-knowledge) | 3 | +2 | 2 |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | 3 | +2 | 3 |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | 3 | +2 | 3 |
 | 5 | +3 | [Extra Attack](#level-5-extra-attack-4), [Fast Movement](#level-5-fast-movement) | 3 | +2 | 3 |
 | 6 | +3 | [Subclass feature](#level-3-barbarian-subclass) | 4 | +2 | 3 |
 | 7 | +3 | [Feral Instinct](#level-7-feral-instinct), [Instinctive Pounce](#level-7-instinctive-pounce) | 4 | +2 | 3 |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | 4 | +2 | 3 |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | +2 | 3 |
 | 9 | +4 | [Brutal Strike](#level-9-brutal-strike) | 4 | +3 | 3 |
 | 10 | +4 | [Subclass feature](#level-3-barbarian-subclass) | 4 | +3 | 4 |
 | 11 | +4 | [Relentless Rage](#level-11-relentless-rage) | 4 | +3 | 4 |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | 5 | +3 | 4 |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 5 | +3 | 4 |
 | 13 | +5 | [Improved Brutal Strike](#level-17-improved-brutal-strike) | 5 | +3 | 4 |
 | 14 | +5 | [Subclass feature](#level-3-barbarian-subclass) | 5 | +3 | 4 |
 | 15 | +5 | [Persistent Rage](#level-15-persistent-rage) | 5 | +3 | 4 |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | 5 | +4 | 4 |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 5 | +4 | 4 |
 | 17 | +6 | [Improved Brutal Strike](#level-17-improved-brutal-strike) | 6 | +4 | 4 |
 | 18 | +6 | [Indomitable Might](#level-18-indomitable-might) | 6 | +4 | 4 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | 6 | +4 | 4 |
@@ -3242,10 +3311,10 @@ your Barbarian level or lower.
 
 | Name |
 | --- |
-| [Path of the Berserker](#path-of-the-berserker) |
-| [Path of the Wild Heart](#path-of-the-wild-heart) |
-| [Path of the World Tree](#path-of-the-world-tree) |
-| [Path of the Zealot](#path-of-the-zealot) |
+| [Path of the Berserker](#path-of-the-berserker-1) |
+| [Path of the Wild Heart](#path-of-the-wild-heart-1) |
+| [Path of the World Tree](#path-of-the-world-tree-1) |
+| [Path of the Zealot](#path-of-the-zealot-1) |
 
 ###### Level 3: Primal Knowledge
 
@@ -3255,7 +3324,7 @@ In addition, while your Rage is active, you can channel primal power when you at
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 
 ###### Level 5: Extra Attack
 
@@ -3313,13 +3382,23 @@ If your total for a Strength check or Strength saving throw is less than your St
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Irresistible Offense](#boon-of-irresistible-offense) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Irresistible Offense](#boon-of-irresistible-offense-1) is recommended.
 
 ###### Level 20: Primal Champion
 
 You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
 
 #### Path of the Berserker
+
+### Path of the Berserker
+
+**Class:** barbarian
+**Source URL:** http://dnd2024.wikidot.com/barbarian:path-of-the-berserker
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Channel Rage into Violent Fury*
 
@@ -3345,13 +3424,23 @@ Once you use this feature, you can't use it again until you finish a Long Rest u
 
 #### Path of the Wild Heart
 
+### Path of the Wild Heart
+
+**Class:** barbarian
+**Source URL:** http://dnd2024.wikidot.com/barbarian:path-of-the-wild-heart
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Walk in Community with the Animal World*
 
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 ##### Level 3: Animal Speaker
 
-You can cast the [Beast Sense](#beast-sense) and [Speak with Animals](#speak-with-animals) spells but only as Rituals. Wisdom is your spellcasting ability for them.
+You can cast the [Beast Sense](#beast-sense-1) and [Speak with Animals](#speak-with-animals-1) spells but only as Rituals. Wisdom is your spellcasting ability for them.
 
 ##### Level 3: Rage of the Wilds
 
@@ -3375,7 +3464,7 @@ You gain one of the following options of your choice. Whenever you finish a Long
 
 ##### Level 10: Nature Speaker
 
-You can cast the [Commune with Nature](#commune-with-nature) spell but only as a Ritual. Wisdom is your spellcasting ability for it.
+You can cast the [Commune with Nature](#commune-with-nature-1) spell but only as a Ritual. Wisdom is your spellcasting ability for it.
 
 ##### Level 14: Power of the Wilds
 
@@ -3388,6 +3477,16 @@ Whenever you activate your Rage, you gain one of the following options of your c
 **Ram.** While your Rage is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
 
 #### Path of the World Tree
+
+### Path of the World Tree
+
+**Class:** barbarian
+**Source URL:** http://dnd2024.wikidot.com/barbarian:path-of-the-world-tree
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Trace the Roots and Branches of the Multiverse*
 
@@ -3414,6 +3513,16 @@ During your turn, your reach is 10 feet greater with any Melee weapon that has t
 When you activate your Rage and as a Bonus Action while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see. In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.
 
 #### Path of the Zealot
+
+### Path of the Zealot
+
+**Class:** barbarian
+**Source URL:** http://dnd2024.wikidot.com/barbarian:path-of-the-zealot
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Rage in Ecstatic Union with a God*
 
@@ -3455,6 +3564,15 @@ While in this form, you gain the benefits below.
 
 ### Bard
 
+#### Bard
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:main
+
+---
+
+Source: Player's Handbook
+
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
@@ -3493,19 +3611,19 @@ A Bard's life is spent traveling, gathering lore, telling stories, and living on
 | 1 | +2 | [Bardic Inspiration](#level-1-bardic-inspiration), [Spellcasting](#spellcasting-1) | D6 |
 | 2 | +2 | [Expertise](#level-1-expertise), [Jack of all Trades](#level-2-jack-of-all-trades) | D6 |
 | 3 | +2 | [Bard Subclass](#level-3-bard-subclass) | D6 |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | D6 |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | D6 |
 | 5 | +3 | [Font of Inspiration](#level-5-font-of-inspiration) | D8 |
 | 6 | +3 | [Subclass feature](#level-3-bard-subclass) | D8 |
 | 7 | +3 | [Countercharm](#level-7-countercharm) | D8 |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | D8 |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | D8 |
 | 9 | +4 | [Expertise](#level-1-expertise) | D8 |
 | 10 | +4 | [Magical Secrets](#level-10-magical-secrets) | D10 |
 | 11 | +4 | - | D10 |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | D10 |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | D10 |
 | 13 | +5 | - | D10 |
 | 14 | +5 | [Subclass feature](#level-3-bard-subclass) | D10 |
 | 15 | +5 | - | D12 |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | D12 |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | D12 |
 | 17 | +6 | - | D12 |
 | 18 | +6 | [Superior Inspiration](#level-18-superior-inspiration) | D12 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | D12 |
@@ -3552,9 +3670,9 @@ Once within the next hour when the creature fails a D20 Test, the creature can r
 
 ###### Level 1: Spellcasting
 
-You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [Bard spell list](#bard-spell-list) later in the class's description.
+You have learned to cast spells through your bardic arts. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the [Bard spell list](#bard-spell-list-1) later in the class's description.
 
-**Cantrips.** You know two cantrips of your choice from the Bard spell list. [Dancing Lights](#dancing-lights) and [Vicious Mockery](#vicious-mockery) are recommended.
+**Cantrips.** You know two cantrips of your choice from the Bard spell list. [Dancing Lights](#dancing-lights-1) and [Vicious Mockery](#vicious-mockery-1) are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
@@ -3562,7 +3680,7 @@ When you reach Bard levels 4 and 10, you learn another cantrip of your choice fr
 
 **Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [Charm Person](#charm-person), [Color Spray](#color-spray), [Dissonant Whispers](#dissonant-whispers), and [Healing Word](#healing-word) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [Charm Person](#charm-person-1), [Color Spray](#color-spray-1), [Dissonant Whispers](#dissonant-whispers-1), and [Healing Word](#healing-word-1) are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -3594,16 +3712,16 @@ You gain a Bard subclass of your choice. The College of Dance, College of Glamou
 
 | Name |
 | --- |
-| [College of Dance](#college-of-dance) |
-| [College of Glamour](#college-of-glamour) |
-| [College of Lore](#college-of-lore) |
+| [College of Dance](#college-of-dance-1) |
+| [College of Glamour](#college-of-glamour-1) |
+| [College of Lore](#college-of-lore-1) |
 | College of Spirits |
 | College of the Moon |
-| [College of Valor](#college-of-valor) |
+| [College of Valor](#college-of-valor-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ###### Level 5: Font of Inspiration
 
@@ -3617,7 +3735,7 @@ You can use musical notes or words of power to disrupt mind-influencing effects.
 
 ###### Level 10: Magical Secrets
 
-You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](#bard-spell-list), [Cleric](#cleric-spell-list), [Druid](#druid-spell-list), and [Wizard](#wizard-spell-list) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
+You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the [Bard](#bard-spell-list-1), [Cleric](#cleric-spell-list-1), [Druid](#druid-spell-list-1), and [Wizard](#wizard-spell-list-1) spell lists, and the chosen spells count as Bard spells for you (see a class’s section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
 
 ###### Level 18: Superior Inspiration
 
@@ -3625,194 +3743,211 @@ When you roll Initiative, you regain expended uses of Bardic Inspiration until y
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Spell Recall](#boon-of-spell-recall) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Spell Recall](#boon-of-spell-recall-1) is recommended.
 
 ###### Level 20: Words of Creation
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word: Heal](#power-word-heal) and [Power Word: Kill](#power-word-kill) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word: Heal](#power-word-heal-1) and [Power Word: Kill](#power-word-kill-1) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
 
 #### Bard Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Blade Ward](#blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Dancing Lights](#dancing-lights) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Friends](#friends) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
-| [Light](#light-1) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
-| [Mage Hand](#mage-hand) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
-| [Mending](#mending) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
-| [Message](#message) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
-| [Minor Illusion](#minor-illusion) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
-| [Prestidigitation](#prestidigitation) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
-| [Starry Wisp](#starry-wisp) | *Evocation* | Bard, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Thunderclap](#thunderclap) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
-| [True Strike](#true-strike) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
-| [Vicious Mockery](#vicious-mockery) | *Enchantment* | Bard | Action | 60 feet | V | Instantaneous |
+#### Bard Spell List
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animal Friendship](#animal-friendship) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
-| [Bane](#bane) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Charm Person](#charm-person) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Color Spray](#color-spray) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Command](#command) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
-| [Comprehend Languages](#comprehend-languages) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
-| [Cure Wounds](#cure-wounds) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Disguise Self](#disguise-self) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
-| [Dissonant Whispers](#dissonant-whispers) | *Enchantment* | Bard | Action | 60 feet | V | Instantaneous |
-| [Faerie Fire](#faerie-fire) | *Evocation* | Artificer, Bard, Druid | Action | 60 feet | V | *^C^*, up to 1 minute |
-| [Feather Fall](#feather-fall) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
-| [Healing Word](#healing-word) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
-| [Heroism](#heroism) | *Enchantment* | Bard, Paladin | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Identify](#identify) | *Divination* | Artificer, Bard, Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Instantaneous |
-| [Illusory Script](#illusory-script) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
+| [Blade Ward](#blade-ward-1) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Dancing Lights](#dancing-lights-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Friends](#friends-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
+| [Light](#light-2) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
+| [Mage Hand](#mage-hand-1) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
+| [Mending](#mending-1) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
+| [Message](#message-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
+| [Minor Illusion](#minor-illusion-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
+| [Prestidigitation](#prestidigitation-1) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
+| [Starry Wisp](#starry-wisp-1) | *Evocation* | Bard, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Thunderclap](#thunderclap-1) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+| [True Strike](#true-strike-1) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+| [Vicious Mockery](#vicious-mockery-1) | *Enchantment* | Bard | Action | 60 feet | V | Instantaneous |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Animal Friendship](#animal-friendship-1) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
+| [Bane](#bane-1) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Charm Person](#charm-person-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Color Spray](#color-spray-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Command](#command-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
+| [Comprehend Languages](#comprehend-languages-1) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
+| [Cure Wounds](#cure-wounds-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Disguise Self](#disguise-self-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
+| [Dissonant Whispers](#dissonant-whispers-1) | *Enchantment* | Bard | Action | 60 feet | V | Instantaneous |
+| [Faerie Fire](#faerie-fire-1) | *Evocation* | Artificer, Bard, Druid | Action | 60 feet | V | *^C^*, up to 1 minute |
+| [Feather Fall](#feather-fall-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
+| [Healing Word](#healing-word-1) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
+| [Heroism](#heroism-1) | *Enchantment* | Bard, Paladin | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Identify](#identify-1) | *Divination* | Artificer, Bard, Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Instantaneous |
+| [Illusory Script](#illusory-script-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
 | Insidious Rhythm | *Enchantment* | Bard | Action | 120 feet. | V, S | *^C^*, up to 1 minute |
-| [Longstrider](#longstrider) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
-| [Silent Image](#silent-image) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Sleep](#sleep) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Speak with Animals](#speak-with-animals) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
-| [Tasha's Hideous Laughter](#tashas-hideous-laughter) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Thunderwave](#thunderwave) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Unseen Servant](#unseen-servant) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
+| [Longstrider](#longstrider-1) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
+| [Silent Image](#silent-image-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Sleep](#sleep-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Speak with Animals](#speak-with-animals-1) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
+| [Tasha's Hideous Laughter](#tashas-hideous-laughter-1) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Thunderwave](#thunderwave-1) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Unseen Servant](#unseen-servant-1) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
 | Wardaway | *Abjuration* | Bard, Cleric, Paladin, Wizard | Action | 60 feet | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#aid) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
-| [Animal Messenger](#animal-messenger) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
-| [Blindness/Deafness](#blindnessdeafness) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
-| [Calm Emotions](#calm-emotions) | *Enchantment* | Bard, Cleric | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#cloud-of-daggers) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#crown-of-madness) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Detect Thoughts](#detect-thoughts) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Enlarge/Reduce](#enlargereduce) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Enthrall](#enthrall) | *Enchantment* | Bard, Warlock | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Heat Metal](#heat-metal) | *Transmutation* | Artificer, Bard, Druid | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Invisibility](#invisibility) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Knock](#knock) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
-| [Lesser Restoration](#lesser-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
-| [Locate Animals or Plants](#locate-animals-or-plants) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magic Mouth](#magic-mouth) | *Illusion* | Artificer, Bard, Wizard | 1 minute or *^R^* | 30 feet | V, S, M(C*) | Until dispelled |
-| [Mirror Image](#mirror-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
-| [Phantasmal Force](#phantasmal-force) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [See Invisibility](#see-invisibility) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
-| [Shatter](#shatter) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Silence](#silence) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Suggestion](#suggestion) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
-| [Zone of Truth](#zone-of-truth) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
+| [Aid](#aid-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Animal Messenger](#animal-messenger-1) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
+| [Blindness/Deafness](#blindnessdeafness-1) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
+| [Calm Emotions](#calm-emotions-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#cloud-of-daggers-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#crown-of-madness-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Detect Thoughts](#detect-thoughts-1) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Enlarge/Reduce](#enlargereduce-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Enthrall](#enthrall-1) | *Enchantment* | Bard, Warlock | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Heat Metal](#heat-metal-1) | *Transmutation* | Artificer, Bard, Druid | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Invisibility](#invisibility-1) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Knock](#knock-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
+| [Lesser Restoration](#lesser-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Animals or Plants](#locate-animals-or-plants-1) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Mouth](#magic-mouth-1) | *Illusion* | Artificer, Bard, Wizard | 1 minute or *^R^* | 30 feet | V, S, M(C*) | Until dispelled |
+| [Mirror Image](#mirror-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
+| [Phantasmal Force](#phantasmal-force-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [See Invisibility](#see-invisibility-1) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
+| [Shatter](#shatter-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Silence](#silence-1) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Suggestion](#suggestion-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
+| [Zone of Truth](#zone-of-truth-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astral Flood | *Evocation* | Bard, Cleric, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Bestow Curse](#bestow-curse) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Bestow Curse](#bestow-curse-1) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
 | Cacophonic Shield | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Clairvoyance](#clairvoyance) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Fear](#fear) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Feign Death](#feign-death) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
-| [Glyph of Warding](#glyph-of-warding) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
-| [Hypnotic Pattern](#hypnotic-pattern) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
-| [Leomund's Tiny Hut](#leomunds-tiny-hut) | *Evocation* | Bard, Wizard | 1 minute or *^R^* | Self | V, S, M | 8 hours |
-| [Major Image](#major-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Mass Healing Word](#mass-healing-word) | *Abjuration* | Bard, Cleric | Bonus Action | 60 feet | V | Instantaneous |
-| [Nondetection](#nondetection) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
-| [Plant Growth](#plant-growth) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
-| [Sending](#sending) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
-| [Slow](#slow) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Speak with Dead](#speak-with-dead) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
-| [Speak with Plants](#speak-with-plants) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
-| [Stinking Cloud](#stinking-cloud) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Tongues](#tongues) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
+| [Clairvoyance](#clairvoyance-1) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Fear](#fear-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Feign Death](#feign-death-1) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
+| [Glyph of Warding](#glyph-of-warding-1) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Hypnotic Pattern](#hypnotic-pattern-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
+| [Leomund's Tiny Hut](#leomunds-tiny-hut-1) | *Evocation* | Bard, Wizard | 1 minute or *^R^* | Self | V, S, M | 8 hours |
+| [Major Image](#major-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Mass Healing Word](#mass-healing-word-1) | *Abjuration* | Bard, Cleric | Bonus Action | 60 feet | V | Instantaneous |
+| [Nondetection](#nondetection-1) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
+| [Plant Growth](#plant-growth-1) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
+| [Sending](#sending-1) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
+| [Slow](#slow-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Speak with Dead](#speak-with-dead-1) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
+| [Speak with Plants](#speak-with-plants-1) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
+| [Stinking Cloud](#stinking-cloud-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Tongues](#tongues-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Reaction | 60 feet | V | Instantaneous |
-| [Charm Monster](#charm-monster) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Compulsion](#compulsion) | *Enchantment* | Bard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
-| [Confusion](#confusion) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Dimension Door](#dimension-door) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
+| [Charm Monster](#charm-monster-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Compulsion](#compulsion-1) | *Enchantment* | Bard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
+| [Confusion](#confusion-1) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Dimension Door](#dimension-door-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
 | Doomtide | *Conjuration* | Bard, Cleric, Warlock | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Fount of Moonlight](#fount-of-moonlight) | *Evocation* | Bard, Druid | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Freedom of Movement](#freedom-of-movement) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
-| [Greater Invisibility](#greater-invisibility) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Hallucinatory Terrain](#hallucinatory-terrain) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Phantasmal Killer](#phantasmal-killer) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Polymorph](#polymorph) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Fount of Moonlight](#fount-of-moonlight-1) | *Evocation* | Bard, Druid | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Freedom of Movement](#freedom-of-movement-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
+| [Greater Invisibility](#greater-invisibility-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Hallucinatory Terrain](#hallucinatory-terrain-1) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Phantasmal Killer](#phantasmal-killer-1) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Polymorph](#polymorph-1) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Abjuration* | Bard, Druid, Ranger, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Animate Objects](#animate-objects) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Awaken](#awaken) | *Transmutation* | Bard, Druid | 8 Hours | Touch | V, S, M(C*) | Instantaneous |
-| [Dominate Person](#dominate-person) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Dream](#dream) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
-| [Geas](#geas) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-| [Greater Restoration](#greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Hold Monster](#hold-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Legend Lore](#legend-lore) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
-| [Mass Cure Wounds](#mass-cure-wounds) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Mislead](#mislead) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
-| [Modify Memory](#modify-memory) | *Enchantment* | Bard, Wizard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
-| [Planar Binding](#planar-binding) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-| [Raise Dead](#raise-dead) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Rary's Telepathic Bond](#rarys-telepathic-bond) | *Divination* | Bard, Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
-| [Scrying](#scrying) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Seeming](#seeming) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
-| [Synaptic Static](#synaptic-static) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Teleportation Circle](#teleportation-circle) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
-| [Yolande's Regal Presence](#yolandes-regal-presence) | *Enchantment* | Bard, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Animate Objects](#animate-objects-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Awaken](#awaken-1) | *Transmutation* | Bard, Druid | 8 Hours | Touch | V, S, M(C*) | Instantaneous |
+| [Dominate Person](#dominate-person-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Dream](#dream-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
+| [Geas](#geas-1) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Greater Restoration](#greater-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Hold Monster](#hold-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Legend Lore](#legend-lore-1) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Mass Cure Wounds](#mass-cure-wounds-1) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Mislead](#mislead-1) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
+| [Modify Memory](#modify-memory-1) | *Enchantment* | Bard, Wizard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
+| [Planar Binding](#planar-binding-1) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
+| [Raise Dead](#raise-dead-1) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Rary's Telepathic Bond](#rarys-telepathic-bond-1) | *Divination* | Bard, Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Scrying](#scrying-1) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Seeming](#seeming-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
+| [Synaptic Static](#synaptic-static-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Teleportation Circle](#teleportation-circle-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
+| [Yolande's Regal Presence](#yolandes-regal-presence-1) | *Enchantment* | Bard, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Dirge | *Enchantment* | Bard, Cleric | Action | Self | V | *^C^*, up to 1 minute |
-| [Eyebite](#eyebite) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Find the Path](#find-the-path) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Guards and Wards](#guards-and-wards) | *Abjuration* | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
-| [Heroes' Feast](#heroes-feast) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Eyebite](#eyebite-1) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Find the Path](#find-the-path-1) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Guards and Wards](#guards-and-wards-1) | *Abjuration* | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
+| [Heroes' Feast](#heroes-feast-1) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
 | Leomund's Lamentable Belaborment | *Enchantment* | Bard, Sorcerer, Wizard | Action | 30 feet | V | 1 Minute |
-| [Mass Suggestion](#mass-suggestion) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
-| [Otto's Irresistible Dance](#ottos-irresistible-dance) | *Enchantment* | Bard, Wizard | Action | 30 feet | V | *^C^*, up to 1 minute |
-| [Programmed Illusion](#programmed-illusion) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S, M | Until dispelled |
-| [True Seeing](#true-seeing) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+| [Mass Suggestion](#mass-suggestion-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
+| [Otto's Irresistible Dance](#ottos-irresistible-dance-1) | *Enchantment* | Bard, Wizard | Action | 30 feet | V | *^C^*, up to 1 minute |
+| [Programmed Illusion](#programmed-illusion-1) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S, M | Until dispelled |
+| [True Seeing](#true-seeing-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Etherealness](#etherealness) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
-| [Forcecage](#forcecage) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Mirage Arcane](#mirage-arcane) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
-| [Mordenkainen's Magnificent Mansion](#mordenkainens-magnificent-mansion) | *Conjuration* | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
-| [Mordenkainen's Sword](#mordenkainens-sword) | *Evocation* | Bard, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Power Word Fortify](#power-word-fortify) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
-| [Prismatic Spray](#prismatic-spray) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Project Image](#project-image) | *Illusion* | Bard, Wizard | Action | 500 miles | V, S, M | *^C^*, up to 1 day |
-| [Regenerate](#regenerate) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
-| [Resurrection](#resurrection) | *Necromancy* | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Symbol](#symbol) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
-| [Teleport](#teleport) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
+| [Etherealness](#etherealness-1) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
+| [Forcecage](#forcecage-1) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Mirage Arcane](#mirage-arcane-1) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
+| [Mordenkainen's Magnificent Mansion](#mordenkainens-magnificent-mansion-1) | *Conjuration* | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
+| [Mordenkainen's Sword](#mordenkainens-sword-1) | *Evocation* | Bard, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Power Word Fortify](#power-word-fortify-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
+| [Prismatic Spray](#prismatic-spray-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Project Image](#project-image-1) | *Illusion* | Bard, Wizard | Action | 500 miles | V, S, M | *^C^*, up to 1 day |
+| [Regenerate](#regenerate-1) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
+| [Resurrection](#resurrection-1) | *Necromancy* | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Symbol](#symbol-1) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Teleport](#teleport-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Antipathy/Sympathy](#antipathysympathy) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
-| [Befuddlement](#befuddlement) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
-| [Dominate Monster](#dominate-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
-| [Glibness](#glibness) | *Enchantment* | Bard, Warlock | Action | Self | V | 1 hour |
-| [Mind Blank](#mind-blank) | *Abjuration* | Bard, Wizard | Action | Touch | V, S | 24 hours |
-| [Power Word Stun](#power-word-stun) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Antipathy/Sympathy](#antipathysympathy-1) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
+| [Befuddlement](#befuddlement-1) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
+| [Dominate Monster](#dominate-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
+| [Glibness](#glibness-1) | *Enchantment* | Bard, Warlock | Action | Self | V | 1 hour |
+| [Mind Blank](#mind-blank-1) | *Abjuration* | Bard, Wizard | Action | Touch | V, S | 24 hours |
+| [Power Word Stun](#power-word-stun-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Foresight](#foresight) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-| [Power Word Heal](#power-word-heal) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
-| [Power Word Kill](#power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [Prismatic Wall](#prismatic-wall) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
-| [True Polymorph](#true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
+| [Foresight](#foresight-1) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
+| [Power Word Heal](#power-word-heal-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
+| [Power Word Kill](#power-word-kill-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Prismatic Wall](#prismatic-wall-1) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
+| [True Polymorph](#true-polymorph-1) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
 
 #### College of Dance
+
+### College of Dance
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:college-of-dance
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Move in Harmony with the Cosmos*
 
@@ -3848,13 +3983,23 @@ You can’t use this feature if you have the Incapacitated condition.
 
 #### College of Glamour
 
+### College of Glamour
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:college-of-glamour
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Weave Beguiling Fey Magic*
 
 The College of Glamour traces its origins to the beguiling magic of the Feywild. Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of longheld fears, and tug at the emotions of even the most hard-hearted listeners.
 
 ##### Level 3: Beguiling Magic
 
-You always have the [Charm Person](#charm-person) and [Mirror Image](#mirror-image) spells prepared.
+You always have the [Charm Person](#charm-person-1) and [Mirror Image](#mirror-image-1) spells prepared.
 
 In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the Charmed or Frightened condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
@@ -3866,9 +4011,9 @@ You can weave fey magic into a song or dance to fill others with vigor. As a Bon
 
 ##### Level 6: Mantle of Majesty
 
-You always have the [Command](#command) spell prepared.
+You always have the [Command](#command-1) spell prepared.
 
-As a Bonus Action, you cast [Command](#command) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your Concentration ends. During this time, you can cast [Command](#command) as a Bonus Action without expending a spell slot,
+As a Bonus Action, you cast [Command](#command-1) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your Concentration ends. During this time, you can cast [Command](#command-1) as a Bonus Action without expending a spell slot,
 
 Any creature Charmed by you automatically fails its saving throw against the Command you cast with this feature.
 
@@ -3881,6 +4026,16 @@ As a Bonus Action, you can assume a magically majestic presence for 1 minute or 
 Once you assume this majestic presence, you can't do so again until you finish a Short or Long Rest.
 
 #### College of Lore
+
+### College of Lore
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:college-of-lore
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Plumb the Depths of Magical Knowledge*
 
@@ -3896,7 +4051,7 @@ You learn to use your wit to supernaturally distract, confuse, and otherwise sap
 
 ##### Level 6: Magical Discoveries
 
-You learn two spells of your choice. These spells can come from the [Cleric](#cleric-spell-list), [Druid](#druid-spell-list), or [Wizard](#wizard-spell-list) spell list or any combination thereof (see a class’s section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
+You learn two spells of your choice. These spells can come from the [Cleric](#cleric-spell-list-1), [Druid](#druid-spell-list-1), or [Wizard](#wizard-spell-list-1) spell list or any combination thereof (see a class’s section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.
 
 You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements.
 
@@ -3905,6 +4060,16 @@ You always have the chosen spells prepared, and whenever you gain a Bard level, 
 When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn’t expended.
 
 #### College of Valor
+
+### College of Valor
+
+**Class:** bard
+**Source URL:** http://dnd2024.wikidot.com/bard:college-of-valor
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Sing the Deeds of Ancient Heroes*
 
@@ -3935,6 +4100,15 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
 
 ### Cleric
+
+#### Cleric
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:main
+
+---
+
+Source: Player's Handbook
 
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
@@ -3973,19 +4147,19 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 | 1 | +2 | [Spellcasting](#spellcasting-1), [Divine Order](#level-1-divine-order) |
 | 2 | +2 | [Channel Divinity](#level-3-channel-divinity) |
 | 3 | +2 | [Cleric Subclass](#level-3-cleric-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 5 | +3 | [Sear Undead](#level-5-sear-undead) |
 | 6 | +3 | Subclass Feature |
 | 7 | +3 | [Blessed Strikes](#level-7-blessed-strikes) |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | - |
 | 10 | +4 | [Divine Intervention](#level-10-divine-intervention) |
 | 11 | +4 | - |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | - |
 | 14 | +5 | [Improved Blessed Strikes](#level-14-improved-blessed-strikes) |
 | 15 | +5 | - |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | Subclass Feature |
 | 18 | +6 | - |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -4020,9 +4194,9 @@ As a Cleric, you gain the following class features when you reach the specified 
 
 ###### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](#cleric-spell-list) later in the class’s description.
+You have learned to cast spells through prayer and meditation. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the [Cleric spell list](#cleric-spell-list-1) later in the class’s description.
 
-**Cantrips.** You know three cantrips of your choice from the Cleric spell list. [Guidance](#guidance), [Sacred Flame](#sacred-flame), and [Thaumaturgy](#thaumaturgy) are recommended.
+**Cantrips.** You know three cantrips of your choice from the Cleric spell list. [Guidance](#guidance-1), [Sacred Flame](#sacred-flame-1), and [Thaumaturgy](#thaumaturgy-1) are recommended.
 
 Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the Cleric spell list.
 
@@ -4030,7 +4204,7 @@ When you reach Cleric levels 4 and 10, you learn another cantrip of your choice 
 
 **Spell Slots.** The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [Bless](#bless), [Cure Wounds](#cure-wounds), [Guiding Bolt](#guiding-bolt), and [Shield of Faith](#shield-of-faith) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Cleric spell list. [Bless](#bless-1), [Cure Wounds](#cure-wounds-1), [Guiding Bolt](#guiding-bolt-1), and [Shield of Faith](#shield-of-faith-1) are recommended.
 
 The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the Cleric spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -4074,14 +4248,14 @@ You gain a Cleric subclass of your choice. The Life Domain, Light Domain, Tricke
 | --- |
 | Grave Domain |
 | Knowledge Domain |
-| [Life Domain](#life-domain) |
-| [Light Domain](#light-domain) |
-| [Trickery Domain](#trickery-domain) |
-| [War Domain](#war-domain) |
+| [Life Domain](#life-domain-1) |
+| [Light Domain](#light-domain-1) |
+| [Trickery Domain](#trickery-domain-1) |
+| [War Domain](#war-domain-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
 
 ###### Level 5: Sear Undead
 
@@ -4109,171 +4283,188 @@ The option you chose for Blessed Strikes grows more powerful.
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Fate](#boon-of-fate) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Fate](#boon-of-fate-1) is recommended.
 
 ###### Level 20: Greater Divine Intervention
 
-You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](#wish) when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
+You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](#wish-1) when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
 
 #### Cleric Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Guidance](#guidance) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Light](#light-1) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
-| [Mending](#mending) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
-| [Resistance](#resistance) | *Abjuration* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Sacred Flame](#sacred-flame) | *Evocation* | Cleric | Action | 60 feet | V, S | Instantaneous |
-| [Spare the Dying](#spare-the-dying) | *Necromancy* | Artificer, Cleric, Druid | Action | 15 feet | V, S | Instantaneous |
-| [Thaumaturgy](#thaumaturgy) | *Transmutation* | Cleric | Action | 30 feet | V | Up to 1 minute |
-| [Toll the Dead](#toll-the-dead) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Word of Radiance](#word-of-radiance) | *Evocation* | Cleric | Action | Self | V, M | Instantaneous |
+#### Cleric Spell List
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Bane](#bane) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Bless](#bless) | *Enchantment* | Cleric, Paladin | Action | 30 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Command](#command) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
-| [Create or Destroy Water](#create-or-destroy-water) | *Transmutation* | Cleric, Druid | Action | 30 feet | V, S, M | Instantaneous |
-| [Cure Wounds](#cure-wounds) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
-| [Detect Evil and Good](#detect-evil-and-good) | *Divination* | Cleric, Paladin | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Poison and Disease](#detect-poison-and-disease) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Guiding Bolt](#guiding-bolt) | *Evocation* | Cleric | Action | 120 feet | V, S | 1 round |
-| [Healing Word](#healing-word) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
-| [Inflict Wounds](#inflict-wounds) | *Necromancy* | Cleric | Action | Touch | V, S | Instantaneous |
-| [Protection from Evil and Good](#protection-from-evil-and-good) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Purify Food and Drink](#purify-food-and-drink) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
-| [Sanctuary](#sanctuary) | *Abjuration* | Artificer, Cleric | Bonus Action | 30 feet | V, S, M | 1 minute |
-| [Shield of Faith](#shield-of-faith) | *Abjuration* | Cleric, Paladin | Bonus Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Guidance](#guidance-1) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Light](#light-2) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
+| [Mending](#mending-1) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
+| [Resistance](#resistance-1) | *Abjuration* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Sacred Flame](#sacred-flame-1) | *Evocation* | Cleric | Action | 60 feet | V, S | Instantaneous |
+| [Spare the Dying](#spare-the-dying-1) | *Necromancy* | Artificer, Cleric, Druid | Action | 15 feet | V, S | Instantaneous |
+| [Thaumaturgy](#thaumaturgy-1) | *Transmutation* | Cleric | Action | 30 feet | V | Up to 1 minute |
+| [Toll the Dead](#toll-the-dead-1) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Word of Radiance](#word-of-radiance-1) | *Evocation* | Cleric | Action | Self | V, M | Instantaneous |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Bane](#bane-1) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Bless](#bless-1) | *Enchantment* | Cleric, Paladin | Action | 30 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Command](#command-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
+| [Create or Destroy Water](#create-or-destroy-water-1) | *Transmutation* | Cleric, Druid | Action | 30 feet | V, S, M | Instantaneous |
+| [Cure Wounds](#cure-wounds-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
+| [Detect Evil and Good](#detect-evil-and-good-1) | *Divination* | Cleric, Paladin | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Poison and Disease](#detect-poison-and-disease-1) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Guiding Bolt](#guiding-bolt-1) | *Evocation* | Cleric | Action | 120 feet | V, S | 1 round |
+| [Healing Word](#healing-word-1) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
+| [Inflict Wounds](#inflict-wounds-1) | *Necromancy* | Cleric | Action | Touch | V, S | Instantaneous |
+| [Protection from Evil and Good](#protection-from-evil-and-good-1) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Purify Food and Drink](#purify-food-and-drink-1) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
+| [Sanctuary](#sanctuary-1) | *Abjuration* | Artificer, Cleric | Bonus Action | 30 feet | V, S, M | 1 minute |
+| [Shield of Faith](#shield-of-faith-1) | *Abjuration* | Cleric, Paladin | Bonus Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
 | Wardaway | *Abjuration* | Bard, Cleric, Paladin, Wizard | Action | 60 feet | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#aid) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
-| [Augury](#augury) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
-| [Blindness/Deafness](#blindnessdeafness) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
-| [Calm Emotions](#calm-emotions) | *Enchantment* | Bard, Cleric | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Continual Flame](#continual-flame) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+| [Aid](#aid-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Augury](#augury-1) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
+| [Blindness/Deafness](#blindnessdeafness-1) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
+| [Calm Emotions](#calm-emotions-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Continual Flame](#continual-flame-1) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
 | Deryan's Helpful Homunculi | *Conjuration* | Cleric, Wizard | Action or *^R^* | Self | V, S, M(C*) | 8 hours |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Find Traps](#find-traps) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
-| [Gentle Repose](#gentle-repose) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Lesser Restoration](#lesser-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Prayer of Healing](#prayer-of-healing) | *Abjuration* | Cleric, Paladin | 10 minutes | 30 feet | V | Instantaneous |
-| [Protection from Poison](#protection-from-poison) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Find Traps](#find-traps-1) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
+| [Gentle Repose](#gentle-repose-1) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Lesser Restoration](#lesser-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Prayer of Healing](#prayer-of-healing-1) | *Abjuration* | Cleric, Paladin | 10 minutes | 30 feet | V | Instantaneous |
+| [Protection from Poison](#protection-from-poison-1) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
 | Searing Orb | *Evocation* | Cleric, Paladin | Action | 60 feet | S, M | Instantaneous |
-| [Silence](#silence) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Spiritual Weapon](#spiritual-weapon) | *Evocation* | Cleric | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Warding Bond](#warding-bond) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S, M | 1 hour |
-| [Zone of Truth](#zone-of-truth) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
+| [Silence](#silence-1) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Spiritual Weapon](#spiritual-weapon-1) | *Evocation* | Cleric | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Warding Bond](#warding-bond-1) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S, M | 1 hour |
+| [Zone of Truth](#zone-of-truth-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animate Dead](#animate-dead) | *Necromancy* | Cleric, Wizard | 1 minute | 10 feet | V, S, M | Instantaneous |
+| [Animate Dead](#animate-dead-1) | *Necromancy* | Cleric, Wizard | 1 minute | 10 feet | V, S, M | Instantaneous |
 | Astral Flood | *Evocation* | Bard, Cleric, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Aura of Vitality](#aura-of-vitality) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
-| [Beacon Of Hope](#beacon-of-hope) | *Abjuration* | Cleric | Action | 30 feet | V, S | *^C^*, up to 1 minute |
-| [Bestow Curse](#bestow-curse) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Clairvoyance](#clairvoyance) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Create Food And Water](#create-food-and-water) | *Conjuration* | Artificer, Cleric, Paladin | Action | 30 feet | V, S | Instantaneous |
-| [Daylight](#daylight) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Feign Death](#feign-death) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
-| [Glyph of Warding](#glyph-of-warding) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Aura of Vitality](#aura-of-vitality-1) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
+| [Beacon Of Hope](#beacon-of-hope-1) | *Abjuration* | Cleric | Action | 30 feet | V, S | *^C^*, up to 1 minute |
+| [Bestow Curse](#bestow-curse-1) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Clairvoyance](#clairvoyance-1) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Create Food And Water](#create-food-and-water-1) | *Conjuration* | Artificer, Cleric, Paladin | Action | 30 feet | V, S | Instantaneous |
+| [Daylight](#daylight-1) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Feign Death](#feign-death-1) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
+| [Glyph of Warding](#glyph-of-warding-1) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
 | Laeral's Silver Lance | *Evocation* | Cleric, Sorcerer, Wizard | Action | Self | V, S, M(C) | Instantaneous |
-| [Magic Circle](#magic-circle) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
-| [Mass Healing Word](#mass-healing-word) | *Abjuration* | Bard, Cleric | Bonus Action | 60 feet | V | Instantaneous |
-| [Meld into Stone](#meld-into-stone) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
-| [Protection from Energy](#protection-from-energy) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Remove Curse](#remove-curse) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Revivify](#revivify) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Sending](#sending) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
-| [Speak with Dead](#speak-with-dead) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
-| [Spirit Guardians](#spirit-guardians) | *Conjuration* | Cleric | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Tongues](#tongues) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
-| [Water Walk](#water-walk) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Magic Circle](#magic-circle-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
+| [Mass Healing Word](#mass-healing-word-1) | *Abjuration* | Bard, Cleric | Bonus Action | 60 feet | V | Instantaneous |
+| [Meld into Stone](#meld-into-stone-1) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
+| [Protection from Energy](#protection-from-energy-1) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Remove Curse](#remove-curse-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Revivify](#revivify-1) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Sending](#sending-1) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
+| [Speak with Dead](#speak-with-dead-1) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
+| [Spirit Guardians](#spirit-guardians-1) | *Conjuration* | Cleric | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Tongues](#tongues-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
+| [Water Walk](#water-walk-1) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Life](#aura-of-life) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
-| [Aura of Purity](#aura-of-purity) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
-| [Banishment](#banishment) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Control Water](#control-water) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Death Ward](#death-ward) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S | 8 hours |
-| [Divination](#divination) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
+| [Aura of Life](#aura-of-life-1) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
+| [Aura of Purity](#aura-of-purity-1) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
+| [Banishment](#banishment-1) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Control Water](#control-water-1) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Death Ward](#death-ward-1) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S | 8 hours |
+| [Divination](#divination-1) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
 | Doomtide | *Conjuration* | Bard, Cleric, Warlock | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Freedom of Movement](#freedom-of-movement) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
-| [Guardian of Faith](#guardian-of-faith) | *Conjuration* | Cleric | Action | 30 feet | V | 8 hours |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Freedom of Movement](#freedom-of-movement-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
+| [Guardian of Faith](#guardian-of-faith-1) | *Conjuration* | Cleric | Action | 30 feet | V | 8 hours |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutation* | Cleric, Druid, Ranger | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Stone Shape](#stone-shape) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
+| [Stone Shape](#stone-shape-1) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Circle Of Power](#circle-of-power) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
-| [Commune](#commune) | *Divination* | Cleric | 1 minute or *^R^* | Self | V, S, M | 1 minute |
-| [Contagion](#contagion) | *Necromancy* | Cleric, Druid | Action | Touch | V, S | 7 days |
-| [Dispel Evil and Good](#dispel-evil-and-good) | *Abjuration* | Cleric, Paladin | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Flame Strike](#flame-strike) | *Evocation* | Cleric | Action | 60 feet | V, S, M | Instantaneous |
-| [Geas](#geas) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-| [Greater Restoration](#greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Hallow](#hallow) | *Abjuration* | Cleric | 24 hours | Touch | V, S, M(C*) | Until dispelled |
-| [Insect Plague](#insect-plague) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Legend Lore](#legend-lore) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
-| [Mass Cure Wounds](#mass-cure-wounds) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Planar Binding](#planar-binding) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-| [Raise Dead](#raise-dead) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Scrying](#scrying) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Celestial](#summon-celestial) | *Conjuration* | Cleric, Paladin | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Circle Of Power](#circle-of-power-1) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
+| [Commune](#commune-1) | *Divination* | Cleric | 1 minute or *^R^* | Self | V, S, M | 1 minute |
+| [Contagion](#contagion-1) | *Necromancy* | Cleric, Druid | Action | Touch | V, S | 7 days |
+| [Dispel Evil and Good](#dispel-evil-and-good-1) | *Abjuration* | Cleric, Paladin | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Flame Strike](#flame-strike-1) | *Evocation* | Cleric | Action | 60 feet | V, S, M | Instantaneous |
+| [Geas](#geas-1) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Greater Restoration](#greater-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Hallow](#hallow-1) | *Abjuration* | Cleric | 24 hours | Touch | V, S, M(C*) | Until dispelled |
+| [Insect Plague](#insect-plague-1) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Legend Lore](#legend-lore-1) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Mass Cure Wounds](#mass-cure-wounds-1) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Planar Binding](#planar-binding-1) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
+| [Raise Dead](#raise-dead-1) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Scrying](#scrying-1) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Celestial](#summon-celestial-1) | *Conjuration* | Cleric, Paladin | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Blade Barrier](#blade-barrier) | *Evocation* | Cleric | Action | 90 feet | V, S | *^C^*, up to 10 minutes |
-| [Create Undead](#create-undead) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
+| [Blade Barrier](#blade-barrier-1) | *Evocation* | Cleric | Action | 90 feet | V, S | *^C^*, up to 10 minutes |
+| [Create Undead](#create-undead-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
 | Dirge | *Enchantment* | Bard, Cleric | Action | Self | V | *^C^*, up to 1 minute |
-| [Find the Path](#find-the-path) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Forbiddance](#forbiddance) | *Abjuration* | Cleric | 10 minutes or *^R^* | Touch | V, S, M(C) | 1 day |
-| [Harm](#harm) | *Necromancy* | Cleric | Action | 60 feet | V, S | Instantaneous |
-| [Heal](#heal) | *Abjuration* | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Heroes' Feast](#heroes-feast) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
-| [Planar Ally](#planar-ally) | *Conjuration* | Cleric | 10 minutes | 60 feet | V, S | Instantaneous |
-| [Sunbeam](#sunbeam) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [True Seeing](#true-seeing) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
-| [Word of Recall](#word-of-recall) | *Conjuration* | Cleric | Action | 5 feet | V | Instantaneous |
+| [Find the Path](#find-the-path-1) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Forbiddance](#forbiddance-1) | *Abjuration* | Cleric | 10 minutes or *^R^* | Touch | V, S, M(C) | 1 day |
+| [Harm](#harm-1) | *Necromancy* | Cleric | Action | 60 feet | V, S | Instantaneous |
+| [Heal](#heal-1) | *Abjuration* | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Heroes' Feast](#heroes-feast-1) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Planar Ally](#planar-ally-1) | *Conjuration* | Cleric | 10 minutes | 60 feet | V, S | Instantaneous |
+| [Sunbeam](#sunbeam-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [True Seeing](#true-seeing-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+| [Word of Recall](#word-of-recall-1) | *Conjuration* | Cleric | Action | 5 feet | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Conjure Celestial](#conjure-celestial) | *Conjuration* | Cleric | Action | 90 feet | V, S | *^C^*, up to 10 minutes |
-| [Divine Word](#divine-word) | *Evocation* | Cleric | Bonus Action | 30 feet | V | Instantaneous |
-| [Etherealness](#etherealness) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
-| [Fire Storm](#fire-storm) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
-| [Plane Shift](#plane-shift) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
-| [Power Word Fortify](#power-word-fortify) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
-| [Regenerate](#regenerate) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
-| [Resurrection](#resurrection) | *Necromancy* | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Symbol](#symbol) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Conjure Celestial](#conjure-celestial-1) | *Conjuration* | Cleric | Action | 90 feet | V, S | *^C^*, up to 10 minutes |
+| [Divine Word](#divine-word-1) | *Evocation* | Cleric | Bonus Action | 30 feet | V | Instantaneous |
+| [Etherealness](#etherealness-1) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
+| [Fire Storm](#fire-storm-1) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
+| [Plane Shift](#plane-shift-1) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
+| [Power Word Fortify](#power-word-fortify-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
+| [Regenerate](#regenerate-1) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
+| [Resurrection](#resurrection-1) | *Necromancy* | Bard, Cleric | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Symbol](#symbol-1) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Antimagic Field](#antimagic-field) | *Abjuration* | Cleric, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Control Weather](#control-weather) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Earthquake](#earthquake) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
-| [Holy Aura](#holy-aura) | *Abjuration* | Cleric | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
+| [Antimagic Field](#antimagic-field-1) | *Abjuration* | Cleric, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Control Weather](#control-weather-1) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Earthquake](#earthquake-1) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
+| [Holy Aura](#holy-aura-1) | *Abjuration* | Cleric | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
 | Holy Star of Mystra | *Evocation* | Cleric, Wizard | Bonus Action | Self | V, S | *^C^*, up to 1 minute |
-| [Sunburst](#sunburst) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Sunburst](#sunburst-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Astral Projection](#astral-projection) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
-| [Gate](#gate) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Mass Heal](#mass-heal) | *Abjuration* | Cleric | Action | 60 feet | V, S | Instantaneous |
-| [Power Word Heal](#power-word-heal) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
-| [True Resurrection](#true-resurrection) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Astral Projection](#astral-projection-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
+| [Gate](#gate-1) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Mass Heal](#mass-heal-1) | *Abjuration* | Cleric | Action | 60 feet | V, S | Instantaneous |
+| [Power Word Heal](#power-word-heal-1) | *Enchantment* | Bard, Cleric | Action | 60 feet | V | Instantaneous |
+| [True Resurrection](#true-resurrection-1) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
 
 #### Life Domain
+
+### Life Domain
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:life-domain
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Soothe the Hurts of the World*
 
@@ -4293,10 +4484,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | --- | --- |
-| 3 | [Aid](#aid), [Bless](#bless), [Cure Wounds](#cure-wounds), [Lesser Restoration](#lesser-restoration) |
-| 5 | [Mass Healing Word](#mass-healing-word), [Revivify](#revivify) |
-| 7 | [Aura of Life](#aura-of-life), [Death Ward](#death-ward) |
-| 9 | [Greater Restoration](#greater-restoration), [Mass Cure Wounds](#mass-cure-wounds) |
+| 3 | [Aid](#aid-1), [Bless](#bless-1), [Cure Wounds](#cure-wounds-1), [Lesser Restoration](#lesser-restoration-1) |
+| 5 | [Mass Healing Word](#mass-healing-word-1), [Revivify](#revivify-1) |
+| 7 | [Aura of Life](#aura-of-life-1), [Death Ward](#death-ward-1) |
+| 9 | [Greater Restoration](#greater-restoration-1), [Mass Cure Wounds](#mass-cure-wounds-1) |
 
 ##### Level 3: Preserve Life
 
@@ -4312,6 +4503,16 @@ When you would normally roll one or more dice to restore Hit Points to a creatur
 
 #### Light Domain
 
+### Light Domain
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:light-domain
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Bring Light to Banish Darkness*
 
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities’ discerning vision, charged with chasing away lies and burning away darkness.
@@ -4326,14 +4527,14 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | --- | --- |
-| 3 | [Burning Hands](#burning-hands), [Faerie Fire](#faerie-fire), [Scorching Ray](#scorching-ray), [See Invisibility](#see-invisibility) |
-| 5 | [Daylight](#daylight), [Fireball](#fireball) |
-| 7 | [Arcane Eye](#arcane-eye), [Wall of Fire](#wall-of-fire) |
-| 9 | [Flame Strike](#flame-strike), [Scrying](#scrying) |
+| 3 | [Burning Hands](#burning-hands-1), [Faerie Fire](#faerie-fire-1), [Scorching Ray](#scorching-ray-1), [See Invisibility](#see-invisibility-1) |
+| 5 | [Daylight](#daylight-1), [Fireball](#fireball-1) |
+| 7 | [Arcane Eye](#arcane-eye-1), [Wall of Fire](#wall-of-fire-1) |
+| 9 | [Flame Strike](#flame-strike-1), [Scrying](#scrying-1) |
 
 ##### Level 3: Radiance of the Dawn
 
-As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to emit a flash of light in a 30-foot Emanation originating from yourself. Any magical Darkness—such as that created by the [Darkness](#darkness) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to 2d10 plus your Cleric level on a failed save or half as much damage on a successful one.
+As a Magic action, you present your Holy Symbol and expend a use of your Channel Divinity to emit a flash of light in a 30-foot Emanation originating from yourself. Any magical Darkness—such as that created by the [Darkness](#darkness-1) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to 2d10 plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ##### Level 3: Warding Flare
 
@@ -4355,6 +4556,16 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Trickery Domain
 
+### Trickery Domain
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:trickery-domain
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Make Mischief and Challenge Authority*
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.
@@ -4373,10 +4584,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | --- | --- |
-| 3 | [Charm Person](#charm-person), [Disguise Self](#disguise-self), [Invisibility](#invisibility), [Pass without Trace](#pass-without-trace) |
-| 5 | [Hypnotic Pattern](#hypnotic-pattern), [Nondetection](#nondetection) |
-| 7 | [Confusion](#confusion), [Dimension Door](#dimension-door) |
-| 9 | [Dominate Person](#dominate-person), [Modify Memory](#modify-memory) |
+| 3 | [Charm Person](#charm-person-1), [Disguise Self](#disguise-self-1), [Invisibility](#invisibility-1), [Pass without Trace](#pass-without-trace-1) |
+| 5 | [Hypnotic Pattern](#hypnotic-pattern-1), [Nondetection](#nondetection-1) |
+| 7 | [Confusion](#confusion-1), [Dimension Door](#dimension-door-1) |
+| 9 | [Dominate Person](#dominate-person-1), [Modify Memory](#modify-memory-1) |
 
 ##### Level 3: Invoke Duplicity
 
@@ -4402,6 +4613,16 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 #### War Domain
 
+### War Domain
+
+**Class:** cleric
+**Source URL:** http://dnd2024.wikidot.com/cleric:war-domain
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Inspire Valor and Smite Foes*
 
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.
@@ -4420,10 +4641,10 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 | --- | --- |
-| 3 | [Guiding Bolt](#guiding-bolt), [Magic Weapon](#magic-weapon), [Shield of Faith](#shield-of-faith), [Spiritual Weapon](#spiritual-weapon) |
-| 5 | [Crusader's Mantle](#crusaders-mantle), [Spirit Guardians](#spirit-guardians) |
-| 7 | [Fire Shield](#fire-shield), [Freedom of Movement](#freedom-of-movement) |
-| 9 | [Hold Monster](#hold-monster), [Steel Wind Strike](#steel-wind-strike) |
+| 3 | [Guiding Bolt](#guiding-bolt-1), [Magic Weapon](#magic-weapon-1), [Shield of Faith](#shield-of-faith-1), [Spiritual Weapon](#spiritual-weapon-1) |
+| 5 | [Crusader's Mantle](#crusaders-mantle-1), [Spirit Guardians](#spirit-guardians-1) |
+| 7 | [Fire Shield](#fire-shield-1), [Freedom of Movement](#freedom-of-movement-1) |
+| 9 | [Hold Monster](#hold-monster-1), [Steel Wind Strike](#steel-wind-strike-1) |
 
 ##### Level 3: War Priest
 
@@ -4431,13 +4652,22 @@ As a Bonus Action, you can make one attack with a weapon or an Unarmed Strike. Y
 
 ##### Level 6: War God’s Blessing
 
-You can expend a use of your Channel Divinity to cast [Shield of Faith](#shield-of-faith) or [Spiritual Weapon](#spiritual-weapon) rather than expending a spell slot. When you cast either spell in this way, the spell doesn’t require Concentration. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the Incapacitated condition, or die.
+You can expend a use of your Channel Divinity to cast [Shield of Faith](#shield-of-faith-1) or [Spiritual Weapon](#spiritual-weapon-1) rather than expending a spell slot. When you cast either spell in this way, the spell doesn’t require Concentration. Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the Incapacitated condition, or die.
 
 ##### Level 17: Avatar of Battle
 
 You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### Druid
+
+#### Druid
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:main
+
+---
+
+Source: Player's Handbook
 
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
 
@@ -4475,19 +4705,19 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 | 1 | +2 | [Spellcasting](#spellcasting-1), [Druidic](#level-1-druidic), [Primal Order](#level-1-primal-order) |
 | 2 | +2 | [Wild Shape](#level-2-wild-shape), [Wild Companion](#level-2-wild-companion) |
 | 3 | +2 | [Druid Subclass](#level-3-druid-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 5 | +3 | [Wild Resurgence](#level-5-wild-resurgence) |
 | 6 | +3 | Subclass Feature |
 | 7 | +3 | [Elemental Fury](#level-7-elemental-fury) |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | - |
 | 10 | +4 | Subclass Feature |
 | 11 | +4 | - |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | - |
 | 14 | +5 | Subclass Feature |
 | 15 | +5 | [Improved Elemental Fury](#level-15-improved-elemental-fury) |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | - |
 | 18 | +6 | [Beast Spells](#level-18-beast-spells) |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -4522,17 +4752,17 @@ As a Druid, you gain the following class features when you reach the specified D
 
 ###### Level 1: Spellcasting
 
-You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](#druid-spell-list) later in the class’s description.
+You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the [Druid spell list](#druid-spell-list-1) later in the class’s description.
 
-**Cantrips.** You know two cantrips of your choice from the Druid spell list. [Druidcraft](#druidcraft) and [Produce Flame](#produce-flame) are recommended.
+**Cantrips.** You know two cantrips of your choice from the Druid spell list. [Druidcraft](#druidcraft-1) and [Produce Flame](#produce-flame-1) are recommended.
 
-Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the [Druid spell list](#druid-spell-list).
+Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the [Druid spell list](#druid-spell-list-1).
 
 When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the Druid Features table.
 
 **Spell Slots.** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](#animal-friendship), [Cure Wounds](#cure-wounds), [Faerie Fire](#faerie-fire), and [Thunderwave](#thunderwave) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. [Animal Friendship](#animal-friendship-1), [Cure Wounds](#cure-wounds-1), [Faerie Fire](#faerie-fire-1), and [Thunderwave](#thunderwave-1) are recommended.
 
 The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -4546,7 +4776,7 @@ If another Druid feature gives you spells that you always have prepared, those s
 
 ###### Level 1: Druidic
 
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](#speak-with-animals) spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [Speak with Animals](#speak-with-animals-1) spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence (Investigation) check but can’t decipher it without magic.
 
@@ -4590,7 +4820,7 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 
 ###### Level 2: Wild Companion
 
-You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](#find-familiar) spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the [Find Familiar](#find-familiar-1) spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 
@@ -4602,14 +4832,14 @@ You gain a Druid subclass of your choice. The Circle of the Land, Circle of the 
 
 | Name |
 | --- |
-| [Circle of the Land](#circle-of-the-land) |
-| [Circle of the Moon](#circle-of-the-moon) |
-| [Circle of the Sea](#circle-of-the-sea) |
-| [Circle of the Stars](#circle-of-the-stars) |
+| [Circle of the Land](#circle-of-the-land-1) |
+| [Circle of the Moon](#circle-of-the-moon-1) |
+| [Circle of the Sea](#circle-of-the-sea-1) |
+| [Circle of the Stars](#circle-of-the-stars-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
 
 ###### Level 5: Wild Resurgence
 
@@ -4639,7 +4869,7 @@ While using Wild Shape, you can cast spells in Beast form, except for any spell 
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel-1) is recommended.
 
 ###### Level 20: Archdruid
 
@@ -4653,179 +4883,196 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 #### Druid Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Druidcraft](#druidcraft) | *Transmutation* | Druid | Action | 30 feet | V, S | Instantaneous |
-| [Elementalism](#elementalism) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Guidance](#guidance) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Mending](#mending) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
-| [Message](#message) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
-| [Poison Spray](#poison-spray) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Produce Flame](#produce-flame) | *Conjuration* | Druid | Bonus Action | Self | V, S | 10 minutes |
-| [Resistance](#resistance) | *Abjuration* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Shillelagh](#shillelagh) | *Transmutation* | Druid | Bonus Action | Self | V, S, M | 1 minute |
-| [Spare the Dying](#spare-the-dying) | *Necromancy* | Artificer, Cleric, Druid | Action | 15 feet | V, S | Instantaneous |
-| [Starry Wisp](#starry-wisp) | *Evocation* | Bard, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Thorn Whip](#thorn-whip) | *Transmutation* | Artificer, Druid | Action | 30 feet | V, S, M | Instantaneous |
-| [Thunderclap](#thunderclap) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+#### Druid Spell List
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animal Friendship](#animal-friendship) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
+| [Druidcraft](#druidcraft-1) | *Transmutation* | Druid | Action | 30 feet | V, S | Instantaneous |
+| [Elementalism](#elementalism-1) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Guidance](#guidance-1) | *Divination* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Mending](#mending-1) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
+| [Message](#message-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
+| [Poison Spray](#poison-spray-1) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Produce Flame](#produce-flame-1) | *Conjuration* | Druid | Bonus Action | Self | V, S | 10 minutes |
+| [Resistance](#resistance-1) | *Abjuration* | Artificer, Cleric, Druid | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Shillelagh](#shillelagh-1) | *Transmutation* | Druid | Bonus Action | Self | V, S, M | 1 minute |
+| [Spare the Dying](#spare-the-dying-1) | *Necromancy* | Artificer, Cleric, Druid | Action | 15 feet | V, S | Instantaneous |
+| [Starry Wisp](#starry-wisp-1) | *Evocation* | Bard, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Thorn Whip](#thorn-whip-1) | *Transmutation* | Artificer, Druid | Action | 30 feet | V, S, M | Instantaneous |
+| [Thunderclap](#thunderclap-1) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Animal Friendship](#animal-friendship-1) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
 | Buzzing Bee | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet. | V, S, M | *^C^*, up to 1 minute |
-| [Charm Person](#charm-person) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Create or Destroy Water](#create-or-destroy-water) | *Transmutation* | Cleric, Druid | Action | 30 feet | V, S, M | Instantaneous |
-| [Cure Wounds](#cure-wounds) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Poison and Disease](#detect-poison-and-disease) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Entangle](#entangle) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S | *^C^*, up to 1 minute |
-| [Faerie Fire](#faerie-fire) | *Evocation* | Artificer, Bard, Druid | Action | 60 feet | V | *^C^*, up to 1 minute |
-| [Fog Cloud](#fog-cloud) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
-| [Goodberry](#goodberry) | *Conjuration* | Druid, Ranger | Action | Self | V, S, M | 24 hours |
-| [Healing Word](#healing-word) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
-| [Ice Knife](#ice-knife) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
-| [Jump](#jump) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
-| [Longstrider](#longstrider) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
-| [Protection from Evil and Good](#protection-from-evil-and-good) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Purify Food and Drink](#purify-food-and-drink) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
-| [Speak with Animals](#speak-with-animals) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
-| [Thunderwave](#thunderwave) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Charm Person](#charm-person-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Create or Destroy Water](#create-or-destroy-water-1) | *Transmutation* | Cleric, Druid | Action | 30 feet | V, S, M | Instantaneous |
+| [Cure Wounds](#cure-wounds-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Poison and Disease](#detect-poison-and-disease-1) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Entangle](#entangle-1) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S | *^C^*, up to 1 minute |
+| [Faerie Fire](#faerie-fire-1) | *Evocation* | Artificer, Bard, Druid | Action | 60 feet | V | *^C^*, up to 1 minute |
+| [Fog Cloud](#fog-cloud-1) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
+| [Goodberry](#goodberry-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S, M | 24 hours |
+| [Healing Word](#healing-word-1) | *Abjuration* | Bard, Cleric, Druid | Bonus Action | 60 feet | V | Instantaneous |
+| [Ice Knife](#ice-knife-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
+| [Jump](#jump-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
+| [Longstrider](#longstrider-1) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
+| [Protection from Evil and Good](#protection-from-evil-and-good-1) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Purify Food and Drink](#purify-food-and-drink-1) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
+| [Speak with Animals](#speak-with-animals-1) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
+| [Thunderwave](#thunderwave-1) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#aid) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
-| [Animal Messenger](#animal-messenger) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
-| [Augury](#augury) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
-| [Barkskin](#barkskin) | *Transmutation* | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
-| [Beast Sense](#beast-sense) | *Divination* | Druid, Ranger | Action or *^R^* | Touch | S | *^C^*, up to 1 hour |
-| [Continual Flame](#continual-flame) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
-| [Darkvision](#darkvision) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Enlarge/Reduce](#enlargereduce) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Find Traps](#find-traps) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
-| [Flame Blade](#flame-blade) | *Evocation* | Druid, Sorcerer | Bonus Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Flaming Sphere](#flaming-sphere) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Gust of Wind](#gust-of-wind) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Heat Metal](#heat-metal) | *Transmutation* | Artificer, Bard, Druid | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Lesser Restoration](#lesser-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
-| [Locate Animals or Plants](#locate-animals-or-plants) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Moonbeam](#moonbeam) | *Evocation* | Druid | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Pass without Trace](#pass-without-trace) | *Abjuration* | Druid, Ranger | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Protection from Poison](#protection-from-poison) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
-| [Spike Growth](#spike-growth) | *Transmutation* | Druid, Ranger | Action | 150 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Beast](#summon-beast) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Aid](#aid-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Animal Messenger](#animal-messenger-1) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
+| [Augury](#augury-1) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
+| [Barkskin](#barkskin-1) | *Transmutation* | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
+| [Beast Sense](#beast-sense-1) | *Divination* | Druid, Ranger | Action or *^R^* | Touch | S | *^C^*, up to 1 hour |
+| [Continual Flame](#continual-flame-1) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+| [Darkvision](#darkvision-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Enlarge/Reduce](#enlargereduce-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Find Traps](#find-traps-1) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
+| [Flame Blade](#flame-blade-1) | *Evocation* | Druid, Sorcerer | Bonus Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Flaming Sphere](#flaming-sphere-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Gust of Wind](#gust-of-wind-1) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Heat Metal](#heat-metal-1) | *Transmutation* | Artificer, Bard, Druid | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Lesser Restoration](#lesser-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Animals or Plants](#locate-animals-or-plants-1) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Moonbeam](#moonbeam-1) | *Evocation* | Druid | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Pass without Trace](#pass-without-trace-1) | *Abjuration* | Druid, Ranger | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Protection from Poison](#protection-from-poison-1) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
+| [Spike Growth](#spike-growth-1) | *Transmutation* | Druid, Ranger | Action | 150 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Beast](#summon-beast-1) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 | Tortoise Shell | *Abjuration* | Artificer, Druid, Ranger | Action | Touch | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Vitality](#aura-of-vitality) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
-| [Call Lightning](#call-lightning) | *Conjuration* | Druid | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Conjure Animals](#conjure-animals) | *Conjuration* | Druid, Ranger | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Daylight](#daylight) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Elemental Weapon](#elemental-weapon) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Feign Death](#feign-death) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
-| [Meld into Stone](#meld-into-stone) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
-| [Plant Growth](#plant-growth) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
-| [Protection from Energy](#protection-from-energy) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Revivify](#revivify) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Sleet Storm](#sleet-storm) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Speak with Plants](#speak-with-plants) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
-| [Summon Fey](#summon-fey) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Aura of Vitality](#aura-of-vitality-1) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
+| [Call Lightning](#call-lightning-1) | *Conjuration* | Druid | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Conjure Animals](#conjure-animals-1) | *Conjuration* | Druid, Ranger | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Daylight](#daylight-1) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Elemental Weapon](#elemental-weapon-1) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Feign Death](#feign-death-1) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
+| [Meld into Stone](#meld-into-stone-1) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
+| [Plant Growth](#plant-growth-1) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
+| [Protection from Energy](#protection-from-energy-1) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Revivify](#revivify-1) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Sleet Storm](#sleet-storm-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Speak with Plants](#speak-with-plants-1) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
+| [Summon Fey](#summon-fey-1) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 | Sylune's Viper | *Conjuration* | Druid, Wizard | Bonus Action | Self | V, S, M | 1 hour |
-| [Water Breathing](#water-breathing) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
-| [Water Walk](#water-walk) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
-| [Wind Wall](#wind-wall) | *Evocation* | Druid, Ranger | Action | 120 feet | V, S, M | **^C^**, up to 1 minute |
+| [Water Breathing](#water-breathing-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
+| [Water Walk](#water-walk-1) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Wind Wall](#wind-wall-1) | *Evocation* | Druid, Ranger | Action | 120 feet | V, S, M | **^C^**, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Blight](#blight) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Charm Monster](#charm-monster) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Confusion](#confusion) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Conjure Minor Elementals](#conjure-minor-elementals) | *Conjuration* | Druid, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Conjure Woodland Beings](#conjure-woodland-beings) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Control Water](#control-water) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Divination](#divination) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
-| [Dominate Beast](#dominate-beast) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Fire Shield](#fire-shield) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
-| [Fount of Moonlight](#fount-of-moonlight) | *Evocation* | Bard, Druid | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Freedom of Movement](#freedom-of-movement) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
-| [Giant Insect](#giant-insect) | *Conjuration* | Druid | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Grasping Vine](#grasping-vine) | *Conjuration* | Druid, Ranger | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Hallucinatory Terrain](#hallucinatory-terrain) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
-| [Ice Storm](#ice-storm) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Polymorph](#polymorph) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Blight](#blight-1) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Charm Monster](#charm-monster-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Confusion](#confusion-1) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Conjure Minor Elementals](#conjure-minor-elementals-1) | *Conjuration* | Druid, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Conjure Woodland Beings](#conjure-woodland-beings-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Control Water](#control-water-1) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Divination](#divination-1) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
+| [Dominate Beast](#dominate-beast-1) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Fire Shield](#fire-shield-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
+| [Fount of Moonlight](#fount-of-moonlight-1) | *Evocation* | Bard, Druid | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Freedom of Movement](#freedom-of-movement-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
+| [Giant Insect](#giant-insect-1) | *Conjuration* | Druid | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Grasping Vine](#grasping-vine-1) | *Conjuration* | Druid, Ranger | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Hallucinatory Terrain](#hallucinatory-terrain-1) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
+| [Ice Storm](#ice-storm-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Polymorph](#polymorph-1) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutation* | Cleric, Druid, Ranger | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Stone Shape](#stone-shape) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
-| [Stoneskin](#stoneskin) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Elemental](#summon-elemental) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Wall of Fire](#wall-of-fire) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Stone Shape](#stone-shape-1) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
+| [Stoneskin](#stoneskin-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Elemental](#summon-elemental-1) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Wall of Fire](#wall-of-fire-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Abjuration* | Bard, Druid, Ranger, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Antilife Shell](#antilife-shell) | *Abjuration* | Druid | Action | Self | V, S | *^C^* up to 1 hour |
-| [Awaken](#awaken) | *Transmutation* | Bard, Druid | 8 Hours | Touch | V, S, M(C*) | Instantaneous |
-| [Commune With Nature](#commune-with-nature) | *Divination* | Druid, Ranger | 1 minute or *^R^* | Self | V, S | Instantaneous |
-| [Cone Of Cold](#cone-of-cold) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Conjure Elemental](#conjure-elemental) | *Conjuration* | Druid, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Contagion](#contagion) | *Necromancy* | Cleric, Druid | Action | Touch | V, S | 7 days |
-| [Geas](#geas) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-| [Greater Restoration](#greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Insect Plague](#insect-plague) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Mass Cure Wounds](#mass-cure-wounds) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Planar Binding](#planar-binding) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-| [Reincarnate](#reincarnate) | *Necromancy* | Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Scrying](#scrying) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Antilife Shell](#antilife-shell-1) | *Abjuration* | Druid | Action | Self | V, S | *^C^* up to 1 hour |
+| [Awaken](#awaken-1) | *Transmutation* | Bard, Druid | 8 Hours | Touch | V, S, M(C*) | Instantaneous |
+| [Commune With Nature](#commune-with-nature-1) | *Divination* | Druid, Ranger | 1 minute or *^R^* | Self | V, S | Instantaneous |
+| [Cone Of Cold](#cone-of-cold-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Conjure Elemental](#conjure-elemental-1) | *Conjuration* | Druid, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Contagion](#contagion-1) | *Necromancy* | Cleric, Druid | Action | Touch | V, S | 7 days |
+| [Geas](#geas-1) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Greater Restoration](#greater-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Insect Plague](#insect-plague-1) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Mass Cure Wounds](#mass-cure-wounds-1) | *Abjuration* | Bard, Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Planar Binding](#planar-binding-1) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
+| [Reincarnate](#reincarnate-1) | *Necromancy* | Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Scrying](#scrying-1) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
 | Songal's Elemental Suffusion | *Transmutation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Tree Stride](#tree-stride) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Wall of Stone](#wall-of-stone) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Tree Stride](#tree-stride-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Wall of Stone](#wall-of-stone-1) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Conjure Fey](#conjure-fey) | *Conjuration* | Druid | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Conjure Fey](#conjure-fey-1) | *Conjuration* | Druid | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
 | Elminster's Effulgent Spheres | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | 1 hour |
-| [Find the Path](#find-the-path) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
-| [Flesh to Stone](#flesh-to-stone) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Heal](#heal) | *Abjuration* | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
-| [Heroes' Feast](#heroes-feast) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
-| [Move Earth](#move-earth) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
-| [Sunbeam](#sunbeam) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Transport via Plants](#transport-via-plants) | *Conjuration* | Druid | Action | 10 feet | V, S | 1 minute |
-| [Wall of Thorns](#wall-of-thorns) | *Conjuration* | Druid | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Wind Walk](#wind-walk) | *Transmutation* | Druid | 1 minute | 30 feet | V, S, M | 8 hours |
+| [Find the Path](#find-the-path-1) | *Divination* | Bard, Cleric, Druid | 1 minute | Self | V, S, M(C*) | *^C^*, up to 1 day |
+| [Flesh to Stone](#flesh-to-stone-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Heal](#heal-1) | *Abjuration* | Cleric, Druid | Action | 60 feet | V, S | Instantaneous |
+| [Heroes' Feast](#heroes-feast-1) | *Conjuration* | Bard, Cleric, Druid | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Move Earth](#move-earth-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
+| [Sunbeam](#sunbeam-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Transport via Plants](#transport-via-plants-1) | *Conjuration* | Druid | Action | 10 feet | V, S | 1 minute |
+| [Wall of Thorns](#wall-of-thorns-1) | *Conjuration* | Druid | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Wind Walk](#wind-walk-1) | *Transmutation* | Druid | 1 minute | 30 feet | V, S, M | 8 hours |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Fire Storm](#fire-storm) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
-| [Mirage Arcane](#mirage-arcane) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
-| [Plane Shift](#plane-shift) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
-| [Regenerate](#regenerate) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
-| [Reverse Gravity](#reverse-gravity) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
-| [Symbol](#symbol) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Fire Storm](#fire-storm-1) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
+| [Mirage Arcane](#mirage-arcane-1) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
+| [Plane Shift](#plane-shift-1) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
+| [Regenerate](#regenerate-1) | *Transmutation* | Bard, Cleric, Druid | 1 minute | Touch | V, S, M | 1 hour |
+| [Reverse Gravity](#reverse-gravity-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
+| [Symbol](#symbol-1) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animal Shapes](#animal-shapes) | *Transmutation* | Druid | Action | 30 Feet | V, S | 24 Hours |
-| [Antipathy/Sympathy](#antipathysympathy) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
-| [Befuddlement](#befuddlement) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
-| [Control Weather](#control-weather) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Earthquake](#earthquake) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
-| [Incendiary Cloud](#incendiary-cloud) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
-| [Sunburst](#sunburst) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Tsunami](#tsunami) | *Conjuration* | Druid | 1 minute | 1 mile | V, S | *^C^*, up to 6 rounds |
+| [Animal Shapes](#animal-shapes-1) | *Transmutation* | Druid | Action | 30 Feet | V, S | 24 Hours |
+| [Antipathy/Sympathy](#antipathysympathy-1) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
+| [Befuddlement](#befuddlement-1) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
+| [Control Weather](#control-weather-1) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Earthquake](#earthquake-1) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
+| [Incendiary Cloud](#incendiary-cloud-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
+| [Sunburst](#sunburst-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Tsunami](#tsunami-1) | *Conjuration* | Druid | 1 minute | 1 mile | V, S | *^C^*, up to 6 rounds |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Foresight](#foresight) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-| [Shapechange](#shapechange) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
-| [Storm of Vengeance](#storm-of-vengeance) | *Conjuration* | Druid | Action | 1 mile | V, S | *^C^*, up to 1 minute |
-| [True Resurrection](#true-resurrection) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Foresight](#foresight-1) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
+| [Shapechange](#shapechange-1) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
+| [Storm of Vengeance](#storm-of-vengeance-1) | *Conjuration* | Druid | Action | 1 mile | V, S | *^C^*, up to 1 minute |
+| [True Resurrection](#true-resurrection-1) | *Necromancy* | Cleric, Druid | 1 hour | Touch | V, S, M(C*) | Instantaneous |
 
 #### Circle of the Land
+
+### Circle of the Land
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:circle-of-the-land
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Celebrate Connection to the Natural World*
 
@@ -4839,37 +5086,37 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 
 | Druid Level | Circle Spells |
 | --- | --- |
-| 3 | [Blur](#blur), [Burning Hands](#burning-hands), [Fire Bolt](#fire-bolt) |
-| 5 | [Fireball](#fireball) |
-| 7 | [Blight](#blight) |
-| 9 | [Wall of Stone](#wall-of-stone) |
+| 3 | [Blur](#blur-1), [Burning Hands](#burning-hands-1), [Fire Bolt](#fire-bolt-1) |
+| 5 | [Fireball](#fireball-1) |
+| 7 | [Blight](#blight-1) |
+| 9 | [Wall of Stone](#wall-of-stone-1) |
 
 ###### Polar Land
 
 | Druid Level | Circle Spells |
 | --- | --- |
-| 3 | [Fog Cloud](#fog-cloud), [Hold Person](#hold-person), [Ray of Frost](#ray-of-frost) |
-| 5 | [Sleet Storm](#sleet-storm) |
-| 7 | [Ice Storm](#ice-storm) |
-| 9 | [Cone of Cold](#cone-of-cold) |
+| 3 | [Fog Cloud](#fog-cloud-1), [Hold Person](#hold-person-1), [Ray of Frost](#ray-of-frost-1) |
+| 5 | [Sleet Storm](#sleet-storm-1) |
+| 7 | [Ice Storm](#ice-storm-1) |
+| 9 | [Cone of Cold](#cone-of-cold-1) |
 
 ###### Temperate Land
 
 | Druid Level | Circle Spells |
 | --- | --- |
-| 3 | [Misty Step](#misty-step), [Shocking Grasp](#shocking-grasp), [Sleep](#sleep) |
-| 5 | [Lightning Bolt](#lightning-bolt) |
-| 7 | [Freedom of Movement](#freedom-of-movement) |
-| 9 | [Tree Stride](#tree-stride) |
+| 3 | [Misty Step](#misty-step-1), [Shocking Grasp](#shocking-grasp-1), [Sleep](#sleep-1) |
+| 5 | [Lightning Bolt](#lightning-bolt-1) |
+| 7 | [Freedom of Movement](#freedom-of-movement-1) |
+| 9 | [Tree Stride](#tree-stride-1) |
 
 ###### Tropical Land
 
 | Druid Level | Circle Spells |
 | --- | --- |
-| 3 | [Acid Splash](#acid-splash), [Ray of Sickness](#ray-of-sickness), [Web](#web) |
-| 5 | [Stinking Cloud](#stinking-cloud) |
-| 7 | [Polymorph](#polymorph) |
-| 9 | [Insect Plague](#insect-plague) |
+| 3 | [Acid Splash](#acid-splash-1), [Ray of Sickness](#ray-of-sickness-1), [Web](#web-1) |
+| 5 | [Stinking Cloud](#stinking-cloud-1) |
+| 7 | [Polymorph](#polymorph-1) |
+| 9 | [Insect Plague](#insect-plague-1) |
 
 ##### Level 3: Land’s Aid
 
@@ -4904,6 +5151,16 @@ As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet
 
 #### Circle of the Moon
 
+### Circle of the Moon
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:circle-of-the-moon
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Adopt Animal Forms to Guard the Wilds*
 
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.
@@ -4930,10 +5187,10 @@ In addition, you can cast the spells from this feature while you’re in a Wild 
 
 | Druid Level | Prepared Spells |
 | --- | --- |
-| 3 | [Cure Wounds](#cure-wounds), [Moonbeam](#moonbeam), [Starry Wisp](#starry-wisp) |
-| 5 | [Conjure Animals](#conjure-animals) |
-| 7 | [Fount of Moonlight](#fount-of-moonlight) |
-| 9 | [Mass Cure Wounds](#mass-cure-wounds) |
+| 3 | [Cure Wounds](#cure-wounds-1), [Moonbeam](#moonbeam-1), [Starry Wisp](#starry-wisp-1) |
+| 5 | [Conjure Animals](#conjure-animals-1) |
+| 7 | [Fount of Moonlight](#fount-of-moonlight-1) |
+| 9 | [Mass Cure Wounds](#mass-cure-wounds-1) |
 
 ##### Level 6: Improved Circle Forms
 
@@ -4959,6 +5216,16 @@ The power of the moon suffuses you, granting you the following benefits.
 
 #### Circle of the Sea
 
+### Circle of the Sea
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:circle-of-the-sea
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Become One with Tides and Storms*
 
 Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature’s wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
@@ -4971,10 +5238,10 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 
 | Druid Level | Prepared Spells |
 | --- | --- |
-| 3 | [Fog Cloud](#fog-cloud), [Gust of Wind](#gust-of-wind), [Ray of Frost](#ray-of-frost), [Thunderwave](#thunderwave) |
-| 5 | [Lightning Bolt](#lightning-bolt), [Water Breathing](#water-breathing) |
-| 7 | [Control Water](#control-water), [Ice Storm](#ice-storm) |
-| 9 | [Conjure Elemental](#conjure-elemental), [Hold Monster](#hold-monster) |
+| 3 | [Fog Cloud](#fog-cloud-1), [Gust of Wind](#gust-of-wind-1), [Ray of Frost](#ray-of-frost-1), [Thunderwave](#thunderwave-1) |
+| 5 | [Lightning Bolt](#lightning-bolt-1), [Water Breathing](#water-breathing-1) |
+| 7 | [Control Water](#control-water-1), [Ice Storm](#ice-storm-1) |
+| 9 | [Conjure Elemental](#conjure-elemental-1), [Hold Monster](#hold-monster-1) |
 
 ##### Level 3: Wrath of the Sea
 
@@ -5004,6 +5271,16 @@ In addition, you can manifest the Emanation around both the other creature and y
 
 #### Circle of the Stars
 
+### Circle of the Stars
+
+**Class:** druid
+**Source URL:** http://dnd2024.wikidot.com/druid:circle-of-the-stars
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Harness Secrets Hidden in Constellations*
 
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.
@@ -5012,7 +5289,7 @@ The Circle of the Stars has tracked heavenly patterns since time immemorial, dis
 
 You’ve created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
 
-While holding the map, you have the [Guidance](#guidance) and [Guiding Bolt](#guiding-bolt) spells prepared, and you can cast [Guiding Bolt](#guiding-bolt) without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+While holding the map, you have the [Guidance](#guidance-1) and [Guiding Bolt](#guiding-bolt-1) spells prepared, and you can cast [Guiding Bolt](#guiding-bolt-1) without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short or Long Rest, and it destroys the previous map.
 
@@ -5063,6 +5340,15 @@ While in your Starry Form, you become partially incorporeal, giving you Resistan
 
 ### Fighter
 
+#### Fighter
+
+**Class:** fighter
+**Source URL:** http://dnd2024.wikidot.com/fighter:main
+
+---
+
+Source: Player's Handbook
+
 Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries - as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.
 
 Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants.
@@ -5098,19 +5384,19 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 | 1 | +2 | [Fighting Style](#level-2-fighting-style-1), [Second Wind](#level-1-second-wind), [Weapon Mastery](#level-1-weapon-mastery-4) | 2 | 3 |
 | 2 | +2 | [Action Surge (One Use)](#level-2-action-surge), [Tactical Mind](#level-2-tactical-mind) | 2 | 3 |
 | 3 | +2 | [Fighter Subclass](#level-3-fighter-subclass) | 2 | 3 |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | 3 | 4 |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | 3 | 4 |
 | 5 | +3 | [Extra Attack](#level-5-extra-attack-4), [Tactical Shift](#level-5-tactical-shift) | 3 | 4 |
-| 6 | +3 | [Ability Score Improvement](#ability-score-improvement) | 3 | 4 |
+| 6 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 3 | 4 |
 | 7 | +3 | Subclass Feature | 3 | 4 |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | 3 | 4 |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 3 | 4 |
 | 9 | +4 | [Indomitable (One Use)](#level-9-indomitable), [Tactical Master](#level-9-tactical-master) | 3 | 4 |
 | 10 | +4 | Subclass Feature | 4 | 5 |
 | 11 | +4 | [Two Extra Attacks](#level-11-two-extra-attacks) | 4 | 5 |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | 4 | 5 |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 5 |
 | 13 | +5 | [Indomitable (Two Uses)](#level-9-indomitable), [Studied Attacks](#level-13-studied-attacks) | 4 | 5 |
-| 14 | +5 | [Ability Score Improvement](#ability-score-improvement) | 4 | 5 |
+| 14 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 5 |
 | 15 | +5 | Subclass Feature | 4 | 5 |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | 4 | 6 |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 6 |
 | 17 | +6 | [Action Surge (Two Uses)](#level-2-action-surge), [Indomitable (Three Uses)](#level-9-indomitable) | 4 | 6 |
 | 18 | +6 | Subclass Feature | 4 | 6 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | 4 | 6 |
@@ -5120,7 +5406,7 @@ As a Fighter, you gain the following class features when you reach the specified
 
 ###### Level 1: Fighting Style
 
-You gain a [Fighting Style feat](#feat-descriptions) of your choice (see chapter 5). [Defense](#defense) is recommended.
+You gain a [Fighting Style feat](#feat-descriptions) of your choice (see chapter 5). [Defense](#defense-1) is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -5157,14 +5443,14 @@ You gain a Fighter subclass of your choice. The Battle Master, Champion, Eldritc
 | Name |
 | --- |
 | Banneret |
-| [Battle Master](#battle-master) |
-| [Champion](#champion) |
-| [Eldritch Knight](#eldritch-knight) |
-| [Psi Warrior](#psi-warrior) |
+| [Battle Master](#battle-master-1) |
+| [Champion](#champion-1) |
+| [Eldritch Knight](#eldritch-knight-1) |
+| [Psi Warrior](#psi-warrior-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Fighter levels 6, 8, 12, 14, and 16.
 
 ###### Level 5: Extra Attack
 
@@ -5194,13 +5480,23 @@ You study your opponents and learn from each attack you make. If you make an att
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Combat Prowess](#boon-of-combat-prowess) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Combat Prowess](#boon-of-combat-prowess-1) is recommended.
 
 ###### Level 20: Three Extra Attacks
 
 You can attack four times instead of once whenever you take the Attack action on your turn.
 
 #### Battle Master
+
+### Battle Master
+
+**Class:** fighter
+**Source URL:** http://dnd2024.wikidot.com/fighter:battle-master
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Master Sophisticated Battle Maneuvers*
 
@@ -5330,6 +5626,16 @@ When you hit a creature with an attack roll using a weapon or an Unarmed Strike,
 
 #### Champion
 
+### Champion
+
+**Class:** fighter
+**Source URL:** http://dnd2024.wikidot.com/fighter:champion
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Pursue Physical Excellence in Combat*
 
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
@@ -5366,6 +5672,16 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 #### Eldritch Knight
 
+### Eldritch Knight
+
+**Class:** fighter
+**Source URL:** http://dnd2024.wikidot.com/fighter:eldritch-knight
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Support Combat Skills with Arcane Magic*
 
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.
@@ -5374,13 +5690,13 @@ Eldritch Knights combine the martial mastery common to all Fighters with a caref
 
 You have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules as an Eldritch Knight.
 
-**Cantrips.** You know two cantrips of your choice from the [Wizard spell list](#wizard-spell-list) (see that class’s section for its list). [Ray of Frost](#ray-of-frost) and [Shocking Grasp](#shocking-grasp) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
+**Cantrips.** You know two cantrips of your choice from the [Wizard spell list](#wizard-spell-list-1) (see that class’s section for its list). [Ray of Frost](#ray-of-frost-1) and [Shocking Grasp](#shocking-grasp-1) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
 
 When you reach Fighter level 10, you learn another Wizard cantrip of your choice.
 
 **Spell Slots.** The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the [Wizard spell list](#wizard-spell-list). [Burning Hands](#burning-hands), [Jump](#jump), and [Shield](#shield) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the [Wizard spell list](#wizard-spell-list-1). [Burning Hands](#burning-hands-1), [Jump](#jump-1), and [Shield](#shield-1) are recommended.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
@@ -5439,6 +5755,16 @@ When you take the Attack action on your turn, you can replace two of the attacks
 
 #### Psi Warrior
 
+### Psi Warrior
+
+**Class:** fighter
+**Source URL:** http://dnd2024.wikidot.com/fighter:psi-warrior
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Augment Physical Might with Psionic Power*
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
@@ -5490,11 +5816,20 @@ Once you use this feature, you can’t do so again until you finish a Long Rest 
 
 ##### Level 18: Telekinetic Master
 
-You always have the [telekinesis](#telekinesis) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
+You always have the [telekinesis](#telekinesis-1) spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain Concentration on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### Monk
+
+#### Monk
+
+**Class:** monk
+**Source URL:** http://dnd2024.wikidot.com/monk:main
+
+---
+
+Source: Player's Handbook
 
 Monks use rigorous combat training and mental discipline to align themselves with the multiverse and focus their internal reservoirs of power. Different Monks conceptualize this power in various ways: as breath, energy, life force, essence, or self, for example. Whether channeled as a striking display of martial prowess or as a subtler manifestation of defense and speed, this power infuses all that a Monk does.
 
@@ -5536,19 +5871,19 @@ Monks generally view adventures as tests of their physical and mental developmen
 | 1 | +2 | [Martial Arts](#level-1-martial-arts), [Unarmored Defense](#level-1-unarmored-defense-1) |
 | 2 | +2 | [Monk's Focus](#level-2-monks-focus), [Unarmored Movement](#level-2-unarmored-movement), [Uncanny Metabolism](#level-2-uncanny-metabolism) |
 | 3 | +2 | [Deflect Attacks](#level-3-deflect-attacks), [Monk Subclass](#level-3-monk-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement), [Slow Fall](#level-4-slow-fall) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1), [Slow Fall](#level-4-slow-fall) |
 | 5 | +3 | [Extra Attack](#level-5-extra-attack-4), [Stunning Strike](#level-5-stunning-strike) |
 | 6 | +3 | [Empowered Strikes](#level-6-empowered-strikes), Subclass Feature |
 | 7 | +3 | [Evasion](#level-7-evasion-1) |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | [Acrobatic Movement](#level-9-acrobatic-movement) |
 | 10 | +4 | [Heightened Focus](#level-10-heightened-focus), [Self-Restoration](#level-10-self-restoration) |
 | 11 | +4 | Subclass Feature |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | [Deflect Energy](#level-13-deflect-energy) |
 | 14 | +5 | [Disciplined Survivor](#level-14-disciplined-survivor) |
 | 15 | +5 | [Perfect Focus](#level-15-perfect-focus) |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | Subclass Feature |
 | 18 | +6 | [Superior Defense](#level-18-superior-defense) |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -5640,14 +5975,14 @@ You gain a Monk subclass of your choice. The Warrior of Mercy, Warrior of Shadow
 
 | Name |
 | --- |
-| [Warrior of Mercy](#warrior-of-mercy) |
-| [Warrior of Shadow](#warrior-of-shadow) |
-| [Warrior of the Elements](#warrior-of-the-elements) |
-| [Warrior of the Open Hand](#warrior-of-the-open-hand) |
+| [Warrior of Mercy](#warrior-of-mercy-1) |
+| [Warrior of Shadow](#warrior-of-shadow-1) |
+| [Warrior of the Elements](#warrior-of-the-elements-1) |
+| [Warrior of the Open Hand](#warrior-of-the-open-hand-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
 ###### Level 4: Slow Fall
 
@@ -5711,13 +6046,23 @@ At the start of your turn, you can expend 3 Focus Points to bolster yourself aga
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Irresistible Offense](#boon-of-irresistible-offense) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Irresistible Offense](#boon-of-irresistible-offense-1) is recommended.
 
 ###### Level 20: Body and Mind
 
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
 
 #### Warrior of Mercy
+
+### Warrior of Mercy
+
+**Class:** monk
+**Source URL:** http://dnd2024.wikidot.com/monk:warrior-of-mercy
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Manipulate Forces of Life and Death*
 
@@ -5761,6 +6106,16 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 #### Warrior of Shadow
 
+### Warrior of Shadow
+
+**Class:** monk
+**Source URL:** http://dnd2024.wikidot.com/monk:warrior-of-shadow
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Harness Shadow Power for Stealth and Subterfuge*
 
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.
@@ -5769,11 +6124,11 @@ Warriors of Shadow practice stealth and subterfuge, harnessing the power of the 
 
 You have learned to draw on the power of the Shadowfell, gaining the following benefits.
 
-**Darkness.** You can expend 1 Focus Point to cast the [Darkness](#darkness) spell without spell components. You can see within the spell’s area when you cast it with this feature. While the spell persists, you can move its area of Darkness to a space within 60 feet of yourself at the start of each of your turns.
+**Darkness.** You can expend 1 Focus Point to cast the [Darkness](#darkness-1) spell without spell components. You can see within the spell’s area when you cast it with this feature. While the spell persists, you can move its area of Darkness to a space within 60 feet of yourself at the start of each of your turns.
 
 **Darkvision.** You gain Darkvision with a range of 60 feet. If you already have Darkvision, its range increases by 60 feet.
 
-**Shadowy Figments.** You know the [Minor Illusion](#minor-illusion) spell. Wisdom is your spellcasting ability for it.
+**Shadowy Figments.** You know the [Minor Illusion](#minor-illusion-1) spell. Wisdom is your spellcasting ability for it.
 
 ##### Level 6: Shadow Step
 
@@ -5795,6 +6150,16 @@ As a Magic action while entirely within Dim Light or Darkness, you can expend 3 
 
 #### Warrior of the Elements
 
+### Warrior of the Elements
+
+**Class:** monk
+**Source URL:** http://dnd2024.wikidot.com/monk:warrior-of-the-elements
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Wield Strikes and Bursts of Elemental Power*
 
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.
@@ -5809,7 +6174,7 @@ At the start of your turn, you can expend 1 Focus Point to imbue yourself with e
 
 ##### Level 3: Manipulate Elements
 
-You know the [Elementalism](#elementalism) spell. Wisdom is your spellcasting ability for it.
+You know the [Elementalism](#elementalism-1) spell. Wisdom is your spellcasting ability for it.
 
 ##### Level 6: Elemental Burst
 
@@ -5832,6 +6197,16 @@ While your Elemental Attunement is active, you also gain the following benefits.
 **Empowered Strikes.** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an Unarmed Strike. The extra damage is the same type dealt by that strike.
 
 #### Warrior of the Open Hand
+
+### Warrior of the Open Hand
+
+**Class:** monk
+**Source URL:** http://dnd2024.wikidot.com/monk:warrior-of-the-open-hand
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Master Unarmed Combat Techniques*
 
@@ -5864,6 +6239,15 @@ You gain the ability to set up lethal vibrations in someone’s body. When you h
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
 
 ### Paladin
+
+#### Paladin
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:main
+
+---
+
+Source: Player's Handbook
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits or in a moment of desperation and grief with the dead as the only witness, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
 
@@ -5902,19 +6286,19 @@ Almost by definition, the life of a Paladin is an adventuring life, for every Pa
 | 1 | +2 | [Lay On Hands](#level-1-lay-on-hands), [Spellcasting](#spellcasting-1), [Weapon Mastery](#level-1-weapon-mastery-4) |
 | 2 | +2 | [Fighting Style](#level-2-fighting-style-1), [Paladin's Smite](#level-2-paladins-smite) |
 | 3 | +2 | [Channel Divinity](#level-3-channel-divinity), [Paladin Subclass](#level-3-paladin-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 5 | +3 | [Extra Attack](#level-5-extra-attack-4), [Faithful Steed](#level-5-faithful-steed) |
 | 6 | +3 | [Aura of Protection](#level-6-aura-of-protection) |
 | 7 | +3 | Subclass Feature |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | [Abjure Foes](#level-9-abjure-foes) |
 | 10 | +4 | [Aura of Courage](#level-10-aura-of-courage) |
 | 11 | +4 | [Radiant Strikes](#level-11-radiant-strikes) |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | - |
 | 14 | +5 | [Restoring Touch](#level-14-restoring-touch) |
 | 15 | +5 | Subclass Feature |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | - |
 | 18 | +6 | [Aura Expansion](#level-18-aura-expansion) |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -5957,11 +6341,11 @@ You can also expend 5 Hit Points from the pool of healing power to remove the Po
 
 ###### Level 1: Spellcasting
 
-You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](#paladin-spell-list) later in the class's description.
+You have learned to cast spells through prayer and meditation. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Paladin spells, which appear in the [Paladin spell list](#paladin-spell-list-1) later in the class's description.
 
 **Spell Slots.** The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [Heroism](#heroism) and [Searing Smite](#searing-smite) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. [Heroism](#heroism-1) and [Searing Smite](#searing-smite-1) are recommended.
 
 The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional spells from the Paladin spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Paladin, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -5983,11 +6367,11 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 You gain a [Fighting Style feat](#feat-descriptions) of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-**Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). [Guidance](#guidance) and [Sacred Flame](#sacred-flame) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+**Blessed Warrior.** You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). [Guidance](#guidance-1) and [Sacred Flame](#sacred-flame-1) are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ###### Level 2: Paladin's Smite
 
-You always have the [Divine Smite](#divine-smite) spell prepared.
+You always have the [Divine Smite](#divine-smite-1) spell prepared.
 
 You can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it this way again.
 
@@ -5999,7 +6383,7 @@ You can use this class's Channel Divinity twice. You regain one of its expended 
 
 If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting Feature.
 
-**Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](#hallow) spell.
+**Divine Sense.** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](#hallow-1) spell.
 
 ###### Level 3: Paladin Subclass
 
@@ -6009,11 +6393,11 @@ You gain a Paladin Subclass of your choice. The Oath of Devotion, Oath of Glory,
 
 | Name |
 | --- |
-| [Oath of Devotion](#oath-of-devotion) |
-| [Oath of Glory](#oath-of-glory) |
-| [Oath of the Ancients](#oath-of-the-ancients) |
+| [Oath of Devotion](#oath-of-devotion-1) |
+| [Oath of Glory](#oath-of-glory-1) |
+| [Oath of the Ancients](#oath-of-the-ancients-1) |
 | Oath of the Noble Genies |
-| [Oath of Vengeance](#oath-of-vengeance) |
+| [Oath of Vengeance](#oath-of-vengeance-1) |
 
 ###### Breaking Your Oath
 
@@ -6025,7 +6409,7 @@ If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Paladin levels 8, 12, and 16.
 
 ###### Level 5: Extra Attack
 
@@ -6035,7 +6419,7 @@ You can attack twice instead of once whenever you take the Attack action on your
 
 You can call on the aid of an otherworldly steed.
 
-You always have the [Find Steed](#find-steed) spell prepared.
+You always have the [Find Steed](#find-steed-1) spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain your ability to do so when you finish a Long Rest.
 
@@ -6069,79 +6453,96 @@ Your Aura of Protection is now a 30-foot Emanation.
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Truesight](#boon-of-truesight) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Truesight](#boon-of-truesight-1) is recommended.
 
 #### Paladin Spell List
 
+#### Paladin Spell List
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:spell-list
+
+---
+
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Bless](#bless) | *Enchantment* | Cleric, Paladin | Action | 30 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Command](#command) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
-| [Compelled Duel](#compelled-duel) | *Enchantment* | Paladin | Bonus Action | 30 feet | V | *^C^*, up to 1 minute |
-| [Cure Wounds](#cure-wounds) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
-| [Detect Evil and Good](#detect-evil-and-good) | *Divination* | Cleric, Paladin | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Poison and Disease](#detect-poison-and-disease) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Divine Favor](#divine-favor) | *Transmutation* | Paladin | Bonus Action | Self | V, S | 1 minute |
-| [Divine Smite](#divine-smite) | *Evocation* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
-| [Heroism](#heroism) | *Enchantment* | Bard, Paladin | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Protection from Evil and Good](#protection-from-evil-and-good) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Purify Food and Drink](#purify-food-and-drink) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
-| [Searing Smite](#searing-smite) | *Evocation* | Paladin | Bonus Action(*) | Self | V | 1 minute |
-| [Shield of Faith](#shield-of-faith) | *Abjuration* | Cleric, Paladin | Bonus Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Thunderous Smite](#thunderous-smite) | *Evocation* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
+| [Bless](#bless-1) | *Enchantment* | Cleric, Paladin | Action | 30 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Command](#command-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V | Instantaneous |
+| [Compelled Duel](#compelled-duel-1) | *Enchantment* | Paladin | Bonus Action | 30 feet | V | *^C^*, up to 1 minute |
+| [Cure Wounds](#cure-wounds-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
+| [Detect Evil and Good](#detect-evil-and-good-1) | *Divination* | Cleric, Paladin | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Poison and Disease](#detect-poison-and-disease-1) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Divine Favor](#divine-favor-1) | *Transmutation* | Paladin | Bonus Action | Self | V, S | 1 minute |
+| [Divine Smite](#divine-smite-1) | *Evocation* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
+| [Heroism](#heroism-1) | *Enchantment* | Bard, Paladin | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Protection from Evil and Good](#protection-from-evil-and-good-1) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Purify Food and Drink](#purify-food-and-drink-1) | *Transmutation* | Artificer, Cleric, Druid, Paladin | Action or *^R^* | 10 feet | V, S | Instantaneous |
+| [Searing Smite](#searing-smite-1) | *Evocation* | Paladin | Bonus Action(*) | Self | V | 1 minute |
+| [Shield of Faith](#shield-of-faith-1) | *Abjuration* | Cleric, Paladin | Bonus Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Thunderous Smite](#thunderous-smite-1) | *Evocation* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
 | Wardaway | *Abjuration* | Bard, Cleric, Paladin, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Wrathful Smite](#wrathful-smite) | *Necromancy* | Paladin | Bonus Action(*) | Self | V | 1 minute |
+| [Wrathful Smite](#wrathful-smite-1) | *Necromancy* | Paladin | Bonus Action(*) | Self | V | 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#aid) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
-| [Find Steed](#find-steed) | *Conjuration* | Paladin | Action | 30 feet | V, S | Instantaneous |
-| [Gentle Repose](#gentle-repose) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
-| [Lesser Restoration](#lesser-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magic Weapon](#magic-weapon) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
-| [Prayer of Healing](#prayer-of-healing) | *Abjuration* | Cleric, Paladin | 10 minutes | 30 feet | V | Instantaneous |
-| [Protection from Poison](#protection-from-poison) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
+| [Aid](#aid-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Find Steed](#find-steed-1) | *Conjuration* | Paladin | Action | 30 feet | V, S | Instantaneous |
+| [Gentle Repose](#gentle-repose-1) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
+| [Lesser Restoration](#lesser-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Weapon](#magic-weapon-1) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
+| [Prayer of Healing](#prayer-of-healing-1) | *Abjuration* | Cleric, Paladin | 10 minutes | 30 feet | V | Instantaneous |
+| [Protection from Poison](#protection-from-poison-1) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
 | Searing Orb | *Evocation* | Cleric, Paladin | Action | 60 feet | S, M | Instantaneous |
-| [Shining Smite](#shining-smite) | *Transmutation* | Paladin | Bonus Action(*) | Self | V | *^C^*,up to 1 minute |
-| [Warding Bond](#warding-bond) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S, M | 1 hour |
-| [Zone of Truth](#zone-of-truth) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
+| [Shining Smite](#shining-smite-1) | *Transmutation* | Paladin | Bonus Action(*) | Self | V | *^C^*,up to 1 minute |
+| [Warding Bond](#warding-bond-1) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S, M | 1 hour |
+| [Zone of Truth](#zone-of-truth-1) | *Enchantment* | Bard, Cleric, Paladin | Action | 60 feet | V, S | 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Vitality](#aura-of-vitality) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
-| [Blinding Smite](#blinding-smite) | *Evocation* | Paladin | Bonus Action | Self | V | 1 minute |
-| [Create Food And Water](#create-food-and-water) | *Conjuration* | Artificer, Cleric, Paladin | Action | 30 feet | V, S | Instantaneous |
-| [Crusader's Mantle](#crusaders-mantle) | *Evocation* | Paladin | Action | Self | V | *^C^*, up to 1 minute |
-| [Daylight](#daylight) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Elemental Weapon](#elemental-weapon) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Magic Circle](#magic-circle) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
-| [Remove Curse](#remove-curse) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Revivify](#revivify) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Aura of Vitality](#aura-of-vitality-1) | *Abjuration* | Cleric, Druid, Paladin | Action | Self | V | *^C^*, up to 1 minute |
+| [Blinding Smite](#blinding-smite-1) | *Evocation* | Paladin | Bonus Action | Self | V | 1 minute |
+| [Create Food And Water](#create-food-and-water-1) | *Conjuration* | Artificer, Cleric, Paladin | Action | 30 feet | V, S | Instantaneous |
+| [Crusader's Mantle](#crusaders-mantle-1) | *Evocation* | Paladin | Action | Self | V | *^C^*, up to 1 minute |
+| [Daylight](#daylight-1) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Elemental Weapon](#elemental-weapon-1) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Magic Circle](#magic-circle-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
+| [Remove Curse](#remove-curse-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Revivify](#revivify-1) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aura of Life](#aura-of-life) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
-| [Aura of Purity](#aura-of-purity) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
-| [Banishment](#banishment) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Death Ward](#death-ward) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S | 8 hours |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Staggering Smite](#staggering-smite) | *Enchantment* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
+| [Aura of Life](#aura-of-life-1) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
+| [Aura of Purity](#aura-of-purity-1) | *Abjuration* | Cleric, Paladin | Action | Self | V | *^C^*, up to 10 minutes |
+| [Banishment](#banishment-1) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Death Ward](#death-ward-1) | *Abjuration* | Cleric, Paladin | Action | Touch | V, S | 8 hours |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Staggering Smite](#staggering-smite-1) | *Enchantment* | Paladin | Bonus Action(*) | Self | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Banishing Smite](#banishing-smite) | *Conjuration* | Paladin | Bonus Action | Self | V | *^C^*, up to 1 minute |
-| [Circle Of Power](#circle-of-power) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
-| [Destructive Wave](#destructive-wave) | *Evocation* | Paladin | Action | Self | V | Instantaneous |
-| [Dispel Evil and Good](#dispel-evil-and-good) | *Abjuration* | Cleric, Paladin | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Geas](#geas) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-| [Greater Restoration](#greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Raise Dead](#raise-dead) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Summon Celestial](#summon-celestial) | *Conjuration* | Cleric, Paladin | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Banishing Smite](#banishing-smite-1) | *Conjuration* | Paladin | Bonus Action | Self | V | *^C^*, up to 1 minute |
+| [Circle Of Power](#circle-of-power-1) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
+| [Destructive Wave](#destructive-wave-1) | *Evocation* | Paladin | Action | Self | V | Instantaneous |
+| [Dispel Evil and Good](#dispel-evil-and-good-1) | *Abjuration* | Cleric, Paladin | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Geas](#geas-1) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Greater Restoration](#greater-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Raise Dead](#raise-dead-1) | *Necromancy* | Bard, Cleric, Paladin | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Summon Celestial](#summon-celestial-1) | *Conjuration* | Cleric, Paladin | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 
 #### Oath of Devotion
+
+### Oath of Devotion
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:oath-of-devotion
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Uphold the Ideals of Justice and Order*
 
@@ -6163,11 +6564,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 | --- | --- |
-| 3 | [Protection from Evil and Good](#protection-from-evil-and-good), [Shield of Faith](#shield-of-faith) |
-| 5 | [Aid](#aid), [Zone of Truth](#zone-of-truth) |
-| 9 | [Beacon of Hope](#beacon-of-hope), [Dispel Magic](#dispel-magic) |
-| 13 | [Freedom of Movement](#freedom-of-movement), [Guardian of Faith](#guardian-of-faith) |
-| 17 | [Commune](#commune), [Flame Strike](#flame-strike) |
+| 3 | [Protection from Evil and Good](#protection-from-evil-and-good-1), [Shield of Faith](#shield-of-faith-1) |
+| 5 | [Aid](#aid-1), [Zone of Truth](#zone-of-truth-1) |
+| 9 | [Beacon of Hope](#beacon-of-hope-1), [Dispel Magic](#dispel-magic-1) |
+| 13 | [Freedom of Movement](#freedom-of-movement-1), [Guardian of Faith](#guardian-of-faith-1) |
+| 17 | [Commune](#commune-1), [Flame Strike](#flame-strike-1) |
 
 ##### Level 3: Sacred Weapon
 
@@ -6183,7 +6584,7 @@ You and your allies have Immunity to the Charmed condition while in your Aura of
 
 ##### Level 15: Smite of Protection
 
-Your magical smite now radiates protective energy. Whenever you cast [Divine Smite](#divine-smite), you and your allies have Half Cover while in your Aura of Protection.
+Your magical smite now radiates protective energy. Whenever you cast [Divine Smite](#divine-smite-1), you and your allies have Half Cover while in your Aura of Protection.
 
 The aura has this benefit until the start of your next turn.
 
@@ -6199,6 +6600,16 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 #### Oath of Glory
 
+### Oath of Glory
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:oath-of-glory
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Strive for the Heights of Heroism*
 
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so that they're all ready when destiny calls.
@@ -6211,7 +6622,7 @@ These Paladins share the following tenets:
 
 ##### Level 3: Inspiring Smite
 
-Immediately after you cast [Divine Smite](#divine-smite), you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you cast [Divine Smite](#divine-smite-1), you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
 
 ##### Level 3: Oath of Glory Spells.
 
@@ -6221,11 +6632,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 | --- | --- |
-| 3 | [Guiding Bolt](#guiding-bolt), [Heroism](#heroism) |
-| 5 | [Enhance Ability](#enhance-ability), [Magic Weapon](#magic-weapon) |
-| 9 | [Haste](#haste), [Protection from Energy](#protection-from-energy) |
-| 13 | [Compulsion](#compulsion), [Freedom of Movement](#freedom-of-movement) |
-| 17 | [Legend Lore](#legend-lore), [Yolande's Regal Presence](#yolandes-regal-presence) |
+| 3 | [Guiding Bolt](#guiding-bolt-1), [Heroism](#heroism-1) |
+| 5 | [Enhance Ability](#enhance-ability-1), [Magic Weapon](#magic-weapon-1) |
+| 9 | [Haste](#haste-1), [Protection from Energy](#protection-from-energy-1) |
+| 13 | [Compulsion](#compulsion-1), [Freedom of Movement](#freedom-of-movement-1) |
+| 17 | [Legend Lore](#legend-lore-1), [Yolande's Regal Presence](#yolandes-regal-presence-1) |
 
 ##### Level 3: Peerless Athlete
 
@@ -6255,6 +6666,16 @@ You can empower yourself with the legends - whether true or exaggerated - of you
 
 #### Oath of the Ancients
 
+### Oath of the Ancients
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:oath-of-the-ancients
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Preserve Life and Light in the World*
 
 The Oath of the Ancients is as old as the first elves.
@@ -6279,11 +6700,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 | --- | --- |
-| 3 | [Ensnaring Strike](#ensnaring-strike), [Speak with Animals](#speak-with-animals) |
-| 5 | [Misty Step](#misty-step), [Moonbeam](#moonbeam) |
-| 9 | [Plant Growth](#plant-growth), [Protection from Energy](#protection-from-energy) |
-| 13 | [Ice Storm](#ice-storm), [Stoneskin](#stoneskin) |
-| 17 | [Commune with Nature](#commune-with-nature), [Tree Stride](#tree-stride) |
+| 3 | [Ensnaring Strike](#ensnaring-strike-1), [Speak with Animals](#speak-with-animals-1) |
+| 5 | [Misty Step](#misty-step-1), [Moonbeam](#moonbeam-1) |
+| 9 | [Plant Growth](#plant-growth-1), [Protection from Energy](#protection-from-energy-1) |
+| 13 | [Ice Storm](#ice-storm-1), [Stoneskin](#stoneskin-1) |
+| 17 | [Commune with Nature](#commune-with-nature-1), [Tree Stride](#tree-stride-1) |
 
 ##### Level 7: Aura of Warding
 
@@ -6307,6 +6728,16 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 
 #### Oath of Vengeance
 
+### Oath of Vengeance
+
+**Class:** paladin
+**Source URL:** http://dnd2024.wikidot.com/paladin:oath-of-vengeance
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Punish Evildoers at Any Cost*
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages though the countryside - at times like these, Paladins arise and swear the Oath of Vengeance to set right what has gone wrong.
@@ -6325,11 +6756,11 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 | --- | --- |
-| 3 | [Bane](#bane), [Hunter's Mark](#hunters-mark) |
-| 5 | [Hold Person](#hold-person), [Misty Step](#misty-step) |
-| 9 | [Haste](#haste), [Protection from Energy](#protection-from-energy) |
-| 13 | [Banishment](#banishment), [Dimension Door](#dimension-door) |
-| 17 | [Hold Monster](#hold-monster), [Scrying](#scrying) |
+| 3 | [Bane](#bane-1), [Hunter's Mark](#hunters-mark-1) |
+| 5 | [Hold Person](#hold-person-1), [Misty Step](#misty-step-1) |
+| 9 | [Haste](#haste-1), [Protection from Energy](#protection-from-energy-1) |
+| 13 | [Banishment](#banishment-1), [Dimension Door](#dimension-door-1) |
+| 17 | [Hold Monster](#hold-monster-1), [Scrying](#scrying-1) |
 
 ##### Level 3: Vow of Enmity
 
@@ -6354,6 +6785,15 @@ As a Bonus Action, you gain the benefits below for 10 minutes or until you end t
 **Frightful Aura.** Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
 
 ### Ranger
+
+#### Ranger
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:main
+
+---
+
+Source: Player's Handbook
 
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
@@ -6390,19 +6830,19 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 | 1 | +2 | [Spellcasting](#spellcasting-1), [Favored Enemy](#level-1-favored-enemy), [Weapon Mastery](#level-1-weapon-mastery-4) |
 | 2 | +2 | [Deft Explorer](#level-2-deft-explorer), [Fighting Style](#level-2-fighting-style-1) |
 | 3 | +2 | [Ranger Subclass](#level-3-ranger-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 5 | +3 | [Extra Attack](#level-5-extra-attack-4) |
 | 6 | +3 | [Roving](#level-6-roving) |
 | 7 | +3 | Subclass Feature |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | [Expertise](#level-1-expertise) |
 | 10 | +4 | [Tireless](#level-10-tireless) |
 | 11 | +4 | Subclass Feature |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | [Relentless Hunter](#level-13-relentless-hunter) |
 | 14 | +5 | [Nature's Veil](#level-14-natures-veil) |
 | 15 | +5 | Subclass Feature |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | [Precise Hunter](#level-17-precise-hunter) |
 | 18 | +6 | [Feral Senses](#level-18-feral-senses) |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -6437,11 +6877,11 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ###### Level 1: Spellcasting
 
-You have learned to channel the magical essence of nature to cast spells. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](#ranger-spell-list) later in the class's description.
+You have learned to channel the magical essence of nature to cast spells. See Chapter 7 for the rules on Spellcasting. The Information below details how you use those rules with Ranger spells, which appear in the [Ranger spell list](#ranger-spell-list-1) later in the class's description.
 
 **Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells [Cure Wounds](#cure-wounds) and [Ensnaring Strike](#ensnaring-strike) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells [Cure Wounds](#cure-wounds-1) and [Ensnaring Strike](#ensnaring-strike-1) are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional spells from the Ranger spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -6455,7 +6895,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 ###### Level 1: Favored Enemy
 
-You always have the [Hunter's Mark](#hunters-mark) spell prepared.
+You always have the [Hunter's Mark](#hunters-mark-1) spell prepared.
 
 You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
@@ -6479,7 +6919,7 @@ Thanks to your travels, you gain the following benefits.
 
 You gain a [Fighting Style feat](#feat-descriptions) of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-**Druidic Warrior.** You learn two [Druid cantrips](#druid-spell-list) of your choice (See the Druid class's section for a list of Druid spells). [Guidance](#guidance) and [Starry Wisp](#starry-wisp) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+**Druidic Warrior.** You learn two [Druid cantrips](#druid-spell-list-1) of your choice (See the Druid class's section for a list of Druid spells). [Guidance](#guidance-1) and [Starry Wisp](#starry-wisp-1) are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ###### Level 3: Ranger Subclass
 
@@ -6489,16 +6929,16 @@ You gain a Ranger Subclass of your choice. The Beast Master, Fey Wanderer, Gloom
 
 | Name |
 | --- |
-| [Beast Master](#beast-master) |
-| [Fey Wanderer](#fey-wanderer) |
-| [Gloom Stalker](#gloom-stalker) |
+| [Beast Master](#beast-master-1) |
+| [Fey Wanderer](#fey-wanderer-1) |
+| [Gloom Stalker](#gloom-stalker-1) |
 | Hollow Warden |
-| [Hunter](#hunter) |
+| [Hunter](#hunter-1) |
 | Winter Walker |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ###### Level 5: Extra Attack
 
@@ -6522,7 +6962,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 ###### Level 13: Relentless Hunter
 
-Taking damage can't break your Concentration on [Hunter's Mark](#hunters-mark).
+Taking damage can't break your Concentration on [Hunter's Mark](#hunters-mark-1).
 
 ###### Level 14: Nature's Veil
 
@@ -6532,7 +6972,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ###### Level 17: Precise Hunter
 
-You have Advantage on attack rolls against the creature currently marked by your [Hunter's Mark](#hunters-mark).
+You have Advantage on attack rolls against the creature currently marked by your [Hunter's Mark](#hunters-mark-1).
 
 ###### Level 18: Feral Senses
 
@@ -6540,95 +6980,112 @@ Your connection to the forces of nature grants you Blindsight with a range of 30
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel-1) is recommended.
 
 ###### Level 20: Foe Slayer
 
-The damage die of your [Hunter's Mark](#hunters-mark) is a d10 rather than a d6.
+The damage die of your [Hunter's Mark](#hunters-mark-1) is a d10 rather than a d6.
 
 #### Ranger Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Alarm](#alarm) | *Abjuration* | Artificer, Ranger, Wizard | 1 minute or *^R^* | 30 feet | V, S, M | 8 hours |
-| [Animal Friendship](#animal-friendship) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
-| Buzzing Bee | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet. | V, S, M | *^C^*, up to 1 minute |
-| [Cure Wounds](#cure-wounds) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Detect Poison and Disease](#detect-poison-and-disease) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Ensnaring Strike](#ensnaring-strike) | *Conjuration* | Ranger | Bonus Action(*) | Self | V | *^C^*, up to 1 minute |
-| [Entangle](#entangle) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S | *^C^*, up to 1 minute |
-| [Fog Cloud](#fog-cloud) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
-| [Goodberry](#goodberry) | *Conjuration* | Druid, Ranger | Action | Self | V, S, M | 24 hours |
-| [Hail of Thorns](#hail-of-thorns) | *Conjuration* | Ranger | Bonus Action(*) | Self | V | Instantaneous |
-| [Hunter's Mark](#hunters-mark) | *Divination* | Ranger | Bonus Action | 90 feet | V | *^C^*, up to 1 hour |
-| [Jump](#jump) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
-| [Longstrider](#longstrider) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
-| [Speak with Animals](#speak-with-animals) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
+#### Ranger Spell List
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Aid](#aid) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
-| [Animal Messenger](#animal-messenger) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
-| [Barkskin](#barkskin) | *Transmutation* | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
-| [Beast Sense](#beast-sense) | *Divination* | Druid, Ranger | Action or *^R^* | Touch | S | *^C^*, up to 1 hour |
-| [Cordon Of Arrows](#cordon-of-arrows) | *Transmutation* | Ranger | Action | Touch | V, S, M | 8 hours |
-| [Darkvision](#darkvision) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Find Traps](#find-traps) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
-| [Gust of Wind](#gust-of-wind) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Lesser Restoration](#lesser-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
-| [Locate Animals or Plants](#locate-animals-or-plants) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magic Weapon](#magic-weapon) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
-| [Pass without Trace](#pass-without-trace) | *Abjuration* | Druid, Ranger | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Protection from Poison](#protection-from-poison) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
-| [Silence](#silence) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Spike Growth](#spike-growth) | *Transmutation* | Druid, Ranger | Action | 150 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Summon Beast](#summon-beast) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Alarm](#alarm-1) | *Abjuration* | Artificer, Ranger, Wizard | 1 minute or *^R^* | 30 feet | V, S, M | 8 hours |
+| [Animal Friendship](#animal-friendship-1) | *Enchantment* | Bard, Druid, Ranger | Action | 30 feet | V, S, M | 24 hours |
+| Buzzing Bee | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet. | V, S, M | *^C^*, up to 1 minute |
+| [Cure Wounds](#cure-wounds-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | Instantaneous |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Detect Poison and Disease](#detect-poison-and-disease-1) | *Divination* | Cleric, Druid, Paladin, Ranger | Action or *^R^* | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Ensnaring Strike](#ensnaring-strike-1) | *Conjuration* | Ranger | Bonus Action(*) | Self | V | *^C^*, up to 1 minute |
+| [Entangle](#entangle-1) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S | *^C^*, up to 1 minute |
+| [Fog Cloud](#fog-cloud-1) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
+| [Goodberry](#goodberry-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S, M | 24 hours |
+| [Hail of Thorns](#hail-of-thorns-1) | *Conjuration* | Ranger | Bonus Action(*) | Self | V | Instantaneous |
+| [Hunter's Mark](#hunters-mark-1) | *Divination* | Ranger | Bonus Action | 90 feet | V | *^C^*, up to 1 hour |
+| [Jump](#jump-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
+| [Longstrider](#longstrider-1) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
+| [Speak with Animals](#speak-with-animals-1) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Aid](#aid-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | 30 feet | V, S, M | 8 hours |
+| [Animal Messenger](#animal-messenger-1) | *Enchantment* | Bard, Druid, Ranger | Action or *^R^* | 30 feet | V, S, M | 24 Hours |
+| [Barkskin](#barkskin-1) | *Transmutation* | Druid, Ranger | Bonus Action | Touch | V, S, M | 1 hour |
+| [Beast Sense](#beast-sense-1) | *Divination* | Druid, Ranger | Action or *^R^* | Touch | S | *^C^*, up to 1 hour |
+| [Cordon Of Arrows](#cordon-of-arrows-1) | *Transmutation* | Ranger | Action | Touch | V, S, M | 8 hours |
+| [Darkvision](#darkvision-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Find Traps](#find-traps-1) | *Divination* | Cleric, Druid, Ranger | Action | 120 feet | V, S | Instantaneous |
+| [Gust of Wind](#gust-of-wind-1) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Lesser Restoration](#lesser-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Bonus Action | Touch | V, S | Instantaneous |
+| [Locate Animals or Plants](#locate-animals-or-plants-1) | *Divination* | Bard, Druid, Ranger | Action or *^R^* | Self | V, S, M | Instantaneous |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Weapon](#magic-weapon-1) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
+| [Pass without Trace](#pass-without-trace-1) | *Abjuration* | Druid, Ranger | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Protection from Poison](#protection-from-poison-1) | *Abjuration* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S | 1 hour |
+| [Silence](#silence-1) | *Illusion* | Bard, Cleric, Ranger | Action or *^R^* | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Spike Growth](#spike-growth-1) | *Transmutation* | Druid, Ranger | Action | 150 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Summon Beast](#summon-beast-1) | *Conjuration* | Druid, Ranger | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 | Tortoise Shell | *Abjuration* | Artificer, Druid, Ranger | Action | Touch | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Conjure Animals](#conjure-animals) | *Conjuration* | Druid, Ranger | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Conjure Barrage](#conjure-barrage) | *Conjuration* | Ranger | Action | Self | V, S, M(C) | Instantaneous |
-| [Daylight](#daylight) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Elemental Weapon](#elemental-weapon) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Lightning Arrow](#lightning-arrow) | *Transmutation* | Ranger | Bonus Action(*) | Self | V, S | Instantaneous |
-| [Meld into Stone](#meld-into-stone) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
-| [Nondetection](#nondetection) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
-| [Plant Growth](#plant-growth) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
-| [Protection from Energy](#protection-from-energy) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Revivify](#revivify) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Speak with Plants](#speak-with-plants) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
-| [Summon Fey](#summon-fey) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Water Breathing](#water-breathing) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
-| [Water Walk](#water-walk) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
-| [Wind Wall](#wind-wall) | *Evocation* | Druid, Ranger | Action | 120 feet | V, S, M | **^C^**, up to 1 minute |
+| [Conjure Animals](#conjure-animals-1) | *Conjuration* | Druid, Ranger | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Conjure Barrage](#conjure-barrage-1) | *Conjuration* | Ranger | Action | Self | V, S, M(C) | Instantaneous |
+| [Daylight](#daylight-1) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Elemental Weapon](#elemental-weapon-1) | *Transmutation* | Artificer, Druid, Paladin, Ranger | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Lightning Arrow](#lightning-arrow-1) | *Transmutation* | Ranger | Bonus Action(*) | Self | V, S | Instantaneous |
+| [Meld into Stone](#meld-into-stone-1) | *Transmutation* | Cleric, Druid, Ranger | Action or *^R^* | Touch | V, S | 8 hours |
+| [Nondetection](#nondetection-1) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
+| [Plant Growth](#plant-growth-1) | *Transmutation* | Bard, Druid, Ranger | Action (Overgrowth) or 8 hours (Enrichment) | 150 feet | V, S | Instantaneous |
+| [Protection from Energy](#protection-from-energy-1) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Revivify](#revivify-1) | *Necromancy* | Artificer, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Speak with Plants](#speak-with-plants-1) | *Transmutation* | Bard, Druid, Ranger | Action | Self | V, S | 10 minutes |
+| [Summon Fey](#summon-fey-1) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Water Breathing](#water-breathing-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
+| [Water Walk](#water-walk-1) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Wind Wall](#wind-wall-1) | *Evocation* | Druid, Ranger | Action | 120 feet | V, S, M | **^C^**, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Conjure Woodland Beings](#conjure-woodland-beings) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Dominate Beast](#dominate-beast) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Freedom of Movement](#freedom-of-movement) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
-| [Grasping Vine](#grasping-vine) | *Conjuration* | Druid, Ranger | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Conjure Woodland Beings](#conjure-woodland-beings-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Dominate Beast](#dominate-beast-1) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Freedom of Movement](#freedom-of-movement-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Ranger | Action | Touch | V, S, M | 1 hour |
+| [Grasping Vine](#grasping-vine-1) | *Conjuration* | Druid, Ranger | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
 | Sticks to Snakes | *Transmutation* | Cleric, Druid, Ranger | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Stoneskin](#stoneskin) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Elemental](#summon-elemental) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Stoneskin](#stoneskin-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Elemental](#summon-elemental-1) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Abjuration* | Bard, Druid, Ranger, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Commune With Nature](#commune-with-nature) | *Divination* | Druid, Ranger | 1 minute or *^R^* | Self | V, S | Instantaneous |
-| [Conjure Volley](#conjure-volley) | *Conjuration* | Ranger | Action | 150 feet | V, S, M(C) | Instantaneous |
-| [Greater Restoration](#greater-restoration) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
-| [Steel Wind Strike](#steel-wind-strike) | *Conjuration* | Ranger, Wizard | Action | 30 feet | S, M | Instantaneous |
-| [Swift Quiver](#swift-quiver) | *Transmutation* | Ranger | Bonus Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Tree Stride](#tree-stride) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Commune With Nature](#commune-with-nature-1) | *Divination* | Druid, Ranger | 1 minute or *^R^* | Self | V, S | Instantaneous |
+| [Conjure Volley](#conjure-volley-1) | *Conjuration* | Ranger | Action | 150 feet | V, S, M(C) | Instantaneous |
+| [Greater Restoration](#greater-restoration-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger | Action | Touch | V, S, M(C*) | Instantaneous |
+| [Steel Wind Strike](#steel-wind-strike-1) | *Conjuration* | Ranger, Wizard | Action | 30 feet | S, M | Instantaneous |
+| [Swift Quiver](#swift-quiver-1) | *Transmutation* | Ranger | Bonus Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Tree Stride](#tree-stride-1) | *Conjuration* | Druid, Ranger | Action | Self | V, S | *^C^*, up to 1 minute |
 
 #### Beast Master
+
+### Beast Master
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:beast-master
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Bond with a Primal Beast*
 
@@ -6712,13 +7169,23 @@ In addition, whenever it hits with an attack roll and deals damage, it can deal 
 
 When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.
 
-In addition, the first time each turn it hits a creature under the effect of your [Hunter's Mark](#hunters-mark) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your [Hunter's Mark](#hunters-mark-1) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 ##### Level 15: Share Spells
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 
 #### Fey Wanderer
+
+### Fey Wanderer
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:fey-wanderer
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Wield Fey Mirth and Fury*
 
@@ -6736,11 +7203,11 @@ When you reach a Ranger level specified in the Fey Wanderer spells table, you th
 
 | Ranger Level | Spell |
 | --- | --- |
-| 3 | [Charm Person](#charm-person) |
-| 5 | [Misty Step](#misty-step) |
-| 9 | [Summon Fey](#summon-fey) |
-| 13 | [Dimension Door](#dimension-door) |
-| 17 | [Mislead](#mislead) |
+| 3 | [Charm Person](#charm-person-1) |
+| 5 | [Misty Step](#misty-step-1) |
+| 9 | [Summon Fey](#summon-fey-1) |
+| 13 | [Dimension Door](#dimension-door-1) |
+| 17 | [Mislead](#mislead-1) |
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
 
@@ -6769,17 +7236,27 @@ In addition, whenever you or a creature you can see within 120 feet of you succe
 
 ##### Level 11: Fey Reinforcements
 
-You can cast [Summon Fey](#summon-fey) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+You can cast [Summon Fey](#summon-fey-1) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 
 Whenever you start casting the spell, you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for the casting.
 
 ##### Level 15: Misty Wanderer
 
-You can cast [Misty Step](#misty-step) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can cast [Misty Step](#misty-step-1) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-In addition, whenever you cast [Misty Step](#misty-step), you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+In addition, whenever you cast [Misty Step](#misty-step-1), you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
 
 #### Gloom Stalker
+
+### Gloom Stalker
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:gloom-stalker
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Draw on Shadow Magic to Fight Your Foes*
 
@@ -6803,11 +7280,11 @@ When you reach a Ranger level specified in the Gloom Stalker spells table, you t
 
 | Ranger Level | Spells |
 | --- | --- |
-| 3 | [Disguise Self](#disguise-self) |
-| 5 | [Rope Trick](#rope-trick) |
-| 9 | [Fear](#fear) |
-| 13 | [Greater Invisibility](#greater-invisibility) |
-| 17 | [Seeming](#seeming) |
+| 3 | [Disguise Self](#disguise-self-1) |
+| 5 | [Rope Trick](#rope-trick-1) |
+| 9 | [Fear](#fear-1) |
+| 13 | [Greater Invisibility](#greater-invisibility-1) |
+| 17 | [Seeming](#seeming-1) |
 
 ##### Level 3: Umbral Sight
 
@@ -6833,13 +7310,23 @@ When a creature makes an attack roll against you, you can take a Reaction to imp
 
 #### Hunter
 
+### Hunter
+
+**Class:** ranger
+**Source URL:** http://dnd2024.wikidot.com/ranger:hunter
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Protect Nature and People from Destruction*
 
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 
 ##### Level 3: Hunter's Lore
 
-You can call upon the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [Hunter's Mark](#hunters-mark), you know whether the creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+You can call upon the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [Hunter's Mark](#hunters-mark-1), you know whether the creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
 ##### Level 3: Hunter's Prey
 
@@ -6859,13 +7346,22 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 ##### Level 11: Superior Hunter's Prey
 
-Once per turn when you deal damage to a creature marked by your [Hunter's Mark](#hunters-mark), you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+Once per turn when you deal damage to a creature marked by your [Hunter's Mark](#hunters-mark-1), you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
 
 ##### Level 15: Superior Hunter's Defense
 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
 
 ### Rogue
+
+#### Rogue
+
+**Class:** rogue
+**Source URL:** http://dnd2024.wikidot.com/rogue:main
+
+---
+
+Source: Player's Handbook
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps and opening locks.
 
@@ -6905,19 +7401,19 @@ Some Rogues began their careers as criminals, while other used their cunning to 
 | 1 | +2 | [Expertise](#level-1-expertise), [Sneak Attack](#level-1-sneak-attack), [Thieves' Cant](#level-1-thieves-cant), [Weapon Mastery](#level-1-weapon-mastery-4) | 1d6 |
 | 2 | +2 | [Cunning Action](#level-2-cunning-action) | 1d6 |
 | 3 | +2 | [Rogue Subclass](#level-3-rogue-subclass), [Steady Aim](#level-3-steady-aim) | 2d6 |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | 2d6 |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | 2d6 |
 | 5 | +3 | [Cunning Strike](#level-5-cunning-strike), [Uncanny Dodge](#level-5-uncanny-dodge) | 3d6 |
 | 6 | +3 | [Expertise](#level-1-expertise) | 3d6 |
 | 7 | +3 | [Evasion](#level-7-evasion-1), [Reliable Talent](#level-7-reliable-talent) | 4d6 |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | 4d6 |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 4d6 |
 | 9 | +4 | Subclass Feature | 5d6 |
-| 10 | +4 | [Ability Score Improvement](#ability-score-improvement) | 5d6 |
+| 10 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 5d6 |
 | 11 | +4 | [Improved Cunning Strike](#level-11-improved-cunning-strike) | 6d6 |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | 6d6 |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 6d6 |
 | 13 | +5 | Subclass Feature | 7d6 |
 | 14 | +5 | [Devious Strikes](#level-14-devious-strikes) | 7d6 |
 | 15 | +5 | [Slippery Mind](#level-15-slippery-mind) | 8d6 |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | 8d6 |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 8d6 |
 | 17 | +6 | Subclass Feature | 9d6 |
 | 18 | +6 | [Elusive](#level-18-elusive) | 9d6 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | 10d6 |
@@ -6961,12 +7457,12 @@ You gain a Rogue subclass of your choice. The Arcane Trickster, Assassin, Soulkn
 
 | Name |
 | --- |
-| [Arcane Trickster](#arcane-trickster) |
-| [Assassin](#assassin) |
+| [Arcane Trickster](#arcane-trickster-1) |
+| [Assassin](#assassin-1) |
 | Phantom |
 | Scion of the Three |
-| [Soulknife](#soulknife) |
-| [Thief](#thief) |
+| [Soulknife](#soulknife-1) |
+| [Thief](#thief-1) |
 
 ###### Level 3: Steady Aim
 
@@ -6974,7 +7470,7 @@ As a Bonus Action, you give yourself Advantage on your next attack roll on your 
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
 ###### Level 5: Cunning Strike
 
@@ -7026,7 +7522,7 @@ You're so evasive that attackers rarely gain the upper hand against you. No atta
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of the Night Spirit](#boon-of-the-night-spirit) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of the Night Spirit](#boon-of-the-night-spirit-1) is recommended.
 
 ###### Level 20: Stroke of Luck
 
@@ -7036,6 +7532,16 @@ Once you use this feature, you can't use it again until you finish a Short or Lo
 
 #### Arcane Trickster
 
+### Arcane Trickster
+
+**Class:** rogue
+**Source URL:** http://dnd2024.wikidot.com/rogue:arcane-trickster
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Enhance Stealth with Arcane Spells*
 
 Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
@@ -7044,15 +7550,15 @@ Some Rogues enhance their fine-honed skills of stealth and agility with spells, 
 
 You have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.
 
-**Cantrips.** You know three cantrips: [Mage Hand](#mage-hand) and two other cantrips of your choice from the [Wizard spell list](#wizard-spell-list) (See that class's section for its list). [Mind Sliver](#mind-sliver) and [Minor Illusion](#minor-illusion) are recommended.
+**Cantrips.** You know three cantrips: [Mage Hand](#mage-hand-1) and two other cantrips of your choice from the [Wizard spell list](#wizard-spell-list-1) (See that class's section for its list). [Mind Sliver](#mind-sliver-1) and [Minor Illusion](#minor-illusion-1) are recommended.
 
-Whenever you gain a Rogue level, you can replace one of your cantrips, except [Mage Hand](#mage-hand), with another Wizard cantrip of your choice.
+Whenever you gain a Rogue level, you can replace one of your cantrips, except [Mage Hand](#mage-hand-1), with another Wizard cantrip of your choice.
 
 When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 **Spell Slots.** The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [Charm Person](#charm-person), [Disguise Self](#disguise-self) and [Fog Cloud](#fog-cloud) are recommended.
+**Prepared Spells of Level 1+.** You prepare a list of the level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [Charm Person](#charm-person-1), [Disguise Self](#disguise-self-1) and [Fog Cloud](#fog-cloud-1) are recommended.
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 
@@ -7087,7 +7593,7 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 ##### Level 3: Mage Hand Legerdemain
 
-When you cast [Mage Hand](#mage-hand), you can cast it as a Bonus Action, and you can make the spectral hand Invisible. You can control the hand as a Bonus Action, and through it, you can make Dexterity (Sleight of Hand) checks.
+When you cast [Mage Hand](#mage-hand-1), you can cast it as a Bonus Action, and you can make the spectral hand Invisible. You can control the hand as a Bonus Action, and through it, you can make Dexterity (Sleight of Hand) checks.
 
 ##### Level 9: Magical Ambush
 
@@ -7095,7 +7601,7 @@ If you have the Invisible condition when you cast a spell on a creature, it has 
 
 ##### Level 13: Versatile Trickster
 
-You gain the ability to distract targets with your [Mage Hand](#mage-hand). When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
+You gain the ability to distract targets with your [Mage Hand](#mage-hand-1). When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
 
 ##### Level 17: Spell Thief
 
@@ -7106,6 +7612,16 @@ Immediately after a creature casts a spell that targets you or includes you in i
 Once you steal a spell with this feature, you can't use this feature again until you finish a Long Rest.
 
 #### Assassin
+
+### Assassin
+
+**Class:** rogue
+**Source URL:** http://dnd2024.wikidot.com/rogue:assassin
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Practice the Grim Art of Death*
 
@@ -7140,6 +7656,16 @@ When you use the Poison option of your Cunning Strike, the target also takes 2d6
 When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus), or the attack's damage is doubled against the target.
 
 #### Soulknife
+
+### Soulknife
+
+**Class:** rogue
+**Source URL:** http://dnd2024.wikidot.com/rogue:soulknife
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Strike Foes with Psionic Blades*
 
@@ -7206,6 +7732,16 @@ Once you use this feature, you can't do so again until you finish a Long Rest un
 
 #### Thief
 
+### Thief
+
+**Class:** rogue
+**Source URL:** http://dnd2024.wikidot.com/rogue:thief
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Hunt for Treasure as a Classic Adventurer*
 
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
@@ -7248,6 +7784,15 @@ You are adept at laying ambushes and quickly escaping danger. You can take two t
 
 ### Sorcerer
 
+#### Sorcerer
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:main
+
+---
+
+Source: Player's Handbook
+
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby’s birth or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
 
 Sorcerers don’t learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.
@@ -7283,22 +7828,22 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 | Level | Proficiency Bonus | Features | Sorcery Points | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | [Spellcasting](#spellcasting-1), [Innate Sorcery](#level-1-innate-sorcery) | - | 4 | 2 | 2 | - | - | - | - | - | - | - | - |
-| 2 | +2 | [Font of Magic](#level-2-font-of-magic), [Metamagic](#metamagic) | 2 | 4 | 4 | 3 | - | - | - | - | - | - | - | - |
+| 2 | +2 | [Font of Magic](#level-2-font-of-magic), [Metamagic](#metamagic-1) | 2 | 4 | 4 | 3 | - | - | - | - | - | - | - | - |
 | 3 | +2 | [Sorcerer Subclass](#level-3-sorcerer-subclass) | 3 | 4 | 6 | 4 | 2 | - | - | - | - | - | - | - |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | 4 | 5 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 5 | 7 | 4 | 3 | - | - | - | - | - | - | - |
 | 5 | +3 | [Sorcerous Restoration](#level-5-sorcerous-restoration) | 5 | 5 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6 | +3 | Subclass feature | 6 | 5 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
 | 7 | +3 | [Sorcery Incarnate](#level-7-sorcery-incarnate) | 7 | 5 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | 8 | 5 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 8 | 5 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9 | +4 | - | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
-| 10 | +4 | [Metamagic](#metamagic) | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 10 | +4 | [Metamagic](#metamagic-1) | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11 | +4 | - | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13 | +5 | - | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14 | +5 | Subclass feature | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15 | +5 | - | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 17 | +6 | [Metamagic](#metamagic) | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | [Metamagic](#metamagic-1) | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18 | +6 | Subclass feature | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | [Arcane Apotheosis](#level-20-arcane-apotheosis) | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -7307,15 +7852,15 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ###### Level 1: Spellcasting
 
-Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](#sorcerer-spell-list) later in the class’s description.
+Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the [Sorcerer spell list](#sorcerer-spell-list-1) later in the class’s description.
 
-**Cantrips.** You know four Sorcerer cantrips of your choice. [Light](#light-1), [Prestidigitation](#prestidigitation), [Shocking Grasp](#shocking-grasp), and [Sorcerous Burst](#sorcerous-burst) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+**Cantrips.** You know four Sorcerer cantrips of your choice. [Light](#light-2), [Prestidigitation](#prestidigitation-1), [Shocking Grasp](#shocking-grasp-1), and [Sorcerous Burst](#sorcerous-burst-1) are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
 **Spell Slots.** The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](#burning-hands) and [Detect Magic](#detect-magic) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [Burning Hands](#burning-hands-1) and [Detect Magic](#detect-magic-1) are recommended.
 
 The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
@@ -7362,11 +7907,11 @@ Any spell slot you create with this feature vanishes when you finish a Long Rest
 
 ###### Level 2: Metamagic
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “[Metamagic Options](#metamagic)” later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “[Metamagic Options](#metamagic-1)” later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
-Whenever you gain a Sorcerer level, you can replace one of your [Metamagic](#metamagic) options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
+Whenever you gain a Sorcerer level, you can replace one of your [Metamagic](#metamagic-1) options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 
 ###### Level 3: Sorcerer Subclass
 
@@ -7376,16 +7921,16 @@ You gain a Sorcerer subclass of your choice. The Aberrant Sorcery, Clockwork Sor
 
 | Name |
 | --- |
-| [Aberrant Sorcery](#aberrant-sorcery) |
-| [Clockwork Sorcery](#clockwork-sorcery) |
-| [Draconic Sorcery](#draconic-sorcery) |
+| [Aberrant Sorcery](#aberrant-sorcery-1) |
+| [Clockwork Sorcery](#clockwork-sorcery-1) |
+| [Draconic Sorcery](#draconic-sorcery-1) |
 | Shadow Sorcery |
 | Spellfire Sorcery |
-| [Wild Magic Sorcery](#wild-magic-sorcery) |
+| [Wild Magic Sorcery](#wild-magic-sorcery-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
 
 ###### Level 5: Sorcerous Restoration
 
@@ -7395,212 +7940,225 @@ When you finish a Short Rest, you can regain expended Sorcery Points, but no mor
 
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
-In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic](#metamagic) options on each spell you cast.
+In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic](#metamagic-1) options on each spell you cast.
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Dimensional Travel](#boon-of-dimensional-travel-1) is recommended.
 
 ###### Level 20: Arcane Apotheosis
 
-While your Innate Sorcery feature is active, you can use one [Metamagic](#metamagic) option on each of your turns without spending Sorcery Points on it.
+While your Innate Sorcery feature is active, you can use one [Metamagic](#metamagic-1) option on each of your turns without spending Sorcery Points on it.
 
 #### Sorcerer Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Acid Splash](#acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Blade Ward](#blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Chill Touch](#chill-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Dancing Lights](#dancing-lights) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Elementalism](#elementalism) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Fire Bolt](#fire-bolt) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Friends](#friends) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
-| [Light](#light-1) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
-| [Mage Hand](#mage-hand) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
-| [Mending](#mending) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
-| [Message](#message) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
-| [Mind Sliver](#mind-sliver) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
-| [Minor Illusion](#minor-illusion) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
-| [Poison Spray](#poison-spray) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Prestidigitation](#prestidigitation) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
-| [Ray of Frost](#ray-of-frost) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Shocking Grasp](#shocking-grasp) | *Evocation* | Artificer, Sorcerer, Wizard | Action | Touch | V, S | Instantaneous |
-| [Sorcerous Burst](#sorcerous-burst) | *Evocation* | Sorcerer | Action | 120 feet | V, S | Instantaneous |
-| [Thunderclap](#thunderclap) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
-| [True Strike](#true-strike) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+#### Sorcerer Spell List
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Burning Hands](#burning-hands) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Acid Splash](#acid-splash-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Blade Ward](#blade-ward-1) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Chill Touch](#chill-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Dancing Lights](#dancing-lights-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Elementalism](#elementalism-1) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Fire Bolt](#fire-bolt-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Friends](#friends-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
+| [Light](#light-2) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
+| [Mage Hand](#mage-hand-1) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
+| [Mending](#mending-1) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
+| [Message](#message-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
+| [Mind Sliver](#mind-sliver-1) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
+| [Minor Illusion](#minor-illusion-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
+| [Poison Spray](#poison-spray-1) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Prestidigitation](#prestidigitation-1) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
+| [Ray of Frost](#ray-of-frost-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Shocking Grasp](#shocking-grasp-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | Touch | V, S | Instantaneous |
+| [Sorcerous Burst](#sorcerous-burst-1) | *Evocation* | Sorcerer | Action | 120 feet | V, S | Instantaneous |
+| [Thunderclap](#thunderclap-1) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+| [True Strike](#true-strike-1) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Burning Hands](#burning-hands-1) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
 | Buzzing Bee | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet. | V, S, M | *^C^*, up to 1 minute |
-| [Charm Person](#charm-person) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Chromatic Orb](#chromatic-orb) | *Evocation* | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
-| [Color Spray](#color-spray) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Comprehend Languages](#comprehend-languages) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Disguise Self](#disguise-self) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
-| [Expeditious Retreat](#expeditious-retreat) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
-| [False Life](#false-life) | *Necromancy* | Artificer, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Feather Fall](#feather-fall) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
-| [Fog Cloud](#fog-cloud) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
-| [Grease](#grease) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | 1 minute |
-| [Ice Knife](#ice-knife) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
-| [Jump](#jump) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
-| [Mage Armor](#mage-armor) | *Abjuration* | Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
-| [Magic Missile](#magic-missile) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Ray of Sickness](#ray-of-sickness) | *Necromancy* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Shield](#shield) | *Abjuration* | Sorcerer, Wizard | Reaction | Self | V, S | 1 round |
-| [Silent Image](#silent-image) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Sleep](#sleep) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Charm Person](#charm-person-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Chromatic Orb](#chromatic-orb-1) | *Evocation* | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
+| [Color Spray](#color-spray-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Comprehend Languages](#comprehend-languages-1) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Disguise Self](#disguise-self-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
+| [Expeditious Retreat](#expeditious-retreat-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
+| [False Life](#false-life-1) | *Necromancy* | Artificer, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Feather Fall](#feather-fall-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
+| [Fog Cloud](#fog-cloud-1) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
+| [Grease](#grease-1) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | 1 minute |
+| [Ice Knife](#ice-knife-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
+| [Jump](#jump-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
+| [Mage Armor](#mage-armor-1) | *Abjuration* | Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Magic Missile](#magic-missile-1) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Ray of Sickness](#ray-of-sickness-1) | *Necromancy* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Shield](#shield-1) | *Abjuration* | Sorcerer, Wizard | Reaction | Self | V, S | 1 round |
+| [Silent Image](#silent-image-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Sleep](#sleep-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
 | Spellfire Flare | *Evocation* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Thunderwave](#thunderwave) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Witch Bolt](#witch-bolt) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Thunderwave](#thunderwave-1) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Witch Bolt](#witch-bolt-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alter Self](#alter-self) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 1 hour |
-| [Arcane Vigor](#arcane-vigor) | *Abjuration* | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
-| [Blindness/Deafness](#blindnessdeafness) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
-| [Blur](#blur) | *Illusion* | Artificer, Sorcerer, Wizard | Action | Self | V | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#cloud-of-daggers) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#crown-of-madness) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Darkness](#darkness) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
-| [Darkvision](#darkvision) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Alter Self](#alter-self-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 1 hour |
+| [Arcane Vigor](#arcane-vigor-1) | *Abjuration* | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
+| [Blindness/Deafness](#blindnessdeafness-1) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
+| [Blur](#blur-1) | *Illusion* | Artificer, Sorcerer, Wizard | Action | Self | V | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#cloud-of-daggers-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#crown-of-madness-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Darkness](#darkness-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
+| [Darkvision](#darkvision-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
 | Death Armor | *Necromancy* | Sorcerer, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
-| [Detect Thoughts](#detect-thoughts) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Dragon's Breath](#dragons-breath) | *Transmutation* | Artificer, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | *^C^*, up to 1 minute |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Enlarge/Reduce](#enlargereduce) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Flame Blade](#flame-blade) | *Evocation* | Druid, Sorcerer | Bonus Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Flaming Sphere](#flaming-sphere) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Gust of Wind](#gust-of-wind) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Invisibility](#invisibility) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Knock](#knock) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
-| [Levitate](#levitate) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Magic Weapon](#magic-weapon) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
-| [Mind Spike](#mind-spike) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
-| [Mirror Image](#mirror-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
-| [Misty Step](#misty-step) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
-| [Phantasmal Force](#phantasmal-force) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Scorching Ray](#scorching-ray) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [See Invisibility](#see-invisibility) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
-| [Shatter](#shatter) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Spider Climb](#spider-climb) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Suggestion](#suggestion) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
-| [Web](#web) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Detect Thoughts](#detect-thoughts-1) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Dragon's Breath](#dragons-breath-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | *^C^*, up to 1 minute |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Enlarge/Reduce](#enlargereduce-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Flame Blade](#flame-blade-1) | *Evocation* | Druid, Sorcerer | Bonus Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Flaming Sphere](#flaming-sphere-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Gust of Wind](#gust-of-wind-1) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Invisibility](#invisibility-1) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Knock](#knock-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
+| [Levitate](#levitate-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Weapon](#magic-weapon-1) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
+| [Mind Spike](#mind-spike-1) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
+| [Mirror Image](#mirror-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
+| [Misty Step](#misty-step-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
+| [Phantasmal Force](#phantasmal-force-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Scorching Ray](#scorching-ray-1) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [See Invisibility](#see-invisibility-1) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
+| [Shatter](#shatter-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Spider Climb](#spider-climb-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Suggestion](#suggestion-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
+| [Web](#web-1) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astral Flood | *Evocation* | Bard, Cleric, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Blink](#blink) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | 1 minute |
+| [Blink](#blink-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | 1 minute |
 | Cacophonic Shield | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Clairvoyance](#clairvoyance) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
-| [Counterspell](#counterspell) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
-| [Daylight](#daylight) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Fear](#fear) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Fireball](#fireball) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Fly](#fly) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
-| [Gaseous Form](#gaseous-form) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Haste](#haste) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hypnotic Pattern](#hypnotic-pattern) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
+| [Clairvoyance](#clairvoyance-1) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Counterspell](#counterspell-1) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
+| [Daylight](#daylight-1) | *Evocation* | Cleric, Druid, Paladin, Ranger, Sorcerer | Action | 60 feet | V, S | 1 hour |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Fear](#fear-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Fireball](#fireball-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Fly](#fly-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
+| [Gaseous Form](#gaseous-form-1) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Haste](#haste-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Hypnotic Pattern](#hypnotic-pattern-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
 | Laeral's Silver Lance | *Evocation* | Cleric, Sorcerer, Wizard | Action | Self | V, S, M(C) | Instantaneous |
-| [Lightning Bolt](#lightning-bolt) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Major Image](#major-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Protection from Energy](#protection-from-energy) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Sleet Storm](#sleet-storm) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Slow](#slow) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Stinking Cloud](#stinking-cloud) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Tongues](#tongues) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
-| [Vampiric Touch](#vampiric-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Water Breathing](#water-breathing) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
-| [Water Walk](#water-walk) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Lightning Bolt](#lightning-bolt-1) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Major Image](#major-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Protection from Energy](#protection-from-energy-1) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Sleet Storm](#sleet-storm-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Slow](#slow-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Stinking Cloud](#stinking-cloud-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Tongues](#tongues-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
+| [Vampiric Touch](#vampiric-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Water Breathing](#water-breathing-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
+| [Water Walk](#water-walk-1) | *Transmutation* | Artificer, Cleric, Druid, Ranger, Sorcerer | Action or *^R^* | 30 feet | V, S, M | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Reaction | 60 feet | V | Instantaneous |
-| [Banishment](#banishment) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Blight](#blight) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Charm Monster](#charm-monster) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Confusion](#confusion) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Dimension Door](#dimension-door) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
-| [Dominate Beast](#dominate-beast) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Fire Shield](#fire-shield) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
-| [Greater Invisibility](#greater-invisibility) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Ice Storm](#ice-storm) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
-| [Polymorph](#polymorph) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Banishment](#banishment-1) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Blight](#blight-1) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Charm Monster](#charm-monster-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Confusion](#confusion-1) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Dimension Door](#dimension-door-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
+| [Dominate Beast](#dominate-beast-1) | *Enchantment* | Druid, Ranger, Sorcerer | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Fire Shield](#fire-shield-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
+| [Greater Invisibility](#greater-invisibility-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Ice Storm](#ice-storm-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
+| [Polymorph](#polymorph-1) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 | Spellfire Storm | *Evocation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Stoneskin](#stoneskin) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Vitriolic Sphere](#vitriolic-sphere) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Wall of Fire](#wall-of-fire) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Stoneskin](#stoneskin-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Vitriolic Sphere](#vitriolic-sphere-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Wall of Fire](#wall-of-fire-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animate Objects](#animate-objects) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Bigby's Hand](#bigbys-hand) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Cloudkill](#cloudkill) | *Conjuration* | Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Cone Of Cold](#cone-of-cold) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Creation](#creation) | *Illusion* | Artificer, Sorcerer, Wizard | 1 minute | 30 feet | V, S, M | Special |
-| [Dominate Person](#dominate-person) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Hold Monster](#hold-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Insect Plague](#insect-plague) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Seeming](#seeming) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
+| [Animate Objects](#animate-objects-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Bigby's Hand](#bigbys-hand-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Cloudkill](#cloudkill-1) | *Conjuration* | Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Cone Of Cold](#cone-of-cold-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Creation](#creation-1) | *Illusion* | Artificer, Sorcerer, Wizard | 1 minute | 30 feet | V, S, M | Special |
+| [Dominate Person](#dominate-person-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Hold Monster](#hold-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Insect Plague](#insect-plague-1) | *Conjuration* | Cleric, Druid, Sorcerer | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Seeming](#seeming-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
 | Songal's Elemental Suffusion | *Transmutation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Synaptic Static](#synaptic-static) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Telekinesis](#telekinesis) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Teleportation Circle](#teleportation-circle) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
-| [Wall of Stone](#wall-of-stone) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Synaptic Static](#synaptic-static-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Telekinesis](#telekinesis-1) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Teleportation Circle](#teleportation-circle-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
+| [Wall of Stone](#wall-of-stone-1) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Gate](#arcane-gate) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
-| [Chain Lightning](#chain-lightning) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Circle Of Death](#circle-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
-| [Disintegrate](#disintegrate) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Arcane Gate](#arcane-gate-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
+| [Chain Lightning](#chain-lightning-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Circle Of Death](#circle-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
+| [Disintegrate](#disintegrate-1) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
 | Elminster's Effulgent Spheres | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | 1 hour |
-| [Eyebite](#eyebite) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Flesh to Stone](#flesh-to-stone) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Globe of Invulnerability](#globe-of-invulnerability) | *Abjuration* | Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Eyebite](#eyebite-1) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Flesh to Stone](#flesh-to-stone-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Globe of Invulnerability](#globe-of-invulnerability-1) | *Abjuration* | Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
 | Leomund's Lamentable Belaborment | *Enchantment* | Bard, Sorcerer, Wizard | Action | 30 feet | V | 1 Minute |
-| [Mass Suggestion](#mass-suggestion) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
-| [Move Earth](#move-earth) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
-| [Otiluke's Freezing Sphere](#otilukes-freezing-sphere) | *Evocation* | Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
-| [Sunbeam](#sunbeam) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [True Seeing](#true-seeing) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+| [Mass Suggestion](#mass-suggestion-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
+| [Move Earth](#move-earth-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
+| [Otiluke's Freezing Sphere](#otilukes-freezing-sphere-1) | *Evocation* | Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
+| [Sunbeam](#sunbeam-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [True Seeing](#true-seeing-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Delayed Blast Fireball](#delayed-blast-fireball) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Etherealness](#etherealness) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
-| [Finger of Death](#finger-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Fire Storm](#fire-storm) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
-| [Plane Shift](#plane-shift) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
-| [Prismatic Spray](#prismatic-spray) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Reverse Gravity](#reverse-gravity) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
+| [Delayed Blast Fireball](#delayed-blast-fireball-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Etherealness](#etherealness-1) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
+| [Finger of Death](#finger-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Fire Storm](#fire-storm-1) | *Evocation* | Cleric, Druid, Sorcerer | Action | 150 feet | V, S | Instantaneous |
+| [Plane Shift](#plane-shift-1) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
+| [Prismatic Spray](#prismatic-spray-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Reverse Gravity](#reverse-gravity-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
 | Simbul's Synostodweomer | *Transmutation* | Sorcerer, Wizard | Action | Touch | V, S | 1 hour |
-| [Teleport](#teleport) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
+| [Teleport](#teleport-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Demiplane](#demiplane) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
-| [Dominate Monster](#dominate-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
-| [Earthquake](#earthquake) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
-| [Incendiary Cloud](#incendiary-cloud) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
-| [Power Word Stun](#power-word-stun) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [Sunburst](#sunburst) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Demiplane](#demiplane-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
+| [Dominate Monster](#dominate-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
+| [Earthquake](#earthquake-1) | *Transmutation* | Cleric, Druid, Sorcerer | Action | 500 feet | V, S, M | *^C^*, up to 1 minute |
+| [Incendiary Cloud](#incendiary-cloud-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
+| [Power Word Stun](#power-word-stun-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Sunburst](#sunburst-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Blade Of Disaster | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Gate](#gate) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Meteor Swarm](#meteor-swarm) | *Evocation* | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
-| [Power Word Kill](#power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [Time Stop](#time-stop) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
-| [Wish](#wish) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
+| [Gate](#gate-1) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Meteor Swarm](#meteor-swarm-1) | *Evocation* | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
+| [Power Word Kill](#power-word-kill-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Time Stop](#time-stop-1) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
+| [Wish](#wish-1) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
 
 #### Metamagic
+
+#### Metamagic
+
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:metamagic
+
+---
 
 The following options are available to your Metamagic feature. The options are presented in alphabetical order.
 
@@ -7688,9 +8246,19 @@ Source: Player's Handbook
 
 Cost: 1 Sorcery Point
 
-When you cast a spell, such as [Charm Person](#charm-person), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
+When you cast a spell, such as [Charm Person](#charm-person-1), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.
 
 #### Aberrant Sorcery
+
+### Aberrant Sorcery
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:aberrant-sorcery
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Wield Unnatural Psionic Power*
 
@@ -7706,10 +8274,10 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 | Sorcerer Level | Spells |
 | --- | --- |
-| 3 | [Arms of Hadar](#arms-of-hadar), [Calm Emotions](#calm-emotions), [Detect Thoughts](#detect-thoughts), [Dissonant Whispers](#dissonant-whispers), [Mind Sliver](#mind-sliver) |
-| 5 | [Hunger of Hadar](#hunger-of-hadar), [Sending](#sending) |
-| 7 | [Evard's Black Tentacles](#evards-black-tentacles), [Summon Aberration](#summon-aberration) |
-| 9 | [Rary's Telepathic Bond](#rarys-telepathic-bond), [Telekinesis](#telekinesis) |
+| 3 | [Arms of Hadar](#arms-of-hadar-1), [Calm Emotions](#calm-emotions-1), [Detect Thoughts](#detect-thoughts-1), [Dissonant Whispers](#dissonant-whispers-1), [Mind Sliver](#mind-sliver-1) |
+| 5 | [Hunger of Hadar](#hunger-of-hadar-1), [Sending](#sending-1) |
+| 7 | [Evard's Black Tentacles](#evards-black-tentacles-1), [Summon Aberration](#summon-aberration-1) |
+| 9 | [Rary's Telepathic Bond](#rarys-telepathic-bond-1), [Telekinesis](#telekinesis-1) |
 
 ##### Level 3: Telepathic Speech
 
@@ -7745,6 +8313,16 @@ Once you use this feature, you can’t do so again until you finish a Long Rest 
 
 #### Clockwork Sorcery
 
+### Clockwork Sorcery
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:clockwork-sorcery
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Channel Cosmic Forces of Order*
 
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it’s part of a vast and glorious system.
@@ -7757,10 +8335,10 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 
 | Sorcerer Level | Spells |
 | --- | --- |
-| 3 | [Aid](#aid), [Alarm](#alarm), [Lesser Restoration](#lesser-restoration), [Protection from Evil and Good](#protection-from-evil-and-good) |
-| 5 | [Dispel Magic](#dispel-magic), [Protection from Energy](#protection-from-energy) |
-| 7 | [Freedom of Movement](#freedom-of-movement), [Summon Construct](#summon-construct) |
-| 9 | [Greater Restoration](#greater-restoration), [Wall of Force](#wall-of-force) |
+| 3 | [Aid](#aid-1), [Alarm](#alarm-1), [Lesser Restoration](#lesser-restoration-1), [Protection from Evil and Good](#protection-from-evil-and-good-1) |
+| 5 | [Dispel Magic](#dispel-magic-1), [Protection from Energy](#protection-from-energy-1) |
+| 7 | [Freedom of Movement](#freedom-of-movement-1), [Summon Construct](#summon-construct-1) |
+| 9 | [Greater Restoration](#greater-restoration-1), [Wall of Force](#wall-of-force-1) |
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
 
@@ -7805,6 +8383,16 @@ You momentarily summon spirits of order to expunge disorder around you. As a Mag
 
 #### Draconic Sorcery
 
+### Draconic Sorcery
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:draconic-sorcery
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Breathe the Magic of Dragons*
 
 Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
@@ -7823,10 +8411,10 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 | --- | --- |
-| 3 | [Alter Self](#alter-self), [Chromatic Orb](#chromatic-orb), [Command](#command), [Dragon's Breath](#dragons-breath) |
-| 5 | [Fear](#fear), [Fly](#fly) |
-| 7 | [Arcane Eye](#arcane-eye), [Charm Monster](#charm-monster) |
-| 9 | [Legend Lore](#legend-lore), [Summon Dragon](#summon-dragon) |
+| 3 | [Alter Self](#alter-self-1), [Chromatic Orb](#chromatic-orb-1), [Command](#command-1), [Dragon's Breath](#dragons-breath-1) |
+| 5 | [Fear](#fear-1), [Fly](#fly-1) |
+| 7 | [Arcane Eye](#arcane-eye-1), [Charm Monster](#charm-monster-1) |
+| 9 | [Legend Lore](#legend-lore-1), [Summon Dragon](#summon-dragon-1) |
 
 ##### Level 6: Elemental Affinity
 
@@ -7842,11 +8430,21 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 ##### Level 18: Dragon Companion
 
-You can cast [Summon Dragon](#summon-dragon) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
+You can cast [Summon Dragon](#summon-dragon-1) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a Long Rest.
 
 Whenever you start casting the spell, you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting.
 
 #### Wild Magic Sorcery
+
+### Wild Magic Sorcery
+
+**Class:** sorcerer
+**Source URL:** http://dnd2024.wikidot.com/sorcerer:wild-magic-sorcery
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Unleash Chaotic Magic*
 
@@ -7886,7 +8484,7 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 | 05-08 | A creature that is Friendly toward you appears in a random unoccupied space within 60 feet of you. The creature is under the DM’s control and disappears 1 minute later. Roll 1d4 to determine the creature: on a 1, a Modron Duodrone appears; on a 2, a Flumph appears; on a 3, a Modron Monodrone appears; on a 4, a Unicorn appears. See the Monster Manual for the creature’s stat block. |
 | 09-12 | For the next minute, you regain 5 Hit Points at the start of each of your turns. |
 | 13-16 | Creatures have Disadvantage on saving throws against the next spell you cast in the next minute that involves a saving throw. |
-| 17-20 | You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a 1, you’re surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within 10 feet of you; on a 6, an eye appears on your forehead, granting you Advantage on Wisdom (Perception) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a [Remove Curse](#remove-curse) spell. |
+| 17-20 | You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a 1, you’re surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within 10 feet of you; on a 6, an eye appears on your forehead, granting you Advantage on Wisdom (Perception) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a [Remove Curse](#remove-curse-1) spell. |
 | 21-24 | For the next minute, all your spells with a casting time of an action have a casting time of a Bonus Action. |
 | 25-28 | You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 29-32 | The next time you cast a spell that deals damage within the next minute, don’t roll the spell’s damage dice for the damage. Instead use the highest number possible for each damage die. |
@@ -7894,11 +8492,11 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 | 37-40 | You turn into a potted plant until the start of your next turn. While you’re a plant, you have the Incapacitated condition and have Vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
 | 41-44 | For the next minute, you can teleport up to 20 feet as a Bonus Action on each of your turns. |
 | 45-48 | You and up to three creatures you choose within 30 feet of you have the Invisible condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell. |
-| 49-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to [Magic Missile](#magic-missile). |
+| 49-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to [Magic Missile](#magic-missile-1). |
 | 53-56 | You can take one extra action on this turn. |
-| 57-60 | You cast a random spell. If the spell normally requires Concentration, it doesn’t require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a 1, [Confusion](#confusion); on a 2, [Fireball](#fireball); on a 3, [Fog Cloud](#fog-cloud); on a 4, [Fly](#fly) (cast on a random creature within 60 feet of you), on a 5, [Grease](#grease); on a 6, [Levitate](#levitate) (cast on yourself); on a 7, [Magic Missile](#magic-missile) (cast as a level 5 spell); on an 8, [Mirror Image](#mirror-image); on a 9, [Polymorph](#polymorph) (cast on yourself), and if you fail the saving throw, you turn into a Goat (see appendix B); on a 10, [See Invisibility](#see-invisibility). |
+| 57-60 | You cast a random spell. If the spell normally requires Concentration, it doesn’t require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a 1, [Confusion](#confusion-1); on a 2, [Fireball](#fireball-1); on a 3, [Fog Cloud](#fog-cloud-1); on a 4, [Fly](#fly-1) (cast on a random creature within 60 feet of you), on a 5, [Grease](#grease-1); on a 6, [Levitate](#levitate-1) (cast on yourself); on a 7, [Magic Missile](#magic-missile-1) (cast as a level 5 spell); on an 8, [Mirror Image](#mirror-image-1); on a 9, [Polymorph](#polymorph-1) (cast on yourself), and if you fail the saving throw, you turn into a Goat (see appendix B); on a 10, [See Invisibility](#see-invisibility-1). |
 | 61-64 | For the next minute, any flammable, nonmagical object you touch that isn’t being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is burning. |
-| 65-68 | If you die within the next hour, you immediately revive as if by the [Reincarnate](#reincarnate) spell. |
+| 65-68 | If you die within the next hour, you immediately revive as if by the [Reincarnate](#reincarnate-1) spell. |
 | 69-72 | You have the Frightened condition until the end of your next turn. The DM determines the source of your fear. |
 | 73-76 | You teleport up to 60 feet to an unoccupied space you can see. |
 | 77-80 | A random creature within 60 feet of you has the Poisoned condition for 1d4 hours. |
@@ -7909,6 +8507,15 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 | 97-00 | Roll 1d6: On a 1, you regain 2d10 Hit Points; on a 2, one ally of your choice within 300 feet of you regains 2d10 Hit Points; on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17–20 affect you simultaneously. |
 
 ### Warlock
+
+#### Warlock
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:main
+
+---
+
+Source: Player's Handbook
 
 Warlocks quest for knowledge that lies hidden in the fabric of the multiverse. They often begin their search for magical power by delving into tomes of forbidden lore, dabbling in invocations meant to attract the power of extraplanar beings, or seeking places of power where the influence of these beings can be felt. In no time, each Warlock is drawn into a binding pact with a powerful patron. Drawing on the ancient knowledge of beings such as angels, archfey, demons, devils, hags, and alien entities of the Far Realm, Warlocks piece together arcane secrets to bolster their own power.
 
@@ -7947,19 +8554,19 @@ Once a pact is made, a Warlock’s thirst for knowledge and power can’t be sla
 | 1 | +2 | [Eldritch Invocations](#level-1-eldritch-invocations), [Pact Magic](#level-1-pact-magic) |
 | 2 | +2 | [Magical Cunning](#level-2-magical-cunning) |
 | 3 | +2 | [Warlock Subclass](#level-3-warlock-subclass) |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 5 | +3 | - |
 | 6 | +3 | Subclass Feature |
 | 7 | +3 | - |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 9 | +4 | [Contact Patron](#level-9-contact-patron) |
 | 10 | +4 | Subclass Feature |
 | 11 | +4 | [Mystic Arcanum (Level 6 Spell)](#level-11-mystic-arcanum) |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 13 | +5 | [Mystic Arcanum (Level 7 Spell)](#level-11-mystic-arcanum) |
 | 14 | +5 | Subclass Feature |
 | 15 | +5 | [Mystic Arcanum (Level 8 Spell)](#level-11-mystic-arcanum) |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) |
 | 17 | +6 | [Mystic Arcanum (Level 9 Spell)](#level-11-mystic-arcanum) |
 | 18 | +6 | - |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) |
@@ -7994,7 +8601,7 @@ As a Warlock, you gain the following class features when you reach the specified
 
 ###### Level 1: Eldritch Invocations
 
-You have unearthed [Eldritch Invocations](#eldritch-invocation), pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the “Eldritch Invocation Options” section later in this class’s description.
+You have unearthed [Eldritch Invocations](#eldritch-invocation-1), pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the “Eldritch Invocation Options” section later in this class’s description.
 
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -8006,17 +8613,17 @@ You can’t pick the same invocation more than once unless its description says 
 
 ###### Level 1: Pact Magic
 
-Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](#warlock-spell-list) later in the class’s description.
+Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the [Warlock spell list](#warlock-spell-list-1) later in the class’s description.
 
-**Cantrips.** You know two Warlock cantrips of your choice. [Eldritch Blast](#eldritch-blast) and [Prestidigitation](#prestidigitation) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+**Cantrips.** You know two Warlock cantrips of your choice. [Eldritch Blast](#eldritch-blast-1) and [Prestidigitation](#prestidigitation-1) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
 When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
 **Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.
 
-For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](#witch-bolt), you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](#witch-bolt-1), you must spend one of those slots, and you cast it as a level 3 spell.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](#charm-person) and [Hex](#hex) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](#charm-person-1) and [Hex](#hex-1) are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
@@ -8040,19 +8647,19 @@ You gain a Warlock subclass of your choice. The Archfey Patron, Celestial Patron
 
 | Name |
 | --- |
-| [Archfey Patron](#archfey-patron) |
-| [Celestial Patron](#celestial-patron) |
-| [Fiend Patron](#fiend-patron) |
-| [Great Old One Patron](#great-old-one-patron) |
+| [Archfey Patron](#archfey-patron-1) |
+| [Celestial Patron](#celestial-patron-1) |
+| [Fiend Patron](#fiend-patron-1) |
+| [Great Old One Patron](#great-old-one-patron-1) |
 | Undead Patron |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ###### Level 9: Contact Patron
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](#contact-other-plane) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](#contact-other-plane-1) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell’s saving throw.
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest.
 
@@ -8068,7 +8675,7 @@ Whenever you gain a Warlock level, you can replace one of your arcanum spells wi
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Fate](#boon-of-fate) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Fate](#boon-of-fate-1) is recommended.
 
 ###### Level 20: Eldritch Master
 
@@ -8076,132 +8683,147 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 
 #### Warlock Spell List
 
-| Name | School | Spell lists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Blade Ward](#blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Chill Touch](#chill-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Eldritch Blast](#eldritch-blast) | *Evocation* | Warlock | Action | 120 feet | V, S | Instantaneous |
-| [Friends](#friends) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
-| [Mage Hand](#mage-hand) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
-| [Mind Sliver](#mind-sliver) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
-| [Minor Illusion](#minor-illusion) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
-| [Poison Spray](#poison-spray) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Prestidigitation](#prestidigitation) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
-| [Thunderclap](#thunderclap) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
-| [Toll the Dead](#toll-the-dead) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [True Strike](#true-strike) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+#### Warlock Spell List
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:spell-list
+
+---
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Armor of Agathys](#armor-of-agathys) | *Abjuration* | Warlock | Bonus Action | Self | V, S, M | 1 hour |
-| [Arms of Hadar](#arms-of-hadar) | *Conjuration* | Warlock | Action | Self | V, S | Instantaneous |
-| [Bane](#bane) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Charm Person](#charm-person) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Comprehend Languages](#comprehend-languages) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Expeditious Retreat](#expeditious-retreat) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
-| [Hellish Rebuke](#hellish-rebuke) | *Evocation* | Warlock | Reaction(*) | 60 feet | V, S | Instantaneous |
-| [Hex](#hex) | *Enchantment* | Warlock | Bonus Action | 90 feet | V, S, M | *^C^*, up to 1 hour |
-| [Illusory Script](#illusory-script) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
-| [Protection from Evil and Good](#protection-from-evil-and-good) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Speak with Animals](#speak-with-animals) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
-| [Tasha's Hideous Laughter](#tashas-hideous-laughter) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Unseen Servant](#unseen-servant) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
-| [Witch Bolt](#witch-bolt) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Blade Ward](#blade-ward-1) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Chill Touch](#chill-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Eldritch Blast](#eldritch-blast-1) | *Evocation* | Warlock | Action | 120 feet | V, S | Instantaneous |
+| [Friends](#friends-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
+| [Mage Hand](#mage-hand-1) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
+| [Mind Sliver](#mind-sliver-1) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
+| [Minor Illusion](#minor-illusion-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
+| [Poison Spray](#poison-spray-1) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Prestidigitation](#prestidigitation-1) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
+| [Thunderclap](#thunderclap-1) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+| [Toll the Dead](#toll-the-dead-1) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [True Strike](#true-strike-1) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Cloud Of Daggers](#cloud-of-daggers) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Crown Of Madness](#crown-of-madness) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Darkness](#darkness) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
-| [Enthrall](#enthrall) | *Enchantment* | Bard, Warlock | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Invisibility](#invisibility) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Mind Spike](#mind-spike) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
-| [Mirror Image](#mirror-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
-| [Misty Step](#misty-step) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
-| [Ray of Enfeeblement](#ray-of-enfeeblement) | *Necromancy* | Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Spider Climb](#spider-climb) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Suggestion](#suggestion) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
+| [Armor of Agathys](#armor-of-agathys-1) | *Abjuration* | Warlock | Bonus Action | Self | V, S, M | 1 hour |
+| [Arms of Hadar](#arms-of-hadar-1) | *Conjuration* | Warlock | Action | Self | V, S | Instantaneous |
+| [Bane](#bane-1) | *Enchantment* | Bard, Cleric, Warlock | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Charm Person](#charm-person-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Comprehend Languages](#comprehend-languages-1) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Expeditious Retreat](#expeditious-retreat-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
+| [Hellish Rebuke](#hellish-rebuke-1) | *Evocation* | Warlock | Reaction(*) | 60 feet | V, S | Instantaneous |
+| [Hex](#hex-1) | *Enchantment* | Warlock | Bonus Action | 90 feet | V, S, M | *^C^*, up to 1 hour |
+| [Illusory Script](#illusory-script-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
+| [Protection from Evil and Good](#protection-from-evil-and-good-1) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Speak with Animals](#speak-with-animals-1) | *Divination* | Bard, Druid, Ranger, Warlock | Action or *^R^* | Self | V, S | 10 minutes |
+| [Tasha's Hideous Laughter](#tashas-hideous-laughter-1) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Unseen Servant](#unseen-servant-1) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
+| [Witch Bolt](#witch-bolt-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Counterspell](#counterspell) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Fear](#fear) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Fly](#fly) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
-| [Gaseous Form](#gaseous-form) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Hunger of Hadar](#hunger-of-hadar) | *Conjuration* | Warlock | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hypnotic Pattern](#hypnotic-pattern) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
-| [Magic Circle](#magic-circle) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
-| [Major Image](#major-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Remove Curse](#remove-curse) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Summon Fey](#summon-fey) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Undead](#summon-undead) | *Necromancy* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Tongues](#tongues) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
-| [Vampiric Touch](#vampiric-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#cloud-of-daggers-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Crown Of Madness](#crown-of-madness-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Darkness](#darkness-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
+| [Enthrall](#enthrall-1) | *Enchantment* | Bard, Warlock | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Invisibility](#invisibility-1) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Mind Spike](#mind-spike-1) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
+| [Mirror Image](#mirror-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
+| [Misty Step](#misty-step-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
+| [Ray of Enfeeblement](#ray-of-enfeeblement-1) | *Necromancy* | Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Spider Climb](#spider-climb-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Suggestion](#suggestion-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
+
+| Name | School | Spell lists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Counterspell](#counterspell-1) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Fear](#fear-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Fly](#fly-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
+| [Gaseous Form](#gaseous-form-1) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Hunger of Hadar](#hunger-of-hadar-1) | *Conjuration* | Warlock | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Hypnotic Pattern](#hypnotic-pattern-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
+| [Magic Circle](#magic-circle-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
+| [Major Image](#major-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Remove Curse](#remove-curse-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Summon Fey](#summon-fey-1) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Undead](#summon-undead-1) | *Necromancy* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Tongues](#tongues-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
+| [Vampiric Touch](#vampiric-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Backlash | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Reaction | 60 feet | V | Instantaneous |
-| [Banishment](#banishment) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Blight](#blight) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Charm Monster](#charm-monster) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Dimension Door](#dimension-door) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
+| [Banishment](#banishment-1) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Blight](#blight-1) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Charm Monster](#charm-monster-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Dimension Door](#dimension-door-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
 | Doomtide | *Conjuration* | Bard, Cleric, Warlock | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hallucinatory Terrain](#hallucinatory-terrain) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
-| [Summon Aberration](#summon-aberration) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Hallucinatory Terrain](#hallucinatory-terrain-1) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
+| [Summon Aberration](#summon-aberration-1) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Contact Other Plane](#contact-other-plane) | *Divination* | Warlock, Wizard | 1 minute or *^R^* | Self | V | 1 minute |
-| [Dream](#dream) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
-| [Hold Monster](#hold-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Jallarzi's Storm of Radiance](#jallarzis-storm-of-radiance) | *Evocation* | Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Mislead](#mislead) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
-| [Planar Binding](#planar-binding) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-| [Scrying](#scrying) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Synaptic Static](#synaptic-static) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Teleportation Circle](#teleportation-circle) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
+| [Contact Other Plane](#contact-other-plane-1) | *Divination* | Warlock, Wizard | 1 minute or *^R^* | Self | V | 1 minute |
+| [Dream](#dream-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
+| [Hold Monster](#hold-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Jallarzi's Storm of Radiance](#jallarzis-storm-of-radiance-1) | *Evocation* | Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Mislead](#mislead-1) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
+| [Planar Binding](#planar-binding-1) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
+| [Scrying](#scrying-1) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Synaptic Static](#synaptic-static-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Teleportation Circle](#teleportation-circle-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Gate](#arcane-gate) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
-| [Circle Of Death](#circle-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
-| [Create Undead](#create-undead) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
-| [Eyebite](#eyebite) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Summon Fiend](#summon-fiend) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Tasha's Bubbling Cauldron](#tashas-bubbling-cauldron) | *Conjuration* | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
-| [True Seeing](#true-seeing) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+| [Arcane Gate](#arcane-gate-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
+| [Circle Of Death](#circle-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
+| [Create Undead](#create-undead-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
+| [Eyebite](#eyebite-1) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Summon Fiend](#summon-fiend-1) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Tasha's Bubbling Cauldron](#tashas-bubbling-cauldron-1) | *Conjuration* | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
+| [True Seeing](#true-seeing-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Etherealness](#etherealness) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
-| [Finger of Death](#finger-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Forcecage](#forcecage) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Plane Shift](#plane-shift) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
+| [Etherealness](#etherealness-1) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
+| [Finger of Death](#finger-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Forcecage](#forcecage-1) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Plane Shift](#plane-shift-1) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
 | Void Star | *Necromancy* | Warlock, Wizard | Action | 120 feet | V, S, M | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Befuddlement](#befuddlement) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
-| [Demiplane](#demiplane) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
-| [Dominate Monster](#dominate-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
-| [Glibness](#glibness) | *Enchantment* | Bard, Warlock | Action | Self | V | 1 hour |
-| [Power Word Stun](#power-word-stun) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Befuddlement](#befuddlement-1) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
+| [Demiplane](#demiplane-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
+| [Dominate Monster](#dominate-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
+| [Glibness](#glibness-1) | *Enchantment* | Bard, Warlock | Action | Self | V | 1 hour |
+| [Power Word Stun](#power-word-stun-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
 
 | Name | School | Spell lists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Astral Projection](#astral-projection) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
+| [Astral Projection](#astral-projection-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
 | Blade Of Disaster | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Foresight](#foresight) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-| [Gate](#gate) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Imprisonment](#imprisonment) | *Abjuration* | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
-| [Power Word Kill](#power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [True Polymorph](#true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
-| [Weird](#weird) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Foresight](#foresight-1) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
+| [Gate](#gate-1) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Imprisonment](#imprisonment-1) | *Abjuration* | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
+| [Power Word Kill](#power-word-kill-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [True Polymorph](#true-polymorph-1) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
+| [Weird](#weird-1) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
 
 #### Eldritch Invocation
+
+#### Eldritch Invocation
+
+**Source URL:** http://dnd2024.wikidot.com/warlock:eldritch-invocation
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 
@@ -8213,7 +8835,7 @@ Choose one of your known Warlock cantrips that deals damage. You can add your Ch
 
 Source: Player's Handbook
 
-You can cast [Mage Armor](#mage-armor) on yourself without expending a spell slot.
+You can cast [Mage Armor](#mage-armor-1) on yourself without expending a spell slot.
 
 ###### Ascendant Step
 
@@ -8221,7 +8843,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 5+ Warlock*
 
-You can cast [Levitate](#levitate) on yourself without expending a spell slot.
+You can cast [Levitate](#levitate-1) on yourself without expending a spell slot.
 
 ###### Devil’s Sight
 
@@ -8269,7 +8891,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock*
 
-You can cast [False Life](#false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
+You can cast [False Life](#false-life-1) on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.
 
 ###### Gaze of Two Minds
 
@@ -8289,7 +8911,7 @@ Source: Player's Handbook
 
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
 
-You can also cast [Water Breathing](#water-breathing) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can also cast [Water Breathing](#water-breathing-1) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
 
 ###### Gift of the Protectors
 
@@ -8309,7 +8931,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 5+ Warlock, Pact of the Chain Invocation*
 
-When you cast [Find Familiar](#find-familiar), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast [Find Familiar](#find-familiar-1), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 **Aerial or Aquatic.** The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
@@ -8345,7 +8967,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock*
 
-You can cast [Disguise Self](#disguise-self) without expending a spell slot.
+You can cast [Disguise Self](#disguise-self-1) without expending a spell slot.
 
 ###### Master of Myriad Forms
 
@@ -8353,7 +8975,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 5+ Warlock*
 
-You can cast [Alter Self](#alter-self) without expending a spell slot.
+You can cast [Alter Self](#alter-self-1) without expending a spell slot.
 
 ###### Misty Visions
 
@@ -8361,7 +8983,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock*
 
-You can cast [Silent Image](#silent-image) without expending a spell slot.
+You can cast [Silent Image](#silent-image-1) without expending a spell slot.
 
 ###### One with Shadows
 
@@ -8369,7 +8991,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 5+ Warlock*
 
-While you’re in an area of Dim Light or Darkness, you can cast [Invisibility](#invisibility) on yourself without expending a spell slot.
+While you’re in an area of Dim Light or Darkness, you can cast [Invisibility](#invisibility-1) on yourself without expending a spell slot.
 
 ###### Otherworldly Leap
 
@@ -8377,7 +8999,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 2+ Warlock*
 
-You can cast [Jump](#jump) on yourself without expending a spell slot.
+You can cast [Jump](#jump-1) on yourself without expending a spell slot.
 
 ###### Pact of the Blade
 
@@ -8393,7 +9015,7 @@ Your bond with the weapon ends if you use this feature’s Bonus Action again, i
 
 Source: Player's Handbook
 
-You learn the [Find Familiar](#find-familiar) spell and can cast it as a Magic action without expending a spell slot.
+You learn the [Find Familiar](#find-familiar-1) spell and can cast it as a Magic action without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: Imp, Pseudodragon, Quasit, Skeleton, Slaad Tadpole, Sphinx of Wonder, Sprite, or Venomous Snake (see appendix B for the familiar’s stat block).
 
@@ -8433,7 +9055,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 9+ Warlock*
 
-You can cast [Arcane Eye](#arcane-eye) without expending a spell slot.
+You can cast [Arcane Eye](#arcane-eye-1) without expending a spell slot.
 
 ###### Whispers of the Grave
 
@@ -8441,7 +9063,7 @@ Source: Player's Handbook
 
 *Prerequisite: Level 7+ Warlock*
 
-You can cast [Speak with Dead](#speak-with-dead) without expending a spell slot.
+You can cast [Speak with Dead](#speak-with-dead-1) without expending a spell slot.
 
 ###### Witch Sight
 
@@ -8452,6 +9074,16 @@ Source: Player's Handbook
 You have Truesight with a range of 30 feet.
 
 #### Archfey Patron
+
+### Archfey Patron
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:archfey-patron
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Bargain with Whimsical Fey*
 
@@ -8465,14 +9097,14 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | --- | --- |
-| 3 | [Calm Emotions](#calm-emotions), [Faerie Fire](#faerie-fire), [Misty Step](#misty-step), [Phantasmal Force](#phantasmal-force), [Sleep](#sleep) |
-| 5 | [Blink](#blink), [Plant Growth](#plant-growth) |
-| 7 | [Dominate Beast](#dominate-beast), [Greater Invisibility](#greater-invisibility) |
-| 9 | [Dominate Person](#dominate-person), [Seeming](#seeming) |
+| 3 | [Calm Emotions](#calm-emotions-1), [Faerie Fire](#faerie-fire-1), [Misty Step](#misty-step-1), [Phantasmal Force](#phantasmal-force-1), [Sleep](#sleep-1) |
+| 5 | [Blink](#blink-1), [Plant Growth](#plant-growth-1) |
+| 7 | [Dominate Beast](#dominate-beast-1), [Greater Invisibility](#greater-invisibility-1) |
+| 9 | [Dominate Person](#dominate-person-1), [Seeming](#seeming-1) |
 
 ##### Level 3: Steps of the Fey
 
-Your patron grants you the ability to move between the boundaries of the planes. You can cast [Misty Step](#misty-step) without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+Your patron grants you the ability to move between the boundaries of the planes. You can cast [Misty Step](#misty-step-1) without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
@@ -8482,7 +9114,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 
 ##### Level 6: Misty Escape
 
-You can cast [Misty Step](#misty-step) as a Reaction in response to taking damage.
+You can cast [Misty Step](#misty-step-1) as a Reaction in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
@@ -8498,9 +9130,19 @@ In addition, immediately after a creature you can see hits you with an attack ro
 
 ##### Level 14: Bewitching Magic
 
-Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](#misty-step) as part of the same action and without expending a spell slot.
+Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](#misty-step-1) as part of the same action and without expending a spell slot.
 
 #### Celestial Patron
+
+### Celestial Patron
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:celestial-patron
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Call on the Power of the Heavens*
 
@@ -8514,10 +9156,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | --- | --- |
-| 3 | [Aid](#aid), [Cure Wounds](#cure-wounds), [Guiding Bolt](#guiding-bolt), [Lesser Restoration](#lesser-restoration), [Light](#light-1), [Sacred Flame](#sacred-flame) |
-| 5 | [Daylight](#daylight), [Revivify](#revivify) |
-| 7 | [Guardian of Faith](#guardian-of-faith), [Wall of Fire](#wall-of-fire) |
-| 9 | [Greater Restoration](#greater-restoration), [Summon Celestial](#summon-celestial) |
+| 3 | [Aid](#aid-1), [Cure Wounds](#cure-wounds-1), [Guiding Bolt](#guiding-bolt-1), [Lesser Restoration](#lesser-restoration-1), [Light](#light-2), [Sacred Flame](#sacred-flame-1) |
+| 5 | [Daylight](#daylight-1), [Revivify](#revivify-1) |
+| 7 | [Guardian of Faith](#guardian-of-faith-1), [Wall of Fire](#wall-of-fire-1) |
+| 9 | [Greater Restoration](#greater-restoration-1), [Summon Celestial](#summon-celestial-1) |
 
 ##### Level 3: Healing Light
 
@@ -8541,6 +9183,16 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 #### Fiend Patron
 
+### Fiend Patron
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:fiend-patron
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Make a Deal with the Lower Planes*
 
 Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron’s aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
@@ -8557,10 +9209,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | --- | --- |
-| 3 | [Burning Hands](#burning-hands), [Command](#command), [Scorching Ray](#scorching-ray), [Suggestion](#suggestion) |
-| 5 | [Fireball](#fireball), [Stinking Cloud](#stinking-cloud) |
-| 7 | [Fire Shield](#fire-shield), [Wall of Fire](#wall-of-fire) |
-| 9 | [Geas](#geas), [Insect Plague](#insect-plague) |
+| 3 | [Burning Hands](#burning-hands-1), [Command](#command-1), [Scorching Ray](#scorching-ray-1), [Suggestion](#suggestion-1) |
+| 5 | [Fireball](#fireball-1), [Stinking Cloud](#stinking-cloud-1) |
+| 7 | [Fire Shield](#fire-shield-1), [Wall of Fire](#wall-of-fire-1) |
+| 9 | [Geas](#geas-1), [Insect Plague](#insect-plague-1) |
 
 ##### Level 6: Dark One’s Own Luck
 
@@ -8580,6 +9232,16 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 #### Great Old One Patron
 
+### Great Old One Patron
+
+**Class:** warlock
+**Source URL:** http://dnd2024.wikidot.com/warlock:great-old-one-patron
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Unearth Forbidden Lore of Ineffable Beings*
 
 When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you’ve learned nevertheless allow you to draw strange magic from it.
@@ -8598,10 +9260,10 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 | --- | --- |
-| 3 | [Detect Thoughts](#detect-thoughts), [Dissonant Whispers](#dissonant-whispers), [Phantasmal Force](#phantasmal-force), [Tasha's Hideous Laughter](#tashas-hideous-laughter) |
-| 5 | [Clairvoyance](#clairvoyance), [Hunger of Hadar](#hunger-of-hadar) |
-| 7 | [Confusion](#confusion), [Summon Aberration](#summon-aberration) |
-| 9 | [Modify Memory](#modify-memory), [Telekinesis](#telekinesis) |
+| 3 | [Detect Thoughts](#detect-thoughts-1), [Dissonant Whispers](#dissonant-whispers-1), [Phantasmal Force](#phantasmal-force-1), [Tasha's Hideous Laughter](#tashas-hideous-laughter-1) |
+| 5 | [Clairvoyance](#clairvoyance-1), [Hunger of Hadar](#hunger-of-hadar-1) |
+| 7 | [Confusion](#confusion-1), [Summon Aberration](#summon-aberration-1) |
+| 9 | [Modify Memory](#modify-memory-1), [Telekinesis](#telekinesis-1) |
 
 ##### Level 3: Psychic Spells
 
@@ -8615,7 +9277,7 @@ Once you use this feature, you can’t use it again until you finish a Short or 
 
 ##### Level 10: Eldritch Hex
 
-Your alien patron grants you a powerful curse. You always have the [Hex](#hex) spell prepared. When you cast Hex and choose an ability, the target also has Disadvantage on saving throws of the chosen ability for the duration of the spell.
+Your alien patron grants you a powerful curse. You always have the [Hex](#hex-1) spell prepared. When you cast Hex and choose an ability, the target also has Disadvantage on saving throws of the chosen ability for the duration of the spell.
 
 ##### Level 10: Thought Shield
 
@@ -8623,11 +9285,20 @@ Your thoughts can’t be read by telepathy or other means unless you allow it. Y
 
 ##### Level 14: Create Thrall
 
-When you cast [Summon Aberration](#summon-aberration), you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
+When you cast [Summon Aberration](#summon-aberration-1), you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of Temporary Hit Points equal to your Warlock level plus your Charisma modifier.
 
-In addition, the first time each turn the Aberration hits a creature under the effect of your [Hex](#hex), the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+In addition, the first time each turn the Aberration hits a creature under the effect of your [Hex](#hex-1), the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
 ### Wizard
+
+#### Wizard
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:main
+
+---
+
+Source: Player's Handbook
 
 Wizards are defined by their exhaustive study of magic's inner workings. They cast spells of explosive fire, arcing lightning, subtle deception, and spectacular transformations. Their magic conjures monsters from other planes of existence, glimpses the future, or forms protective barriers. Their mightiest spells change one substance into another, call meteors from the sky, or open portals to other worlds.
 
@@ -8668,19 +9339,19 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 | 1 | +2 | [Spellcasting](#spellcasting-1), [Ritual Adept](#level-1-ritual-adept), [Arcane Recovery](#level-1-arcane-recovery) | 3 | 4 | 2 | - | - | - | - | - | - | - | - |
 | 2 | +2 | [Scholar](#level-2-scholar) | 3 | 5 | 3 | - | - | - | - | - | - | - | - |
 | 3 | +2 | [Wizard Subclass](#level-3-arcane-tradition) | 3 | 6 | 4 | 2 | - | - | - | - | - | - | - |
-| 4 | +2 | [Ability Score Improvement](#ability-score-improvement) | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 4 | +2 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - |
 | 5 | +3 | [Memorize Spell](#level-5-memorize-spell) | 4 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6 | +3 | [Subclass feature](#level-3-arcane-tradition) | 4 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
 | 7 | +3 | - | 4 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
-| 8 | +3 | [Ability Score Improvement](#ability-score-improvement) | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 8 | +3 | [Ability Score Improvement](#ability-score-improvement-1) | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9 | +4 | - | 4 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10 | +4 | [Subclass feature](#level-3-arcane-tradition) | 5 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11 | +4 | - | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12 | +4 | [Ability Score Improvement](#ability-score-improvement) | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | [Ability Score Improvement](#ability-score-improvement-1) | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13 | +5 | - | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 14 | +5 | [Subclass feature](#level-3-arcane-tradition) | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
 | 15 | +5 | - | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
-| 16 | +5 | [Ability Score Improvement](#ability-score-improvement) | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | [Ability Score Improvement](#ability-score-improvement-1) | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
 | 17 | +6 | - | 5 | 22 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18 | +6 | [Spell Mastery](#level-18-spell-mastery) | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | [Epic Boon](#level-19-epic-boon-11) | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
@@ -8690,15 +9361,15 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ###### Level 1: Spellcasting
 
-As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](#wizard-spell-list) later in the class’s description.
+As a student of arcane magic, you have learned to cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the [Wizard spell list](#wizard-spell-list-1) later in the class’s description.
 
-**Cantrips.** You know three Wizard cantrips of your choice. [Light](#light-1), [Mage Hand](#mage-hand), and [Ray of Frost](#ray-of-frost) are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Cantrips.** You know three Wizard cantrips of your choice. [Light](#light-2), [Mage Hand](#mage-hand-1), and [Ray of Frost](#ray-of-frost-1) are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
 **Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting Identify. You determine the book’s appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](#detect-magic), [Feather Fall](#feather-fall), [Mage Armor](#mage-armor), [Magic Missile](#magic-missile), [Sleep](#sleep), and [Thunderwave](#thunderwave) are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](#detect-magic-1), [Feather Fall](#feather-fall-1), [Mage Armor](#mage-armor-1), [Magic Missile](#magic-missile-1), [Sleep](#sleep-1), and [Thunderwave](#thunderwave-1) are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
@@ -8752,15 +9423,15 @@ You gain a Wizard subclass of your choice. The Abjurer, Diviner, Evoker, and Ill
 
 | Name |
 | --- |
-| [Abjurer](#abjurer) |
+| [Abjurer](#abjurer-1) |
 | Bladesinger |
-| [Diviner](#diviner) |
-| [Evoker](#evoker) |
-| [Illusionist](#illusionist) |
+| [Diviner](#diviner-1) |
+| [Evoker](#evoker-1) |
+| [Illusionist](#illusionist-1) |
 
 ###### Level 4: Ability Score Improvement
 
-You gain the [Ability Score Improvement feat](#ability-score-improvement) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [Ability Score Improvement feat](#ability-score-improvement-1) or another [feat of your choice](#feat-descriptions) for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ###### Level 5: Memorize Spell
 
@@ -8774,7 +9445,7 @@ Whenever you finish a Long Rest, you can study your spellbook and replace one of
 
 ###### Level 19: Epic Boon
 
-You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Spell Recall](#boon-of-spell-recall) is recommended.
+You gain an [Epic Boon feat](#feat-descriptions) or another feat of your choice for which you qualify. [Boon of Spell Recall](#boon-of-spell-recall-1) is recommended.
 
 ###### Level 20: Signature Spells
 
@@ -8782,300 +9453,317 @@ Choose two level 3 spells in your spellbook as your signature spells. You always
 
 #### Wizard Spell List
 
-| Name | School | Spelllists | Casting Time | Range | Components | Duration |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Acid Splash](#acid-splash) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Blade Ward](#blade-ward) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Chill Touch](#chill-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Dancing Lights](#dancing-lights) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Elementalism](#elementalism) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Fire Bolt](#fire-bolt) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Friends](#friends) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
-| [Light](#light-1) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
-| [Mage Hand](#mage-hand) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
-| [Mending](#mending) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
-| [Message](#message) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
-| [Mind Sliver](#mind-sliver) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
-| [Minor Illusion](#minor-illusion) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
-| [Poison Spray](#poison-spray) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Prestidigitation](#prestidigitation) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
-| [Ray of Frost](#ray-of-frost) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Shocking Grasp](#shocking-grasp) | *Evocation* | Artificer, Sorcerer, Wizard | Action | Touch | V, S | Instantaneous |
-| [Thunderclap](#thunderclap) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
-| [Toll the Dead](#toll-the-dead) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [True Strike](#true-strike) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+#### Wizard Spell List
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:spell-list
+
+---
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alarm](#alarm) | *Abjuration* | Artificer, Ranger, Wizard | 1 minute or *^R^* | 30 feet | V, S, M | 8 hours |
-| [Burning Hands](#burning-hands) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Acid Splash](#acid-splash-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Blade Ward](#blade-ward-1) | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Chill Touch](#chill-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Dancing Lights](#dancing-lights-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Elementalism](#elementalism-1) | *Transmutation* | Artificer, Druid, Sorcerer, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Fire Bolt](#fire-bolt-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Friends](#friends-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | S, M | *^C^*, up to 1 minute |
+| [Light](#light-2) | *Evocation* | Artificer, Bard, Cleric, Sorcerer, Wizard | Action | Touch | V, M | 1 hour |
+| [Mage Hand](#mage-hand-1) | *Conjuration* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 minute |
+| [Mending](#mending-1) | *Transmutation* | Bard, Cleric, Druid, Sorcerer, Wizard | 1 minute | Touch | V, S, M | Instantaneous |
+| [Message](#message-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 120 feet | S, M | 1 round |
+| [Mind Sliver](#mind-sliver-1) | *Enchantment* | Sorcerer, Warlock, Wizard | Action | 60 feet | V | 1 round |
+| [Minor Illusion](#minor-illusion-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | S, M | 1 minute |
+| [Poison Spray](#poison-spray-1) | *Necromancy* | Artificer, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Prestidigitation](#prestidigitation-1) | *Transmutation* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | 10 feet | V, S | Up to 1 hour |
+| [Ray of Frost](#ray-of-frost-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Shocking Grasp](#shocking-grasp-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | Touch | V, S | Instantaneous |
+| [Thunderclap](#thunderclap-1) | *Evocation* | Artificer, Bard, Druid, Sorcerer, Warlock, Wizard | Action | Self | S | Instantaneous |
+| [Toll the Dead](#toll-the-dead-1) | *Necromancy* | Cleric, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [True Strike](#true-strike-1) | *Divination* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Self | S, M | Instantaneous |
+
+| Name | School | Spelllists | Casting Time | Range | Components | Duration |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Alarm](#alarm-1) | *Abjuration* | Artificer, Ranger, Wizard | 1 minute or *^R^* | 30 feet | V, S, M | 8 hours |
+| [Burning Hands](#burning-hands-1) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
 | Buzzing Bee | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet. | V, S, M | *^C^*, up to 1 minute |
-| [Charm Person](#charm-person) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Chromatic Orb](#chromatic-orb) | *Evocation* | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
-| [Color Spray](#color-spray) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Comprehend Languages](#comprehend-languages) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
-| [Detect Magic](#detect-magic) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
-| [Disguise Self](#disguise-self) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
-| [Expeditious Retreat](#expeditious-retreat) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
-| [False Life](#false-life) | *Necromancy* | Artificer, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Feather Fall](#feather-fall) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
-| [Find Familiar](#find-familiar) | *Conjuration* | Wizard | 1 hour or *^R^* | 10 feet | V, S, M(C*) | Instantaneous |
-| [Fog Cloud](#fog-cloud) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
-| [Grease](#grease) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | 1 minute |
-| [Ice Knife](#ice-knife) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
-| [Identify](#identify) | *Divination* | Artificer, Bard, Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Instantaneous |
-| [Illusory Script](#illusory-script) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
-| [Jump](#jump) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
-| [Longstrider](#longstrider) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
-| [Mage Armor](#mage-armor) | *Abjuration* | Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
-| [Magic Missile](#magic-missile) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Protection from Evil and Good](#protection-from-evil-and-good) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
-| [Ray of Sickness](#ray-of-sickness) | *Necromancy* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Shield](#shield) | *Abjuration* | Sorcerer, Wizard | Reaction | Self | V, S | 1 round |
-| [Silent Image](#silent-image) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Sleep](#sleep) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Charm Person](#charm-person-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Chromatic Orb](#chromatic-orb-1) | *Evocation* | Sorcerer, Wizard | Action | 90 feet | V, S, M(C) | Instantaneous |
+| [Color Spray](#color-spray-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Comprehend Languages](#comprehend-languages-1) | *Divination* | Bard, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S, M | 1 hour |
+| [Detect Magic](#detect-magic-1) | *Divination* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action or *^R^* | Self | V, S | *^C^*, up to 10 minutes |
+| [Disguise Self](#disguise-self-1) | *Illusion* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S | 1 hour |
+| [Expeditious Retreat](#expeditious-retreat-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Bonus Action | Self | V, S | *^C^* up to 10 minutes |
+| [False Life](#false-life-1) | *Necromancy* | Artificer, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Feather Fall](#feather-fall-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Reaction(*) | 60 feet | V, M | 1 minute |
+| [Find Familiar](#find-familiar-1) | *Conjuration* | Wizard | 1 hour or *^R^* | 10 feet | V, S, M(C*) | Instantaneous |
+| [Fog Cloud](#fog-cloud-1) | *Conjuration* | Druid, Ranger, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^* up to 1 hour |
+| [Grease](#grease-1) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | 1 minute |
+| [Ice Knife](#ice-knife-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | S, M | Instantaneous |
+| [Identify](#identify-1) | *Divination* | Artificer, Bard, Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Instantaneous |
+| [Illusory Script](#illusory-script-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute or *^R^* | Touch | S, M(C*) | 10 days |
+| [Jump](#jump-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | 1 minute |
+| [Longstrider](#longstrider-1) | *Transmutation* | Artificer, Bard, Druid, Ranger, Wizard | Action | Touch | V, S, M | 1 hour |
+| [Mage Armor](#mage-armor-1) | *Abjuration* | Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Magic Missile](#magic-missile-1) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Protection from Evil and Good](#protection-from-evil-and-good-1) | *Abjuration* | Cleric, Druid, Paladin, Warlock, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 10 minutes |
+| [Ray of Sickness](#ray-of-sickness-1) | *Necromancy* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Shield](#shield-1) | *Abjuration* | Sorcerer, Wizard | Reaction | Self | V, S | 1 round |
+| [Silent Image](#silent-image-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Sleep](#sleep-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
 | Spellfire Flare | *Evocation* | Sorcerer, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Tasha's Hideous Laughter](#tashas-hideous-laughter) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Tenser's Floating Disk](#tensers-floating-disk) | *Conjuration* | Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
-| [Thunderwave](#thunderwave) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Unseen Servant](#unseen-servant) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
+| [Tasha's Hideous Laughter](#tashas-hideous-laughter-1) | *Enchantment* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Tenser's Floating Disk](#tensers-floating-disk-1) | *Conjuration* | Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Thunderwave](#thunderwave-1) | *Evocation* | Bard, Druid, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Unseen Servant](#unseen-servant-1) | *Conjuration* | Bard, Warlock, Wizard | Action or *^R^* | 60 feet | V, S, M | 1 hour |
 | Wardaway | *Abjuration* | Bard, Cleric, Paladin, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Witch Bolt](#witch-bolt) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Witch Bolt](#witch-bolt-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Alter Self](#alter-self) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 1 hour |
-| [Arcane Lock](#arcane-lock) | *Abjuration* | Artificer, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
-| [Arcane Vigor](#arcane-vigor) | *Abjuration* | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
-| [Augury](#augury) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
-| [Blindness/Deafness](#blindnessdeafness) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
-| [Blur](#blur) | *Illusion* | Artificer, Sorcerer, Wizard | Action | Self | V | *^C^*, up to 1 minute |
-| [Cloud Of Daggers](#cloud-of-daggers) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Continual Flame](#continual-flame) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
-| [Crown Of Madness](#crown-of-madness) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Darkness](#darkness) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
-| [Darkvision](#darkvision) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
+| [Alter Self](#alter-self-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 1 hour |
+| [Arcane Lock](#arcane-lock-1) | *Abjuration* | Artificer, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+| [Arcane Vigor](#arcane-vigor-1) | *Abjuration* | Artificer, Sorcerer, Wizard | Bonus Action | Self | V, S | Instantaneous |
+| [Augury](#augury-1) | *Divination* | Cleric, Druid, Wizard | 1 minute or *^R^* | Self | V, S, M(C) | Instantaneous |
+| [Blindness/Deafness](#blindnessdeafness-1) | *Transmutation* | Bard, Cleric, Sorcerer, Wizard | Action | 120 feet | V | 1 minute |
+| [Blur](#blur-1) | *Illusion* | Artificer, Sorcerer, Wizard | Action | Self | V | *^C^*, up to 1 minute |
+| [Cloud Of Daggers](#cloud-of-daggers-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Continual Flame](#continual-flame-1) | *Evocation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+| [Crown Of Madness](#crown-of-madness-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Darkness](#darkness-1) | *Evocation* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, M | *^C^*, up to 10 minutes |
+| [Darkvision](#darkvision-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | 8 hours |
 | Death Armor | *Necromancy* | Sorcerer, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
 | Deryan's Helpful Homunculi | *Conjuration* | Cleric, Wizard | Action or *^R^* | Self | V, S, M(C*) | 8 hours |
-| [Detect Thoughts](#detect-thoughts) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Dragon's Breath](#dragons-breath) | *Transmutation* | Artificer, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | *^C^*, up to 1 minute |
+| [Detect Thoughts](#detect-thoughts-1) | *Divination* | Bard, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Dragon's Breath](#dragons-breath-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Bonus Action | Touch | V, S, M | *^C^*, up to 1 minute |
 | Elminster's Elusion | *Abjuration* | Wizard | Bonus Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Enhance Ability](#enhance-ability) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Enlarge/Reduce](#enlargereduce) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Flaming Sphere](#flaming-sphere) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Gentle Repose](#gentle-repose) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
-| [Gust of Wind](#gust-of-wind) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Hold Person](#hold-person) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Invisibility](#invisibility) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Knock](#knock) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
-| [Levitate](#levitate) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Locate Object](#locate-object) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Magic Mouth](#magic-mouth) | *Illusion* | Artificer, Bard, Wizard | 1 minute or *^R^* | 30 feet | V, S, M(C*) | Until dispelled |
-| [Magic Weapon](#magic-weapon) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
-| [Melf's Acid Arrow](#melfs-acid-arrow) | *Evocation* | Wizard | Action | 90 feet | V, S, M | Instantaneous |
-| [Mind Spike](#mind-spike) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
-| [Mirror Image](#mirror-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
-| [Misty Step](#misty-step) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
-| [Nystul's Magic Aura](#nystuls-magic-aura) | *Illusion* | Wizard | Action | Touch | V, S, M | 24 hours |
-| [Phantasmal Force](#phantasmal-force) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Ray of Enfeeblement](#ray-of-enfeeblement) | *Necromancy* | Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Rope Trick](#rope-trick) | *Transmutation* | Artificer, Wizard | Action | Touch | V, S, M | 1 hour |
-| [Scorching Ray](#scorching-ray) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [See Invisibility](#see-invisibility) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
-| [Shatter](#shatter) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Spider Climb](#spider-climb) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Suggestion](#suggestion) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
-| [Web](#web) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Enhance Ability](#enhance-ability-1) | *Transmutation* | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Enlarge/Reduce](#enlargereduce-1) | *Transmutation* | Artificer, Bard, Druid, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Flaming Sphere](#flaming-sphere-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Gentle Repose](#gentle-repose-1) | *Necromancy* | Cleric, Paladin, Wizard | Action or *^R^* | Touch | V, S, M(C) | 10 days |
+| [Gust of Wind](#gust-of-wind-1) | *Evocation* | Druid, Ranger, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Hold Person](#hold-person-1) | *Enchantment* | Bard, Cleric, Druid, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Invisibility](#invisibility-1) | *Illusion* | Artificer, Bard, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Knock](#knock-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 60 feet | V | Instantaneous |
+| [Levitate](#levitate-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Locate Object](#locate-object-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Mouth](#magic-mouth-1) | *Illusion* | Artificer, Bard, Wizard | 1 minute or *^R^* | 30 feet | V, S, M(C*) | Until dispelled |
+| [Magic Weapon](#magic-weapon-1) | *Transmutation* | Artificer, Paladin, Ranger, Sorcerer, Wizard | Bonus Action | Touch | V, S | 1 hour |
+| [Melf's Acid Arrow](#melfs-acid-arrow-1) | *Evocation* | Wizard | Action | 90 feet | V, S, M | Instantaneous |
+| [Mind Spike](#mind-spike-1) | *Divination* | Sorcerer, Warlock, Wizard | Action | 120 feet | S | *^C^*, up to 1 hour |
+| [Mirror Image](#mirror-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | 1 minute |
+| [Misty Step](#misty-step-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | Self | V | Instantaneous |
+| [Nystul's Magic Aura](#nystuls-magic-aura-1) | *Illusion* | Wizard | Action | Touch | V, S, M | 24 hours |
+| [Phantasmal Force](#phantasmal-force-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Ray of Enfeeblement](#ray-of-enfeeblement-1) | *Necromancy* | Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Rope Trick](#rope-trick-1) | *Transmutation* | Artificer, Wizard | Action | Touch | V, S, M | 1 hour |
+| [Scorching Ray](#scorching-ray-1) | *Evocation* | Sorcerer, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [See Invisibility](#see-invisibility-1) | *Divination* | Artificer, Bard, Sorcerer, Wizard | Action | Self | V, S, M | 1 hour |
+| [Shatter](#shatter-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Spider Climb](#spider-climb-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Suggestion](#suggestion-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 30 feet | V, M | *^C^*, up to 8 hours |
+| [Web](#web-1) | *Conjuration* | Artificer, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Animate Dead](#animate-dead) | *Necromancy* | Cleric, Wizard | 1 minute | 10 feet | V, S, M | Instantaneous |
+| [Animate Dead](#animate-dead-1) | *Necromancy* | Cleric, Wizard | 1 minute | 10 feet | V, S, M | Instantaneous |
 | Astral Flood | *Evocation* | Bard, Cleric, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Bestow Curse](#bestow-curse) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Blink](#blink) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | 1 minute |
+| [Bestow Curse](#bestow-curse-1) | *Necromancy* | Bard, Cleric, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Blink](#blink-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | Self | V, S | 1 minute |
 | Cacophonic Shield | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Clairvoyance](#clairvoyance) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
+| [Clairvoyance](#clairvoyance-1) | *Divination* | Bard, Cleric, Sorcerer, Wizard | 10 minutes | 1 mile | V, S, M(C) | *^C^*, up to 10 minutes |
 | Conjure Constructs | *Conjuration* | Wizard | Action | 60 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Counterspell](#counterspell) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
-| [Dispel Magic](#dispel-magic) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Fear](#fear) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Feign Death](#feign-death) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
-| [Fireball](#fireball) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Fly](#fly) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
-| [Gaseous Form](#gaseous-form) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
-| [Glyph of Warding](#glyph-of-warding) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
-| [Haste](#haste) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Hypnotic Pattern](#hypnotic-pattern) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
+| [Counterspell](#counterspell-1) | *Abjuration* | Sorcerer, Warlock, Wizard | Reaction | 60 feet | S | Instantaneous |
+| [Dispel Magic](#dispel-magic-1) | *Abjuration* | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Fear](#fear-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Feign Death](#feign-death-1) | *Necromancy* | Bard, Cleric, Druid, Wizard | Action or *^R^* | Touch | V, S, M | 1 hour |
+| [Fireball](#fireball-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Fly](#fly-1) | *Transmutation* | Artificer, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 10 minutes |
+| [Gaseous Form](#gaseous-form-1) | *Transmutation* | Sorcerer, Warlock, Wizard | Action | Touch | V, S, M | *^C^*, up to 1 hour |
+| [Glyph of Warding](#glyph-of-warding-1) | *Abjuration* | Artificer, Bard, Cleric, Wizard | 1 hour | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Haste](#haste-1) | *Transmutation* | Artificer, Sorcerer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Hypnotic Pattern](#hypnotic-pattern-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | S, M | *^C^*, up to 1 minute |
 | Laeral's Silver Lance | *Evocation* | Cleric, Sorcerer, Wizard | Action | Self | V, S, M(C) | Instantaneous |
-| [Leomund's Tiny Hut](#leomunds-tiny-hut) | *Evocation* | Bard, Wizard | 1 minute or *^R^* | Self | V, S, M | 8 hours |
-| [Lightning Bolt](#lightning-bolt) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Magic Circle](#magic-circle) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
-| [Major Image](#major-image) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Nondetection](#nondetection) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
-| [Phantom Steed](#phantom-steed) | *Illusion* | Wizard | 1 minute or *^R^* | 30 feet | V, S | 1 hour |
-| [Protection from Energy](#protection-from-energy) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
-| [Remove Curse](#remove-curse) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
-| [Sending](#sending) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
-| [Sleet Storm](#sleet-storm) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Slow](#slow) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Speak with Dead](#speak-with-dead) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
-| [Stinking Cloud](#stinking-cloud) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Summon Fey](#summon-fey) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Undead](#summon-undead) | *Necromancy* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Leomund's Tiny Hut](#leomunds-tiny-hut-1) | *Evocation* | Bard, Wizard | 1 minute or *^R^* | Self | V, S, M | 8 hours |
+| [Lightning Bolt](#lightning-bolt-1) | *Evocation* | Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Magic Circle](#magic-circle-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C*) | 1 hour |
+| [Major Image](#major-image-1) | *Illusion* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Nondetection](#nondetection-1) | *Abjuration* | Bard, Ranger, Wizard | Action | Touch | V, S, M(C*) | 8 hours |
+| [Phantom Steed](#phantom-steed-1) | *Illusion* | Wizard | 1 minute or *^R^* | 30 feet | V, S | 1 hour |
+| [Protection from Energy](#protection-from-energy-1) | *Abjuration* | Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 hour |
+| [Remove Curse](#remove-curse-1) | *Abjuration* | Cleric, Paladin, Warlock, Wizard | Action | Touch | V, S | Instantaneous |
+| [Sending](#sending-1) | *Divination* | Bard, Cleric, Wizard | Action | Unlimited | V, S, M | Instantaneous |
+| [Sleet Storm](#sleet-storm-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Slow](#slow-1) | *Transmutation* | Bard, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Speak with Dead](#speak-with-dead-1) | *Necromancy* | Bard, Cleric, Wizard | Action | 10 feet | V, S, M | 10 minutes |
+| [Stinking Cloud](#stinking-cloud-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Summon Fey](#summon-fey-1) | *Conjuration* | Druid, Ranger, Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Undead](#summon-undead-1) | *Necromancy* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
 | Sylune's Viper | *Conjuration* | Druid, Wizard | Bonus Action | Self | V, S, M | 1 hour |
-| [Tongues](#tongues) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
-| [Vampiric Touch](#vampiric-touch) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Water Breathing](#water-breathing) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
+| [Tongues](#tongues-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, M | 1 hour |
+| [Vampiric Touch](#vampiric-touch-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Water Breathing](#water-breathing-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action or *^R^* | 30 feet | V, S, M | 24 hours |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Eye](#arcane-eye) | *Divination* | Artificer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
+| [Arcane Eye](#arcane-eye-1) | *Divination* | Artificer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
 | Backlash | *Abjuration* | Bard, Sorcerer, Warlock, Wizard | Reaction | 60 feet | V | Instantaneous |
-| [Banishment](#banishment) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Blight](#blight) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
-| [Charm Monster](#charm-monster) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
-| [Confusion](#confusion) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Conjure Minor Elementals](#conjure-minor-elementals) | *Conjuration* | Druid, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
-| [Control Water](#control-water) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Dimension Door](#dimension-door) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
-| [Divination](#divination) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
-| [Evard's Black Tentacles](#evards-black-tentacles) | *Conjuration* | Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Fabricate](#fabricate) | *Transmutation* | Artificer, Wizard | 10 minutes | 120 feet | V, S | Instantaneous |
-| [Fire Shield](#fire-shield) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
-| [Greater Invisibility](#greater-invisibility) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
-| [Hallucinatory Terrain](#hallucinatory-terrain) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
-| [Ice Storm](#ice-storm) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
-| [Leomund's Secret Chest](#leomunds-secret-chest) | *Conjuration* | Artificer, Wizard | Action | Touch | V, S, M(C) | Until dispelled |
-| [Locate Creature](#locate-creature) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Mordenkainen's Faithful Hound](#mordenkainens-faithful-hound) | *Conjuration* | Artificer, Wizard | Action | 30 feet | V, S, M | 8 hours |
-| [Mordenkainen's Private Sanctum](#mordenkainens-private-sanctum) | *Abjuration* | Artificer, Wizard | 10 minutes | 120 feet | V, S, M | 24 hours |
-| [Otiluke's Resilient Sphere](#otilukes-resilient-sphere) | *Abjuration* | Artificer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
-| [Phantasmal Killer](#phantasmal-killer) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Polymorph](#polymorph) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
+| [Banishment](#banishment-1) | *Abjuration* | Cleric, Paladin, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Blight](#blight-1) | *Necromancy* | Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | Instantaneous |
+| [Charm Monster](#charm-monster-1) | *Enchantment* | Bard, Druid, Sorcerer, Warlock, Wizard | Action | 30 feet | V, S | 1 hour |
+| [Confusion](#confusion-1) | *Enchantment* | Bard, Druid, Sorcerer, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Conjure Minor Elementals](#conjure-minor-elementals-1) | *Conjuration* | Druid, Wizard | Action | Self | V, S | *^C^*, up to 10 minutes |
+| [Control Water](#control-water-1) | *Transmutation* | Cleric, Druid, Wizard | Action | 300 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Dimension Door](#dimension-door-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | Action | 500 feet | V | Instantaneous |
+| [Divination](#divination-1) | *Divination* | Cleric, Druid, Wizard | Action or *^R^* | Self | V, S, M(C*) | Instantaneous |
+| [Evard's Black Tentacles](#evards-black-tentacles-1) | *Conjuration* | Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Fabricate](#fabricate-1) | *Transmutation* | Artificer, Wizard | 10 minutes | 120 feet | V, S | Instantaneous |
+| [Fire Shield](#fire-shield-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | 10 minutes |
+| [Greater Invisibility](#greater-invisibility-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | Touch | V, S | *^C^*, up to 1 minute |
+| [Hallucinatory Terrain](#hallucinatory-terrain-1) | *Illusion* | Bard, Druid, Warlock, Wizard | 10 minutes | 300 feet | V, S, M | 24 hours |
+| [Ice Storm](#ice-storm-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
+| [Leomund's Secret Chest](#leomunds-secret-chest-1) | *Conjuration* | Artificer, Wizard | Action | Touch | V, S, M(C) | Until dispelled |
+| [Locate Creature](#locate-creature-1) | *Divination* | Bard, Cleric, Druid, Paladin, Ranger, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Mordenkainen's Faithful Hound](#mordenkainens-faithful-hound-1) | *Conjuration* | Artificer, Wizard | Action | 30 feet | V, S, M | 8 hours |
+| [Mordenkainen's Private Sanctum](#mordenkainens-private-sanctum-1) | *Abjuration* | Artificer, Wizard | 10 minutes | 120 feet | V, S, M | 24 hours |
+| [Otiluke's Resilient Sphere](#otilukes-resilient-sphere-1) | *Abjuration* | Artificer, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 minute |
+| [Phantasmal Killer](#phantasmal-killer-1) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Polymorph](#polymorph-1) | *Transmutation* | Bard, Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 hour |
 | Spellfire Storm | *Evocation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Stone Shape](#stone-shape) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
-| [Stoneskin](#stoneskin) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Summon Aberration](#summon-aberration) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Construct](#summon-construct) | *Conjuration* | Artificer, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Summon Elemental](#summon-elemental) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Vitriolic Sphere](#vitriolic-sphere) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Wall of Fire](#wall-of-fire) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Stone Shape](#stone-shape-1) | *Transmutation* | Artificer, Cleric, Druid, Wizard | Action | Touch | V, S, M | Instantaneous |
+| [Stoneskin](#stoneskin-1) | *Transmutation* | Artificer, Druid, Ranger, Sorcerer, Wizard | Action | Touch | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Summon Aberration](#summon-aberration-1) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Construct](#summon-construct-1) | *Conjuration* | Artificer, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Summon Elemental](#summon-elemental-1) | *Conjuration* | Druid, Ranger, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Vitriolic Sphere](#vitriolic-sphere-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Wall of Fire](#wall-of-fire-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alustriel's Mooncloak | *Abjuration* | Bard, Druid, Ranger, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Animate Objects](#animate-objects) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Bigby's Hand](#bigbys-hand) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Circle Of Power](#circle-of-power) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
-| [Cloudkill](#cloudkill) | *Conjuration* | Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
-| [Cone Of Cold](#cone-of-cold) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
-| [Conjure Elemental](#conjure-elemental) | *Conjuration* | Druid, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Contact Other Plane](#contact-other-plane) | *Divination* | Warlock, Wizard | 1 minute or *^R^* | Self | V | 1 minute |
-| [Creation](#creation) | *Illusion* | Artificer, Sorcerer, Wizard | 1 minute | 30 feet | V, S, M | Special |
-| [Dominate Person](#dominate-person) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Dream](#dream) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
-| [Geas](#geas) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
-| [Hold Monster](#hold-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
-| [Jallarzi's Storm of Radiance](#jallarzis-storm-of-radiance) | *Evocation* | Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
-| [Legend Lore](#legend-lore) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
-| [Mislead](#mislead) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
-| [Modify Memory](#modify-memory) | *Enchantment* | Bard, Wizard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
-| [Passwall](#passwall) | *Transmutation* | Wizard | Action | 30 feet | V, S, M | 1 hour |
-| [Planar Binding](#planar-binding) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
-| [Rary's Telepathic Bond](#rarys-telepathic-bond) | *Divination* | Bard, Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
-| [Scrying](#scrying) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
-| [Seeming](#seeming) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
+| [Animate Objects](#animate-objects-1) | *Transmutation* | Artificer, Bard, Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Bigby's Hand](#bigbys-hand-1) | *Evocation* | Artificer, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Circle Of Power](#circle-of-power-1) | *Abjuration* | Artificer, Cleric, Paladin, Wizard | Action | Self | V | *^C^*, up to 10 minutes |
+| [Cloudkill](#cloudkill-1) | *Conjuration* | Sorcerer, Wizard | Action | 120 feet | V, S | *^C^*, up to 10 minutes |
+| [Cone Of Cold](#cone-of-cold-1) | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M | Instantaneous |
+| [Conjure Elemental](#conjure-elemental-1) | *Conjuration* | Druid, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Contact Other Plane](#contact-other-plane-1) | *Divination* | Warlock, Wizard | 1 minute or *^R^* | Self | V | 1 minute |
+| [Creation](#creation-1) | *Illusion* | Artificer, Sorcerer, Wizard | 1 minute | 30 feet | V, S, M | Special |
+| [Dominate Person](#dominate-person-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 minute |
+| [Dream](#dream-1) | *Illusion* | Bard, Warlock, Wizard | 1 minute | Special | V, S, M | 8 hours |
+| [Geas](#geas-1) | *Enchantment* | Bard, Cleric, Druid, Paladin, Wizard | 1 minute | 60 feet | V | 30 days |
+| [Hold Monster](#hold-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 90 feet | V, S, M | *^C^*, up to 1 minute |
+| [Jallarzi's Storm of Radiance](#jallarzis-storm-of-radiance-1) | *Evocation* | Warlock, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 1 minute |
+| [Legend Lore](#legend-lore-1) | *Divination* | Bard, Cleric, Wizard | 10 minutes | Self | V, S, M(C*) | Instantaneous |
+| [Mislead](#mislead-1) | *Illusion* | Bard, Warlock, Wizard | Action | Self | S | *^C^*, up to 1 hour |
+| [Modify Memory](#modify-memory-1) | *Enchantment* | Bard, Wizard | Action | 30 feet | V, S | *^C^*, up to 1 minute |
+| [Passwall](#passwall-1) | *Transmutation* | Wizard | Action | 30 feet | V, S, M | 1 hour |
+| [Planar Binding](#planar-binding-1) | *Abjuration* | Bard, Cleric, Druid, Warlock, Wizard | 1 hour | 60 feet | V, S, M(C*) | 24 hours |
+| [Rary's Telepathic Bond](#rarys-telepathic-bond-1) | *Divination* | Bard, Wizard | Action or *^R^* | 30 feet | V, S, M | 1 hour |
+| [Scrying](#scrying-1) | *Divination* | Bard, Cleric, Druid, Warlock, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 10 minutes |
+| [Seeming](#seeming-1) | *Illusion* | Bard, Sorcerer, Wizard | Action | 30 feet | V, S | 8 hours |
 | Songal's Elemental Suffusion | *Transmutation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 minute |
-| [Steel Wind Strike](#steel-wind-strike) | *Conjuration* | Ranger, Wizard | Action | 30 feet | S, M | Instantaneous |
-| [Summon Dragon](#summon-dragon) | *Conjuration* | Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Synaptic Static](#synaptic-static) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
-| [Telekinesis](#telekinesis) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Teleportation Circle](#teleportation-circle) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
-| [Wall of Force](#wall-of-force) | *Evocation* | Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Wall of Stone](#wall-of-stone) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
-| [Yolande's Regal Presence](#yolandes-regal-presence) | *Enchantment* | Bard, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Steel Wind Strike](#steel-wind-strike-1) | *Conjuration* | Ranger, Wizard | Action | 30 feet | S, M | Instantaneous |
+| [Summon Dragon](#summon-dragon-1) | *Conjuration* | Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Synaptic Static](#synaptic-static-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 120 feet | V, S | Instantaneous |
+| [Telekinesis](#telekinesis-1) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Teleportation Circle](#teleportation-circle-1) | *Conjuration* | Bard, Sorcerer, Warlock, Wizard | 1 minute | 10 feet | V, M (C*) | 1 round |
+| [Wall of Force](#wall-of-force-1) | *Evocation* | Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Wall of Stone](#wall-of-stone-1) | *Evocation* | Artificer, Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Yolande's Regal Presence](#yolandes-regal-presence-1) | *Enchantment* | Bard, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arcane Gate](#arcane-gate) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
-| [Chain Lightning](#chain-lightning) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Circle Of Death](#circle-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
-| [Contingency](#contingency) | *Abjuration* | Wizard | 10 minutes | Self | V, S, M(C) | 10 days |
-| [Create Undead](#create-undead) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
-| [Disintegrate](#disintegrate) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
-| [Drawmij's Instant Summons](#drawmijs-instant-summons) | *Conjuration* | Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Until dispelled |
+| [Arcane Gate](#arcane-gate-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 500 feet | V, S | *^C^*, up to 10 minutes |
+| [Chain Lightning](#chain-lightning-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Circle Of Death](#circle-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 150 feet | V, S, M(C) | Instantaneous |
+| [Contingency](#contingency-1) | *Abjuration* | Wizard | 10 minutes | Self | V, S, M(C) | 10 days |
+| [Create Undead](#create-undead-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 minute | 10 feet | V, S, M(C) | Instantaneous |
+| [Disintegrate](#disintegrate-1) | *Transmutation* | Sorcerer, Wizard | Action | 60 feet | V, S, M | Instantaneous |
+| [Drawmij's Instant Summons](#drawmijs-instant-summons-1) | *Conjuration* | Wizard | 1 minute or *^R^* | Touch | V, S, M(C) | Until dispelled |
 | Elminster's Effulgent Spheres | *Evocation* | Druid, Sorcerer, Wizard | Action | Self | V, S, M(C) | 1 hour |
-| [Eyebite](#eyebite) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
-| [Flesh to Stone](#flesh-to-stone) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
-| [Globe of Invulnerability](#globe-of-invulnerability) | *Abjuration* | Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Guards and Wards](#guards-and-wards) | *Abjuration* | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
+| [Eyebite](#eyebite-1) | *Necromancy* | Bard, Sorcerer, Warlock, Wizard | Action | Self | V, S | *^C^*, up to 1 minute |
+| [Flesh to Stone](#flesh-to-stone-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 60 feet | V, S, M | *^C^*, up to 1 minute |
+| [Globe of Invulnerability](#globe-of-invulnerability-1) | *Abjuration* | Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Guards and Wards](#guards-and-wards-1) | *Abjuration* | Bard, Wizard | 1 hour | Touch | V, S, M | 24 hours |
 | Leomund's Lamentable Belaborment | *Enchantment* | Bard, Sorcerer, Wizard | Action | 30 feet | V | 1 Minute |
-| [Magic Jar](#magic-jar) | *Necromancy* | Wizard | 1 minute | Self | V, S, M(C) | Until dispelled |
-| [Mass Suggestion](#mass-suggestion) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
-| [Move Earth](#move-earth) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
-| [Otiluke's Freezing Sphere](#otilukes-freezing-sphere) | *Evocation* | Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
-| [Otto's Irresistible Dance](#ottos-irresistible-dance) | *Enchantment* | Bard, Wizard | Action | 30 feet | V | *^C^*, up to 1 minute |
-| [Programmed Illusion](#programmed-illusion) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S, M | Until dispelled |
-| [Summon Fiend](#summon-fiend) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
-| [Sunbeam](#sunbeam) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
-| [Tasha's Bubbling Cauldron](#tashas-bubbling-cauldron) | *Conjuration* | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
-| [True Seeing](#true-seeing) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
-| [Wall of Ice](#wall-of-ice) | *Evocation* | Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
+| [Magic Jar](#magic-jar-1) | *Necromancy* | Wizard | 1 minute | Self | V, S, M(C) | Until dispelled |
+| [Mass Suggestion](#mass-suggestion-1) | *Enchantment* | Bard, Sorcerer, Wizard | Action | 60 feet | V, M | 24 hours |
+| [Move Earth](#move-earth-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 120 feet | V, S, M | *^C^*, up to 2 hours |
+| [Otiluke's Freezing Sphere](#otilukes-freezing-sphere-1) | *Evocation* | Sorcerer, Wizard | Action | 300 feet | V, S, M | Instantaneous |
+| [Otto's Irresistible Dance](#ottos-irresistible-dance-1) | *Enchantment* | Bard, Wizard | Action | 30 feet | V | *^C^*, up to 1 minute |
+| [Programmed Illusion](#programmed-illusion-1) | *Illusion* | Bard, Wizard | Action | 120 feet | V, S, M | Until dispelled |
+| [Summon Fiend](#summon-fiend-1) | *Conjuration* | Warlock, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 hour |
+| [Sunbeam](#sunbeam-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | Self | V, S, M | *^C^*, up to 1 minute |
+| [Tasha's Bubbling Cauldron](#tashas-bubbling-cauldron-1) | *Conjuration* | Warlock, Wizard | Action | 5 feet | V, S, M | 10 minutes |
+| [True Seeing](#true-seeing-1) | *Divination* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C*) | 1 hour |
+| [Wall of Ice](#wall-of-ice-1) | *Evocation* | Wizard | Action | 120 feet | V, S, M | *^C^*, up to 10 minutes |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Delayed Blast Fireball](#delayed-blast-fireball) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
-| [Etherealness](#etherealness) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
-| [Finger of Death](#finger-of-death) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
-| [Forcecage](#forcecage) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
-| [Mirage Arcane](#mirage-arcane) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
-| [Mordenkainen's Magnificent Mansion](#mordenkainens-magnificent-mansion) | *Conjuration* | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
-| [Mordenkainen's Sword](#mordenkainens-sword) | *Evocation* | Bard, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Plane Shift](#plane-shift) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
-| [Prismatic Spray](#prismatic-spray) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
-| [Project Image](#project-image) | *Illusion* | Bard, Wizard | Action | 500 miles | V, S, M | *^C^*, up to 1 day |
-| [Reverse Gravity](#reverse-gravity) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
-| [Sequester](#sequester) | *Transmutation* | Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
+| [Delayed Blast Fireball](#delayed-blast-fireball-1) | *Evocation* | Sorcerer, Wizard | Action | 150 feet | V, S, M | *^C^*, up to 1 minute |
+| [Etherealness](#etherealness-1) | *Conjuration* | Bard, Cleric, Sorcerer, Warlock, Wizard | Action | Self | V, S | Up to 8 hours |
+| [Finger of Death](#finger-of-death-1) | *Necromancy* | Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | Instantaneous |
+| [Forcecage](#forcecage-1) | *Evocation* | Bard, Warlock, Wizard | Action | 100 feet | V, S, M(C*) | *^C^*, up to 1 hour |
+| [Mirage Arcane](#mirage-arcane-1) | *Illusion* | Bard, Druid, Wizard | 10 minutes | Sight | V, S | 10 days |
+| [Mordenkainen's Magnificent Mansion](#mordenkainens-magnificent-mansion-1) | *Conjuration* | Bard, Wizard | 1 minute | 300 feet | V, S, M | 24 hours |
+| [Mordenkainen's Sword](#mordenkainens-sword-1) | *Evocation* | Bard, Wizard | Action | 90 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Plane Shift](#plane-shift-1) | *Conjuration* | Cleric, Druid, Sorcerer, Warlock, Wizard | Action | Touch | V, S, M(C) | Instantaneous |
+| [Prismatic Spray](#prismatic-spray-1) | *Evocation* | Bard, Sorcerer, Wizard | Action | Self | V, S | Instantaneous |
+| [Project Image](#project-image-1) | *Illusion* | Bard, Wizard | Action | 500 miles | V, S, M | *^C^*, up to 1 day |
+| [Reverse Gravity](#reverse-gravity-1) | *Transmutation* | Druid, Sorcerer, Wizard | Action | 100 feet | V, S, M | *^C^*, up to 1 minute |
+| [Sequester](#sequester-1) | *Transmutation* | Wizard | Action | Touch | V, S, M(C*) | Until dispelled |
 | Simbul's Synostodweomer | *Transmutation* | Sorcerer, Wizard | Action | Touch | V, S | 1 hour |
-| [Simulacrum](#simulacrum) | *Illusion* | Wizard | 12 hours | Touch | V, S, M(C*) | Until dispelled |
-| [Symbol](#symbol) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
-| [Teleport](#teleport) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
+| [Simulacrum](#simulacrum-1) | *Illusion* | Wizard | 12 hours | Touch | V, S, M(C*) | Until dispelled |
+| [Symbol](#symbol-1) | *Abjuration* | Bard, Cleric, Druid, Wizard | 1 minute | Touch | V, S, M(C*) | Until dispelled or triggered |
+| [Teleport](#teleport-1) | *Conjuration* | Bard, Sorcerer, Wizard | Action | 10 feet | V | Instantaneous |
 | Void Star | *Necromancy* | Warlock, Wizard | Action | 120 feet | V, S, M | Instantaneous |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Antimagic Field](#antimagic-field) | *Abjuration* | Cleric, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
-| [Antipathy/Sympathy](#antipathysympathy) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
-| [Befuddlement](#befuddlement) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
-| [Clone](#clone) | *Necromancy* | Wizard | 1 hour | Touch | V, S, M(C*) | Instantaneous |
-| [Control Weather](#control-weather) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
-| [Demiplane](#demiplane) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
-| [Dominate Monster](#dominate-monster) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
+| [Antimagic Field](#antimagic-field-1) | *Abjuration* | Cleric, Wizard | Action | Self | V, S, M | *^C^*, up to 1 hour |
+| [Antipathy/Sympathy](#antipathysympathy-1) | *Enchantment* | Bard, Druid, Wizard | 1 hour | 60 feet | V, S, M | 10 days |
+| [Befuddlement](#befuddlement-1) | *Enchantment* | Bard, Druid, Warlock, Wizard | Action | 150 feet | V, S, M | Instantanous |
+| [Clone](#clone-1) | *Necromancy* | Wizard | 1 hour | Touch | V, S, M(C*) | Instantaneous |
+| [Control Weather](#control-weather-1) | *Transmutation* | Cleric, Druid, Wizard | 10 minutes | Self | V, S, M | *^C^*, up to 8 hours |
+| [Demiplane](#demiplane-1) | *Conjuration* | Sorcerer, Warlock, Wizard | Action | 60 feet | S | 1 hour |
+| [Dominate Monster](#dominate-monster-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S | *^C^*, up to 1 hour |
 | Holy Star of Mystra | *Evocation* | Cleric, Wizard | Bonus Action | Self | V, S | *^C^*, up to 1 minute |
-| [Incendiary Cloud](#incendiary-cloud) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
-| [Maze](#maze) | *Conjuration* | Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
-| [Mind Blank](#mind-blank) | *Abjuration* | Bard, Wizard | Action | Touch | V, S | 24 hours |
-| [Power Word Stun](#power-word-stun) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [Sunburst](#sunburst) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
-| [Telepathy](#telepathy) | *Divination* | Wizard | Action | Unlimited | V, S, M | 24 hours |
+| [Incendiary Cloud](#incendiary-cloud-1) | *Conjuration* | Druid, Sorcerer, Wizard | Action | 150 feet | V, S | *^C^*, up to 1 minute |
+| [Maze](#maze-1) | *Conjuration* | Wizard | Action | 60 feet | V, S | *^C^*, up to 10 minutes |
+| [Mind Blank](#mind-blank-1) | *Abjuration* | Bard, Wizard | Action | Touch | V, S | 24 hours |
+| [Power Word Stun](#power-word-stun-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Sunburst](#sunburst-1) | *Evocation* | Cleric, Druid, Sorcerer, Wizard | Action | 150 feet | V, S, M | Instantaneous |
+| [Telepathy](#telepathy-1) | *Divination* | Wizard | Action | Unlimited | V, S, M | 24 hours |
 
 | Name | School | Spelllists | Casting Time | Range | Components | Duration |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Astral Projection](#astral-projection) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
+| [Astral Projection](#astral-projection-1) | *Necromancy* | Cleric, Warlock, Wizard | 1 hour | 10 feet | V, S, M (C*) | Until dispelled |
 | Blade Of Disaster | *Conjuration* | Sorcerer, Warlock, Wizard | Bonus Action | 60 feet | V, S | *^C^*, up to 1 minute |
-| [Foresight](#foresight) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
-| [Gate](#gate) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
-| [Imprisonment](#imprisonment) | *Abjuration* | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
-| [Meteor Swarm](#meteor-swarm) | *Evocation* | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
-| [Power Word Kill](#power-word-kill) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
-| [Prismatic Wall](#prismatic-wall) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
-| [Shapechange](#shapechange) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
-| [Time Stop](#time-stop) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
-| [True Polymorph](#true-polymorph) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
-| [Weird](#weird) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
-| [Wish](#wish) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
+| [Foresight](#foresight-1) | *Divination* | Bard, Druid, Warlock, Wizard | 1 minute | Touch | V, S, M | 8 hours |
+| [Gate](#gate-1) | *Conjuration* | Cleric, Sorcerer, Warlock, Wizard | Action | 60 feet | V, S, M(C) | *^C^*, up to 1 minute |
+| [Imprisonment](#imprisonment-1) | *Abjuration* | Warlock, Wizard | 1 minute | 30 feet | V, S, M(C) | Until dispelled |
+| [Meteor Swarm](#meteor-swarm-1) | *Evocation* | Sorcerer, Wizard | Action | 1 mile | V, S | Instantaneous |
+| [Power Word Kill](#power-word-kill-1) | *Enchantment* | Bard, Sorcerer, Warlock, Wizard | Action | 60 feet | V | Instantaneous |
+| [Prismatic Wall](#prismatic-wall-1) | *Abjuration* | Bard, Wizard | Action | 60 feet | V, S | 10 minutes |
+| [Shapechange](#shapechange-1) | *Transmutation* | Druid, Wizard | Action | Self | V, S, M(C) | *^C^*, up to 1 hour |
+| [Time Stop](#time-stop-1) | *Transmutation* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
+| [True Polymorph](#true-polymorph-1) | *Transmutation* | Bard, Warlock, Wizard | Action | 30 feet | V, S, M | *^C^*, up to 1 hour |
+| [Weird](#weird-1) | *Illusion* | Warlock, Wizard | Action | 120 feet | V, S | *^C^*, up to 1 minute |
+| [Wish](#wish-1) | *Conjuration* | Sorcerer, Wizard | Action | Self | V | Instantaneous |
 
 #### Abjurer
+
+### Abjurer
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:abjurer
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Shield Companions and Banish Foes*
 
@@ -9101,7 +9789,7 @@ When a creature that you can see within 30 feet of yourself takes damage, you ca
 
 ##### Level 10: Spell Breaker
 
-You always have the [Counterspell](#counterspell) and [Dispel Magic](#dispel-magic) spells prepared. In addition, you can cast Dispel Magic as a Bonus Action, and you can add your Proficiency Bonus to its ability check.
+You always have the [Counterspell](#counterspell-1) and [Dispel Magic](#dispel-magic-1) spells prepared. In addition, you can cast Dispel Magic as a Bonus Action, and you can add your Proficiency Bonus to its ability check.
 
 When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 
@@ -9110,6 +9798,16 @@ When you cast either spell with a spell slot, that slot isn't expended if the sp
 You have Advantage on saving throws against spells, and you have Resistance to the damage of spells.
 
 #### Diviner
+
+### Diviner
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:diviner
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Learn the Secrets of the Multiverse*
 
@@ -9139,13 +9837,23 @@ You can increase your powers of perception. As a Bonus Action, choose one of the
 
 **Greater Comprehension.** You can read any language.
 
-**See Invisibility.** You can cast [See Invisibility](#see-invisibility) without expending a spell slot.
+**See Invisibility.** You can cast [See Invisibility](#see-invisibility-1) without expending a spell slot.
 
 ##### Level 14: Greater Portent
 
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
 
 #### Evoker
+
+### Evoker
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:evoker
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
 
 *Create Explosive Elemental Effects*
 
@@ -9179,6 +9887,16 @@ Each time you use this feature again before finishing a Long Rest, the Necrotic 
 
 #### Illusionist
 
+### Illusionist
+
+**Class:** wizard
+**Source URL:** http://dnd2024.wikidot.com/wizard:illusionist
+**Source:** Player's Handbook
+
+---
+
+Source: Player's Handbook
+
 *Weave Subtle Spells of Deception*
 
 You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.
@@ -9193,7 +9911,7 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 You can cast Illusion spells without providing Verbal components, and if an Illusion spell you cast has a range of 10+ feet, the range increases by 60 feet.
 
-You also know the [Minor Illusion](#minor-illusion) cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn’t count against your number of cantrips known. You can create both a sound and an image with a single casting of Minor Illusion, and you can cast it as a Bonus Action.
+You also know the [Minor Illusion](#minor-illusion-1) cantrip. If you already know it, you learn a different Wizard cantrip of your choice. The cantrip doesn’t count against your number of cantrips known. You can create both a sound and an image with a single casting of Minor Illusion, and you can cast it as a Bonus Action.
 
 ##### Level 6: Phantasmal Creatures
 
@@ -9261,11 +9979,19 @@ Each species gives a character special traits—unique characteristics based on 
 
 #### Acolyte
 
+### Acolyte
+
+**Source URL:** http://dnd2024.wikidot.com/background:acolyte
+
+---
+
+Source: Player's Handbook
+
 You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest's instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.
 
 **Ability Scores:** Intelligence, Wisdom, Charisma
 
-**Feat:** [Magic Initiate (Cleric)](#magic-initiate)
+**Feat:** [Magic Initiate (Cleric)](#magic-initiate-1)
 
 **Skill Proficiencies:** Insight and Religion
 
@@ -9275,11 +10001,19 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 
 #### Artisan
 
+### Artisan
+
+**Source URL:** http://dnd2024.wikidot.com/background:artisan
+
+---
+
+Source: Player's Handbook
+
 You began mopping floors and scrubbing counters in an artisan’s workshop for a few coppers per day as soon as you were strong enough to carry a bucket. When you were old enough to apprentice, you learned to create basic crafts of your own, as well as how to sweet-talk the occasional demanding customer. Your trade has also given you a keen eye for detail.
 
 **Ability Scores:** Strength, Dexterity, Intelligence
 
-**Feat:** [Crafter](#crafter)
+**Feat:** [Crafter](#crafter-1)
 
 **Skill Proficiencies:** Investigation and Persuasion
 
@@ -9289,11 +10023,19 @@ You began mopping floors and scrubbing counters in an artisan’s workshop for a
 
 #### Charlatan
 
+### Charlatan
+
+**Source URL:** http://dnd2024.wikidot.com/background:charlatan
+
+---
+
+Source: Player's Handbook
+
 Once you were old enough to order an ale, you soon had a favorite stool in every tavern within ten miles of where you were born. As you traveled the circuit from public house to watering hole, you learned to prey on unfortunates who were in the market for a comforting lie or two—perhaps a sham potion or forged ancestry records.
 
 **Ability Scores:** Dexterity, Constitution, Charisma
 
-**Feat:** [Skilled](#skilled)
+**Feat:** [Skilled](#skilled-1)
 
 **Skill Proficiencies:** Deception and Sleight of Hand
 
@@ -9303,11 +10045,19 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 
 #### Criminal
 
+### Criminal
+
+**Source URL:** http://dnd2024.wikidot.com/background:criminal
+
+---
+
+Source: Player's Handbook
+
 You eked out a living in dark alleyways, cutting purses or burgling shops. Perhaps you were part of a small gang of like-minded wrongdoers who looked out for each other. Or maybe you were a lone wolf, fending for yourself against the local thieves' guild and more fearsome lawbreakers.
 
 **Ability Scores:** Dexterity, Constitution, Intelligence
 
-**Feat:** [Alert](#alert)
+**Feat:** [Alert](#alert-1)
 
 **Skill Proficiencies:** Sleight of Hand and Stealth
 
@@ -9317,11 +10067,19 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 
 #### Entertainer
 
+### Entertainer
+
+**Source URL:** http://dnd2024.wikidot.com/background:entertainer
+
+---
+
+Source: Player's Handbook
+
 You spent much of your youth following roving fairs and carnivals, performing odd jobs for musicians and acrobats in exchange for lessons. You may have learned how to walk a tightrope, how to play a lute in a distinct style, or how to recite poetry with impeccable diction. To this day, you thrive on applause and long for the stage.
 
 **Ability Scores:** Strength, Dexterity, Charisma
 
-**Feat:** [Musician](#musician)
+**Feat:** [Musician](#musician-1)
 
 **Skill Proficiencies:** Acrobatics and Performance
 
@@ -9331,11 +10089,19 @@ You spent much of your youth following roving fairs and carnivals, performing od
 
 #### Farmer
 
+### Farmer
+
+**Source URL:** http://dnd2024.wikidot.com/background:farmer
+
+---
+
+Source: Player's Handbook
+
 You grew up close to the land. Years tending animals and cultivating the earth rewarded you with patience and good health. You have a keen appreciation for nature’s bounty alongside a healthy respect for nature's wrath.
 
 **Ability Scores:** Strength, Constitution, Wisdom
 
-**Feat:** [Tough](#tough)
+**Feat:** [Tough](#tough-1)
 
 **Skill Proficiencies:** Animal Handling and Nature
 
@@ -9345,11 +10111,19 @@ You grew up close to the land. Years tending animals and cultivating the earth r
 
 #### Guard
 
+### Guard
+
+**Source URL:** http://dnd2024.wikidot.com/background:guard
+
+---
+
+Source: Player's Handbook
+
 Your feet ache when you remember the countless hours you spent at your post in the tower. You were trained to keep one eye looking outside the wall, watching for marauders sweeping from the nearby forest, and your other eye looking inside the wall, searching for cutpurses and troublemakers.
 
 **Ability Scores:** Strength, Intelligence, Wisdom
 
-**Feat:** [Alert](#alert)
+**Feat:** [Alert](#alert-1)
 
 **Skill Proficiencies:** Athletics and Perception
 
@@ -9359,11 +10133,19 @@ Your feet ache when you remember the countless hours you spent at your post in t
 
 #### Guide
 
+### Guide
+
+**Source URL:** http://dnd2024.wikidot.com/background:guide
+
+---
+
+Source: Player's Handbook
+
 You came of age outdoors, far from settled lands. Your home was anywhere you chose to spread your bedroll. There are wonders in the wilderness— strange monsters, pristine forests and streams, overgrown ruins of great halls once trod by giants— and you learned to fend for yourself as you explored them. From time to time, you guided friendly nature priests who instructed you in the fundamentals of channeling the magic of the wild.
 
 **Ability Scores:** Dexterity, Constitution, Wisdom
 
-**Feat:** [Magic Initiate (Druid)](#magic-initiate)
+**Feat:** [Magic Initiate (Druid)](#magic-initiate-1)
 
 **Skill Proficiencies:** Stealth and Survival
 
@@ -9373,11 +10155,19 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 
 #### Hermit
 
+### Hermit
+
+**Source URL:** http://dnd2024.wikidot.com/background:hermit
+
+---
+
+Source: Player's Handbook
+
 You spent your early years secluded in a hut or monastery located well beyond the outskirts of the nearest settlement. In those days, your only companions were the creatures of the forest and those who would occasionally visit to bring news of the outside world and supplies. The solitude allowed you to spend many hours pondering the mysteries of creation.
 
 **Ability Scores:** Constitution, Wisdom, Charisma
 
-**Feat:** [Healer](#healer)
+**Feat:** [Healer](#healer-1)
 
 **Skill Proficiencies:** Medicine and Religion
 
@@ -9387,11 +10177,19 @@ You spent your early years secluded in a hut or monastery located well beyond th
 
 #### Merchant
 
+### Merchant
+
+**Source URL:** http://dnd2024.wikidot.com/background:merchant
+
+---
+
+Source: Player's Handbook
+
 You were apprenticed to a trader, caravan master, or shopkeeper, learning the fundamentals of commerce. You traveled broadly, and you earned a living by buying and selling the raw materials artisans need to practice their craft or finished works from such crafters. You might have transported goods from one place to another (by ship, wagon, or caravan) or bought them from traveling traders and sold them in your own shop.
 
 **Ability Scores:** Constitution, Intelligence, Charisma
 
-**Feat:** [Lucky](#lucky)
+**Feat:** [Lucky](#lucky-1)
 
 **Skill Proficiencies:** Animal Handling and Persuasion
 
@@ -9401,11 +10199,19 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 
 #### Noble
 
+### Noble
+
+**Source URL:** http://dnd2024.wikidot.com/background:noble
+
+---
+
+Source: Player's Handbook
+
 You were raised in a castle, surrounded by wealth, power, and privilege. Your family of minor aristocrats ensured that you received a first-class education, some of which you appreciated and some of which you resented. Your time in the castle, especially the many hours you spent observing your family at court, also taught you a great deal about leadership.
 
 **Ability Scores:** Strength, Intelligence, Charisma
 
-**Feat:** [Skilled](#skilled)
+**Feat:** [Skilled](#skilled-1)
 
 **Skill Proficiencies:** History and Persuasion
 
@@ -9415,11 +10221,19 @@ You were raised in a castle, surrounded by wealth, power, and privilege. Your fa
 
 #### Sage
 
+### Sage
+
+**Source URL:** http://dnd2024.wikidot.com/background:sage
+
+---
+
+Source: Player's Handbook
+
 You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse - even the rudiments of magic - and your mind yearns for more.
 
 **Ability Scores:** Constitution, Intelligence, Wisdom
 
-**Feat:** [Magic Initiate (Wizard)](#magic-initiate)
+**Feat:** [Magic Initiate (Wizard)](#magic-initiate-1)
 
 **Skill Proficiencies:** Arcana and History
 
@@ -9429,11 +10243,19 @@ You spent your formative years traveling between manors and monasteries, perform
 
 #### Sailor
 
+### Sailor
+
+**Source URL:** http://dnd2024.wikidot.com/background:sailor
+
+---
+
+Source: Player's Handbook
+
 You lived as a seafarer, wind at your back and decks swaying beneath your feet. You've perched on barstools in more ports of call than you can remember, faced mighty storms, and swapped stories with folk who live beneath the waves.
 
 **Ability Scores:** Strength, Dexterity, Wisdom
 
-**Feat:** [Tavern Brawler](#tavern-brawler)
+**Feat:** [Tavern Brawler](#tavern-brawler-1)
 
 **Skill Proficiencies:** Acrobatics and Perception
 
@@ -9443,11 +10265,19 @@ You lived as a seafarer, wind at your back and decks swaying beneath your feet. 
 
 #### Scribe
 
+### Scribe
+
+**Source URL:** http://dnd2024.wikidot.com/background:scribe
+
+---
+
+Source: Player's Handbook
+
 You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge, or a government agency, where you learned to write with a clear hand and produce finely written texts. Perhaps you scribed government documents or copied tomes of literature. You might have some skill as a writer of poetry, narrative, or scholarly research. Above all, you have a careful attention to detail, helping you avoid introducing mistakes to the documents you copy and create.
 
 **Ability Scores:** Dexterity, Intelligence, Wisdom
 
-**Feat:** [Skilled](#skilled)
+**Feat:** [Skilled](#skilled-1)
 
 **Skill Proficiencies:** Investigation and Perception
 
@@ -9457,11 +10287,19 @@ You spent formative years in a scriptorium, a monastery dedicated to the preserv
 
 #### Soldier
 
+### Soldier
+
+**Source URL:** http://dnd2024.wikidot.com/background:soldier
+
+---
+
+Source: Player's Handbook
+
 You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.
 
 **Ability Scores:** Strength, Dexterity, Constitution
 
-**Feat:** [Savage Attacker](#savage-attacker)
+**Feat:** [Savage Attacker](#savage-attacker-1)
 
 **Skill Proficiencies:** Athletics and Intimidation
 
@@ -9471,11 +10309,19 @@ You began training for war as soon as you reached adulthood and carry precious f
 
 #### Wayfarer
 
+### Wayfarer
+
+**Source URL:** http://dnd2024.wikidot.com/background:wayfarer
+
+---
+
+Source: Player's Handbook
+
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
 
 **Ability Scores:** Dexterity, Wisdom, Charisma
 
-**Feat:** [Lucky](#lucky)
+**Feat:** [Lucky](#lucky-1)
 
 **Skill Proficiencies:** Insight and Stealth
 
@@ -9486,6 +10332,14 @@ You grew up on the streets surrounded by similarly ill-fated castoffs, a few of 
 ### Species Descriptions
 
 #### Aasimar
+
+#### Aasimar
+
+**Source URL:** http://dnd2024.wikidot.com/species:aasimar
+
+---
+
+Source: Player's Handbook
 
 Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury. Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their celestial heritage, such as metallic freckles, luminous eyes, a halo, or the skin color of an angel (silver, opalescent green, or coppery red). These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
 
@@ -9505,7 +10359,7 @@ As an Aasimar, you have these special traits.
 
 **Healing Hands.** As a Magic action, you touch a creature and roll a number of d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points equal to the total rolled. Once you use this trait, you can't use it again until you finish a Long Rest.
 
-**Light Bearer.** You know the [Light](#light-1) cantrip. Charisma is your spellcasting ability for it.
+**Light Bearer.** You know the [Light](#light-2) cantrip. Charisma is your spellcasting ability for it.
 
 **Celestial Revelation.** When you reach character level 3, you can transform as a Bonus Action using one of the options below (choose the option each time you transform). The transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can’t do so again until you finish a Long Rest.
 
@@ -9520,6 +10374,14 @@ Here are the transformation options:
 **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn.
 
 #### Dragonborn
+
+#### Dragonborn
+
+**Source URL:** http://dnd2024.wikidot.com/species:dragonborn
+
+---
+
+Source: Player's Handbook
 
 The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods’ blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
 
@@ -9564,6 +10426,14 @@ You can use this Breath Weapon a number of times equal to your Proficiency Bonus
 
 #### Dwarf
 
+#### Dwarf
+
+**Source URL:** http://dnd2024.wikidot.com/species:dwarf
+
+---
+
+Source: Player's Handbook
+
 Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds - Moradin, Reorx, and others - that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.
 
 Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds - especially of the little overcoming the mighty.
@@ -9593,6 +10463,14 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 expended uses when you finish a Long Rest.
 
 #### Elf
+
+#### Elf
+
+**Source URL:** http://dnd2024.wikidot.com/species:elf
+
+---
+
+Source: Player's Handbook
 
 Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.
 
@@ -9664,13 +10542,21 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 | --- | --- | --- | --- |
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](#dancing-lights) cantrip. | [Faerie Fire](#faerie-fire) | [Darkness](#darkness) |
-| High Elf | You know the [Prestidigitation](#prestidigitation) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](#detect-magic) | [Misty Step](#misty-step) |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](#druidcraft) cantrip. | [Longstrider](#longstrider) | [Pass without Trace](#pass-without-trace) |
-| Lorwyn Elf | You know the [Thorn Whip](#thorn-whip) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Druid spell list. | [Command](#command) | [Silence](#silence) |
-| Shadowmoor Elf | The range of your Darkvision increases to 120 feet. You also know the [Starry Wisp](#starry-wisp) cantrip. | [Heroism](#heroism) | [Gentle Repose](#gentle-repose) |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](#dancing-lights-1) cantrip. | [Faerie Fire](#faerie-fire-1) | [Darkness](#darkness-1) |
+| High Elf | You know the [Prestidigitation](#prestidigitation-1) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](#detect-magic-1) | [Misty Step](#misty-step-1) |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](#druidcraft-1) cantrip. | [Longstrider](#longstrider-1) | [Pass without Trace](#pass-without-trace-1) |
+| Lorwyn Elf | You know the [Thorn Whip](#thorn-whip-1) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Druid spell list. | [Command](#command-1) | [Silence](#silence-1) |
+| Shadowmoor Elf | The range of your Darkvision increases to 120 feet. You also know the [Starry Wisp](#starry-wisp-1) cantrip. | [Heroism](#heroism-1) | [Gentle Repose](#gentle-repose-1) |
 
 #### Gnome
+
+#### Gnome
+
+**Source URL:** http://dnd2024.wikidot.com/species:gnome
+
+---
+
+Source: Player's Handbook
 
 Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
@@ -9692,13 +10578,21 @@ As a Gnome, you have these special traits.
 
 **Gnomish Lineage.** You are part of a lineage that grants you supernatural abilities. Choose one of the following options; whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):
 
-**Forest Gnome.** You know the [Minor Illusion](#minor-illusion) cantrip.
+**Forest Gnome.** You know the [Minor Illusion](#minor-illusion-1) cantrip.
 
-You also always have the [Speak with Animals](#speak-with-animals) spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+You also always have the [Speak with Animals](#speak-with-animals-1) spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
 
-**Rock Gnome.** You know the [Mending](#mending) and [Prestidigitation](#prestidigitation) cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5,1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
+**Rock Gnome.** You know the [Mending](#mending-1) and [Prestidigitation](#prestidigitation-1) cantrips. In addition, you can spend 10 minutes casting Prestidigitation to create a Tiny clockwork device (AC 5,1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from Prestidigitation; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
 #### Goliath
+
+#### Goliath
+
+**Source URL:** http://dnd2024.wikidot.com/species:goliath
+
+---
+
+Source: Player's Handbook
 
 Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants - favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
 
@@ -9728,6 +10622,14 @@ As a Goliath, you have these special traits.
 **Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
 #### Halfling
+
+#### Halfling
+
+**Source URL:** http://dnd2024.wikidot.com/species:halfling
+
+---
+
+Source: Player's Handbook
 
 Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size - similar to that of a human child -helps them pass through crowds unnoticed and slip through tight spaces.
 
@@ -9779,6 +10681,14 @@ Use the Halfling species when creating a kithkin player character. Shadowmoor ki
 
 #### Human
 
+#### Human
+
+**Source URL:** http://dnd2024.wikidot.com/species:human
+
+---
+
+Source: Player's Handbook
+
 Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.
 
 Humans are as diverse in appearance as the people of Earth, and they have many gods. Scholars dispute the origin of humanity, but one of the earliest known human gatherings is said to have occurred in Sigil, the torus-shaped city at the center of the multiverse and the place where the Common language was born. From there, humans could have spread to every part of the multiverse, bringing the City of Doors' cosmopolitanism with them.
@@ -9797,9 +10707,17 @@ As a Human, you have these special traits.
 
 **Skillful.** You gain proficiency in one skill of your choice.
 
-**Versatile.** You gain an [Origin feat](#feat-descriptions) of your choice. [Skilled](#skilled) is recommended.
+**Versatile.** You gain an [Origin feat](#feat-descriptions) of your choice. [Skilled](#skilled-1) is recommended.
 
 #### Orc
+
+#### Orc
+
+**Source URL:** http://dnd2024.wikidot.com/species:orc
+
+---
+
+Source: Player's Handbook
 
 Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh’s gifts: endurance, determination, and the ability to see in darkness.
 
@@ -9824,6 +10742,14 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 **Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 
 #### Tiefling
+
+#### Tiefling
+
+**Source URL:** http://dnd2024.wikidot.com/species:tiefling
+
+---
+
+Source: Player's Handbook
 
 Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
 
@@ -9859,15 +10785,15 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
 
-**Otherworldly Presence.** You know the [Thaumaturgy](#thaumaturgy) cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
+**Otherworldly Presence.** You know the [Thaumaturgy](#thaumaturgy-1) cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
 
 ###### Fiendish Legacies
 
 | Legacy | Level 1 | Level 3 | Level 5 |
 | --- | --- | --- | --- |
-| Abyssal | You have Resistance to Poison damage. You also know the [Poison Spray](#poison-spray) cantrip. | [Ray of Sickness](#ray-of-sickness) | [Hold Person](#hold-person) |
-| Chthonic | You have Resistance to Necrotic damage. You also know the [Chill Touch](#chill-touch) cantrip. | [False Life](#false-life) | [Ray of Enfeeblement](#ray-of-enfeeblement) |
-| Infernal | You have Resistance to Fire damage. You also know the [Fire Bolt](#fire-bolt) cantrip. | [Hellish Rebuke](#hellish-rebuke) | [Darkness](#darkness) |
+| Abyssal | You have Resistance to Poison damage. You also know the [Poison Spray](#poison-spray-1) cantrip. | [Ray of Sickness](#ray-of-sickness-1) | [Hold Person](#hold-person-1) |
+| Chthonic | You have Resistance to Necrotic damage. You also know the [Chill Touch](#chill-touch-1) cantrip. | [False Life](#false-life-1) | [Ray of Enfeeblement](#ray-of-enfeeblement-1) |
+| Infernal | You have Resistance to Fire damage. You also know the [Fire Bolt](#fire-bolt-1) cantrip. | [Hellish Rebuke](#hellish-rebuke-1) | [Darkness](#darkness-1) |
 
 ## Ch. 5: Feats
 
@@ -9889,6 +10815,14 @@ _Repeatable._ A feat can be taken only once unless its description states otherw
 
 #### Alert
 
+# Alert
+
+**Source URL:** http://dnd2024.wikidot.com/feat:alert
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
 **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
@@ -9897,9 +10831,17 @@ You gain the following benefits.
 
 #### Magic Initiate
 
+# Magic Initiate
+
+**Source URL:** http://dnd2024.wikidot.com/feat:magic-initiate
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
-**Two Cantrips.** You learn two cantrips of your choice from the [Cleric](#cleric-spell-list), [Druid](#druid-spell-list), or [Wizard](#wizard-spell-list) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
+**Two Cantrips.** You learn two cantrips of your choice from the [Cleric](#cleric-spell-list-1), [Druid](#druid-spell-list-1), or [Wizard](#wizard-spell-list-1) spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).
 
 **Level 1 Spell.** Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
@@ -9909,9 +10851,25 @@ You gain the following benefits.
 
 #### Savage Attacker
 
+# Savage Attacker
+
+**Source URL:** http://dnd2024.wikidot.com/feat:savage-attacker
+
+---
+
+Source: Player's Handbook
+
 You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.
 
 #### Skilled
+
+# Skilled
+
+**Source URL:** http://dnd2024.wikidot.com/feat:skilled
+
+---
+
+Source: Player's Handbook
 
 You gain proficiency in any combination of three skills or tools of your choice.
 
@@ -9921,6 +10879,14 @@ You gain proficiency in any combination of three skills or tools of your choice.
 
 #### Ability Score Improvement
 
+# Ability Score Improvement
+
+**Source URL:** http://dnd2024.wikidot.com/feat:ability-score-improvement
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.
@@ -9928,6 +10894,14 @@ Increase one ability score of your choice by 2, or increase two ability scores o
 **Repeatable.** You can take this feat more than once.
 
 #### Actor
+
+# Actor
+
+**Source URL:** http://dnd2024.wikidot.com/feat:actor
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Charisma 13+*
 
@@ -9940,6 +10914,14 @@ You gain the following benefits.
 **Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
 
 #### Athlete
+
+# Athlete
+
+**Source URL:** http://dnd2024.wikidot.com/feat:athlete
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Strength or Dexterity 13+*
 
@@ -9955,6 +10937,14 @@ You gain the following benefits.
 
 #### Charger
 
+# Charger
+
+**Source URL:** http://dnd2024.wikidot.com/feat:charger
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Strength or Dexterity 13+*
 
 You gain the following benefits.
@@ -9966,6 +10956,14 @@ You gain the following benefits.
 **Charge Attack.** If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
 
 #### Chef
+
+# Chef
+
+**Source URL:** http://dnd2024.wikidot.com/feat:chef
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+*
 
@@ -9980,6 +10978,14 @@ You gain the following benefits.
 **Bolstering Treats.** With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a Bonus Action to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency Bonus.
 
 #### Crafter
+
+# Crafter
+
+**Source URL:** http://dnd2024.wikidot.com/feat:crafter
+
+---
+
+Source: Player's Handbook
 
 You gain the following benefits.
 
@@ -10004,6 +11010,14 @@ You gain the following benefits.
 
 #### Crossbow Expert
 
+# Crossbow Expert
+
+**Source URL:** http://dnd2024.wikidot.com/feat:crossbow-expert
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Dexterity 13+*
 
 You gain the following benefits.
@@ -10018,6 +11032,14 @@ You gain the following benefits.
 
 #### Crusher
 
+# Crusher
+
+**Source URL:** http://dnd2024.wikidot.com/feat:crusher
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10030,6 +11052,14 @@ You gain the following benefits.
 
 #### Defensive Duelist
 
+# Defensive Duelist
+
+**Source URL:** http://dnd2024.wikidot.com/feat:defensive-duelist
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Dexterity 13+*
 
 You gain the following benefits.
@@ -10039,6 +11069,14 @@ You gain the following benefits.
 **Parry.** If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency Bonus to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 #### Dual Wielder
+
+# Dual Wielder
+
+**Source URL:** http://dnd2024.wikidot.com/feat:dual-wielder
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Strength or Dexterity 13+*
 
@@ -10052,6 +11090,14 @@ You gain the following benefits.
 
 #### Durable
 
+# Durable
+
+**Source URL:** http://dnd2024.wikidot.com/feat:durable
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10063,6 +11109,14 @@ You gain the following benefits.
 **Speedy Recovery.** As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
 
 #### Elemental Adept
+
+# Elemental Adept
+
+**Source URL:** http://dnd2024.wikidot.com/feat:elemental-adept
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Spellcasting or Pact Magic Feature*
 
@@ -10076,15 +11130,31 @@ You gain the following benefits.
 
 #### Fey Touched
 
+# Fey Touched
+
+**Source URL:** http://dnd2024.wikidot.com/feat:fey-touched
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 Your exposure to the Feywild's magic grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Fey Magic.** Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the [Misty Step](#misty-step) spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+**Fey Magic.** Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the [Misty Step](#misty-step-1) spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 #### Grappler
+
+# Grappler
+
+**Source URL:** http://dnd2024.wikidot.com/feat:grappler
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Strength or Dexterity 13+*
 
@@ -10100,6 +11170,14 @@ You gain the following benefits.
 
 #### Great Weapon Master
 
+# Great Weapon Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:great-weapon-master
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Strength 13+*
 
 You gain the following benefits.
@@ -10112,6 +11190,14 @@ You gain the following benefits.
 
 #### Healer
 
+# Healer
+
+**Source URL:** http://dnd2024.wikidot.com/feat:healer
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
 **Battle Medic.** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
@@ -10119,6 +11205,14 @@ You gain the following benefits.
 **Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 #### Heavily Armored
+
+# Heavily Armored
+
+**Source URL:** http://dnd2024.wikidot.com/feat:heavily-armored
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Medium Armor Training*
 
@@ -10130,6 +11224,14 @@ You gain the following benefits.
 
 #### Heavy Armor Master
 
+# Heavy Armor Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:heavy-armor-master
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Heavy Armor Training*
 
 You gain the following benefits.
@@ -10140,6 +11242,14 @@ You gain the following benefits.
 
 #### Inspiring Leader
 
+# Inspiring Leader
+
+**Source URL:** http://dnd2024.wikidot.com/feat:inspiring-leader
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Wisdom or Charisma 13+*
 
 You gain the following benefits.
@@ -10149,6 +11259,14 @@ You gain the following benefits.
 **Bolstering Performance.** When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your character level plus the modifier of the ability you increased with this feat.
 
 #### Keen Mind
+
+# Keen Mind
+
+**Source URL:** http://dnd2024.wikidot.com/feat:keen-mind
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Intelligence 13+*
 
@@ -10162,6 +11280,14 @@ You gain the following benefits.
 
 #### Lightly Armored
 
+# Lightly Armored
+
+**Source URL:** http://dnd2024.wikidot.com/feat:lightly-armored
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10172,6 +11298,14 @@ You gain the following benefits.
 
 #### Lucky
 
+# Lucky
+
+**Source URL:** http://dnd2024.wikidot.com/feat:lucky
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
 **Luck Points.** You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.
@@ -10181,6 +11315,14 @@ You gain the following benefits.
 **Disadvantage.** When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.
 
 #### Mage Slayer
+
+# Mage Slayer
+
+**Source URL:** http://dnd2024.wikidot.com/feat:mage-slayer
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+*
 
@@ -10194,6 +11336,14 @@ You gain the following benefits.
 
 #### Martial Weapon Training
 
+# Martial Weapon Training
+
+**Source URL:** http://dnd2024.wikidot.com/feat:martial-weapon-training
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10203,6 +11353,14 @@ You gain the following benefits.
 **Weapon Proficiency.** You gain proficiency with Martial weapons.
 
 #### Medium Armor Master
+
+# Medium Armor Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:medium-armor-master
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Medium Armor Training*
 
@@ -10214,6 +11372,14 @@ You gain the following benefits.
 
 #### Moderately Armored
 
+# Moderately Armored
+
+**Source URL:** http://dnd2024.wikidot.com/feat:moderately-armored
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Light Armor Training*
 
 You gain the following benefits.
@@ -10223,6 +11389,14 @@ You gain the following benefits.
 **Armor Training.** You gain training with Medium armor.
 
 #### Mounted Combatant
+
+# Mounted Combatant
+
+**Source URL:** http://dnd2024.wikidot.com/feat:mounted-combatant
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+*
 
@@ -10238,6 +11412,14 @@ You gain the following benefits.
 
 #### Musician
 
+# Musician
+
+**Source URL:** http://dnd2024.wikidot.com/feat:musician
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
 **Instrument Training.** You gain proficiency with three Musical Instruments of your choice.
@@ -10245,6 +11427,14 @@ You gain the following benefits.
 **Encouraging Song.** As you finish a Short or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency Bonus.
 
 #### Observant
+
+# Observant
+
+**Source URL:** http://dnd2024.wikidot.com/feat:observant
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Intelligence or Wisdom 13+*
 
@@ -10258,6 +11448,14 @@ You gain the following benefits.
 
 #### Piercer
 
+# Piercer
+
+**Source URL:** http://dnd2024.wikidot.com/feat:piercer
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10269,6 +11467,14 @@ You gain the following benefits.
 **Enhanced Critical.** When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
 
 #### Poisoner
+
+# Poisoner
+
+**Source URL:** http://dnd2024.wikidot.com/feat:poisoner
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+*
 
@@ -10282,6 +11488,14 @@ You gain the following benefits.
 
 #### Polearm Master
 
+# Polearm Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:polearm-master
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Strength or Dexterity 13+)*
 
 You gain the following benefits.
@@ -10294,6 +11508,14 @@ You gain the following benefits.
 
 #### Resilient
 
+# Resilient
+
+**Source URL:** http://dnd2024.wikidot.com/feat:resilient
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10303,6 +11525,14 @@ You gain the following benefits.
 **Saving Throw Proficiency.** You gain saving throw proficiency with the chosen ability.
 
 #### Ritual Caster
+
+# Ritual Caster
+
+**Source URL:** http://dnd2024.wikidot.com/feat:ritual-caster
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Intelligence, Wisdom, or Charisma 13+*
 
@@ -10316,6 +11546,14 @@ You gain the following benefits.
 
 #### Sentinel
 
+# Sentinel
+
+**Source URL:** http://dnd2024.wikidot.com/feat:sentinel
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Strength or Dexterity 13+*
 
 You gain the following benefits.
@@ -10328,15 +11566,31 @@ You gain the following benefits.
 
 #### Shadow Touched
 
+# Shadow Touched
+
+**Source URL:** http://dnd2024.wikidot.com/feat:shadow-touched
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 Your exposure to the Shadowfell's magic grants you the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Shadow Magic.** Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the [Invisibility](#invisibility) spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
+**Shadow Magic.** Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the [Invisibility](#invisibility-1) spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
 #### Sharpshooter
+
+# Sharpshooter
+
+**Source URL:** http://dnd2024.wikidot.com/feat:sharpshooter
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Dexterity 13+*
 
@@ -10352,6 +11606,14 @@ You gain the following benefits.
 
 #### Shield Master
 
+# Shield Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:shield-master
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Shield Training*
 
 You gain the following benefits.
@@ -10364,6 +11626,14 @@ You gain the following benefits.
 
 #### Skill Expert
 
+# Skill Expert
+
+**Source URL:** http://dnd2024.wikidot.com/feat:skill-expert
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10375,6 +11645,14 @@ You gain the following benefits.
 **Expertise.** Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
 
 #### Skulker
+
+# Skulker
+
+**Source URL:** http://dnd2024.wikidot.com/feat:skulker
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Dexterity 13+*
 
@@ -10390,6 +11668,14 @@ You gain the following benefits.
 
 #### Slasher
 
+# Slasher
+
+**Source URL:** http://dnd2024.wikidot.com/feat:slasher
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10401,6 +11687,14 @@ You gain the following benefits.
 **Enhanced Critical.** When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
 
 #### Speedy
+
+# Speedy
+
+**Source URL:** http://dnd2024.wikidot.com/feat:speedy
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Dexterity or Constitution 13+*
 
@@ -10416,6 +11710,14 @@ You gain the following benefits.
 
 #### Spell Sniper
 
+# Spell Sniper
+
+**Source URL:** http://dnd2024.wikidot.com/feat:spell-sniper
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+, Spellcasting or Pact Magic Feature*
 
 You gain the following benefits.
@@ -10430,6 +11732,14 @@ You gain the following benefits.
 
 #### Tavern Brawler
 
+# Tavern Brawler
+
+**Source URL:** http://dnd2024.wikidot.com/feat:tavern-brawler
+
+---
+
+Source: Player's Handbook
+
 You gain the following benefits.
 
 **Enhanced Unarmed Strike.** When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.
@@ -10442,17 +11752,33 @@ You gain the following benefits.
 
 #### Telekinetic
 
+# Telekinetic
+
+**Source URL:** http://dnd2024.wikidot.com/feat:telekinetic
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
-**Minor Telekinesis.** You learn the [Mage Hand](#mage-hand) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell’s spellcasting ability is the ability increased by this feat.
+**Minor Telekinesis.** You learn the [Mage Hand](#mage-hand-1) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell’s spellcasting ability is the ability increased by this feat.
 
 **Telekinetic Shove.** As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
 
 #### Telepathic
+
+# Telepathic
+
+**Source URL:** http://dnd2024.wikidot.com/feat:telepathic
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+*
 
@@ -10462,13 +11788,29 @@ You gain the following benefits.
 
 **Telepathic Utterance.** You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.
 
-**Detect Thoughts.** You always have the [Detect Thoughts](#detect-thoughts) spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
+**Detect Thoughts.** You always have the [Detect Thoughts](#detect-thoughts-1) spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
 
 #### Tough
+
+# Tough
+
+**Source URL:** http://dnd2024.wikidot.com/feat:tough
+
+---
+
+Source: Player's Handbook
 
 Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.
 
 #### War Caster
+
+# War Caster
+
+**Source URL:** http://dnd2024.wikidot.com/feat:war-caster
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 4+, Spellcasting or Pact Magic Feature*
 
@@ -10484,6 +11826,14 @@ You gain the following benefits.
 
 #### Weapon Master
 
+# Weapon Master
+
+**Source URL:** http://dnd2024.wikidot.com/feat:weapon-master
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 4+*
 
 You gain the following benefits.
@@ -10496,11 +11846,27 @@ You gain the following benefits.
 
 #### Archery
 
+# Archery
+
+**Source URL:** http://dnd2024.wikidot.com/feat:archery
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Fighting Style Feature*
 
 You gain a +2 bonus to attack rolls you make with Ranged weapons.
 
 #### Blind Fighting
+
+# Blind Fighting
+
+**Source URL:** http://dnd2024.wikidot.com/feat:blind-fighting
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Fighting Style Feature*
 
@@ -10508,11 +11874,27 @@ You have Blindsight with a range of 10 feet.
 
 #### Defense
 
+# Defense
+
+**Source URL:** http://dnd2024.wikidot.com/feat:defense
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Fighting Style Feature*
 
 While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.
 
 #### Dueling
+
+# Dueling
+
+**Source URL:** http://dnd2024.wikidot.com/feat:dueling
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Fighting Style Feature*
 
@@ -10520,11 +11902,27 @@ When you're holding a Melee weapon in one hand and no other weapons, you gain a 
 
 #### Great Weapon Fighting
 
+# Great Weapon Fighting
+
+**Source URL:** http://dnd2024.wikidot.com/feat:great-weapon-fighting
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Fighting Style Feature*
 
 When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
 #### Interception
+
+# Interception
+
+**Source URL:** http://dnd2024.wikidot.com/feat:interception
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Fighting Style Feature*
 
@@ -10532,11 +11930,27 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 #### Protection
 
+# Protection
+
+**Source URL:** http://dnd2024.wikidot.com/feat:protection
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Fighting Style Feature*
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a Reaction to interpose your Shield if you're holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 #### Thrown Weapon Fighting
+
+# Thrown Weapon Fighting
+
+**Source URL:** http://dnd2024.wikidot.com/feat:thrown-weapon-fighting
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Fighting Style Feature*
 
@@ -10544,11 +11958,27 @@ When you hit with a ranged attack roll using a weapon that has the Thrown proper
 
 #### Two Weapon Fighting
 
+# Two Weapon Fighting
+
+**Source URL:** http://dnd2024.wikidot.com/feat:two-weapon-fighting
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Fighting Style Feature*
 
 When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
 
 #### Unarmed Fighting
+
+# Unarmed Fighting
+
+**Source URL:** http://dnd2024.wikidot.com/feat:unarmed-fighting
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Fighting Style Feature*
 
@@ -10560,6 +11990,14 @@ At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one c
 
 #### Boon of Combat Prowess
 
+# Boon of Combat Prowess
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-combat-prowess
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10570,6 +12008,14 @@ You gain the following benefits.
 
 #### Boon of Dimensional Travel
 
+# Boon of Dimensional Travel
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-dimensional-travel
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10579,6 +12025,14 @@ You gain the following benefits.
 **Blink Steps.** Immediately after you take the Attack action or the Magic action, you can teleport up to 30 feet to an unoccupied space you can see.
 
 #### Boon of Energy Resistance
+
+# Boon of Energy Resistance
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-energy-resistance
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 19+*
 
@@ -10594,6 +12048,14 @@ benefit, you can take a Reaction to direct damage of the same type toward anothe
 
 #### Boon of Fate
 
+# Boon of Fate
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-fate
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10604,6 +12066,14 @@ You gain the following benefits.
 
 #### Boon of Fortitude
 
+# Boon of Fortitude
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-fortitude
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10613,6 +12083,14 @@ You gain the following benefits.
 **Fortified Health.** Your Hit Point maximum increases by 40. In addition, whenever you regain Hit Points, you can regain additional Hit Points equal to your Constitution modifier. Once you've regained these additional Hit Points, you can't do so again until the start of your next turn.
 
 #### Boon of Irresistible Offense
+
+# Boon of Irresistible Offense
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-irresistible-offense
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 19+*
 
@@ -10626,6 +12104,14 @@ You gain the following benefits.
 
 #### Boon of Recovery
 
+# Boon of Recovery
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-recovery
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10637,6 +12123,14 @@ You gain the following benefits.
 **Recover Vitality.** You have a pool of ten d10s. As a Bonus Action, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll’s total. You regain all the expended dice when you finish a Long Rest.
 
 #### Boon of Skill
+
+# Boon of Skill
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-skill
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 19+*
 
@@ -10652,6 +12146,14 @@ your choice by 1, to a maximum of 30.
 
 #### Boon of Speed
 
+# Boon of Speed
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-speed
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10664,6 +12166,14 @@ You gain the following benefits.
 
 #### Boon of Spell Recall
 
+# Boon of Spell Recall
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-spell-recall
+
+---
+
+Source: Player's Handbook
+
 *Prerequisite: Level 19+*
 
 You gain the following benefits.
@@ -10673,6 +12183,14 @@ You gain the following benefits.
 **Free Casting.** Whenever you cast a spell with a level 1-4 spell slot, roll 1d4. If the number you roll is the same as the slot’s level, the slot isn’t expended.
 
 #### Boon of the Night Spirit
+
+# Boon of the Night Spirit
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-the-night-spirit
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 19+*
 
@@ -10685,6 +12203,14 @@ You gain the following benefits.
 **Shadowy Form.** While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.
 
 #### Boon of Truesight
+
+# Boon of Truesight
+
+**Source URL:** http://dnd2024.wikidot.com/feat:boon-of-truesight
+
+---
+
+Source: Player's Handbook
 
 *Prerequisite: Level 19+*
 
@@ -13248,6 +14774,14 @@ The effects of different spells add together while their durations overlap. In c
 
 #### Acid Splash
 
+# Acid Splash
+
+**Source URL:** http://dnd2024.wikidot.com/spell:acid-splash
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -13264,6 +14798,14 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 
 #### Aid
 
+# Aid
+
+**Source URL:** http://dnd2024.wikidot.com/spell:aid
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action
@@ -13279,6 +14821,14 @@ Choose up to three creatures within range. Each target’s Hit Point maximum and
 **Using a Higher-Level Spell Slot.** Each target’s Hit Points increase by 5 for each spell slot level above 2.
 
 #### Alarm
+
+# Alarm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:alarm
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Abjuration (Artificer, Ranger, Wizard)*
 
@@ -13297,6 +14847,14 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 **Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.
 
 #### Alter Self
+
+# Alter Self
+
+**Source URL:** http://dnd2024.wikidot.com/spell:alter-self
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Artificer, Sorcerer, Wizard)*
 
@@ -13318,6 +14876,14 @@ You alter your physical form. Choose one of the following options. Its effects l
 
 #### Animal Friendship
 
+# Animal Friendship
+
+**Source URL:** http://dnd2024.wikidot.com/spell:animal-friendship
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Bard, Druid, Ranger)*
 
 **Casting Time:** Action
@@ -13333,6 +14899,14 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 **Using a Higher-Level Spell Slot.** You can target one additional Beast for each spell slot level above 1.
 
 #### Animal Messenger
+
+# Animal Messenger
+
+**Source URL:** http://dnd2024.wikidot.com/spell:animal-messenger
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Enchantment (Bard, Druid, Ranger)*
 
@@ -13352,6 +14926,14 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 #### Animal Shapes
 
+# Animal Shapes
+
+**Source URL:** http://dnd2024.wikidot.com/spell:animal-shapes
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Transmutation (Druid)*
 
 **Casting Time:** Action
@@ -13369,6 +14951,14 @@ A target’s game statistics are replaced by the chosen Beast’s statistics, bu
 The target gains a number of Temporary Hit Points equal to the Hit Points of the first form into which it shape-shifts. These Temporary Hit Points vanish if any remain when the spell ends. The transformation lasts for the duration or until the target ends it as a Bonus Action.
 
 #### Animate Dead
+
+# Animate Dead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:animate-dead
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Necromancy (Cleric, Wizard)*
 
@@ -13389,6 +14979,14 @@ The creature is under your control for 24 hours, after which it stops obeying an
 **Using a Higher-Level Spell Slot.** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
 
 #### Animate Objects
+
+# Animate Objects
+
+**Source URL:** http://dnd2024.wikidot.com/spell:animate-objects
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Transmutation (Artificer, Bard, Sorcerer, Wizard)*
 
@@ -13425,6 +15023,14 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 #### Antilife Shell
 
+# Antilife Shell
+
+**Source URL:** http://dnd2024.wikidot.com/spell:antilife-shell
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Abjuration (Druid)*
 
 **Casting Time:** Action
@@ -13440,6 +15046,14 @@ An aura extends from you in a 10-foot Emanation for the duration. The aura preve
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
 #### Antimagic Field
+
+# Antimagic Field
+
+**Source URL:** http://dnd2024.wikidot.com/spell:antimagic-field
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Abjuration (Cleric, Wizard)*
 
@@ -13457,9 +15071,17 @@ Areas of effect created by spells or other magic can’t extend into the aura, a
 
 Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn’t function, but the time it spends suppressed counts against its duration.
 
-[Dispel Magic](#dispel-magic) has no effect on the aura, and the auras created by different Antimagic Field spells don’t nullify each other.
+[Dispel Magic](#dispel-magic-1) has no effect on the aura, and the auras created by different Antimagic Field spells don’t nullify each other.
 
 #### Antipathy/Sympathy
+
+# Antipathy/Sympathy
+
+**Source URL:** http://dnd2024.wikidot.com/spell:antipathy-sympathy
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Enchantment (Bard, Druid, Wizard)*
 
@@ -13481,6 +15103,14 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 #### Arcane Eye
 
+# Arcane Eye
+
+**Source URL:** http://dnd2024.wikidot.com/spell:arcane-eye
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Divination (Artificer, Wizard)*
 
 **Casting Time:** Action
@@ -13496,6 +15126,14 @@ You create an Invisible, invulnerable eye within range that hovers for the durat
 As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
 #### Arcane Gate
+
+# Arcane Gate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:arcane-gate
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Sorcerer, Warlock, Wizard)*
 
@@ -13515,6 +15153,14 @@ A portal is open on only one side (you choose which). Anything entering the open
 
 #### Arcane Lock
 
+# Arcane Lock
+
+**Source URL:** http://dnd2024.wikidot.com/spell:arcane-lock
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** Action
@@ -13528,6 +15174,14 @@ A portal is open on only one side (you choose which). Anything entering the open
 You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can’t be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
 #### Arcane Vigor
+
+# Arcane Vigor
+
+**Source URL:** http://dnd2024.wikidot.com/spell:arcane-vigor
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Abjuration (Artificer, Sorcerer, Wizard)*
 
@@ -13545,6 +15199,14 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 #### Armor of Agathys
 
+# Armor of Agathys
+
+**Source URL:** http://dnd2024.wikidot.com/spell:armor-of-agathys
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Abjuration (Warlock)*
 
 **Casting Time:** Bonus Action
@@ -13561,6 +15223,14 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 
 #### Arms of Hadar
 
+# Arms of Hadar
+
+**Source URL:** http://dnd2024.wikidot.com/spell:arms-of-hadar
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Warlock)*
 
 **Casting Time:** Action
@@ -13576,6 +15246,14 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 #### Astral Projection
+
+# Astral Projection
+
+**Source URL:** http://dnd2024.wikidot.com/spell:astral-projection
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Necromancy (Cleric, Warlock, Wizard)*
 
@@ -13598,6 +15276,14 @@ Any damage or other effects that apply to an astral form have no effect on the t
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
 #### Augury
+
+# Augury
+
+**Source URL:** http://dnd2024.wikidot.com/spell:augury
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Divination (Cleric, Druid, Wizard)*
 
@@ -13626,6 +15312,14 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 #### Aura of Life
 
+# Aura of Life
+
+**Source URL:** http://dnd2024.wikidot.com/spell:aura-of-life
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -13639,6 +15333,14 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can’t be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
 #### Aura of Purity
+
+# Aura of Purity
+
+**Source URL:** http://dnd2024.wikidot.com/spell:aura-of-purity
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Abjuration (Cleric, Paladin)*
 
@@ -13654,6 +15356,14 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 #### Aura of Vitality
 
+# Aura of Vitality
+
+**Source URL:** http://dnd2024.wikidot.com/spell:aura-of-vitality
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Cleric, Druid, Paladin)*
 
 **Casting Time:** Action
@@ -13667,6 +15377,14 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 An aura radiates from you in a 30-foot Emanation for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore 2d6 Hit Points to one creature in it.
 
 #### Awaken
+
+# Awaken
+
+**Source URL:** http://dnd2024.wikidot.com/spell:awaken
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Transmutation (Bard, Druid)*
 
@@ -13684,6 +15402,14 @@ The awakened target has the Charmed condition for 30 days or until you or your a
 
 #### Bane
 
+# Bane
+
+**Source URL:** http://dnd2024.wikidot.com/spell:bane
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Bard, Cleric, Warlock)*
 
 **Casting Time:** Action
@@ -13700,6 +15426,14 @@ Up to three creatures of your choice that you can see within range must each mak
 
 #### Banishing Smite
 
+# Banishing Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:banishing-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
@@ -13713,6 +15447,14 @@ Up to three creatures of your choice that you can see within range must each mak
 The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 #### Banishment
+
+# Banishment
+
+**Source URL:** http://dnd2024.wikidot.com/spell:banishment
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
 
@@ -13732,6 +15474,14 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 
 #### Barkskin
 
+# Barkskin
+
+**Source URL:** http://dnd2024.wikidot.com/spell:barkskin
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Druid, Ranger)*
 
 **Casting Time:** Bonus Action
@@ -13745,6 +15495,14 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
 #### Beacon Of Hope
+
+# Beacon Of Hope
+
+**Source URL:** http://dnd2024.wikidot.com/spell:beacon-of-hope
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Abjuration (Cleric)*
 
@@ -13760,6 +15518,14 @@ Choose any number of creatures within range. For the duration, each target has A
 
 #### Beast Sense
 
+# Beast Sense
+
+**Source URL:** http://dnd2024.wikidot.com/spell:beast-sense
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Divination (Druid, Ranger)*
 
 **Casting Time:** Action or Ritual
@@ -13774,6 +15540,14 @@ You touch a willing Beast. For the duration, you can perceive through the Beast�
 
 #### Befuddlement
 
+# Befuddlement
+
+**Source URL:** http://dnd2024.wikidot.com/spell:befuddlement
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -13786,11 +15560,19 @@ You touch a willing Beast. For the duration, you can perceive through the Beast�
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](#greater-restoration), [Heal](#heal), or [Wish](#wish) spell.
+On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](#greater-restoration-1), [Heal](#heal-1), or [Wish](#wish-1) spell.
 
 On a successful save, the target takes half as much damage only.
 
 #### Bestow Curse
+
+# Bestow Curse
+
+**Source URL:** http://dnd2024.wikidot.com/spell:bestow-curse
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
@@ -13812,6 +15594,14 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 **Using a Higher-Level Spell Slot.** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5–6 slot) or 24 hours (level 7–8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 
 #### Bigby's Hand
+
+# Bigby's Hand
+
+**Source URL:** http://dnd2024.wikidot.com/spell:bigby-s-hand
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Evocation (Artificer, Sorcerer, Wizard)*
 
@@ -13841,6 +15631,14 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 
 #### Blade Barrier
 
+# Blade Barrier
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blade-barrier
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Evocation (Cleric)*
 
 **Casting Time:** Action
@@ -13857,6 +15655,14 @@ Any creature in the wall’s space makes a Dexterity saving throw, taking 6d10 F
 
 #### Blade Ward
 
+# Blade Ward
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blade-ward
+
+---
+
+Source: Player's Handbook
+
 *Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -13870,6 +15676,14 @@ Any creature in the wall’s space makes a Dexterity saving throw, taking 6d10 F
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 
 #### Bless
+
+# Bless
+
+**Source URL:** http://dnd2024.wikidot.com/spell:bless
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Enchantment (Cleric, Paladin)*
 
@@ -13886,6 +15700,14 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
 #### Blight
+
+# Blight
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blight
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
 
@@ -13905,6 +15727,14 @@ Alternatively, target a nonmagical plant that isn’t a creature, such as a tree
 
 #### Blinding Smite
 
+# Blinding Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blinding-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Evocation (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
@@ -13920,6 +15750,14 @@ The target hit by the strike takes an extra 3d8 Radiant damage from the attack, 
 **Using a Higher-Level Spell Slot.** The extra damage increases by 1d8 for each spell slot level above 3.
 
 #### Blindness/Deafness
+
+# Blindness/Deafness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blindness-deafness
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
 
@@ -13937,6 +15775,14 @@ One creature that you can see within range must succeed on a Constitution saving
 
 #### Blink
 
+# Blink
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blink
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Transmutation (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -13953,6 +15799,14 @@ You return to the other plane at the start of your next turn and when the spell 
 
 #### Blur
 
+# Blur
+
+**Source URL:** http://dnd2024.wikidot.com/spell:blur
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Illusion (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -13966,6 +15820,14 @@ You return to the other plane at the start of your next turn and when the spell 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 
 #### Burning Hands
+
+# Burning Hands
+
+**Source URL:** http://dnd2024.wikidot.com/spell:burning-hands
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -13984,6 +15846,14 @@ Flammable objects in the Cone that aren’t being worn or carried start burning.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 #### Call Lightning
+
+# Call Lightning
+
+**Source URL:** http://dnd2024.wikidot.com/spell:call-lightning
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Conjuration (Druid)*
 
@@ -14007,6 +15877,14 @@ If you’re outdoors in a storm when you cast this spell, the spell gives you co
 
 #### Calm Emotions
 
+# Calm Emotions
+
+**Source URL:** http://dnd2024.wikidot.com/spell:calm-emotions
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Enchantment (Bard, Cleric)*
 
 **Casting Time:** Action
@@ -14024,6 +15902,14 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 - The creature becomes Indifferent about creatures of your choice that it’s Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature’s attitude returns to normal.
 
 #### Chain Lightning
+
+# Chain Lightning
+
+**Source URL:** http://dnd2024.wikidot.com/spell:chain-lightning
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Evocation (Sorcerer, Wizard)*
 
@@ -14043,6 +15929,14 @@ Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a fa
 
 #### Charm Monster
 
+# Charm Monster
+
+**Source URL:** http://dnd2024.wikidot.com/spell:charm-monster
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -14058,6 +15952,14 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 
 #### Charm Person
+
+# Charm Person
+
+**Source URL:** http://dnd2024.wikidot.com/spell:charm-person
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -14075,6 +15977,14 @@ One Humanoid you can see within range makes a Wisdom saving throw. It does so wi
 
 #### Chill Touch
 
+# Chill Touch
+
+**Source URL:** http://dnd2024.wikidot.com/spell:chill-touch
+
+---
+
+Source: Player's Handbook
+
 *Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -14090,6 +16000,14 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 **Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 #### Chromatic Orb
+
+# Chromatic Orb
+
+**Source URL:** http://dnd2024.wikidot.com/spell:chromatic-orb
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -14109,6 +16027,14 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 
 #### Circle Of Death
 
+# Circle Of Death
+
+**Source URL:** http://dnd2024.wikidot.com/spell:circle-of-death
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -14125,6 +16051,14 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose w
 
 #### Circle Of Power
 
+# Circle Of Power
+
+**Source URL:** http://dnd2024.wikidot.com/spell:circle-of-power
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Abjuration (Artificer, Cleric, Paladin, Wizard)*
 
 **Casting Time:** Action
@@ -14138,6 +16072,14 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose w
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Advantage on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
 
 #### Clairvoyance
+
+# Clairvoyance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:clairvoyance
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
 
@@ -14157,6 +16099,14 @@ A creature that sees the sensor (such as a creature benefiting from See Invisibi
 
 #### Clone
 
+# Clone
+
+**Source URL:** http://dnd2024.wikidot.com/spell:clone
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Necromancy (Wizard)*
 
 **Casting Time:** 1 hour
@@ -14172,6 +16122,14 @@ You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate o
 If the original creature dies after the clone finishes forming, the creature’s soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original’s equipment. The creature’s original remains, if any, become inert and can’t be revived, since the creature’s soul is elsewhere.
 
 #### Cloud Of Daggers
+
+# Cloud Of Daggers
+
+**Source URL:** http://dnd2024.wikidot.com/spell:cloud-of-daggers
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -14190,6 +16148,14 @@ On your later turns, you can take a Magic action to teleport the Cube up to 30 f
 **Using a Higher-Level Spell Slot.** The damage increases by 2d4 for each spell slot level above 2.
 
 #### Cloudkill
+
+# Cloudkill
+
+**Source URL:** http://dnd2024.wikidot.com/spell:cloudkill
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Conjuration (Sorcerer, Wizard)*
 
@@ -14211,6 +16177,14 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 
 #### Color Spray
 
+# Color Spray
+
+**Source URL:** http://dnd2024.wikidot.com/spell:color-spray
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -14224,6 +16198,14 @@ The Sphere moves 10 feet away from you at the start of each of your turns.
 You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
 
 #### Command
+
+# Command
+
+**Source URL:** http://dnd2024.wikidot.com/spell:command
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Enchantment (Bard, Cleric, Paladin)*
 
@@ -14251,6 +16233,14 @@ You speak a one-word command to a creature you can see within range. The target 
 
 #### Commune
 
+# Commune
+
+**Source URL:** http://dnd2024.wikidot.com/spell:commune
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Divination (Cleric)*
 
 **Casting Time:** 1 minute or Ritual
@@ -14268,6 +16258,14 @@ Divine beings aren't necessarily omniscient, so you might receive “unclear” 
 If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 #### Commune With Nature
+
+# Commune With Nature
+
+**Source URL:** http://dnd2024.wikidot.com/spell:commune-with-nature
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Divination (Druid, Ranger)*
 
@@ -14293,6 +16291,14 @@ For example, you could determine the location of a powerful monster in the area,
 
 #### Compelled Duel
 
+# Compelled Duel
+
+**Source URL:** http://dnd2024.wikidot.com/spell:compelled-duel
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Paladin)*
 
 **Casting Time:** Bonus Action
@@ -14309,6 +16315,14 @@ The spell ends if you make an attack roll against a creature other than the targ
 
 #### Comprehend Languages
 
+# Comprehend Languages
+
+**Source URL:** http://dnd2024.wikidot.com/spell:comprehend-languages
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -14322,6 +16336,14 @@ The spell ends if you make an attack roll against a creature other than the targ
 For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
 
 #### Compulsion
+
+# Compulsion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:compulsion
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Enchantment (Bard)*
 
@@ -14339,6 +16361,14 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 
 #### Cone Of Cold
 
+# Cone Of Cold
+
+**Source URL:** http://dnd2024.wikidot.com/spell:cone-of-cold
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Evocation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -14354,6 +16384,14 @@ You unleash a blast of cold air. Each creature in a 60-foot Cone originating fro
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 5.
 
 #### Confusion
+
+# Confusion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:confusion
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
 
@@ -14380,6 +16418,14 @@ At the end of each of its turns, an affected target repeats the save, ending the
 
 #### Conjure Animals
 
+# Conjure Animals
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-animals
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -14400,6 +16446,14 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 
 #### Conjure Barrage
 
+# Conjure Barrage
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-barrage
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Conjuration (Ranger)*
 
 **Casting Time:** Action
@@ -14415,6 +16469,14 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 3.
 
 #### Conjure Celestial
+
+# Conjure Celestial
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-celestial
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Conjuration (Cleric)*
 
@@ -14440,6 +16502,14 @@ Whenever the Cylinder moves into the space of a creature you can see and wheneve
 
 #### Conjure Elemental
 
+# Conjure Elemental
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-elemental
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Druid, Wizard)*
 
 **Casting Time:** Action
@@ -14457,6 +16527,14 @@ Whenever a creature you can see enters the spirit’s space or starts its turn w
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 5.
 
 #### Conjure Fey
+
+# Conjure Fey
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-fey
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Druid)*
 
@@ -14476,6 +16554,14 @@ As a Bonus Action on your later turns, you can teleport the spirit to an unoccup
 
 #### Conjure Minor Elementals
 
+# Conjure Minor Elementals
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-minor-elementals
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Druid, Wizard)*
 
 **Casting Time:** Action
@@ -14494,6 +16580,14 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 #### Conjure Volley
 
+# Conjure Volley
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-volley
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Ranger)*
 
 **Casting Time:** Action
@@ -14507,6 +16601,14 @@ In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high Cylinder centered on that point makes a Dexterity saving throw. A creature takes 8d8 Force damage on a failed save or half as much damage on a successful one.
 
 #### Conjure Woodland Beings
+
+# Conjure Woodland Beings
+
+**Source URL:** http://dnd2024.wikidot.com/spell:conjure-woodland-beings
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Druid, Ranger)*
 
@@ -14526,6 +16628,14 @@ In addition, you can take the Disengage action as a Bonus Action for the spell�
 
 #### Contact Other Plane
 
+# Contact Other Plane
+
+**Source URL:** http://dnd2024.wikidot.com/spell:contact-other-plane
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Divination (Warlock, Wizard)*
 
 **Casting Time:** 1 minute or Ritual
@@ -14541,6 +16651,14 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other kn
 On a failed save, you take 6d6 Psychic damage and have the Incapacitated condition until you finish a Long Rest. A Greater Restoration spell cast on you ends this effect.
 
 #### Contagion
+
+# Contagion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:contagion
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Necromancy (Cleric, Druid)*
 
@@ -14560,6 +16678,14 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 
 #### Contingency
 
+# Contingency
+
+**Source URL:** http://dnd2024.wikidot.com/spell:contingency
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Abjuration (Wizard)*
 
 **Casting Time:** 10 minutes
@@ -14578,6 +16704,14 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 #### Continual Flame
 
+# Continual Flame
+
+**Source URL:** http://dnd2024.wikidot.com/spell:continual-flame
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Evocation (Artificer, Cleric, Druid, Wizard)*
 
 **Casting Time:** Action
@@ -14591,6 +16725,14 @@ The contingent spell takes effect only on you, even if it can normally target ot
 A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
 
 #### Control Water
+
+# Control Water
+
+**Source URL:** http://dnd2024.wikidot.com/spell:control-water
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Transmutation (Cleric, Druid, Wizard)*
 
@@ -14615,6 +16757,14 @@ The water level remains elevated until the spell ends or you choose a different 
 **Whirlpool.** You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes 2d8 Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength (Athletics) check against your spell save DC.
 
 #### Control Weather
+
+# Control Weather
+
+**Source URL:** http://dnd2024.wikidot.com/spell:control-weather
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Transmutation (Cleric, Druid, Wizard)*
 
@@ -14665,6 +16815,14 @@ When you change the weather conditions, find a current condition on the followin
 
 #### Cordon Of Arrows
 
+# Cordon Of Arrows
+
+**Source URL:** http://dnd2024.wikidot.com/spell:cordon-of-arrows
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Ranger)*
 
 **Casting Time:** Action
@@ -14683,6 +16841,14 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 #### Counterspell
 
+# Counterspell
+
+**Source URL:** http://dnd2024.wikidot.com/spell:counterspell
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
@@ -14697,6 +16863,14 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 #### Create Food And Water
 
+# Create Food And Water
+
+**Source URL:** http://dnd2024.wikidot.com/spell:create-food-and-water
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Conjuration (Artificer, Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -14710,6 +16884,14 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range - both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
 
 #### Create or Destroy Water
+
+# Create or Destroy Water
+
+**Source URL:** http://dnd2024.wikidot.com/spell:create-or-destroy-water
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Transmutation (Cleric, Druid)*
 
@@ -14731,6 +16913,14 @@ You do one of the following:
 
 #### Create Undead
 
+# Create Undead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:create-undead
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Necromancy (Cleric, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
@@ -14750,6 +16940,14 @@ The creature is under your control for 24 hours, after which it stops obeying an
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four Ghouls. If you use a level 8 spell slot, you can animate or reassert control over five Ghouls or two Ghasts or Wights. If you use a level 9 spell slot, you can animate or reassert control over six Ghouls, three Ghasts or Wights, or two Mummies. See the Monster Manual for these stat blocks.
 
 #### Creation
+
+# Creation
+
+**Source URL:** http://dnd2024.wikidot.com/spell:creation
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Illusion (Artificer, Sorcerer, Wizard)*
 
@@ -14779,6 +16977,14 @@ The spell’s duration depends on the object’s material, as shown in the Mater
 
 #### Crown Of Madness
 
+# Crown Of Madness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:crown-of-madness
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -14797,6 +17003,14 @@ On your later turns, you must take the Magic action to maintain control of the t
 
 #### Crusader's Mantle
 
+# Crusader's Mantle
+
+**Source URL:** http://dnd2024.wikidot.com/spell:crusader-s-mantle
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Evocation (Paladin)*
 
 **Casting Time:** Action
@@ -14810,6 +17024,14 @@ On your later turns, you must take the Magic action to maintain control of the t
 You radiate a magical aura in a 30-foot Emanation. While in the aura, you and your allies each deal an extra 1d4 Radiant damage when hitting with a weapon or an Unarmed Strike.
 
 #### Cure Wounds
+
+# Cure Wounds
+
+**Source URL:** http://dnd2024.wikidot.com/spell:cure-wounds
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -14827,6 +17049,14 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 #### Dancing Lights
 
+# Dancing Lights
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dancing-lights
+
+---
+
+Source: Player's Handbook
+
 *Illusion Cantrip (Artificer, Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -14842,6 +17072,14 @@ You create up to four torch-size lights within range, making them appear as torc
 As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell’s range.
 
 #### Darkness
+
+# Darkness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:darkness
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Evocation (Sorcerer, Warlock, Wizard)*
 
@@ -14861,6 +17099,14 @@ If any of this spell’s area overlaps with an area of Bright Light or Dim Light
 
 #### Darkvision
 
+# Darkvision
+
+**Source URL:** http://dnd2024.wikidot.com/spell:darkvision
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -14874,6 +17120,14 @@ If any of this spell’s area overlaps with an area of Bright Light or Dim Light
 For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 
 #### Daylight
+
+# Daylight
+
+**Source URL:** http://dnd2024.wikidot.com/spell:daylight
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
 
@@ -14893,6 +17147,14 @@ If any of this spell’s area overlaps with an area of Darkness created by a spe
 
 #### Death Ward
 
+# Death Ward
+
+**Source URL:** http://dnd2024.wikidot.com/spell:death-ward
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -14908,6 +17170,14 @@ You touch a creature and grant it a measure of protection from death. The first 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 
 #### Delayed Blast Fireball
+
+# Delayed Blast Fireball
+
+**Source URL:** http://dnd2024.wikidot.com/spell:delayed-blast-fireball
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Evocation (Sorcerer, Wizard)*
 
@@ -14931,6 +17201,14 @@ When the bead explodes, flammable objects in the explosion that aren’t being w
 
 #### Demiplane
 
+# Demiplane
+
+**Source URL:** http://dnd2024.wikidot.com/spell:demiplane
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Conjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -14949,6 +17227,14 @@ Each time you cast this spell, you can create a new demiplane or connect the sha
 
 #### Destructive Wave
 
+# Destructive Wave
+
+**Source URL:** http://dnd2024.wikidot.com/spell:destructive-wave
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Evocation (Paladin)*
 
 **Casting Time:** Action
@@ -14963,6 +17249,14 @@ Destructive energy ripples outward from you in a 30-foot Emanation. Each creatur
 
 #### Detect Evil and Good
 
+# Detect Evil and Good
+
+**Source URL:** http://dnd2024.wikidot.com/spell:detect-evil-and-good
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Divination (Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -14973,11 +17267,19 @@ Destructive energy ripples outward from you in a 30-foot Emanation. Each creatur
 
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the [Hallow](#hallow) spell is active there and, if so, where.
+For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the [Hallow](#hallow-1) spell is active there and, if so, where.
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
 #### Detect Magic
+
+# Detect Magic
+
+**Source URL:** http://dnd2024.wikidot.com/spell:detect-magic
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Divination (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
@@ -14995,6 +17297,14 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 #### Detect Poison and Disease
 
+# Detect Poison and Disease
+
+**Source URL:** http://dnd2024.wikidot.com/spell:detect-poison-and-disease
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Divination (Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action or Ritual
@@ -15010,6 +17320,14 @@ For the duration, you sense the location of poisons, poisonous or venomous creat
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
 #### Detect Thoughts
+
+# Detect Thoughts
+
+**Source URL:** http://dnd2024.wikidot.com/spell:detect-thoughts
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Divination (Bard, Sorcerer, Wizard)*
 
@@ -15033,6 +17351,14 @@ As a Magic action on your next turn, you can try to probe deeper into the target
 
 #### Dimension Door
 
+# Dimension Door
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dimension-door
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -15050,6 +17376,14 @@ You can also teleport one willing creature. The creature must be within 5 feet o
 If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take 4d6 Force damage, and the teleportation fails.
 
 #### Disguise Self
+
+# Disguise Self
+
+**Source URL:** http://dnd2024.wikidot.com/spell:disguise-self
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Illusion (Artificer, Bard, Sorcerer, Wizard)*
 
@@ -15069,6 +17403,14 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 #### Disintegrate
 
+# Disintegrate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:disintegrate
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15079,15 +17421,23 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 **Duration:** Instantaneous
 
-You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by [Wall of Force](#wall-of-force).
+You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by [Wall of Force](#wall-of-force-1).
 
-A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 Force damage. If this damage reduces it to 0 Hit Points, it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [True Resurrection](#true-resurrection) or a [Wish](#wish) spell.
+A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 Force damage. If this damage reduces it to 0 Hit Points, it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a [True Resurrection](#true-resurrection-1) or a [Wish](#wish-1) spell.
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a 10-foot-Cube portion of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by 3d6 for each spell slot level above 6.
 
 #### Dispel Evil and Good
+
+# Dispel Evil and Good
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dispel-evil-and-good
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Abjuration (Cleric, Paladin)*
 
@@ -15107,6 +17457,14 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvant
 
 #### Dispel Magic
 
+# Dispel Magic
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dispel-magic
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -15122,6 +17480,14 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 **Using a Higher-Level Spell Slot.** You automatically end a spell on the target if the spell’s level is equal to or less than the level of the spell slot you use.
 
 #### Dissonant Whispers
+
+# Dissonant Whispers
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dissonant-whispers
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Enchantment (Bard)*
 
@@ -15139,6 +17505,14 @@ One creature of your choice that you can see within range hears a discordant mel
 
 #### Divination
 
+# Divination
+
+**Source URL:** http://dnd2024.wikidot.com/spell:divination
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Divination (Cleric, Druid, Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -15155,6 +17529,14 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 #### Divine Favor
 
+# Divine Favor
+
+**Source URL:** http://dnd2024.wikidot.com/spell:divine-favor
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Paladin)*
 
 **Casting Time:** Bonus Action
@@ -15168,6 +17550,14 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 
 #### Divine Smite
+
+# Divine Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:divine-smite
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Paladin)*
 
@@ -15185,6 +17575,14 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 
 #### Divine Word
 
+# Divine Word
+
+**Source URL:** http://dnd2024.wikidot.com/spell:divine-word
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Evocation (Cleric)*
 
 **Casting Time:** Bonus Action
@@ -15195,7 +17593,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 
 **Duration:** Instantaneous
 
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to the current plane for 24 hours by any means short of a [Wish](#wish) spell.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to the current plane for 24 hours by any means short of a [Wish](#wish-1) spell.
 
 ##### Divine Word Effects
 
@@ -15207,6 +17605,14 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 | 41-50 | The target has the Deafened condition for 1 minute. |
 
 #### Dominate Beast
+
+# Dominate Beast
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dominate-beast
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Enchantment (Druid, Ranger, Sorcerer)*
 
@@ -15228,6 +17634,14 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 #### Dominate Monster
 
+# Dominate Monster
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dominate-monster
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -15247,6 +17661,14 @@ You can command the target to take a Reaction but must take your own Reaction to
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
 
 #### Dominate Person
+
+# Dominate Person
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dominate-person
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -15268,6 +17690,14 @@ You can command the target to take a Reaction but must take your own Reaction to
 
 #### Dragon's Breath
 
+# Dragon's Breath
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dragon-s-breath
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action
@@ -15283,6 +17713,14 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 
 #### Drawmij's Instant Summons
+
+# Drawmij's Instant Summons
+
+**Source URL:** http://dnd2024.wikidot.com/spell:drawmij-s-instant-summons
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Wizard)*
 
@@ -15301,6 +17739,14 @@ Thereafter, you can take a Magic action to speak the object’s name and crush t
 If another creature is holding or carrying the object, crushing the sapphire doesn’t transport it, but instead you learn who that creature is and where that creature is currently located.
 
 #### Dream
+
+# Dream
+
+**Source URL:** http://dnd2024.wikidot.com/spell:dream
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 
@@ -15321,6 +17767,14 @@ If the target is awake when you cast the spell, the messenger knows it and can e
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
 
 #### Druidcraft
+
+# Druidcraft
+
+**Source URL:** http://dnd2024.wikidot.com/spell:druidcraft
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Druid)*
 
@@ -15343,6 +17797,14 @@ Whispering to the spirits of nature, you create one of the following effects wit
 **Fire Play.** You light or snuff out a candle, a torch, or a campfire.
 
 #### Earthquake
+
+# Earthquake
+
+**Source URL:** http://dnd2024.wikidot.com/spell:earthquake
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Transmutation (Cleric, Druid, Sorcerer)*
 
@@ -15368,6 +17830,14 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 #### Eldritch Blast
 
+# Eldritch Blast
+
+**Source URL:** http://dnd2024.wikidot.com/spell:eldritch-blast
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Warlock)*
 
 **Casting Time:** Action
@@ -15384,6 +17854,14 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 #### Elemental Weapon
 
+# Elemental Weapon
+
+**Source URL:** http://dnd2024.wikidot.com/spell:elemental-weapon
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Transmutation (Artificer, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action
@@ -15399,6 +17877,14 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 **Using a Higher-Level Spell Slot.** If you use a level 5–6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to 2d4. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to 3d4.
 
 #### Elementalism
+
+# Elementalism
+
+**Source URL:** http://dnd2024.wikidot.com/spell:elementalism
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Artificer, Druid, Sorcerer, Wizard)*
 
@@ -15424,6 +17910,14 @@ You exert control over the elements, creating one of the following effects withi
 
 #### Enhance Ability
 
+# Enhance Ability
+
+**Source URL:** http://dnd2024.wikidot.com/spell:enhance-ability
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15439,6 +17933,14 @@ You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Ch
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
 #### Enlarge/Reduce
+
+# Enlarge/Reduce
+
+**Source URL:** http://dnd2024.wikidot.com/spell:enlarge-reduce
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Artificer, Bard, Druid, Sorcerer, Wizard)*
 
@@ -15460,6 +17962,14 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 #### Ensnaring Strike
 
+# Ensnaring Strike
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ensnaring-strike
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Ranger)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon
@@ -15478,6 +17988,14 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 #### Entangle
 
+# Entangle
+
+**Source URL:** http://dnd2024.wikidot.com/spell:entangle
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -15494,6 +18012,14 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 
 #### Enthrall
 
+# Enthrall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:enthrall
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Enchantment (Bard, Warlock)*
 
 **Casting Time:** Action
@@ -15507,6 +18033,14 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a −10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
 
 #### Etherealness
+
+# Etherealness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:etherealness
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
@@ -15530,6 +18064,14 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 #### Evard's Black Tentacles
 
+# Evard's Black Tentacles
+
+**Source URL:** http://dnd2024.wikidot.com/spell:evard-s-black-tentacles
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Wizard)*
 
 **Casting Time:** Action
@@ -15548,6 +18090,14 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 #### Expeditious Retreat
 
+# Expeditious Retreat
+
+**Source URL:** http://dnd2024.wikidot.com/spell:expeditious-retreat
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action
@@ -15561,6 +18111,14 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
 
 #### Eyebite
+
+# Eyebite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:eyebite
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -15584,6 +18142,14 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 
 #### Fabricate
 
+# Fabricate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fabricate
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Transmutation (Artificer, Wizard)*
 
 **Casting Time:** 10 minutes
@@ -15602,6 +18168,14 @@ Creatures and magic items can’t be created by this spell. You also can’t use
 
 #### Faerie Fire
 
+# Faerie Fire
+
+**Source URL:** http://dnd2024.wikidot.com/spell:faerie-fire
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Evocation (Artificer, Bard, Druid)*
 
 **Casting Time:** Action
@@ -15617,6 +18191,14 @@ Objects in a 20-foot Cube within range are outlined in blue, green, or violet li
 Attack rolls against an affected creature or object have Advantage if the attacker can see it.
 
 #### False Life
+
+# False Life
+
+**Source URL:** http://dnd2024.wikidot.com/spell:false-life
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Necromancy (Artificer, Sorcerer, Wizard)*
 
@@ -15634,6 +18216,14 @@ You gain 2d4 + 4 Temporary Hit Points.
 
 #### Fear
 
+# Fear
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fear
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -15650,6 +18240,14 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 
 #### Feather Fall
 
+# Feather Fall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:feather-fall
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Artificer, Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls
@@ -15663,6 +18261,14 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 Choose up to five falling creatures within range. A falling creature’s rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
 #### Feign Death
+
+# Feign Death
+
+**Source URL:** http://dnd2024.wikidot.com/spell:feign-death
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Necromancy (Bard, Cleric, Druid, Wizard)*
 
@@ -15681,6 +18287,14 @@ For the duration, the target appears dead to outward inspection and to spells us
 The target also has Resistance to all damage except Psychic damage, and it has Immunity to the Poisoned condition.
 
 #### Find Familiar
+
+# Find Familiar
+
+**Source URL:** http://dnd2024.wikidot.com/spell:find-familiar
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Conjuration (Wizard)*
 
@@ -15705,6 +18319,14 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 **One Familiar Only.** You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
 #### Find Steed
+
+# Find Steed
+
+**Source URL:** http://dnd2024.wikidot.com/spell:find-steed
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Conjuration (Paladin)*
 
@@ -15748,6 +18370,14 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 #### Find the Path
 
+# Find the Path
+
+**Source URL:** http://dnd2024.wikidot.com/spell:find-the-path
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Divination (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute
@@ -15764,6 +18394,14 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 #### Find Traps
 
+# Find Traps
+
+**Source URL:** http://dnd2024.wikidot.com/spell:find-traps
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Divination (Cleric, Druid, Ranger)*
 
 **Casting Time:** Action
@@ -15774,11 +18412,19 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 **Duration:** Instantaneous
 
-You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the [Alarm](#alarm) or [Glyph of Warding](#glyph-of-warding) spell or a mechanical pit trap, but it wouldn’t reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
+You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the [Alarm](#alarm-1) or [Glyph of Warding](#glyph-of-warding-1) spell or a mechanical pit trap, but it wouldn’t reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
 This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
 
 #### Finger of Death
+
+# Finger of Death
+
+**Source URL:** http://dnd2024.wikidot.com/spell:finger-of-death
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Necromancy (Sorcerer, Warlock, Wizard)*
 
@@ -15796,6 +18442,14 @@ A Humanoid killed by this spell rises at the start of your next turn as a Zombie
 
 #### Fire Bolt
 
+# Fire Bolt
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fire-bolt
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15811,6 +18465,14 @@ You hurl a mote of fire at a creature or an object within range. Make a ranged s
 **Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 #### Fire Shield
+
+# Fire Shield
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fire-shield
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -15830,6 +18492,14 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 #### Fire Storm
 
+# Fire Storm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fire-storm
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Evocation (Cleric, Druid, Sorcerer)*
 
 **Casting Time:** Action
@@ -15845,6 +18515,14 @@ A storm of fire appears within range. The area of the storm consists of up to te
 Flammable objects in the area that aren’t being worn or carried start burning.
 
 #### Fireball
+
+# Fireball
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fireball
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Evocation (Sorcerer, Wizard)*
 
@@ -15863,6 +18541,14 @@ Flammable objects in the area that aren’t being worn or carried start burning.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 
 #### Flame Blade
+
+# Flame Blade
+
+**Source URL:** http://dnd2024.wikidot.com/spell:flame-blade
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Evocation (Druid, Sorcerer)*
 
@@ -15884,6 +18570,14 @@ The flaming blade sheds Bright Light in a 10-foot radius and Dim Light for an ad
 
 #### Flame Strike
 
+# Flame Strike
+
+**Source URL:** http://dnd2024.wikidot.com/spell:flame-strike
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Evocation (Cleric)*
 
 **Casting Time:** Action
@@ -15899,6 +18593,14 @@ A vertical column of brilliant fire roars down from above. Each creature in a 10
 **Using a Higher-Level Spell Slot.** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 
 #### Flaming Sphere
+
+# Flaming Sphere
+
+**Source URL:** http://dnd2024.wikidot.com/spell:flaming-sphere
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -15920,6 +18622,14 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 #### Flesh to Stone
 
+# Flesh to Stone
+
+**Source URL:** http://dnd2024.wikidot.com/spell:flesh-to-stone
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15934,9 +18644,17 @@ You attempt to turn one creature that you can see within range into stone. The t
 
 A Restrained target makes another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and has the Petrified condition for the duration. The successes and failures needn’t be consecutive; keep track of both until the target collects three of a kind.
 
-If you maintain your Concentration on this spell for the entire possible duration, the target is Petrified until the condition is ended by [Greater Restoration](#greater-restoration) or similar magic.
+If you maintain your Concentration on this spell for the entire possible duration, the target is Petrified until the condition is ended by [Greater Restoration](#greater-restoration-1) or similar magic.
 
 #### Fly
+
+# Fly
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fly
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 
@@ -15954,6 +18672,14 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 
 #### Fog Cloud
 
+# Fog Cloud
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fog-cloud
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -15970,6 +18696,14 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 
 #### Forbiddance
 
+# Forbiddance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:forbiddance
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Abjuration (Cleric)*
 
 **Casting Time:** 10 minutes or Ritual
@@ -15980,7 +18714,7 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 
 **Duration:** 1 day
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the [Gate](#gate) spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [Plane Shift](#plane-shift) spell.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can’t teleport into the area or use portals, such as those created by the [Gate](#gate-1) spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the [Plane Shift](#plane-shift-1) spell.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: Aberrations, Celestials, Elementals, Fey, Fiends, and Undead. When a creature of a chosen type enters the spell’s area for the first time on a turn or ends its turn there, the creature takes 5d10 Radiant or Necrotic damage (your choice when you cast this spell).
 
@@ -15989,6 +18723,14 @@ You can designate a password when you cast the spell. A creature that speaks the
 The spell’s area can’t overlap with the area of another *Forbiddance* spell. If you cast *Forbiddance* every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
 #### Forcecage
+
+# Forcecage
+
+**Source URL:** http://dnd2024.wikidot.com/spell:forcecage
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Evocation (Bard, Warlock, Wizard)*
 
@@ -16008,9 +18750,17 @@ When you cast the spell, any creature that is completely inside the cage’s are
 
 A creature inside the cage can’t leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a Charisma saving throw. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn’t exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can’t be dispelled by [Dispel Magic](#dispel-magic).
+This spell can’t be dispelled by [Dispel Magic](#dispel-magic-1).
 
 #### Foresight
+
+# Foresight
+
+**Source URL:** http://dnd2024.wikidot.com/spell:foresight
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Divination (Bard, Druid, Warlock, Wizard)*
 
@@ -16025,6 +18775,14 @@ This spell can’t be dispelled by [Dispel Magic](#dispel-magic).
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
 
 #### Fount of Moonlight
+
+# Fount of Moonlight
+
+**Source URL:** http://dnd2024.wikidot.com/spell:fount-of-moonlight
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Evocation (Bard, Druid)*
 
@@ -16044,6 +18802,14 @@ In addition, immediately after you take damage from a creature you can see withi
 
 #### Freedom of Movement
 
+# Freedom of Movement
+
+**Source URL:** http://dnd2024.wikidot.com/spell:freedom-of-movement
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Abjuration (Artificer, Bard, Cleric, Druid, Ranger)*
 
 **Casting Time:** Action
@@ -16062,6 +18828,14 @@ In addition, the target can spend 5 feet of movement to automatically escape fro
 
 #### Friends
 
+# Friends
+
+**Source URL:** http://dnd2024.wikidot.com/spell:friends
+
+---
+
+Source: Player's Handbook
+
 *Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16077,6 +18851,14 @@ You magically emanate a sense of friendship toward one creature you can see with
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was Charmed by you.
 
 #### Gaseous Form
+
+# Gaseous Form
+
+**Source URL:** http://dnd2024.wikidot.com/spell:gaseous-form
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
 
@@ -16098,6 +18880,14 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 
 #### Gate
 
+# Gate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:gate
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16118,6 +18908,14 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 #### Geas
 
+# Geas
+
+**Source URL:** http://dnd2024.wikidot.com/spell:geas
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
 
 **Casting Time:** 1 minute
@@ -16134,11 +18932,19 @@ While Charmed, the creature takes 5d10 Psychic damage if it acts in a manner dir
 
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
-A [Remove Curse](#remove-curse), [Greater Restoration](#greater-restoration), or [Wish](#wish) spell ends this spell.
+A [Remove Curse](#remove-curse-1), [Greater Restoration](#greater-restoration-1), or [Wish](#wish-1) spell ends this spell.
 
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
 #### Gentle Repose
+
+# Gentle Repose
+
+**Source URL:** http://dnd2024.wikidot.com/spell:gentle-repose
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Necromancy (Cleric, Paladin, Wizard)*
 
@@ -16152,9 +18958,17 @@ A [Remove Curse](#remove-curse), [Greater Restoration](#greater-restoration), or
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become Undead.
 
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as [Raise Dead.](#raise-dead)
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as [Raise Dead.](#raise-dead-1)
 
 #### Giant Insect
+
+# Giant Insect
+
+**Source URL:** http://dnd2024.wikidot.com/spell:giant-insect
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Druid)*
 
@@ -16194,6 +19008,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Glibness
 
+# Glibness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:glibness
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Enchantment (Bard, Warlock)*
 
 **Casting Time:** Action
@@ -16207,6 +19029,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
 #### Globe of Invulnerability
+
+# Globe of Invulnerability
+
+**Source URL:** http://dnd2024.wikidot.com/spell:globe-of-invulnerability
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Abjuration (Sorcerer, Wizard)*
 
@@ -16225,6 +19055,14 @@ Any spell of level 5 or lower cast from outside the barrier can’t affect anyth
 **Using a Higher-Level Spell Slot.** The barrier blocks spells of 1 level higher for each spell slot level above 6.
 
 #### Glyph of Warding
+
+# Glyph of Warding
+
+**Source URL:** http://dnd2024.wikidot.com/spell:glyph-of-warding
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Abjuration (Artificer, Bard, Cleric, Wizard)*
 
@@ -16256,6 +19094,14 @@ When the glyph is triggered, the stored spell takes effect. If the spell has a t
 
 #### Goodberry
 
+# Goodberry
+
+**Source URL:** http://dnd2024.wikidot.com/spell:goodberry
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -16271,6 +19117,14 @@ Ten berries appear in your hand and are infused with magic for the duration. A c
 Uneaten berries disappear when the spell ends.
 
 #### Grasping Vine
+
+# Grasping Vine
+
+**Source URL:** http://dnd2024.wikidot.com/spell:grasping-vine
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Druid, Ranger)*
 
@@ -16292,6 +19146,14 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 
 #### Grease
 
+# Grease
+
+**Source URL:** http://dnd2024.wikidot.com/spell:grease
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16308,6 +19170,14 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 #### Greater Invisibility
 
+# Greater Invisibility
+
+**Source URL:** http://dnd2024.wikidot.com/spell:greater-invisibility
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Illusion (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16321,6 +19191,14 @@ When the grease appears, each creature standing in its area must succeed on a De
 A creature you touch has the Invisible condition until the spell ends.
 
 #### Greater Restoration
+
+# Greater Restoration
+
+**Source URL:** http://dnd2024.wikidot.com/spell:greater-restoration
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 
@@ -16342,6 +19220,14 @@ You touch a creature and magically remove one of the following effects from it:
 
 #### Guardian of Faith
 
+# Guardian of Faith
+
+**Source URL:** http://dnd2024.wikidot.com/spell:guardian-of-faith
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Cleric)*
 
 **Casting Time:** Action
@@ -16358,6 +19244,14 @@ Any enemy that moves to a space within 10 feet of the guardian for the first tim
 
 #### Guards and Wards
 
+# Guards and Wards
+
+**Source URL:** http://dnd2024.wikidot.com/spell:guards-and-wards
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Abjuration (Bard, Wizard)*
 
 **Casting Time:** 1 hour
@@ -16372,23 +19266,31 @@ You create a ward that protects up to 2,500 square feet of floor space. The ward
 
 When you cast this spell, you can specify individuals that are unaffected by the spell’s effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
 
-The spell creates the effects below within the warded area. [Dispel Magic](#dispel-magic) has no effect on *Guards and Wards* itself, but each of the following effects can be dispelled. If all four are dispelled, *Guards and Wards* ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
+The spell creates the effects below within the warded area. [Dispel Magic](#dispel-magic-1) has no effect on *Guards and Wards* itself, but each of the following effects can be dispelled. If all four are dispelled, *Guards and Wards* ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
 
 ***Corridors.*** Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses.
 
-***Doors.*** All doors in the warded area are magically locked, as if sealed by the [Arcane Lock](#arcane-lock) spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
+***Doors.*** All doors in the warded area are magically locked, as if sealed by the [Arcane Lock](#arcane-lock-1) spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall.
 
-***Stairs.*** Webs fill all stairs in the warded area from top to bottom, as in the [Web](#web) spell. These strands regrow in 10 minutes if they are destroyed while *Guards and Wards* lasts.
+***Stairs.*** Webs fill all stairs in the warded area from top to bottom, as in the [Web](#web-1) spell. These strands regrow in 10 minutes if they are destroyed while *Guards and Wards* lasts.
 
 ***Other Spell Effect.*** Place one of the following magical effects within the warded area:
 
-- [Dancing Lights](#dancing-lights) in four corridors, with a simple program that the lights repeat as long as *Guards and Wards* lasts
-- [Magic Mouth](#magic-mouth) in two locations
-- [Stinking Cloud](#stinking-cloud) in two locations (the vapors return within 10 minutes if dispersed while *Guards and Wards* lasts)
-- [Gust of Wind](#gust-of-wind) in one corridor or room (the wind blows continuously while the spell lasts)
-- [Suggestion](#suggestion) in one 5-foot square; any creature that enters that square receives the suggestion mentally
+- [Dancing Lights](#dancing-lights-1) in four corridors, with a simple program that the lights repeat as long as *Guards and Wards* lasts
+- [Magic Mouth](#magic-mouth-1) in two locations
+- [Stinking Cloud](#stinking-cloud-1) in two locations (the vapors return within 10 minutes if dispersed while *Guards and Wards* lasts)
+- [Gust of Wind](#gust-of-wind-1) in one corridor or room (the wind blows continuously while the spell lasts)
+- [Suggestion](#suggestion-1) in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
 #### Guidance
+
+# Guidance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:guidance
+
+---
+
+Source: Player's Handbook
 
 *Divination Cantrip (Artificer, Cleric, Druid)*
 
@@ -16403,6 +19305,14 @@ The spell creates the effects below within the warded area. [Dispel Magic](#disp
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
 #### Guiding Bolt
+
+# Guiding Bolt
+
+**Source URL:** http://dnd2024.wikidot.com/spell:guiding-bolt
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Cleric)*
 
@@ -16419,6 +19329,14 @@ You hurl a bolt of light toward a creature within range. Make a ranged spell att
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 #### Gust of Wind
+
+# Gust of Wind
+
+**Source URL:** http://dnd2024.wikidot.com/spell:gust-of-wind
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -16440,6 +19358,14 @@ As a Bonus Action on your later turns, you can change the direction in which the
 
 #### Hail of Thorns
 
+# Hail of Thorns
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hail-of-thorns
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Ranger)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Ranged weapon
@@ -16455,6 +19381,14 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 
 #### Hallow
+
+# Hallow
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hallow
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Abjuration (Cleric)*
 
@@ -16494,6 +19428,14 @@ You touch a point and infuse an area around it with holy or unholy power. The ar
 
 #### Hallucinatory Terrain
 
+# Hallucinatory Terrain
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hallucinatory-terrain
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Illusion (Bard, Druid, Warlock, Wizard)*
 
 **Casting Time:** 10 minutes
@@ -16510,6 +19452,14 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 #### Harm
 
+# Harm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:harm
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Necromancy (Cleric)*
 
 **Casting Time:** Action
@@ -16523,6 +19473,14 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can’t reduce a target’s Hit Point maximum below 1.
 
 #### Haste
+
+# Haste
+
+**Source URL:** http://dnd2024.wikidot.com/spell:haste
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Artificer, Sorcerer, Wizard)*
 
@@ -16540,6 +19498,14 @@ When the spell ends, the target is Incapacitated and has a Speed of 0 until the 
 
 #### Heal
 
+# Heal
+
+**Source URL:** http://dnd2024.wikidot.com/spell:heal
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Abjuration (Cleric, Druid)*
 
 **Casting Time:** Action
@@ -16556,6 +19522,14 @@ Choose a creature that you can see within range. Positive energy washes through 
 
 #### Healing Word
 
+# Healing Word
+
+**Source URL:** http://dnd2024.wikidot.com/spell:healing-word
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Abjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** Bonus Action
@@ -16571,6 +19545,14 @@ A creature of your choice that you can see within range regains Hit Points equal
 **Using a Higher-Level Spell Slot.** The healing increases by 2d4 for each spell slot level above 1.
 
 #### Heat Metal
+
+# Heat Metal
+
+**Source URL:** http://dnd2024.wikidot.com/spell:heat-metal
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Artificer, Bard, Druid)*
 
@@ -16590,6 +19572,14 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 #### Hellish Rebuke
 
+# Hellish Rebuke
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hellish-rebuke
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Evocation (Warlock)*
 
 **Casting Time:** Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself
@@ -16605,6 +19595,14 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 
 #### Heroes' Feast
+
+# Heroes' Feast
+
+**Source URL:** http://dnd2024.wikidot.com/spell:heroes-feast
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Bard, Cleric, Druid)*
 
@@ -16622,6 +19620,14 @@ A creature that partakes gains several benefits, which last for 24 hours. The cr
 
 #### Heroism
 
+# Heroism
+
+**Source URL:** http://dnd2024.wikidot.com/spell:heroism
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Bard, Paladin)*
 
 **Casting Time:** Action
@@ -16637,6 +19643,14 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
 #### Hex
+
+# Hex
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hex
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Enchantment (Warlock)*
 
@@ -16656,6 +19670,14 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 #### Hold Monster
 
+# Hold Monster
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hold-monster
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16671,6 +19693,14 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 5.
 
 #### Hold Person
+
+# Hold Person
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hold-person
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -16688,6 +19718,14 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 
 #### Holy Aura
 
+# Holy Aura
+
+**Source URL:** http://dnd2024.wikidot.com/spell:holy-aura
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Abjuration (Cleric)*
 
 **Casting Time:** Action
@@ -16701,6 +19739,14 @@ Choose a Humanoid that you can see within range. The target must succeed on a Wi
 For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
 #### Hunger of Hadar
+
+# Hunger of Hadar
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hunger-of-hadar
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Conjuration (Warlock)*
 
@@ -16720,6 +19766,14 @@ Any creature that starts its turn in the area takes 2d6 Cold damage. Any creatur
 
 #### Hunter's Mark
 
+# Hunter's Mark
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hunter-s-mark
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Divination (Ranger)*
 
 **Casting Time:** Bonus Action
@@ -16738,6 +19792,14 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 
 #### Hypnotic Pattern
 
+# Hypnotic Pattern
+
+**Source URL:** http://dnd2024.wikidot.com/spell:hypnotic-pattern
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16754,6 +19816,14 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 #### Ice Knife
 
+# Ice Knife
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ice-knife
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16769,6 +19839,14 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 **Using a Higher-Level Spell Slot.** The Cold damage increases by 1d6 for each spell slot level above 1.
 
 #### Ice Storm
+
+# Ice Storm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ice-storm
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -16788,6 +19866,14 @@ Hailstones turn ground in the Cylinder into Difficult Terrain until the end of y
 
 #### Identify
 
+# Identify
+
+**Source URL:** http://dnd2024.wikidot.com/spell:identify
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Divination (Artificer, Bard, Wizard)*
 
 **Casting Time:** 1 minute or Ritual
@@ -16803,6 +19889,14 @@ You touch an object throughout the spell’s casting. If the object is a magic i
 If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 
 #### Illusory Script
+
+# Illusory Script
+
+**Source URL:** http://dnd2024.wikidot.com/spell:illusory-script
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Illusion (Bard, Warlock, Wizard)*
 
@@ -16821,6 +19915,14 @@ If the spell is dispelled, the original script and the illusion both disappear.
 A creature that has Truesight can read the hidden message.
 
 #### Imprisonment
+
+# Imprisonment
+
+**Source URL:** http://dnd2024.wikidot.com/spell:imprisonment
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Abjuration (Warlock, Wizard)*
 
@@ -16848,9 +19950,17 @@ Until the spell ends, the target is also affected by one of the following effect
 
 **Ending the Spell.** When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
 
-A [Dispel Magic](#dispel-magic) spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
+A [Dispel Magic](#dispel-magic-1) spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 #### Incendiary Cloud
+
+# Incendiary Cloud
+
+**Source URL:** http://dnd2024.wikidot.com/spell:incendiary-cloud
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -16862,13 +19972,21 @@ A [Dispel Magic](#dispel-magic) spell can end the spell only if it is cast with 
 
 **Duration:** Concentration, up to 1 minute
 
-A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud’s area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by [Gust of Wind](#gust-of-wind)) disperses it.
+A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud’s area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by [Gust of Wind](#gust-of-wind-1)) disperses it.
 
 When the cloud appears, each creature in it makes a Dexterity saving throw, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 
 The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
 #### Inflict Wounds
+
+# Inflict Wounds
+
+**Source URL:** http://dnd2024.wikidot.com/spell:inflict-wounds
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Necromancy (Cleric)*
 
@@ -16885,6 +20003,14 @@ A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic dam
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 
 #### Insect Plague
+
+# Insect Plague
+
+**Source URL:** http://dnd2024.wikidot.com/spell:insect-plague
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Conjuration (Cleric, Druid, Sorcerer)*
 
@@ -16904,6 +20030,14 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 #### Invisibility
 
+# Invisibility
+
+**Source URL:** http://dnd2024.wikidot.com/spell:invisibility
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Illusion (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -16919,6 +20053,14 @@ A creature you touch has the Invisible condition until the spell ends. The spell
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 
 #### Jallarzi's Storm of Radiance
+
+# Jallarzi's Storm of Radiance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:jallarzi-s-storm-of-radiance
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Evocation (Warlock, Wizard)*
 
@@ -16938,6 +20080,14 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 #### Jump
 
+# Jump
+
+**Source URL:** http://dnd2024.wikidot.com/spell:jump
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action
@@ -16954,6 +20104,14 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 
 #### Knock
 
+# Knock
+
+**Source URL:** http://dnd2024.wikidot.com/spell:knock
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -16968,11 +20126,19 @@ Choose an object that you can see within range. The object can be a door, a box,
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If the target is held shut by [Arcane Lock](#arcane-lock), that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
+If the target is held shut by [Arcane Lock](#arcane-lock-1), that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
 
 When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
 #### Legend Lore
+
+# Legend Lore
+
+**Source URL:** http://dnd2024.wikidot.com/spell:legend-lore
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Divination (Bard, Cleric, Wizard)*
 
@@ -16992,6 +20158,14 @@ If the famous thing you chose isn’t actually famous, you hear sad musical note
 
 #### Leomund's Secret Chest
 
+# Leomund's Secret Chest
+
+**Source URL:** http://dnd2024.wikidot.com/spell:leomunds-secret-chest
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Artificer, Wizard)*
 
 **Casting Time:** Action
@@ -17009,6 +20183,14 @@ While the chest remains on the Ethereal Plane, you can take a Magic action and t
 After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
 #### Leomund's Tiny Hut
+
+# Leomund's Tiny Hut
+
+**Source URL:** http://dnd2024.wikidot.com/spell:leomund-s-tiny-hut
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Evocation (Bard, Wizard)*
 
@@ -17030,6 +20212,14 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 #### Lesser Restoration
 
+# Lesser Restoration
+
+**Source URL:** http://dnd2024.wikidot.com/spell:lesser-restoration
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Artificer, Bard, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Bonus Action
@@ -17043,6 +20233,14 @@ The spell ends early if you leave the Emanation or if you cast it again.
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
 #### Levitate
+
+# Levitate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:levitate
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Artificer, Sorcerer, Wizard)*
 
@@ -17062,6 +20260,14 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 #### Light
 
+# Light
+
+**Source URL:** http://dnd2024.wikidot.com/spell:light
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Artificer, Bard, Cleric, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -17077,6 +20283,14 @@ You touch one Large or smaller object that isn’t being worn or carried by some
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
 #### Lightning Arrow
+
+# Lightning Arrow
+
+**Source URL:** http://dnd2024.wikidot.com/spell:lightning-arrow
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Ranger)*
 
@@ -17096,6 +20310,14 @@ The weapon or ammunition then returns to its normal form.
 
 #### Lightning Bolt
 
+# Lightning Bolt
+
+**Source URL:** http://dnd2024.wikidot.com/spell:lightning-bolt
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -17112,6 +20334,14 @@ A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from 
 
 #### Locate Animals or Plants
 
+# Locate Animals or Plants
+
+**Source URL:** http://dnd2024.wikidot.com/spell:locate-animals-or-plants
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Divination (Bard, Druid, Ranger)*
 
 **Casting Time:** Action or Ritual
@@ -17126,6 +20356,14 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 #### Locate Creature
 
+# Locate Creature
+
+**Source URL:** http://dnd2024.wikidot.com/spell:locate-creature
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
 **Casting Time:** Action
@@ -17138,11 +20376,19 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature’s location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
-The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as under the effects of a [Flesh to Stone](#flesh-to-stone) or [Polymorph](#polymorph) spell, this spell doesn’t locate the creature.
+The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as under the effects of a [Flesh to Stone](#flesh-to-stone-1) or [Polymorph](#polymorph-1) spell, this spell doesn’t locate the creature.
 
 This spell can’t locate a creature if any thickness of lead blocks a direct path between you and the creature.
 
 #### Locate Object
+
+# Locate Object
+
+**Source URL:** http://dnd2024.wikidot.com/spell:locate-object
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
 
@@ -17162,6 +20408,14 @@ This spell can’t locate an object if any thickness of lead blocks a direct pat
 
 #### Longstrider
 
+# Longstrider
+
+**Source URL:** http://dnd2024.wikidot.com/spell:longstrider
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Artificer, Bard, Druid, Ranger, Wizard)*
 
 **Casting Time:** Action
@@ -17178,6 +20432,14 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 
 #### Mage Armor
 
+# Mage Armor
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mage-armor
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -17191,6 +20453,14 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 You touch a willing creature who isn’t wearing armor. Until the spell ends, the target’s base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
 #### Mage Hand
+
+# Mage Hand
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mage-hand
+
+---
+
+Source: Player's Handbook
 
 *Conjuration Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 
@@ -17211,6 +20481,14 @@ As a Magic action on your later turns, you can control the hand thus again. As p
 The hand can’t attack, activate magic items, or carry more than 10 pounds.
 
 #### Magic Circle
+
+# Magic Circle
+
+**Source URL:** http://dnd2024.wikidot.com/spell:magic-circle
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
@@ -17236,6 +20514,14 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 #### Magic Jar
 
+# Magic Jar
+
+**Source URL:** http://dnd2024.wikidot.com/spell:magic-jar
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Necromancy (Wizard)*
 
 **Casting Time:** 1 minute
@@ -17248,7 +20534,7 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell’s Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container’s space. You can’t move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid’s body.
 
-You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a [Protection from Evil and Good](#protection-from-evil-and-good) or [Magic Circle](#magic-circle) spell can’t be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target’s body, and the target’s soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.
+You can attempt to possess any Humanoid within 100 feet of you that you can see (creatures warded by a [Protection from Evil and Good](#protection-from-evil-and-good-1) or [Magic Circle](#magic-circle-1) spell can’t be possessed). The target makes a Charisma saving throw. On a failed save, your soul enters the target’s body, and the target’s soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can’t attempt to possess it again for 24 hours.
 
 Once you possess a creature’s body, you control it. Your Hit Points, Hit Point Dice, Strength, Dexterity, Constitution, Speed, and senses are replaced by the creature’s. You otherwise keep your game statistics.
 
@@ -17261,6 +20547,14 @@ If the container is destroyed or the spell ends, your soul returns to your body.
 When the spell ends, the container is destroyed.
 
 #### Magic Missile
+
+# Magic Missile
+
+**Source URL:** http://dnd2024.wikidot.com/spell:magic-missile
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Sorcerer, Wizard)*
 
@@ -17277,6 +20571,14 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 **Using a Higher-Level Spell Slot.** The spell creates one more dart for each spell slot level above 1.
 
 #### Magic Mouth
+
+# Magic Mouth
+
+**Source URL:** http://dnd2024.wikidot.com/spell:magic-mouth
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Illusion (Artificer, Bard, Wizard)*
 
@@ -17296,6 +20598,14 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 #### Magic Weapon
 
+# Magic Weapon
+
+**Source URL:** http://dnd2024.wikidot.com/spell:magic-weapon
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Artificer, Paladin, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Bonus Action
@@ -17311,6 +20621,14 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Using a Higher-Level Spell Slot.** The bonus increases to +2 with a level 3–5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 
 #### Major Image
+
+# Major Image
+
+**Source URL:** http://dnd2024.wikidot.com/spell:major-image
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -17332,6 +20650,14 @@ Physical interaction with the image reveals it to be an illusion, for things can
 
 #### Mass Cure Wounds
 
+# Mass Cure Wounds
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mass-cure-wounds
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Abjuration (Bard, Cleric, Druid)*
 
 **Casting Time:** Action
@@ -17348,6 +20674,14 @@ A wave of healing energy washes out from a point you can see within range. Choos
 
 #### Mass Heal
 
+# Mass Heal
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mass-heal
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Abjuration (Cleric)*
 
 **Casting Time:** 1 Action
@@ -17361,6 +20695,14 @@ A wave of healing energy washes out from a point you can see within range. Choos
 A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the Blinded, Deafened, and Poisoned conditions removed from them.
 
 #### Mass Healing Word
+
+# Mass Healing Word
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mass-healing-word
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Abjuration (Bard, Cleric)*
 
@@ -17377,6 +20719,14 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 **Using a Higher-Level Spell Slot.** The healing increases by 1d4 for each spell slot level above 3.
 
 #### Mass Suggestion
+
+# Mass Suggestion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mass-suggestion
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Enchantment (Bard, Sorcerer, Wizard)*
 
@@ -17396,6 +20746,14 @@ Each target must succeed on a Wisdom saving throw or have the Charmed condition 
 
 #### Maze
 
+# Maze
+
+**Source URL:** http://dnd2024.wikidot.com/spell:maze
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Conjuration (Wizard)*
 
 **Casting Time:** Action
@@ -17413,6 +20771,14 @@ The target can take a Study action to try to escape. When it does so, it makes a
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
 #### Meld into Stone
+
+# Meld into Stone
+
+**Source URL:** http://dnd2024.wikidot.com/spell:meld-into-stone
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Cleric, Druid, Ranger)*
 
@@ -17432,6 +20798,14 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 #### Melf's Acid Arrow
 
+# Melf's Acid Arrow
+
+**Source URL:** http://dnd2024.wikidot.com/spell:melfs-acid-arrow
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Evocation (Wizard)*
 
 **Casting Time:** Action
@@ -17447,6 +20821,14 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 **Using a Higher-Level Spell Slot.** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 
 #### Mending
+
+# Mending
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mending
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
 
@@ -17464,6 +20846,14 @@ This spell can physically repair a magic item, but it can’t restore magic to s
 
 #### Message
 
+# Message
+
+**Source URL:** http://dnd2024.wikidot.com/spell:message
+
+---
+
+Source: Player's Handbook
+
 *Transmutation Cantrip (Artificer, Bard, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -17479,6 +20869,14 @@ You point toward a creature within range and whisper a message. The target (and 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
 #### Meteor Swarm
+
+# Meteor Swarm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:meteor-swarm
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Evocation (Sorcerer, Wizard)*
 
@@ -17496,6 +20894,14 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 #### Mind Blank
 
+# Mind Blank
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mind-blank
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Abjuration (Bard, Wizard)*
 
 **Casting Time:** Action
@@ -17506,9 +20912,17 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell - not even [Wish](#wish) - can gather information about the target, observe it remotely, or control its mind.
+Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell - not even [Wish](#wish-1) - can gather information about the target, observe it remotely, or control its mind.
 
 #### Mind Sliver
+
+# Mind Sliver
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mind-sliver
+
+---
+
+Source: Player's Handbook
 
 *Enchantment Cantrip (Sorcerer, Warlock, Wizard)*
 
@@ -17526,6 +20940,14 @@ You try to temporarily sliver the mind of one creature you can see within range.
 
 #### Mind Spike
 
+# Mind Spike
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mind-spike
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Divination (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -17541,6 +20963,14 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 2.
 
 #### Minor Illusion
+
+# Minor Illusion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:minor-illusion
+
+---
+
+Source: Player's Handbook
 
 *Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -17562,6 +20992,14 @@ If a creature takes a Study action to examine the sound or image, the creature c
 
 #### Mirage Arcane
 
+# Mirage Arcane
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mirage-arcane
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Illusion (Bard, Druid, Wizard)*
 
 **Casting Time:** 10 minutes
@@ -17582,6 +21020,14 @@ Creatures with Truesight can see through the illusion to the terrain’s true fo
 
 #### Mirror Image
 
+# Mirror Image
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mirror-image
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -17599,6 +21045,14 @@ Each time a creature hits you with an attack roll during the spell’s duration,
 A creature is unaffected by this spell if it has the Blinded condition, Blindsight, or Truesight.
 
 #### Mislead
+
+# Mislead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mislead
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Illusion (Bard, Warlock, Wizard)*
 
@@ -17618,6 +21072,14 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 #### Misty Step
 
+# Misty Step
+
+**Source URL:** http://dnd2024.wikidot.com/spell:misty-step
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Conjuration (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Bonus Action
@@ -17631,6 +21093,14 @@ You can see through its eyes and hear through its ears as if you were located wh
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
 #### Modify Memory
+
+# Modify Memory
+
+**Source URL:** http://dnd2024.wikidot.com/spell:modify-memory
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Enchantment (Bard, Wizard)*
 
@@ -17650,11 +21120,19 @@ You must speak to the target to describe how its memories are affected, and it m
 
 A modified memory doesn’t necessarily affect how a creature behaves, particularly if the memory contradicts the creature’s natural inclinations, alignment, or beliefs. An illogical modified memory, such as a false memory of how much the creature enjoyed swimming in acid, is dismissed as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature.
 
-A [Remove Curse](#remove-curse) or [Greater Restoration](#greater-restoration) spell cast on the target restores the creature’s true memory.
+A [Remove Curse](#remove-curse-1) or [Greater Restoration](#greater-restoration-1) spell cast on the target restores the creature’s true memory.
 
 **Using a Higher-Level Spell Slot.** You can alter the target’s memories of an event that took place up to 7 days ago (level 6 spell slot), 30 days ago (level 7 spell slot), 365 days ago (level 8 spell slot), or any time in the creature’s past (level 9 spell slot).
 
 #### Moonbeam
+
+# Moonbeam
+
+**Source URL:** http://dnd2024.wikidot.com/spell:moonbeam
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Evocation (Druid)*
 
@@ -17668,11 +21146,19 @@ A [Remove Curse](#remove-curse) or [Greater Restoration](#greater-restoration) s
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylinder centered on a point within range. Until the spell ends, Dim Light fills the Cylinder, and you can take a Magic action on later turns to move the Cylinder up to 60 feet.
 
-When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the [Polymorph](#polymorph) spell, for example), it reverts to its true form and can’t shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell’s area moves into its space and when it enters the spell’s area or ends its turn there. A creature makes this save only once per turn.
+When the Cylinder appears, each creature in it makes a Constitution saving throw. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the [Polymorph](#polymorph-1) spell, for example), it reverts to its true form and can’t shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell’s area moves into its space and when it enters the spell’s area or ends its turn there. A creature makes this save only once per turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 2.
 
 #### Mordenkainen's Faithful Hound
+
+# Mordenkainen's Faithful Hound
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-faithful-hound
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Artificer, Wizard)*
 
@@ -17693,6 +21179,14 @@ At the start of each of your turns, the hound attempts to bite one enemy within 
 On your later turns, you can take a Magic action to move the hound up to 30 feet.
 
 #### Mordenkainen's Magnificent Mansion
+
+# Mordenkainen's Magnificent Mansion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-magnificent-mansion
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Conjuration (Bard, Wizard)*
 
@@ -17715,6 +21209,14 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
 #### Mordenkainen's Private Sanctum
+
+# Mordenkainen's Private Sanctum
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-private-sanctum
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Abjuration (Artificer, Wizard)*
 
@@ -17743,6 +21245,14 @@ Casting this spell on the same spot every day for 365 days makes the spell last 
 
 #### Mordenkainen's Sword
 
+# Mordenkainen's Sword
+
+**Source URL:** http://dnd2024.wikidot.com/spell:mordenkainen-s-sword
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Evocation (Bard, Wizard)*
 
 **Casting Time:** Action
@@ -17760,6 +21270,14 @@ When the sword appears, you make a melee spell attack against a target within 5 
 On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
 #### Move Earth
+
+# Move Earth
+
+**Source URL:** http://dnd2024.wikidot.com/spell:move-earth
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Transmutation (Druid, Sorcerer, Wizard)*
 
@@ -17781,6 +21299,14 @@ Similarly, this spell doesn’t directly affect plant growth. The moved earth ca
 
 #### Nondetection
 
+# Nondetection
+
+**Source URL:** http://dnd2024.wikidot.com/spell:nondetection
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Bard, Ranger, Wizard)*
 
 **Casting Time:** Action
@@ -17794,6 +21320,14 @@ Similarly, this spell doesn’t directly affect plant growth. The moved earth ca
 For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can’t be targeted by any Divination spell or perceived through magical scrying sensors.
 
 #### Nystul's Magic Aura
+
+# Nystul's Magic Aura
+
+**Source URL:** http://dnd2024.wikidot.com/spell:nystul-s-magic-aura
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Illusion (Wizard)*
 
@@ -17809,9 +21343,17 @@ With a touch, you place an illusion on a willing creature or an object that isn�
 
 **Mask (Creature).** Choose a creature type other than the target’s actual type. Spells and other magical effects treat the target as if it were a creature of the chosen type.
 
-**False Aura (Object).** You change the way the target appears to spells and magical effects that detect magical auras, such as [Detect Magic](#detect-magic). You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object’s aura so that it appears to belong to a school of magic you choose.
+**False Aura (Object).** You change the way the target appears to spells and magical effects that detect magical auras, such as [Detect Magic](#detect-magic-1). You can make a nonmagical object appear magical, make a magic item appear nonmagical, or change the object’s aura so that it appears to belong to a school of magic you choose.
 
 #### Otiluke's Freezing Sphere
+
+# Otiluke's Freezing Sphere
+
+**Source URL:** http://dnd2024.wikidot.com/spell:otiluke-s-freezing-sphere
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Evocation (Sorcerer, Wizard)*
 
@@ -17833,6 +21375,14 @@ You can refrain from firing the globe after completing the spell’s casting. If
 
 #### Otiluke's Resilient Sphere
 
+# Otiluke's Resilient Sphere
+
+**Source URL:** http://dnd2024.wikidot.com/spell:otilukes-resilient-sphere
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Abjuration (Artificer, Wizard)*
 
 **Casting Time:** Action
@@ -17849,9 +21399,17 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere’s walls and thus roll the sphere at up to half the creature’s Speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A [Disintegrate](#disintegrate) spell targeting the globe destroys it without harming anything inside.
+A [Disintegrate](#disintegrate-1) spell targeting the globe destroys it without harming anything inside.
 
 #### Otto's Irresistible Dance
+
+# Otto's Irresistible Dance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:otto-s-irresistible-dance
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Enchantment (Bard, Wizard)*
 
@@ -17869,6 +21427,14 @@ On a failed save, the target has the Charmed condition for the duration. While C
 
 #### Pass without Trace
 
+# Pass without Trace
+
+**Source URL:** http://dnd2024.wikidot.com/spell:pass-without-trace
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -17882,6 +21448,14 @@ On a failed save, the target has the Charmed condition for the duration. While C
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
 
 #### Passwall
+
+# Passwall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:passwall
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Transmutation (Wizard)*
 
@@ -17898,6 +21472,14 @@ A passage appears at a point that you can see on a wooden, plaster, or stone sur
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 
 #### Phantasmal Force
+
+# Phantasmal Force
+
+**Source URL:** http://dnd2024.wikidot.com/spell:phantasmal-force
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -17919,6 +21501,14 @@ An affected target can even take damage from the illusion if the phantasm repres
 
 #### Phantasmal Killer
 
+# Phantasmal Killer
+
+**Source URL:** http://dnd2024.wikidot.com/spell:phantasmal-killer
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Illusion (Bard, Wizard)*
 
 **Casting Time:** Action
@@ -17937,6 +21527,14 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 #### Phantom Steed
 
+# Phantom Steed
+
+**Source URL:** http://dnd2024.wikidot.com/spell:phantom-steed
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Illusion (Wizard)*
 
 **Casting Time:** 1 minute or Ritual
@@ -17952,6 +21550,14 @@ A Large, quasi-real, horselike creature appears on the ground in an unoccupied s
 For the duration, you or a creature you choose can ride the steed. The steed uses the Riding Horse stat block (see appendix B), except it has a Speed of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.
 
 #### Planar Ally
+
+# Planar Ally
+
+**Source URL:** http://dnd2024.wikidot.com/spell:planar-ally
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Cleric)*
 
@@ -17975,6 +21581,14 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 #### Planar Binding
 
+# Planar Binding
+
+**Source URL:** http://dnd2024.wikidot.com/spell:planar-binding
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)*
 
 **Casting Time:** 1 hour
@@ -17985,13 +21599,21 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 **Duration:** 24 hours
 
-You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the [Magic Circle](#magic-circle) spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell’s duration is extended to match the duration of this spell.
+You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the [Magic Circle](#magic-circle-1) spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell’s duration is extended to match the duration of this spell.
 
 A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
 
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 
 #### Plane Shift
+
+# Plane Shift
+
+**Source URL:** http://dnd2024.wikidot.com/spell:plane-shift
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -18008,6 +21630,14 @@ You and up to eight willing creatures who link hands in a circle are transported
 Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
 
 #### Plant Growth
+
+# Plant Growth
+
+**Source URL:** http://dnd2024.wikidot.com/spell:plant-growth
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
@@ -18027,6 +21657,14 @@ This spell channels vitality into plants. The casting time you use determines wh
 
 #### Poison Spray
 
+# Poison Spray
+
+**Source URL:** http://dnd2024.wikidot.com/spell:poison-spray
+
+---
+
+Source: Player's Handbook
+
 *Necromancy Cantrip (Artificer, Druid, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -18042,6 +21680,14 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 **Cantrip Upgrade.** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 #### Polymorph
+
+# Polymorph
+
+**Source URL:** http://dnd2024.wikidot.com/spell:polymorph
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -18063,6 +21709,14 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 
 #### Power Word Fortify
 
+# Power Word Fortify
+
+**Source URL:** http://dnd2024.wikidot.com/spell:power-word-fortify
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Enchantment (Bard, Cleric)*
 
 **Casting Time:** Action
@@ -18076,6 +21730,14 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 You fortify up to six creatures you can see within range. The spell bestows 120 Temporary Hit Points, which you divide among the spell’s recipients.
 
 #### Power Word Heal
+
+# Power Word Heal
+
+**Source URL:** http://dnd2024.wikidot.com/spell:power-word-heal
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Enchantment (Bard, Cleric)*
 
@@ -18091,6 +21753,14 @@ A wave of healing energy washes over one creature you can see within range. The 
 
 #### Power Word Kill
 
+# Power Word Kill
+
+**Source URL:** http://dnd2024.wikidot.com/spell:power-word-kill
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -18104,6 +21774,14 @@ A wave of healing energy washes over one creature you can see within range. The 
 You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 
 #### Power Word Stun
+
+# Power Word Stun
+
+**Source URL:** http://dnd2024.wikidot.com/spell:power-word-stun
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
@@ -18121,6 +21799,14 @@ The Stunned target makes a Constitution saving throw at the end of each of its t
 
 #### Prayer of Healing
 
+# Prayer of Healing
+
+**Source URL:** http://dnd2024.wikidot.com/spell:prayer-of-healing
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** 10 minutes
@@ -18136,6 +21822,14 @@ Up to five creatures of your choice who remain within range for the spell’s en
 **Using a Higher-Level Spell Slot.** The healing increases by 1d8 for each spell slot level above 2.
 
 #### Prestidigitation
+
+# Prestidigitation
+
+**Source URL:** http://dnd2024.wikidot.com/spell:prestidigitation
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 
@@ -18163,6 +21857,14 @@ You create a magical effect within range. Choose the effect from the options bel
 
 #### Prismatic Spray
 
+# Prismatic Spray
+
+**Source URL:** http://dnd2024.wikidot.com/spell:prismatic-spray
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Evocation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18184,11 +21886,19 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 | 3 | **Yellow.** *Failed Save*: 12d6 Lightning damage. *Successful Save*: Half as much damage. |
 | 4 | **Green.** *Failed Save*: 12d6 Poison damage. *Successful Save*: Half as much damage. |
 | 5 | **Blue.** *Failed Save*: 12d6 Cold damage. *Successful Save*: Half as much damage. |
-| 6 | **Indigo.** *Failed Save*: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the [Greater Restoration](#greater-restoration) spell. The successes and failures needn’t be consecutive; keep track of both until the target collects three of a kind. |
+| 6 | **Indigo.** *Failed Save*: The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the [Greater Restoration](#greater-restoration-1) spell. The successes and failures needn’t be consecutive; keep track of both until the target collects three of a kind. |
 | 7 | **Violet.** *Failed Save*: The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM’s choice). |
 | 8 | **Special.** The target is struck by two rays. Roll twice, rerolling any 8. |
 
 #### Prismatic Wall
+
+# Prismatic Wall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:prismatic-wall
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Abjuration (Bard, Wizard)*
 
@@ -18206,21 +21916,29 @@ The wall sheds Bright Light within 100 feet and Dim Light for an additional 100 
 
 The wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a Dexterity saving throw or be affected by that layer’s properties as described in the Prismatic Layers table.
 
-The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. [Antimagic Field](#antimagic-field) has no effect on the wall, and [Dispel Magic](#dispel-magic) can affect only the violet layer.
+The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. [Antimagic Field](#antimagic-field-1) has no effect on the wall, and [Dispel Magic](#dispel-magic-1) can affect only the violet layer.
 
 ##### Prismatic Layers
 
 | Order | Effects |
 | --- | --- |
 | 1 | **Red.** *Failed Save:* 12d6 Fire damage. *Successful Save:* Half as much damage. *Additional Effects:* Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
-| 2 | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [Gust of Wind](#gust-of-wind)). |
+| 2 | **Orange.** *Failed Save:* 12d6 Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [Gust of Wind](#gust-of-wind-1)). |
 | 3 | **Yellow.** *Failed Save:* 12d6 Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |
-| 4 | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A [Passwall](#passwall) spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
+| 4 | **Green.** *Failed Save:* 12d6 Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A [Passwall](#passwall-1) spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
 | 5 | **Blue.** *Failed Save:* 12d6 Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |
-| 6 | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the [Greater Restoration](#greater-restoration) spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by Bright Light shed by the [Daylight](#daylight) spell. |
-| 7 | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [Dispel Magic](#dispel-magic). |
+| 6 | **Indigo.** *Failed Save:* The target has the Restrained condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the Petrified condition until it is freed by an effect like the [Greater Restoration](#greater-restoration-1) spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by Bright Light shed by the [Daylight](#daylight-1) spell. |
+| 7 | **Violet.** *Failed Save:* The target has the Blinded condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [Dispel Magic](#dispel-magic-1). |
 
 #### Produce Flame
+
+# Produce Flame
+
+**Source URL:** http://dnd2024.wikidot.com/spell:produce-flame
+
+---
+
+Source: Player's Handbook
 
 *Conjuration Cantrip (Druid)*
 
@@ -18239,6 +21957,14 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 #### Programmed Illusion
+
+# Programmed Illusion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:programmed-illusion
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Illusion (Bard, Wizard)*
 
@@ -18260,6 +21986,14 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 #### Project Image
 
+# Project Image
+
+**Source URL:** http://dnd2024.wikidot.com/spell:project-image
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Illusion (Bard, Wizard)*
 
 **Casting Time:** Action
@@ -18278,6 +22012,14 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 #### Protection from Energy
 
+# Protection from Energy
+
+**Source URL:** http://dnd2024.wikidot.com/spell:protection-from-energy
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18291,6 +22033,14 @@ Physical interaction with the image reveals it to be illusory, since things can 
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
 #### Protection from Evil and Good
+
+# Protection from Evil and Good
+
+**Source URL:** http://dnd2024.wikidot.com/spell:protection-from-evil-and-good
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
 
@@ -18306,6 +22056,14 @@ Until the spell ends, one willing creature you touch is protected against creatu
 
 #### Protection from Poison
 
+# Protection from Poison
+
+**Source URL:** http://dnd2024.wikidot.com/spell:protection-from-poison
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Artificer, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action
@@ -18320,6 +22078,14 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 
 #### Purify Food and Drink
 
+# Purify Food and Drink
+
+**Source URL:** http://dnd2024.wikidot.com/spell:purify-food-and-drink
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Transmutation (Artificer, Cleric, Druid, Paladin)*
 
 **Casting Time:** Action or Ritual
@@ -18333,6 +22099,14 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
 
 #### Raise Dead
+
+# Raise Dead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:raise-dead
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Necromancy (Bard, Cleric, Paladin)*
 
@@ -18354,6 +22128,14 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to D20 T
 
 #### Rary's Telepathic Bond
 
+# Rary's Telepathic Bond
+
+**Source URL:** http://dnd2024.wikidot.com/spell:rary-s-telepathic-bond
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Divination (Bard, Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -18369,6 +22151,14 @@ You forge a telepathic link among up to eight willing creatures of your choice w
 Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can’t extend to other planes of existence.
 
 #### Ray of Enfeeblement
+
+# Ray of Enfeeblement
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ray-of-enfeeblement
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Necromancy (Warlock, Wizard)*
 
@@ -18386,6 +22176,14 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 
 #### Ray of Frost
 
+# Ray of Frost
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ray-of-frost
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18401,6 +22199,14 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 #### Ray of Sickness
+
+# Ray of Sickness
+
+**Source URL:** http://dnd2024.wikidot.com/spell:ray-of-sickness
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Necromancy (Sorcerer, Wizard)*
 
@@ -18418,6 +22224,14 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 
 #### Regenerate
 
+# Regenerate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:regenerate
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Transmutation (Bard, Cleric, Druid)*
 
 **Casting Time:** 1 minute
@@ -18431,6 +22245,14 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
 #### Reincarnate
+
+# Reincarnate
+
+**Source URL:** http://dnd2024.wikidot.com/spell:reincarnate
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Necromancy (Druid)*
 
@@ -18461,6 +22283,14 @@ The reincarnated creature makes any choices that a species’ description offers
 
 #### Remove Curse
 
+# Remove Curse
+
+**Source URL:** http://dnd2024.wikidot.com/spell:remove-curse
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -18475,6 +22305,14 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 #### Resistance
 
+# Resistance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:resistance
+
+---
+
+Source: Player's Handbook
+
 *Abjuration Cantrip (Artificer, Cleric, Druid)*
 
 **Casting Time:** Action
@@ -18488,6 +22326,14 @@ At your touch, all curses affecting one creature or object end. If the object is
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 
 #### Resurrection
+
+# Resurrection
+
+**Source URL:** http://dnd2024.wikidot.com/spell:resurrection
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Necromancy (Bard, Cleric)*
 
@@ -18509,6 +22355,14 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 
 #### Reverse Gravity
 
+# Reverse Gravity
+
+**Source URL:** http://dnd2024.wikidot.com/spell:reverse-gravity
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Transmutation (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18525,6 +22379,14 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 
 #### Revivify
 
+# Revivify
+
+**Source URL:** http://dnd2024.wikidot.com/spell:revivify
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Necromancy (Artificer, Cleric, Druid, Paladin, Ranger)*
 
 **Casting Time:** Action
@@ -18538,6 +22400,14 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can’t revive a creature that has died of old age, nor does it restore any missing body parts.
 
 #### Rope Trick
+
+# Rope Trick
+
+**Source URL:** http://dnd2024.wikidot.com/spell:rope-trick
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Transmutation (Artificer, Wizard)*
 
@@ -18555,6 +22425,14 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 
 #### Sacred Flame
 
+# Sacred Flame
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sacred-flame
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Cleric)*
 
 **Casting Time:** Action
@@ -18570,6 +22448,14 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 #### Sanctuary
+
+# Sanctuary
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sanctuary
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Abjuration (Artificer, Cleric)*
 
@@ -18587,6 +22473,14 @@ The spell ends if the warded creature makes an attack roll, casts a spell, or de
 
 #### Scorching Ray
 
+# Scorching Ray
+
+**Source URL:** http://dnd2024.wikidot.com/spell:scorching-ray
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18602,6 +22496,14 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 **Using a Higher-Level Spell Slot.** You create one additional ray for each spell slot level above 2.
 
 #### Scrying
+
+# Scrying
+
+**Source URL:** http://dnd2024.wikidot.com/spell:scrying
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
 
@@ -18635,6 +22537,14 @@ Instead of targeting a creature, you can target a location you have seen. When y
 
 #### Searing Smite
 
+# Searing Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:searing-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Evocation (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
@@ -18651,6 +22561,14 @@ As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the
 
 #### See Invisibility
 
+# See Invisibility
+
+**Source URL:** http://dnd2024.wikidot.com/spell:see-invisibility
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Divination (Artificer, Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18664,6 +22582,14 @@ As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the
 For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
 #### Seeming
+
+# Seeming
+
+**Source URL:** http://dnd2024.wikidot.com/spell:seeming
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -18685,6 +22611,14 @@ A creature that takes the Study action to examine a target can make an Intellige
 
 #### Sending
 
+# Sending
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sending
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Divination (Bard, Cleric, Wizard)*
 
 **Casting Time:** Action
@@ -18703,6 +22637,14 @@ Upon receiving your message, a creature can block your ability to reach it again
 
 #### Sequester
 
+# Sequester
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sequester
+
+---
+
+Source: Player's Handbook
+
 *Level 7 Transmutation (Wizard)*
 
 **Casting Time:** Action
@@ -18720,6 +22662,14 @@ If the target is a creature, it enters a state of suspended animation; it has th
 You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include “after 1,000 years” or “when the tarrasque awakens.” This spell also ends if the target takes any damage.
 
 #### Shapechange
+
+# Shapechange
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shapechange
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Transmutation (Druid, Wizard)*
 
@@ -18741,6 +22691,14 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 #### Shatter
 
+# Shatter
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shatter
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Evocation (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18759,9 +22717,17 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 #### Shield
 
+# Shield
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shield
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
-**Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the [Magic Missile](#magic-missile) spell
+**Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the [Magic Missile](#magic-missile-1) spell
 
 **Range:** Self
 
@@ -18769,9 +22735,17 @@ A nonmagical object that isn’t being worn or carried also takes the damage if 
 
 **Duration:** 1 round
 
-An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [Magic Missile](#magic-missile).
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [Magic Missile](#magic-missile-1).
 
 #### Shield of Faith
+
+# Shield of Faith
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shield-of-faith
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Abjuration (Cleric, Paladin)*
 
@@ -18786,6 +22760,14 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 #### Shillelagh
+
+# Shillelagh
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shillelagh
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Druid)*
 
@@ -18805,6 +22787,14 @@ The spell ends early if you cast it again or if you let go of the weapon.
 
 #### Shining Smite
 
+# Shining Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shining-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
@@ -18820,6 +22810,14 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 
 #### Shocking Grasp
+
+# Shocking Grasp
+
+**Source URL:** http://dnd2024.wikidot.com/spell:shocking-grasp
+
+---
+
+Source: Player's Handbook
 
 *Evocation Cantrip (Artificer, Sorcerer, Wizard)*
 
@@ -18837,6 +22835,14 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 #### Silence
 
+# Silence
+
+**Source URL:** http://dnd2024.wikidot.com/spell:silence
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Illusion (Bard, Cleric, Ranger)*
 
 **Casting Time:** Action or Ritual
@@ -18850,6 +22856,14 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
 #### Silent Image
+
+# Silent Image
+
+**Source URL:** http://dnd2024.wikidot.com/spell:silent-image
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Illusion (Bard, Sorcerer, Wizard)*
 
@@ -18868,6 +22882,14 @@ As a Magic action, you can cause the image to move to any spot within range. As 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
 #### Simulacrum
+
+# Simulacrum
+
+**Source URL:** http://dnd2024.wikidot.com/spell:simulacrum
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Illusion (Wizard)*
 
@@ -18889,6 +22911,14 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 
 #### Sleep
 
+# Sleep
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sleep
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18905,6 +22935,14 @@ Creatures that don’t sleep, such as elves, or that have Immunity to the Exhaus
 
 #### Sleet Storm
 
+# Sleet Storm
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sleet-storm
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Conjuration (Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -18920,6 +22958,14 @@ Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder cen
 Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the Prone condition and lose Concentration.
 
 #### Slow
+
+# Slow
+
+**Source URL:** http://dnd2024.wikidot.com/spell:slow
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Bard, Sorcerer, Wizard)*
 
@@ -18939,6 +22985,14 @@ An affected target repeats the save at the end of each of its turns, ending the 
 
 #### Sorcerous Burst
 
+# Sorcerous Burst
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sorcerous-burst
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Sorcerer)*
 
 **Casting Time:** Action
@@ -18957,6 +23011,14 @@ If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to 
 
 #### Spare the Dying
 
+# Spare the Dying
+
+**Source URL:** http://dnd2024.wikidot.com/spell:spare-the-dying
+
+---
+
+Source: Player's Handbook
+
 *Necromancy Cantrip (Artificer, Cleric, Druid)*
 
 **Casting Time:** Action
@@ -18972,6 +23034,14 @@ Choose a creature within range that has 0 Hit Points and isn’t dead. The creat
 **Cantrip Upgrade.** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
 #### Speak with Animals
+
+# Speak with Animals
+
+**Source URL:** http://dnd2024.wikidot.com/spell:speak-with-animals
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Divination (Bard, Druid, Ranger, Warlock)*
 
@@ -18989,6 +23059,14 @@ Most Beasts have little to say about topics that don’t pertain to survival or 
 
 #### Speak with Dead
 
+# Speak with Dead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:speak-with-dead
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Necromancy (Bard, Cleric, Wizard)*
 
 **Casting Time:** Action
@@ -19004,6 +23082,14 @@ You grant the semblance of life to a corpse of your choice within range, allowin
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn’t return the creature’s soul to its body, only its animating spirit. Thus, the corpse can’t learn new information, doesn’t comprehend anything that has happened since it died, and can’t speculate about future events.
 
 #### Speak with Plants
+
+# Speak with Plants
+
+**Source URL:** http://dnd2024.wikidot.com/spell:speak-with-plants
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
@@ -19025,6 +23111,14 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 
 #### Spider Climb
 
+# Spider Climb
+
+**Source URL:** http://dnd2024.wikidot.com/spell:spider-climb
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Artificer, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19041,6 +23135,14 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 #### Spike Growth
 
+# Spike Growth
+
+**Source URL:** http://dnd2024.wikidot.com/spell:spike-growth
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Transmutation (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -19056,6 +23158,14 @@ The ground in a 20-foot-radius Sphere centered on a point within range sprouts h
 The transformation of the ground is camouflaged to look natural. Any creature that can’t see the area when the spell is cast must take a Search action and succeed on a Wisdom (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
 #### Spirit Guardians
+
+# Spirit Guardians
+
+**Source URL:** http://dnd2024.wikidot.com/spell:spirit-guardians
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Conjuration (Cleric)*
 
@@ -19075,6 +23185,14 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 #### Spiritual Weapon
 
+# Spiritual Weapon
+
+**Source URL:** http://dnd2024.wikidot.com/spell:spiritual-weapon
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Evocation (Cleric)*
 
 **Casting Time:** Bonus Action
@@ -19093,6 +23211,14 @@ As a Bonus Action on your later turns, you can move the force up to 20 feet and 
 
 #### Staggering Smite
 
+# Staggering Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:staggering-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Enchantment (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
@@ -19108,6 +23234,14 @@ The target takes an extra 4d6 Psychic damage from the attack, and the target mus
 **Using a Higher-Level Spell Slot.** The extra damage increases by 1d6 for each spell slot level above 4.
 
 #### Starry Wisp
+
+# Starry Wisp
+
+**Source URL:** http://dnd2024.wikidot.com/spell:starry-wisp
+
+---
+
+Source: Player's Handbook
 
 *Evocation Cantrip (Bard, Druid)*
 
@@ -19125,6 +23259,14 @@ You launch a mote of light at one creature or object within range. Make a ranged
 
 #### Steel Wind Strike
 
+# Steel Wind Strike
+
+**Source URL:** http://dnd2024.wikidot.com/spell:steel-wind-strike
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Ranger, Wizard)*
 
 **Casting Time:** Action
@@ -19141,6 +23283,14 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 
 #### Stinking Cloud
 
+# Stinking Cloud
+
+**Source URL:** http://dnd2024.wikidot.com/spell:stinking-cloud
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Conjuration (Bard, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -19151,11 +23301,19 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 
 **Duration:** Concentration, up to 1 minute
 
-You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [Gust of Wind](#gust-of-wind)) disperses it.
+You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [Gust of Wind](#gust-of-wind-1)) disperses it.
 
 Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can’t take an action or a Bonus Action.
 
 #### Stone Shape
+
+# Stone Shape
+
+**Source URL:** http://dnd2024.wikidot.com/spell:stone-shape
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Transmutation (Artificer, Cleric, Druid, Wizard)*
 
@@ -19171,6 +23329,14 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 #### Stoneskin
 
+# Stoneskin
+
+**Source URL:** http://dnd2024.wikidot.com/spell:stoneskin
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -19184,6 +23350,14 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 #### Storm of Vengeance
+
+# Storm of Vengeance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:storm-of-vengeance
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Conjuration (Druid)*
 
@@ -19209,6 +23383,14 @@ At the start of each of your later turns, the storm produces different effects, 
 
 #### Suggestion
 
+# Suggestion
+
+**Source URL:** http://dnd2024.wikidot.com/spell:suggestion
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19224,6 +23406,14 @@ You suggest a course of activity—described in no more than 25 words—to one c
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
 #### Summon Aberration
+
+# Summon Aberration
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-aberration
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Warlock, Wizard)*
 
@@ -19264,6 +23454,14 @@ The creature is an ally to you and your allies. In combat, it shares your Initia
 
 #### Summon Beast
 
+# Summon Beast
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-beast
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Conjuration (Druid, Ranger)*
 
 **Casting Time:** Action
@@ -19301,6 +23499,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Summon Celestial
 
+# Summon Celestial
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-celestial
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -19337,6 +23543,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 | **Healing Touch (1/Day).** The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell’s level. |
 
 #### Summon Construct
+
+# Summon Construct
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-construct
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Conjuration (Artificer, Wizard)*
 
@@ -19378,6 +23592,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Summon Dragon
 
+# Summon Dragon
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-dragon
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Wizard)*
 
 **Casting Time:** Action
@@ -19416,6 +23638,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Summon Elemental
 
+# Summon Elemental
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-elemental
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Conjuration (Druid, Ranger, Wizard)*
 
 **Casting Time:** Action
@@ -19452,6 +23682,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 | **Slam.** Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d10 + 4 + the spell’s level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage. |
 
 #### Summon Fey
+
+# Summon Fey
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-fey
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Conjuration (Druid, Ranger, Warlock, Wizard)*
 
@@ -19491,6 +23729,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 | **Tricksy.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn. |
 
 #### Summon Fiend
+
+# Summon Fiend
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-fiend
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
@@ -19533,6 +23779,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Summon Undead
 
+# Summon Undead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:summon-undead
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Necromancy (Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19572,6 +23826,14 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 #### Sunbeam
 
+# Sunbeam
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sunbeam
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -19589,6 +23851,14 @@ Until the spell ends, you can take a Magic action to create a new Line of radian
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
 
 #### Sunburst
+
+# Sunburst
+
+**Source URL:** http://dnd2024.wikidot.com/spell:sunburst
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)*
 
@@ -19608,6 +23878,14 @@ This spell dispels Darkness in its area that was created by any spell.
 
 #### Swift Quiver
 
+# Swift Quiver
+
+**Source URL:** http://dnd2024.wikidot.com/spell:swift-quiver
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Transmutation (Ranger)*
 
 **Casting Time:** Bonus Action
@@ -19621,6 +23899,14 @@ This spell dispels Darkness in its area that was created by any spell.
 When you cast the spell and as a Bonus Action until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
 #### Symbol
+
+# Symbol
+
+**Source URL:** http://dnd2024.wikidot.com/spell:symbol
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Abjuration (Bard, Cleric, Druid, Wizard)*
 
@@ -19658,6 +23944,14 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 
 #### Synaptic Static
 
+# Synaptic Static
+
+**Source URL:** http://dnd2024.wikidot.com/spell:synaptic-static
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19673,6 +23967,14 @@ You cause psychic energy to erupt at a point within range. Each creature in a 20
 On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain Concentration. The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Tasha's Bubbling Cauldron
+
+# Tasha's Bubbling Cauldron
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tasha-s-bubbling-cauldron
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
@@ -19692,6 +23994,14 @@ Potions obtained from the cauldron that aren't consumed disappear when you cast 
 
 #### Tasha's Hideous Laughter
 
+# Tasha's Hideous Laughter
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tasha-s-hideous-laughter
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Enchantment (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19709,6 +24019,14 @@ At the end of each of its turns and each time it takes damage, it makes another 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level about 1.
 
 #### Telekinesis
+
+# Telekinesis
+
+**Source URL:** http://dnd2024.wikidot.com/spell:telekinesis
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Transmutation (Sorcerer, Wizard)*
 
@@ -19732,6 +24050,14 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 #### Telepathy
 
+# Telepathy
+
+**Source URL:** http://dnd2024.wikidot.com/spell:telepathy
+
+---
+
+Source: Player's Handbook
+
 *Level 8 Divination (Wizard)*
 
 **Casting Time:** Action
@@ -19747,6 +24073,14 @@ You create a telepathic link between yourself and a willing creature with which 
 Until the spell ends, you and the target can instantly share words, images, sounds, and other sensory messages with each other through the link, and the target recognizes you as the creature it is communicating with. The spell enables a creature to understand the meaning of your words and any sensory messages you send to it.
 
 #### Teleport
+
+# Teleport
+
+**Source URL:** http://dnd2024.wikidot.com/spell:teleport
+
+---
+
+Source: Player's Handbook
 
 *Level 7 Conjuration (Bard, Sorcerer, Wizard)*
 
@@ -19792,6 +24126,14 @@ The destination you choose must be known to you, and it must be on the same plan
 
 #### Teleportation Circle
 
+# Teleportation Circle
+
+**Source URL:** http://dnd2024.wikidot.com/spell:teleportation-circle
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** 1 minute
@@ -19812,6 +24154,14 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 #### Tenser's Floating Disk
 
+# Tenser's Floating Disk
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tenser-s-floating-disk
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -19829,6 +24179,14 @@ The disk is immobile while you are within 20 feet of it. If you move more than 2
 If you move more than 100 feet from the disk (typically because it can’t move around an obstacle to follow you), the spell ends.
 
 #### Thaumaturgy
+
+# Thaumaturgy
+
+**Source URL:** http://dnd2024.wikidot.com/spell:thaumaturgy
+
+---
+
+Source: Player's Handbook
 
 *Transmutation Cantrip (Cleric)*
 
@@ -19856,6 +24214,14 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 #### Thorn Whip
 
+# Thorn Whip
+
+**Source URL:** http://dnd2024.wikidot.com/spell:thorn-whip
+
+---
+
+Source: Player's Handbook
+
 *Transmutation Cantrip (Artificer, Druid)*
 
 **Casting Time:** Action
@@ -19871,6 +24237,14 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
 #### Thunderclap
+
+# Thunderclap
+
+**Source URL:** http://dnd2024.wikidot.com/spell:thunderclap
+
+---
+
+Source: Player's Handbook
 
 *Evocation Cantrip (Artificer, Bard, Druid, Sorcerer, Warlock, Wizard)*
 
@@ -19888,6 +24262,14 @@ Each creature in a 5-foot Emanation originating from you must succeed on a Const
 
 #### Thunderous Smite
 
+# Thunderous Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:thunderous-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Evocation (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
@@ -19903,6 +24285,14 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 #### Thunderwave
+
+# Thunderwave
+
+**Source URL:** http://dnd2024.wikidot.com/spell:thunderwave
+
+---
+
+Source: Player's Handbook
 
 *Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
 
@@ -19922,6 +24312,14 @@ In addition, unsecured objects that are entirely within the Cube are pushed 10 f
 
 #### Time Stop
 
+# Time Stop
+
+**Source URL:** http://dnd2024.wikidot.com/spell:time-stop
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Transmutation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -19937,6 +24335,14 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 This spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
 #### Toll the Dead
+
+# Toll the Dead
+
+**Source URL:** http://dnd2024.wikidot.com/spell:toll-the-dead
+
+---
+
+Source: Player's Handbook
 
 *Necromancy Cantrip (Cleric, Warlock, Wizard)*
 
@@ -19954,6 +24360,14 @@ You point at one creature you can see within range, and the single chime of a do
 
 #### Tongues
 
+# Tongues
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tongues
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -19968,6 +24382,14 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 #### Transport via Plants
 
+# Transport via Plants
+
+**Source URL:** http://dnd2024.wikidot.com/spell:transport-via-plants
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action
@@ -19981,6 +24403,14 @@ This spell grants the creature you touch the ability to understand any spoken or
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
 #### Tree Stride
+
+# Tree Stride
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tree-stride
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Conjuration (Druid, Ranger)*
 
@@ -19997,6 +24427,14 @@ You gain the ability to enter a tree and move from inside it to inside another t
 You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
 #### True Polymorph
+
+# True Polymorph
+
+**Source URL:** http://dnd2024.wikidot.com/spell:true-polymorph
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Transmutation (Bard, Warlock, Wizard)*
 
@@ -20028,6 +24466,14 @@ If the spell lasts more than an hour, you no longer control the creature. It mig
 
 #### True Resurrection
 
+# True Resurrection
+
+**Source URL:** http://dnd2024.wikidot.com/spell:true-resurrection
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Necromancy (Cleric, Druid)*
 
 **Casting Time:** 1 hour
@@ -20046,6 +24492,14 @@ The spell can provide a new body if the original no longer exists, in which case
 
 #### True Seeing
 
+# True Seeing
+
+**Source URL:** http://dnd2024.wikidot.com/spell:true-seeing
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -20059,6 +24513,14 @@ The spell can provide a new body if the original no longer exists, in which case
 For the duration, the willing creature you touch has Truesight with a range of 120 feet.
 
 #### True Strike
+
+# True Strike
+
+**Source URL:** http://dnd2024.wikidot.com/spell:true-strike
+
+---
+
+Source: Player's Handbook
 
 *Divination Cantrip (Artificer, Bard, Sorcerer, Warlock, Wizard)*
 
@@ -20075,6 +24537,14 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 **Cantrip Upgrade.** Whether you deal Radiant damage or the weapon’s normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
 #### Tsunami
+
+# Tsunami
+
+**Source URL:** http://dnd2024.wikidot.com/spell:tsunami
+
+---
+
+Source: Player's Handbook
 
 *Level 8 Conjuration (Druid)*
 
@@ -20096,6 +24566,14 @@ A creature caught in the wall can move by swimming. Because of the wave’s forc
 
 #### Unseen Servant
 
+# Unseen Servant
+
+**Source URL:** http://dnd2024.wikidot.com/spell:unseen-servant
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Conjuration (Bard, Warlock, Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -20113,6 +24591,14 @@ Once on each of your turns as a Bonus Action, you can mentally command the serva
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
 #### Vampiric Touch
+
+# Vampiric Touch
+
+**Source URL:** http://dnd2024.wikidot.com/spell:vampiric-touch
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Necromancy (Sorcerer, Warlock, Wizard)*
 
@@ -20132,6 +24618,14 @@ Until the spell ends, you can make the attack again on each of your turns as a M
 
 #### Vicious Mockery
 
+# Vicious Mockery
+
+**Source URL:** http://dnd2024.wikidot.com/spell:vicious-mockery
+
+---
+
+Source: Player's Handbook
+
 *Enchantment Cantrip (Bard)*
 
 **Casting Time:** Action
@@ -20148,6 +24642,14 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 #### Vitriolic Sphere
 
+# Vitriolic Sphere
+
+**Source URL:** http://dnd2024.wikidot.com/spell:vitriolic-sphere
+
+---
+
+Source: Player's Handbook
+
 *Level 4 Evocation (Sorcerer, Wizard)*
 
 **Casting Time:** Action
@@ -20163,6 +24665,14 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of aci
 **Using a Higher-Level Spell Slot.** The initial damage increases by 2d4 for each spell slot level above 4.
 
 #### Wall of Fire
+
+# Wall of Fire
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wall-of-fire
+
+---
+
+Source: Player's Handbook
 
 *Level 4 Evocation (Druid, Sorcerer, Wizard)*
 
@@ -20184,6 +24694,14 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 
 #### Wall of Force
 
+# Wall of Force
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wall-of-force
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Evocation (Wizard)*
 
 **Casting Time:** Action
@@ -20199,6 +24717,14 @@ An Invisible wall of force springs into existence at a point you choose within r
 Nothing can physically pass through the wall. It is immune to all damage and can’t be dispelled by Dispel Magic. A Disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
 #### Wall of Ice
+
+# Wall of Ice
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wall-of-ice
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Evocation (Wizard)*
 
@@ -20221,6 +24747,14 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 **Using a Higher-Level Spell Slot.** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 
 #### Wall of Stone
+
+# Wall of Stone
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wall-of-stone
+
+---
+
+Source: Player's Handbook
 
 *Level 5 Evocation (Artificer, Druid, Sorcerer, Wizard)*
 
@@ -20246,6 +24780,14 @@ If you maintain your Concentration on this spell for its full duration, the wall
 
 #### Wall of Thorns
 
+# Wall of Thorns
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wall-of-thorns
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Conjuration (Druid)*
 
 **Casting Time:** Action
@@ -20266,6 +24808,14 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 #### Warding Bond
 
+# Warding Bond
+
+**Source URL:** http://dnd2024.wikidot.com/spell:warding-bond
+
+---
+
+Source: Player's Handbook
+
 *Level 2 Abjuration (Cleric, Paladin)*
 
 **Casting Time:** Action
@@ -20282,6 +24832,14 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 
 #### Water Breathing
 
+# Water Breathing
+
+**Source URL:** http://dnd2024.wikidot.com/spell:water-breathing
+
+---
+
+Source: Player's Handbook
+
 *Level 3 Transmutation (Artificer, Druid, Ranger, Sorcerer, Wizard)*
 
 **Casting Time:** Action or Ritual
@@ -20295,6 +24853,14 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
 #### Water Walk
+
+# Water Walk
+
+**Source URL:** http://dnd2024.wikidot.com/spell:water-walk
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Transmutation (Artificer, Cleric, Druid, Ranger, Sorcerer)*
 
@@ -20311,6 +24877,14 @@ This spell grants the ability to move across any liquid surface - such as water,
 An affected target must take a Bonus Action to pass from the liquid’s surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
 
 #### Web
+
+# Web
+
+**Source URL:** http://dnd2024.wikidot.com/spell:web
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Conjuration (Artificer, Sorcerer, Wizard)*
 
@@ -20334,6 +24908,14 @@ The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 
 
 #### Weird
 
+# Weird
+
+**Source URL:** http://dnd2024.wikidot.com/spell:weird
+
+---
+
+Source: Player's Handbook
+
 *Level 9 Illusion (Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -20350,6 +24932,14 @@ A Frightened target makes a Wisdom saving throw at the end of each of its turns.
 
 #### Wind Walk
 
+# Wind Walk
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wind-walk
+
+---
+
+Source: Player's Handbook
+
 *Level 6 Transmutation (Druid)*
 
 **Casting Time:** 1 minute
@@ -20365,6 +24955,14 @@ You and up to ten willing creatures of your choice within range assume gaseous f
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can’t land after 1 minute, it falls the remaining distance.
 
 #### Wind Wall
+
+# Wind Wall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wind-wall
+
+---
+
+Source: Player's Handbook
 
 *Level 3 Evocation (Druid, Ranger)*
 
@@ -20383,6 +24981,14 @@ When the wall appears, each creature in its area makes a Strength saving throw, 
 The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can’t pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in gaseous form can’t pass through it.
 
 #### Wish
+
+# Wish
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wish
+
+---
+
+Source: Player's Handbook
 
 *Level 9 Conjuration (Sorcerer, Wizard)*
 
@@ -20412,6 +25018,14 @@ The stress of casting Wish to produce any effect other than duplicating another 
 
 #### Witch Bolt
 
+# Witch Bolt
+
+**Source URL:** http://dnd2024.wikidot.com/spell:witch-bolt
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Evocation (Sorcerer, Warlock, Wizard)*
 
 **Casting Time:** Action
@@ -20432,6 +25046,14 @@ The spell ends if the target is ever outside the spell’s range or if it has To
 
 #### Word of Radiance
 
+# Word of Radiance
+
+**Source URL:** http://dnd2024.wikidot.com/spell:word-of-radiance
+
+---
+
+Source: Player's Handbook
+
 *Evocation Cantrip (Cleric)*
 
 **Casting Time:** Action
@@ -20447,6 +25069,14 @@ Burning radiance erupts from you in a 5-foot Emanation. Each creature of your ch
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
 #### Word of Recall
+
+# Word of Recall
+
+**Source URL:** http://dnd2024.wikidot.com/spell:word-of-recall
+
+---
+
+Source: Player's Handbook
 
 *Level 6 Conjuration (Cleric)*
 
@@ -20464,6 +25094,14 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 
 #### Wrathful Smite
 
+# Wrathful Smite
+
+**Source URL:** http://dnd2024.wikidot.com/spell:wrathful-smite
+
+---
+
+Source: Player's Handbook
+
 *Level 1 Necromancy (Paladin)*
 
 **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
@@ -20480,6 +25118,14 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 
 #### Yolande's Regal Presence
 
+# Yolande's Regal Presence
+
+**Source URL:** http://dnd2024.wikidot.com/spell:yolande-s-regal-presence
+
+---
+
+Source: Player's Handbook
+
 *Level 5 Enchantment (Bard, Wizard)*
 
 **Casting Time:** Action
@@ -20493,6 +25139,14 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 You surround yourself with unearthly majesty in a 10-foot Emanation. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. On a failed save, the target takes 4d6 Psychic damage and has the Prone condition, and you can push it up to 10 feet away. On a successful save, the target takes half as much damage only. A creature makes this save only once per turn.
 
 #### Zone of Truth
+
+# Zone of Truth
+
+**Source URL:** http://dnd2024.wikidot.com/spell:zone-of-truth
+
+---
+
+Source: Player's Handbook
 
 *Level 2 Enchantment (Bard, Cleric, Paladin)*
 

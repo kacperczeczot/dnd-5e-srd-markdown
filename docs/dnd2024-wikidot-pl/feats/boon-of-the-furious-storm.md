@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-furious-storm](boon-of-the-furious-storm.md)
-
----
 
 # Dar wściekłej burzy
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [blade-barrier](blade-barrier.md)
-
----
 
 # Bariera ostrzy
 

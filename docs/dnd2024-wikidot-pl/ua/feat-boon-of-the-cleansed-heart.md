@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-the-cleansed-heart](feat-boon-of-the-cleansed-heart.md)
-
----
 
 # Dar oczyszczonego serca (UA)
 

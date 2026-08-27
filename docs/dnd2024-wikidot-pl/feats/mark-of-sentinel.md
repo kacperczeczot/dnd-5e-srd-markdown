@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-sentinel](mark-of-sentinel.md)
-
----
 
 # Piętno strażnika
 

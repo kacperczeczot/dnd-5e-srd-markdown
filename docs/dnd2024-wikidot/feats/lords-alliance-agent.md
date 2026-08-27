@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [lords-alliance-agent](lords-alliance-agent.md)
-
----
 
 # Lords' Alliance Agent
 

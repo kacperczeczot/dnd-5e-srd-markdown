@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [species](README.md) > [kalashtar](kalashtar.md)
-
----
 
 # Kalashtar
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-invisibility](potion-of-invisibility.md)
-
----
 
 # Potion of Invisibility
 

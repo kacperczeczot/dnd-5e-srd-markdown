@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [rashemi-wanderer](rashemi-wanderer.md)
-
----
 
 # Rashemiński wędrowiec
 

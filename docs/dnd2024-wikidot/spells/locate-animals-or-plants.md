@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [locate-animals-or-plants](locate-animals-or-plants.md)
-
----
 
 # Locate Animals or Plants
 

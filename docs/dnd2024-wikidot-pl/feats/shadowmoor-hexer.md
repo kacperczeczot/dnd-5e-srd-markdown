@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [shadowmoor-hexer](shadowmoor-hexer.md)
-
----
 
 # Zaklinacz Cieniomoru
 

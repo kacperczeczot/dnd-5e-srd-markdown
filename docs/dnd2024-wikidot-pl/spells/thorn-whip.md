@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [thorn-whip](thorn-whip.md)
-
----
 
 # Cierniowy bicz
 

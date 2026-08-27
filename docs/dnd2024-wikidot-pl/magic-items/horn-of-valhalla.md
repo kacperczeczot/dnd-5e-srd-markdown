@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-valhalla](horn-of-valhalla.md)
-
----
 
 # Róg Valhalli
 

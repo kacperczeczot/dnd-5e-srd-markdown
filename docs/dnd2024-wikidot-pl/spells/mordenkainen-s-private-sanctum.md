@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-private-sanctum](mordenkainen-s-private-sanctum.md)
-
----
 
 # Osobiste sanktuarium Mordenkainena
 

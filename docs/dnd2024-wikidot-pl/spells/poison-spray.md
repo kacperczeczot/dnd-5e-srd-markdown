@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [poison-spray](poison-spray.md)
-
----
 
 # Trujący rozprysk
 

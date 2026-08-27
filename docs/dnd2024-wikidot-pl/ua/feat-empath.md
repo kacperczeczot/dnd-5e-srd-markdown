@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-empath](feat-empath.md)
-
----
 
 # Empat (UA)
 

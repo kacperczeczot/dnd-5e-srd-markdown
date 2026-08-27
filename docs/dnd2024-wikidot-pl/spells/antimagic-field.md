@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [antimagic-field](antimagic-field.md)
-
----
 
 # Pole antymagii
 

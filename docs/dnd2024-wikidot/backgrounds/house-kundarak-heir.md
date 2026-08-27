@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-kundarak-heir](house-kundarak-heir.md)
-
----
 
 # House Kundarak Heir
 

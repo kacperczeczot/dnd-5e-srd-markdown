@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [fighter-battle-master](fighter-battle-master.md)
-
----
 
 # Mistrz bitew
 

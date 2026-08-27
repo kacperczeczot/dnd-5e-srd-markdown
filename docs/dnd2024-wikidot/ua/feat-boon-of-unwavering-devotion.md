@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-boon-of-unwavering-devotion](feat-boon-of-unwavering-devotion.md)
-
----
 
 # Boon of Unwavering Devotion (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [clockwork-amulet](clockwork-amulet.md)
-
----
 
 # Zegarowy amulet
 

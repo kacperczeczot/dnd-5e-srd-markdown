@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [chain-lightning](chain-lightning.md)
-
----
 
 # Chain Lightning
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-bladesinger](subclass-wizard-bladesinger.md)
-
----
 
 # Śpiewak Ostrzy (UA)
 

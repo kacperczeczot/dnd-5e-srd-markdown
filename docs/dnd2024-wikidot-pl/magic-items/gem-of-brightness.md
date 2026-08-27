@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gem-of-brightness](gem-of-brightness.md)
-
----
 
 # Klejnot blasku
 

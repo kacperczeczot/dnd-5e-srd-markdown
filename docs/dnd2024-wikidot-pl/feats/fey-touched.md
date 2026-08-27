@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [fey-touched](fey-touched.md)
-
----
 
 # Dotknięty Fey
 

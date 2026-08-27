@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [dragon-scale-mail](dragon-scale-mail.md)
-
----
 
 # Dragon Scale Mail
 

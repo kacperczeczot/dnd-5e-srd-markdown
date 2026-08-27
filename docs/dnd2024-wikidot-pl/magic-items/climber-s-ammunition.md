@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [climber-s-ammunition](climber-s-ammunition.md)
-
----
 
 # Amunicja wspinacza
 

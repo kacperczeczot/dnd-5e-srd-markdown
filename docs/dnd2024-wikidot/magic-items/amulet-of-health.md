@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [amulet-of-health](amulet-of-health.md)
-
----
 
 # Amulet of Health
 

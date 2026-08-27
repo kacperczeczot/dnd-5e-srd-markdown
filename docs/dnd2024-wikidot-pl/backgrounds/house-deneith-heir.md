@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-deneith-heir](house-deneith-heir.md)
-
----
 
 # Dziedzic rodu Deneith
 

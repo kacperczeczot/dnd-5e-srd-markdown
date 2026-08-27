@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [feign-death](feign-death.md)
-
----
 
 # Pozór śmierci
 

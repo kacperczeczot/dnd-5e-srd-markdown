@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mythallar-bracelet](mythallar-bracelet.md)
-
----
 
 # Bransoletka mythallaru
 

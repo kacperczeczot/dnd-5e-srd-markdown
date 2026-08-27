@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [armor-of-agathys](armor-of-agathys.md)
-
----
 
 # Armor of Agathys
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mass-heal](mass-heal.md)
-
----
 
 # Mass Heal
 

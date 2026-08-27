@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [sticks-to-snakes](sticks-to-snakes.md)
-
----
 
 # Patyki w węże
 

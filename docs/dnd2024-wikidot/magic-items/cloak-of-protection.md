@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-protection](cloak-of-protection.md)
-
----
 
 # Cloak of Protection
 

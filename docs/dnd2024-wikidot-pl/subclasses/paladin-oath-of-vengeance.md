@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-vengeance](paladin-oath-of-vengeance.md)
-
----
 
 # Przysięga Zemsty
 

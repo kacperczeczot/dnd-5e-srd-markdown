@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-handling](greater-mark-of-handling.md)
-
----
 
 # Greater Mark of Handling
 

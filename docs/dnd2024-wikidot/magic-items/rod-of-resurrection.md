@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rod-of-resurrection](rod-of-resurrection.md)
-
----
 
 # Rod of Resurrection
 

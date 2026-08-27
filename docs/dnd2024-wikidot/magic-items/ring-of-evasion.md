@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-evasion](ring-of-evasion.md)
-
----
 
 # Ring of Evasion
 

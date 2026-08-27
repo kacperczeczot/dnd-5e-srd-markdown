@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bracers-of-defense](bracers-of-defense.md)
-
----
 
 # Karwasze obrony
 

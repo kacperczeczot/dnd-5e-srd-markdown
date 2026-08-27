@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [censer-of-controlling-air-elementals](censer-of-controlling-air-elementals.md)
-
----
 
 # Censer of Controlling Air Elementals
 

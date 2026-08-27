@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-faithful-hound](mordenkainen-s-faithful-hound.md)
-
----
 
 # Mordenkainen's Faithful Hound
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [project-image](project-image.md)
-
----
 
 # Project Image
 

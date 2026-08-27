@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-soulknife](rogue-soulknife.md)
-
----
 
 # Soulknife
 

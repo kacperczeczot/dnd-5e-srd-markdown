@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [weapon-of-warning](weapon-of-warning.md)
-
----
 
 # Broń ostrzegawcza
 

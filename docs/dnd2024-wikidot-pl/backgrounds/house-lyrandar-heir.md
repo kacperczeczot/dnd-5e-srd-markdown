@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-lyrandar-heir](house-lyrandar-heir.md)
-
----
 
 # Dziedzic rodu Lyrandar
 

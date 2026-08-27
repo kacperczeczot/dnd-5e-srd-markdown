@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [death-armor](death-armor.md)
-
----
 
 # Zbroja śmierci
 

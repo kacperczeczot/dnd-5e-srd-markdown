@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cap-of-water-breathing](cap-of-water-breathing.md)
-
----
 
 # Czapka oddychania pod wodą
 

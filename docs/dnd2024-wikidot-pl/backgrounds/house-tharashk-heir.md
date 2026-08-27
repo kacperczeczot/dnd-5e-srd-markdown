@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-tharashk-heir](house-tharashk-heir.md)
-
----
 
 # Dziedzic rodu Tharashk
 

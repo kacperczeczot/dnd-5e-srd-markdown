@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [reliquary-of-twilight](reliquary-of-twilight.md)
-
----
 
 # Relikwiarz zmierzchu
 

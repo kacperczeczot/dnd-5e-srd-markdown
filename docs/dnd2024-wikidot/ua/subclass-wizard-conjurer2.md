@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-conjurer2](subclass-wizard-conjurer2.md)
-
----
 
 # Conjurer (UA8 18.9.25)
 

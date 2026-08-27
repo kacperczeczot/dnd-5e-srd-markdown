@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-death-knight-initiate](feat-death-knight-initiate.md)
-
----
 
 # Inicjacja rycerza śmierci (UA)
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mind-blank](mind-blank.md)
-
----
 
 # Mind Blank
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [spirit-guardians](spirit-guardians.md)
-
----
 
 # Duchowi strażnicy
 

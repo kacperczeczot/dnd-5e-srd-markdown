@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [blade-of-disaster](blade-of-disaster.md)
-
----
 
 # Ostrze katastrofy
 

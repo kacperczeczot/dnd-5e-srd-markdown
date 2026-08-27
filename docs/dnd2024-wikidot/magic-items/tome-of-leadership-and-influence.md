@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [tome-of-leadership-and-influence](tome-of-leadership-and-influence.md)
-
----
 
 # Tome of Leadership and Influence
 

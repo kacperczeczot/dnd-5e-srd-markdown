@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [healing-word](healing-word.md)
-
----
 
 # Healing Word
 

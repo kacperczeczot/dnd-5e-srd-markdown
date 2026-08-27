@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [animate-objects](animate-objects.md)
-
----
 
 # Animowanie obiektów
 

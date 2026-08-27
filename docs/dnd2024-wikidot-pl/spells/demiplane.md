@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [demiplane](demiplane.md)
-
----
 
 # Demisfera
 

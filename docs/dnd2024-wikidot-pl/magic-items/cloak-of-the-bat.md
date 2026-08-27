@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-the-bat](cloak-of-the-bat.md)
-
----
 
 # Płaszcz nietoperza
 

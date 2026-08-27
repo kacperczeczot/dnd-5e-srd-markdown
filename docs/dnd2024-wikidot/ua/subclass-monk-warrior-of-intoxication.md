@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-intoxication](subclass-monk-warrior-of-intoxication.md)
-
----
 
 # Warrior of Intoxication (UA)
 

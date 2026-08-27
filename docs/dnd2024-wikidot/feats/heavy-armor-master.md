@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [heavy-armor-master](heavy-armor-master.md)
-
----
 
 # Heavy Armor Master
 

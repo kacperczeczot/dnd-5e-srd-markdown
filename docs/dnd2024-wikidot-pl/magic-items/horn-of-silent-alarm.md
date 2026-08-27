@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-silent-alarm](horn-of-silent-alarm.md)
-
----
 
 # Róg cichego alarmu
 

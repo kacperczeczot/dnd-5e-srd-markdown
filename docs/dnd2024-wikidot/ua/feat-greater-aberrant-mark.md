@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-aberrant-mark](feat-greater-aberrant-mark.md)
-
----
 
 # Greater Aberrant Mark (UA)
 

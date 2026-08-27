@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [gust-of-wind](gust-of-wind.md)
-
----
 
 # Poryw wiatru
 

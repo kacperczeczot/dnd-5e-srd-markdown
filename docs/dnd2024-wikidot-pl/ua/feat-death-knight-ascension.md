@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-death-knight-ascension](feat-death-knight-ascension.md)
-
----
 
 # Wniebowstąpienie rycerza śmierci (UA)
 

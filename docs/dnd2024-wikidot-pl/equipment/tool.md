@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [equipment](README.md) > [tool](tool.md)
-
----
 
 # Narzędzia
 

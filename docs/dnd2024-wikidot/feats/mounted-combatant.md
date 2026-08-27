@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mounted-combatant](mounted-combatant.md)
-
----
 
 # Mounted Combatant
 

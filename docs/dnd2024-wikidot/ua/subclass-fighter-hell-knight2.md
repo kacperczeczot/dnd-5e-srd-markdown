@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-hell-knight2](subclass-fighter-hell-knight2.md)
-
----
 
 # Hell Knight (UA14 18.06.2026)
 

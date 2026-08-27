@@ -1,6 +1,3 @@
-[Strona główna](../README.md) > [scripts](README.md)
-
----
 
 # `scripts/` (Pipeline Przetwarzania i Kompilacji D&D)
 

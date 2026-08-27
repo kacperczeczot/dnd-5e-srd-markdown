@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [spell-refueling-ring](spell-refueling-ring.md)
-
----
 
 # Pierścień uzupełniania czarów
 

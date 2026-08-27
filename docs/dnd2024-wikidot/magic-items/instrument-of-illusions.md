@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-illusions](instrument-of-illusions.md)
-
----
 
 # Instrument of Illusions
 

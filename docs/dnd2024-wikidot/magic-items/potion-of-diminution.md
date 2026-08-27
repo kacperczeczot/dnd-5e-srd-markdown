@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-diminution](potion-of-diminution.md)
-
----
 
 # Potion of Diminution
 

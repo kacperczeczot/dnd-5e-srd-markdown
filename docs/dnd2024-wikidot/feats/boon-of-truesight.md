@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-truesight](boon-of-truesight.md)
-
----
 
 # Boon of Truesight
 

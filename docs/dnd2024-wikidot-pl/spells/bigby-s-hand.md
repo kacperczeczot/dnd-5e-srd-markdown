@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [bigby-s-hand](bigby-s-hand.md)
-
----
 
 # Dłoń Bigby’ego
 

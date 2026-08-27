@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [tireless-reveler](tireless-reveler.md)
-
----
 
 # Niezmordowany hulaka
 

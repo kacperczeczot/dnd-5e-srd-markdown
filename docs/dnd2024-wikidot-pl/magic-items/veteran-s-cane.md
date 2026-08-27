@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [veteran-s-cane](veteran-s-cane.md)
-
----
 
 # Laska weterana
 

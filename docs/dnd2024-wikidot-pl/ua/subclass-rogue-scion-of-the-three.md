@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-rogue-scion-of-the-three](subclass-rogue-scion-of-the-three.md)
-
----
 
 # Potomek Trójcy (UA)
 

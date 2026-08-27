@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bracers-of-archery](bracers-of-archery.md)
-
----
 
 # Bracers of Archery
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [decanter-of-endless-water](decanter-of-endless-water.md)
-
----
 
 # Karafka nieskończonej wody
 

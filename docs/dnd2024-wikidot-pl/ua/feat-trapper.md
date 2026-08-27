@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-trapper](feat-trapper.md)
-
----
 
 # Traper (UA)
 

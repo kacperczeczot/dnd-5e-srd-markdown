@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [crystal-ball](crystal-ball.md)
-
----
 
 # Crystal Ball
 

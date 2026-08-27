@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-thief](rogue-thief.md)
-
----
 
 # Thief
 

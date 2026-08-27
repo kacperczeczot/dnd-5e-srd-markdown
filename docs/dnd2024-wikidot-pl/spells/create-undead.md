@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [create-undead](create-undead.md)
-
----
 
 # Stworzenie nieumarłego
 

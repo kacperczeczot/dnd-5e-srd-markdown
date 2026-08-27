@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-raulothim-s-psychic-lance](spell-raulothim-s-psychic-lance.md)
-
----
 
 # Psychiczna lanca Raulothima (UA)
 

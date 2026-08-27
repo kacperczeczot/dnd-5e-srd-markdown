@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-speed](potion-of-speed.md)
-
----
 
 # Mikstura szybkości
 

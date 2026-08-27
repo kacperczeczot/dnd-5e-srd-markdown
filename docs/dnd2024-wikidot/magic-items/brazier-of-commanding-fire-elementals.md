@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [brazier-of-commanding-fire-elementals](brazier-of-commanding-fire-elementals.md)
-
----
 
 # Brazier of Commanding Fire Elementals
 

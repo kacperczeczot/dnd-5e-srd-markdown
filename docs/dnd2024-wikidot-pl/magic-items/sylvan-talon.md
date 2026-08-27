@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sylvan-talon](sylvan-talon.md)
-
----
 
 # Leśny szpon
 

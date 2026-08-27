@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mystery-key](mystery-key.md)
-
----
 
 # Tajemniczy klucz
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [giant-insect](giant-insect.md)
-
----
 
 # Olbrzymi owad
 

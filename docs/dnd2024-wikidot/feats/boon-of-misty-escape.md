@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-misty-escape](boon-of-misty-escape.md)
-
----
 
 # Boon of Misty Escape
 

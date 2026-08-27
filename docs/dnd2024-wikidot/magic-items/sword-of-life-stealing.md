@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-life-stealing](sword-of-life-stealing.md)
-
----
 
 # Sword of Life Stealing
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [tavern-brawler](tavern-brawler.md)
-
----
 
 # Bijacz z tawerny
 

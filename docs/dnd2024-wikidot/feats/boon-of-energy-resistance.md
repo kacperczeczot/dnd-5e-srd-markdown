@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-energy-resistance](boon-of-energy-resistance.md)
-
----
 
 # Boon of Energy Resistance
 

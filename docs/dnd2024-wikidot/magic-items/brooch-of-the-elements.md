@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [brooch-of-the-elements](brooch-of-the-elements.md)
-
----
 
 # Brooch of the Elements
 

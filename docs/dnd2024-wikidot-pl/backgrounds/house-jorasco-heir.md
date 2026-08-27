@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-jorasco-heir](house-jorasco-heir.md)
-
----
 
 # Dziedzic rodu Jorasco
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [modify-memory](modify-memory.md)
-
----
 
 # Podmiana wspomnień
 

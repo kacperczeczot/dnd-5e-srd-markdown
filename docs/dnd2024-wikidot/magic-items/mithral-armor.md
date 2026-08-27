@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [mithral-armor](mithral-armor.md)
-
----
 
 # Mithral Armor
 

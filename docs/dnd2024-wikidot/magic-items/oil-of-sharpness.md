@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [oil-of-sharpness](oil-of-sharpness.md)
-
----
 
 # Oil of Sharpness
 

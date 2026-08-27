@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [vorpal-sword](vorpal-sword.md)
-
----
 
 # Miecz vorpalny
 

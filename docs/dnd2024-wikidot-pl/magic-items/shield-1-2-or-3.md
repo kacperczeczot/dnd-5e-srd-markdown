@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [shield-1-2-or-3](shield-1-2-or-3.md)
-
----
 
 # Tarcza +1, +2 lub +3
 

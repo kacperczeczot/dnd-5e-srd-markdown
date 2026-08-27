@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-invisibility](ring-of-invisibility.md)
-
----
 
 # Pierścień niewidzialności
 

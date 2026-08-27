@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-looming-shadows](boon-of-looming-shadows.md)
-
----
 
 # Dar grożących cieni
 

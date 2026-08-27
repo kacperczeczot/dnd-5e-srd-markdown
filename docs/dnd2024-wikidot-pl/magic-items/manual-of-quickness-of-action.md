@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-quickness-of-action](manual-of-quickness-of-action.md)
-
----
 
 # Almanach zwinnego działania
 

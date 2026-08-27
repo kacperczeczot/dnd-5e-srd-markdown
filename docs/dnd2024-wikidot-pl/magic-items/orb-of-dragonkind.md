@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [orb-of-dragonkind](orb-of-dragonkind.md)
-
----
 
 # Smocza kula
 

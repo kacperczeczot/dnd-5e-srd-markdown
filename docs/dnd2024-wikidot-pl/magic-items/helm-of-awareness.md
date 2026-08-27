@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-awareness](helm-of-awareness.md)
-
----
 
 # Hełm czujności
 

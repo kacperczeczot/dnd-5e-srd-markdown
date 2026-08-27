@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sentinel-shield](sentinel-shield.md)
-
----
 
 # Tarcza strażnika
 

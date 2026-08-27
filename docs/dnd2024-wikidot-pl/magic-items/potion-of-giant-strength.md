@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-giant-strength](potion-of-giant-strength.md)
-
----
 
 # Mikstura olbrzymiej siły
 

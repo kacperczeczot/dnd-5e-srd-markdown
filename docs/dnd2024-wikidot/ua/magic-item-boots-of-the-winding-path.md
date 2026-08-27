@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [magic-item-boots-of-the-winding-path](magic-item-boots-of-the-winding-path.md)
-
----
 
 # Boots of the Winding Path (UA)
 

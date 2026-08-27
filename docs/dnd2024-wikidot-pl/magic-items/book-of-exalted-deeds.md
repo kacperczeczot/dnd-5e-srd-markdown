@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [book-of-exalted-deeds](book-of-exalted-deeds.md)
-
----
 
 # Księga wzniosłych czynów
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-thought-form](spell-thought-form.md)
-
----
 
 # Forma myśli (UA)
 

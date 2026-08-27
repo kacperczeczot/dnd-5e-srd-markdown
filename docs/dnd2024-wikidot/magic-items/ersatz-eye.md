@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ersatz-eye](ersatz-eye.md)
-
----
 
 # Ersatz Eye
 

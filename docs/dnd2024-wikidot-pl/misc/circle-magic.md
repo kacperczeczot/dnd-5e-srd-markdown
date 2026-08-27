@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [misc](README.md) > [circle-magic](circle-magic.md)
-
----
 
 # Magia kręgu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-the-python](staff-of-the-python.md)
-
----
 
 # Staff of the Python
 

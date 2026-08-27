@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [potion](potion.md)
-
----
 
 # Magic Items - Potions
 

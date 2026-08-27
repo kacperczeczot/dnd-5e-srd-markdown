@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [true-seeing](true-seeing.md)
-
----
 
 # True Seeing
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [amulet-of-proof-against-detection-and-location](amulet-of-proof-against-detection-and-location.md)
-
----
 
 # Amulet niewykrywalności
 

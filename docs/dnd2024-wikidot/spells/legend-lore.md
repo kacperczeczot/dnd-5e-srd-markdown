@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [legend-lore](legend-lore.md)
-
----
 
 # Legend Lore
 

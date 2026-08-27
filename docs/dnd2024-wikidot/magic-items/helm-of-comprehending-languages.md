@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-comprehending-languages](helm-of-comprehending-languages.md)
-
----
 
 # Helm of Comprehending Languages
 

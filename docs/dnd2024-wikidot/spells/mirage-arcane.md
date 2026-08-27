@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mirage-arcane](mirage-arcane.md)
-
----
 
 # Mirage Arcane
 

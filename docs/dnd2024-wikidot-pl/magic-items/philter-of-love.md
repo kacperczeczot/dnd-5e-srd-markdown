@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [philter-of-love](philter-of-love.md)
-
----
 
 # Eliksir miłości
 

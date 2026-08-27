@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [divine-smite](divine-smite.md)
-
----
 
 # Divine Smite
 

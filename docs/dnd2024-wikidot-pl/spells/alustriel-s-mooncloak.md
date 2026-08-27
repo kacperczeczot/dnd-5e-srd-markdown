@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [alustriel-s-mooncloak](alustriel-s-mooncloak.md)
-
----
 
 # Księżycowy płaszcz Alustriel
 

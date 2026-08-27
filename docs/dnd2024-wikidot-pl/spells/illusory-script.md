@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [illusory-script](illusory-script.md)
-
----
 
 # Iluzoryczny manuskrypt
 

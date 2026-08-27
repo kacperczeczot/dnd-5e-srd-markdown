@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [arms-of-hadar](arms-of-hadar.md)
-
----
 
 # Arms of Hadar
 

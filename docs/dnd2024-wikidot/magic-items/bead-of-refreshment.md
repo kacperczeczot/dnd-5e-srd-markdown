@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bead-of-refreshment](bead-of-refreshment.md)
-
----
 
 # Bead of Refreshment
 

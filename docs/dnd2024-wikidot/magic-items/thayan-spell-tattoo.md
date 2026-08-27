@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [thayan-spell-tattoo](thayan-spell-tattoo.md)
-
----
 
 # Thayan Spell Tattoo
 

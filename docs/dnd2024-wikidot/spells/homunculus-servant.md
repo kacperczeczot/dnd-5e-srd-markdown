@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [homunculus-servant](homunculus-servant.md)
-
----
 
 # Homunculus Servant
 

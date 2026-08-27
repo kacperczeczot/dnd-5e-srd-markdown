@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [true-strike](true-strike.md)
-
----
 
 # True Strike
 

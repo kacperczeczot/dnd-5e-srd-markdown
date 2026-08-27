@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [belt-of-dwarvenkind](belt-of-dwarvenkind.md)
-
----
 
 # Belt of Dwarvenkind
 

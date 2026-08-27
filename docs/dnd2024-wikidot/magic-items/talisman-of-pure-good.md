@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [talisman-of-pure-good](talisman-of-pure-good.md)
-
----
 
 # Talisman of Pure Good
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [efreeti-chain](efreeti-chain.md)
-
----
 
 # Kolczuga efreetiego
 

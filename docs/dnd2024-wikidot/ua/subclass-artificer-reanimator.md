@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-reanimator](subclass-artificer-reanimator.md)
-
----
 
 # Reanimator (UA)
 

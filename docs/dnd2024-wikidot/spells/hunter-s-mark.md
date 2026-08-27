@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [hunter-s-mark](hunter-s-mark.md)
-
----
 
 # Hunter's Mark
 

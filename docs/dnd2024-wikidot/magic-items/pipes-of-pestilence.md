@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-pestilence](pipes-of-pestilence.md)
-
----
 
 # Pipes Of Pestilence
 

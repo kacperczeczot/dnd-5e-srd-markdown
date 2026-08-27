@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [greater-mark-of-storm](greater-mark-of-storm.md)
-
----
 
 # Większe piętno burzy
 

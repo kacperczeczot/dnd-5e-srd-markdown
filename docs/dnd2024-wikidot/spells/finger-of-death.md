@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [finger-of-death](finger-of-death.md)
-
----
 
 # Finger of Death
 

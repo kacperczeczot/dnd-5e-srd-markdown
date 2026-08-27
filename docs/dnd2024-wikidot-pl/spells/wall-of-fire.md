@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [wall-of-fire](wall-of-fire.md)
-
----
 
 # Ściana ognia
 

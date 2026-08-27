@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-polymorph](wand-of-polymorph.md)
-
----
 
 # Różdżka polimorfii
 

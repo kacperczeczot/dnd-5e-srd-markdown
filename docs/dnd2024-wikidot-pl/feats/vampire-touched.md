@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [vampire-touched](vampire-touched.md)
-
----
 
 # Dotknięty wampiryzmem
 

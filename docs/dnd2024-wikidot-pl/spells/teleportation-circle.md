@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [teleportation-circle](teleportation-circle.md)
-
----
 
 # Krąg teleportacyjny
 

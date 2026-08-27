@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-necromancer](subclass-wizard-necromancer.md)
-
----
 
 # Necromancer (UA6 - 26.06.25)
 

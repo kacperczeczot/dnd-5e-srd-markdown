@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [robe-of-useful-items](robe-of-useful-items.md)
-
----
 
 # Szata przydatnych przedmiotów
 

@@ -1,6 +1,3 @@
-[Strona główna](../../README.md) > [glossary](README.md) > [podklasy-tlumaczenie](podklasy-tlumaczenie.md)
-
----
 
 # Słownik nazw podklas (EN → PL)
 

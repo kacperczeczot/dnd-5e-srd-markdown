@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-ranger-hollow-warden](subclass-ranger-hollow-warden.md)
-
----
 
 # Hollow Warden (UA)
 

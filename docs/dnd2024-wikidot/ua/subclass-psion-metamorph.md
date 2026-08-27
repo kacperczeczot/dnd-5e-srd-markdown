@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-psion-metamorph](subclass-psion-metamorph.md)
-
----
 
 # Metamorph (UA5 27.05.2025)
 

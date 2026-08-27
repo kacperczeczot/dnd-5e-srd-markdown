@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [inspiring-leader](inspiring-leader.md)
-
----
 
 # Inspirujący przywódca
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [martial-weapon-training](martial-weapon-training.md)
-
----
 
 # Martial Weapon Training
 

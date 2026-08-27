@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pearl-of-power](pearl-of-power.md)
-
----
 
 # Perła mocy
 

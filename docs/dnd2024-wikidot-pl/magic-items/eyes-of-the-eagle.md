@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eyes-of-the-eagle](eyes-of-the-eagle.md)
-
----
 
 # Soczewki orlego wzroku
 

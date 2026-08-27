@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [lute-of-thunderous-thumping](lute-of-thunderous-thumping.md)
-
----
 
 # Lute of Thunderous Thumping
 

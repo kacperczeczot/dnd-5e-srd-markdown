@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [en](README.md) > [gameplay-toolbox](gameplay-toolbox.md)
-
----
 
 # Gameplay Toolbox
 

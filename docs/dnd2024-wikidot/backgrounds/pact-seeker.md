@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [pact-seeker](pact-seeker.md)
-
----
 
 # Pact Seeker
 

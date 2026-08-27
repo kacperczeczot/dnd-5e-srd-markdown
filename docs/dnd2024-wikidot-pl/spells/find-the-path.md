@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [find-the-path](find-the-path.md)
-
----
 
 # Odnalezienie ścieżki
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [find-traps](find-traps.md)
-
----
 
 # Find Traps
 

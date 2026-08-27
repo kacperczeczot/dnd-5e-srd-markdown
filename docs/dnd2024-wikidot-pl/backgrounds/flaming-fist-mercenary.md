@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [flaming-fist-mercenary](flaming-fist-mercenary.md)
-
----
 
 # Najemnik Płonącej Pięści
 

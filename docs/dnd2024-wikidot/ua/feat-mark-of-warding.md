@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mark-of-warding](feat-mark-of-warding.md)
-
----
 
 # Mark of Warding (UA)
 

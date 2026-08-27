@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [inflict-wounds](inflict-wounds.md)
-
----
 
 # Inflict Wounds
 

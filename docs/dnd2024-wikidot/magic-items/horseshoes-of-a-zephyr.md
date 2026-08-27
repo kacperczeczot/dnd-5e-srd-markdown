@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [horseshoes-of-a-zephyr](horseshoes-of-a-zephyr.md)
-
----
 
 # Horseshoes of a Zephyr
 

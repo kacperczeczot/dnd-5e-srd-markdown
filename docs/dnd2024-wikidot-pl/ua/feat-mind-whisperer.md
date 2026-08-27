@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-mind-whisperer](feat-mind-whisperer.md)
-
----
 
 # Szeptacz umysłu (UA)
 

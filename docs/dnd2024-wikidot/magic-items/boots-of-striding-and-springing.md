@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [boots-of-striding-and-springing](boots-of-striding-and-springing.md)
-
----
 
 # Boots of Striding and Springing
 

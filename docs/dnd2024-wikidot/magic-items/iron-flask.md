@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [iron-flask](iron-flask.md)
-
----
 
 # Iron Flask
 

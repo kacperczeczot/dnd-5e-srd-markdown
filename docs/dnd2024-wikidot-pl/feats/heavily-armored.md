@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [heavily-armored](heavily-armored.md)
-
----
 
 # Ciężko opancerzony
 

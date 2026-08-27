@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-pyrokinesis](feat-pyrokinesis.md)
-
----
 
 # Pyrokinesis (UA)
 

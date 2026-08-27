@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [water-breathing](water-breathing.md)
-
----
 
 # Water Breathing
 

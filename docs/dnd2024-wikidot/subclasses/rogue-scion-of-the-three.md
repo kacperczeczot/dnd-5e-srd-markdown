@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-scion-of-the-three](rogue-scion-of-the-three.md)
-
----
 
 # Scion of the Three
 

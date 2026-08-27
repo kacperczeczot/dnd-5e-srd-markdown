@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [lordly-resolve](lordly-resolve.md)
-
----
 
 # Lordly Resolve
 

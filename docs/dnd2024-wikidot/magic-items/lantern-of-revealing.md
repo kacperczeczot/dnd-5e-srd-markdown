@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [lantern-of-revealing](lantern-of-revealing.md)
-
----
 
 # Lantern of Revealing
 

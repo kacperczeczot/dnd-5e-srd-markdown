@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-shooting-stars](ring-of-shooting-stars.md)
-
----
 
 # Pierścień spadających gwiazd
 

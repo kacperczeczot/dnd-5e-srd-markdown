@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [rope-of-entanglement](rope-of-entanglement.md)
-
----
 
 # Sznur spętania
 

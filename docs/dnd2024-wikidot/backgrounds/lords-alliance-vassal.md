@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [lords-alliance-vassal](lords-alliance-vassal.md)
-
----
 
 # Lords' Alliance Vassal
 

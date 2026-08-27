@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-healing](feat-greater-mark-of-healing.md)
-
----
 
 # Greater Mark of Healing (UA)
 

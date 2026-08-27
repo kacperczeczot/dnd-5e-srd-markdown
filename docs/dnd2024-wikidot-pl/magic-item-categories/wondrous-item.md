@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-item-categories](README.md) > [wondrous-item](wondrous-item.md)
-
----
 
 # Przedmioty magiczne — cudowne przedmioty
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-desperate-resilience](boon-of-desperate-resilience.md)
-
----
 
 # Dar rozpaczliwej odporności
 

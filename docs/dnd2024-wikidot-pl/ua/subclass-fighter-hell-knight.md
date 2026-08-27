@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-hell-knight](subclass-fighter-hell-knight.md)
-
----
 
 # Rycerz piekielny (UA12 — 02.04.2026)
 

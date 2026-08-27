@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-vermin](hat-of-vermin.md)
-
----
 
 # Kapelusz robactwa
 

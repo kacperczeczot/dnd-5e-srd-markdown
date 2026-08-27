@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [great-weapon-fighting](great-weapon-fighting.md)
-
----
 
 # Great Weapon Fighting
 

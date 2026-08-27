@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [house-medani-heir](house-medani-heir.md)
-
----
 
 # House Medani Heir
 

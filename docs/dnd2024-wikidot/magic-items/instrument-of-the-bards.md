@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [instrument-of-the-bards](instrument-of-the-bards.md)
-
----
 
 # Instrument of the Bards
 

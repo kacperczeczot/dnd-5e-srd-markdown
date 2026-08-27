@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [fighter-eldritch-knight](fighter-eldritch-knight.md)
-
----
 
 # Eldritch Knight
 

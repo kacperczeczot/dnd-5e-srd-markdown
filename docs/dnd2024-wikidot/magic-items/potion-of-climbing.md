@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-climbing](potion-of-climbing.md)
-
----
 
 # Potion of Climbing
 

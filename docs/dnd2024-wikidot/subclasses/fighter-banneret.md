@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [fighter-banneret](fighter-banneret.md)
-
----
 
 # Banneret
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-frost](staff-of-frost.md)
-
----
 
 # Kostur mrozu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spell-lists](README.md) > [wizard](wizard.md)
-
----
 
 # Wizard Spell List
 

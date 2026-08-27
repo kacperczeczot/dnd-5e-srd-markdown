@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [rogue-assassin](rogue-assassin.md)
-
----
 
 # Assassin
 

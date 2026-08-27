@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dispel-evil-and-good](dispel-evil-and-good.md)
-
----
 
 # Rozproszenie dobra i zła
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [quaal-s-feather-token](quaal-s-feather-token.md)
-
----
 
 # Quaal's Feather Token
 

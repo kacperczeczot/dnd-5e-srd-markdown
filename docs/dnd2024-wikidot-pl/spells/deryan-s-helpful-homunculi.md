@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [deryan-s-helpful-homunculi](deryan-s-helpful-homunculi.md)
-
----
 
 # Pomocne homunkuły Deryana
 

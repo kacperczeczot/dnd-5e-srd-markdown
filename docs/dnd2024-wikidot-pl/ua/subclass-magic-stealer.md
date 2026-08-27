@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-magic-stealer](subclass-magic-stealer.md)
-
----
 
 # Złodziej magii (UA)
 

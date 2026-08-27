@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [heward-s-handy-spice-pouch](heward-s-handy-spice-pouch.md)
-
----
 
 # Wygodna sakiewka przypraw Hewarda
 

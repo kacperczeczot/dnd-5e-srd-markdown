@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [manifold-tool](manifold-tool.md)
-
----
 
 # Manifold Tool
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [animal-messenger](animal-messenger.md)
-
----
 
 # Animal Messenger
 

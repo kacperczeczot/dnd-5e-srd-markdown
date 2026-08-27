@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-protection](ring-of-protection.md)
-
----
 
 # Pierścień ochrony
 

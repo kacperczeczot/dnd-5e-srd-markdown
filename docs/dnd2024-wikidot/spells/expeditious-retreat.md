@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [expeditious-retreat](expeditious-retreat.md)
-
----
 
 # Expeditious Retreat
 

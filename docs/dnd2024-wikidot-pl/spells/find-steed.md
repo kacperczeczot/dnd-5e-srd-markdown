@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [find-steed](find-steed.md)
-
----
 
 # Znalezienie wierzchowca
 

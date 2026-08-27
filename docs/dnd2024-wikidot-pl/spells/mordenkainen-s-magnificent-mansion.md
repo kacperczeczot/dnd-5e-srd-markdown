@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mordenkainen-s-magnificent-mansion](mordenkainen-s-magnificent-mansion.md)
-
----
 
 # Wspaniała posiadłość Mordenkainena
 

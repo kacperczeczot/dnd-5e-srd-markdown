@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ammunition-of-slaying](ammunition-of-slaying.md)
-
----
 
 # Ammunition of Slaying
 

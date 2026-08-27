@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [nine-lives-stealer](nine-lives-stealer.md)
-
----
 
 # Zabójca dziewięciu żyć
 

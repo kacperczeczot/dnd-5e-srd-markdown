@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [hat-of-disguise](hat-of-disguise.md)
-
----
 
 # Kapelusz przebrania
 

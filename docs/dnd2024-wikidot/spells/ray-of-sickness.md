@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [ray-of-sickness](ray-of-sickness.md)
-
----
 
 # Ray of Sickness
 

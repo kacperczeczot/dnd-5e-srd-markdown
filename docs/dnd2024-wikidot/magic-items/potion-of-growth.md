@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [potion-of-growth](potion-of-growth.md)
-
----
 
 # Potion of Growth
 

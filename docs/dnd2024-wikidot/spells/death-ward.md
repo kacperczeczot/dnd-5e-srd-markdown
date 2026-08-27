@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [death-ward](death-ward.md)
-
----
 
 # Death Ward
 

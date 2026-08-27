@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [purple-dragon-rook](purple-dragon-rook.md)
-
----
 
 # Purple Dragon Rook
 

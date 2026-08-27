@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [lesser-restoration](lesser-restoration.md)
-
----
 
 # Mniejsze przywrócenie
 

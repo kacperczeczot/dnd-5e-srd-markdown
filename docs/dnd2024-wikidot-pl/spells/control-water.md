@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [control-water](control-water.md)
-
----
 
 # Kontrola wody
 

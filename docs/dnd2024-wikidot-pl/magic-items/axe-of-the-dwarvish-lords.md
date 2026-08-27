@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [axe-of-the-dwarvish-lords](axe-of-the-dwarvish-lords.md)
-
----
 
 # Topór krasnoludzkich władców
 

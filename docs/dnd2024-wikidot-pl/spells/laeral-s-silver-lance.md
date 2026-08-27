@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [laeral-s-silver-lance](laeral-s-silver-lance.md)
-
----
 
 # Srebrna lanca Laeral
 

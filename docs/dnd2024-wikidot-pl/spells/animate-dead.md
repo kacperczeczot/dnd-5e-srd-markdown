@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [animate-dead](animate-dead.md)
-
----
 
 # Animowanie zmarłego
 

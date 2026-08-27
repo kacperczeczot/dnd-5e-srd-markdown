@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-warlock-hexblade-patron2](subclass-warlock-hexblade-patron2.md)
-
----
 
 # Patron Klątwy Ostrza (UA6 — 26.06.2025)
 

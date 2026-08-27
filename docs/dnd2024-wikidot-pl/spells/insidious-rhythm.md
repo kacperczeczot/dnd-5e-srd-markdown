@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [insidious-rhythm](insidious-rhythm.md)
-
----
 
 # Podstępny rytm
 

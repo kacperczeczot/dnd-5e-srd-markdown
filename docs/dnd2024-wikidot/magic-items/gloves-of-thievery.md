@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [gloves-of-thievery](gloves-of-thievery.md)
-
----
 
 # Gloves of Thievery
 

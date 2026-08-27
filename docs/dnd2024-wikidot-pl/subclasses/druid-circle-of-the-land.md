@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [druid-circle-of-the-land](druid-circle-of-the-land.md)
-
----
 
 # Krąg Ziemi
 

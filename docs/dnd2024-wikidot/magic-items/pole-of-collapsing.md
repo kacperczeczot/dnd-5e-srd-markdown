@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pole-of-collapsing](pole-of-collapsing.md)
-
----
 
 # Pole of Collapsing
 

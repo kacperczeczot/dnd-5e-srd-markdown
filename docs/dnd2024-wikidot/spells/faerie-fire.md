@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [faerie-fire](faerie-fire.md)
-
----
 
 # Faerie Fire
 

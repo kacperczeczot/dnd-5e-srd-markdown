@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-kas](sword-of-kas.md)
-
----
 
 # Miecz Kasa
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [creation](creation.md)
-
----
 
 # Cieniste formowanie
 

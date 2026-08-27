@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [horn-of-blasting](horn-of-blasting.md)
-
----
 
 # Horn of Blasting
 

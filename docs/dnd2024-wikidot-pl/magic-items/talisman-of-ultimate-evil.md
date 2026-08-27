@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [talisman-of-ultimate-evil](talisman-of-ultimate-evil.md)
-
----
 
 # Talizman ostatecznego zła
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [wind-wall](wind-wall.md)
-
----
 
 # Ściana wichru
 

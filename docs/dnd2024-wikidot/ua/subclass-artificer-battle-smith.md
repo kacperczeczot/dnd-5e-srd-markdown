@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-artificer-battle-smith](subclass-artificer-battle-smith.md)
-
----
 
 # Battle Smith (UA)
 

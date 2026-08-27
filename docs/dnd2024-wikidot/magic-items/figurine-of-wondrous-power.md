@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [figurine-of-wondrous-power](figurine-of-wondrous-power.md)
-
----
 
 # Figurine of Wondrous Power
 

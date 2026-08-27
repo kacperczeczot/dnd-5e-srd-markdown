@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-warrior-of-the-mystic-arts](subclass-monk-warrior-of-the-mystic-arts.md)
-
----
 
 # Warrior of the Mystic Arts (UA)
 

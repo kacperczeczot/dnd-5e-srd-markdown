@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-transmuter2](subclass-wizard-transmuter2.md)
-
----
 
 # Transmutator (UA8 — 18.09.2025)
 

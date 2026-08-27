@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [scorching-ray](scorching-ray.md)
-
----
 
 # Scorching Ray
 

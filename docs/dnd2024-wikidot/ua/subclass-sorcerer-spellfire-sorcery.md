@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-sorcerer-spellfire-sorcery](subclass-sorcerer-spellfire-sorcery.md)
-
----
 
 # Spellfire Sorcery (UA)
 

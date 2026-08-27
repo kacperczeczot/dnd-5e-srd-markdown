@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sun-blade](sun-blade.md)
-
----
 
 # Sun Blade
 

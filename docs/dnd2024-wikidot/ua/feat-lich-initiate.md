@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-lich-initiate](feat-lich-initiate.md)
-
----
 
 # Lich Initiate (UA)
 

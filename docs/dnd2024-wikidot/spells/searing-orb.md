@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [searing-orb](searing-orb.md)
-
----
 
 # Searing Orb
 

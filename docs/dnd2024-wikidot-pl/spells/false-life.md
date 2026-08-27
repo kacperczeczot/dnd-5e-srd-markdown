@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [false-life](false-life.md)
-
----
 
 # Fałszywe życie
 

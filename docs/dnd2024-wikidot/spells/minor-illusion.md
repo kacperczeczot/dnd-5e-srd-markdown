@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [minor-illusion](minor-illusion.md)
-
----
 
 # Minor Illusion
 

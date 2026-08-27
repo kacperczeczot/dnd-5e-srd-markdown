@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [sorcerer-clockwork-sorcery](sorcerer-clockwork-sorcery.md)
-
----
 
 # Magia Zegara
 

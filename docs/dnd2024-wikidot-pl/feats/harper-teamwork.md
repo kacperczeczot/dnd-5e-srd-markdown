@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [harper-teamwork](harper-teamwork.md)
-
----
 
 # Praca zespołowa Harpersów
 

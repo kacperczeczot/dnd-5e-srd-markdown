@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-harbinger-of-doom](feat-harbinger-of-doom.md)
-
----
 
 # Zwiastun zagłady (UA)
 

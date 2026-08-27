@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [broom-of-flying](broom-of-flying.md)
-
----
 
 # Latająca miotła
 

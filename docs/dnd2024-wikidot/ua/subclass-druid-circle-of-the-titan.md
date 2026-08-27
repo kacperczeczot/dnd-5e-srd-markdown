@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-druid-circle-of-the-titan](subclass-druid-circle-of-the-titan.md)
-
----
 
 # Circle of the Titan (UA12 02.04.2026)
 

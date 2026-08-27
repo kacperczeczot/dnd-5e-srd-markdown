@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cauldron-of-rebirth](cauldron-of-rebirth.md)
-
----
 
 # Kocioł odrodzenia
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [baba-yaga-s-dancing-broom](baba-yaga-s-dancing-broom.md)
-
----
 
 # Baba Yaga's Dancing Broom
 

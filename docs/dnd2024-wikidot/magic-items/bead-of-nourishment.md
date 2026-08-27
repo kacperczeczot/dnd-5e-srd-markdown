@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bead-of-nourishment](bead-of-nourishment.md)
-
----
 
 # Bead of Nourishment
 

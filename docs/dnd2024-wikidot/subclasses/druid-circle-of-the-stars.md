@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [druid-circle-of-the-stars](druid-circle-of-the-stars.md)
-
----
 
 # Circle of the Stars
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-invisibility](cloak-of-invisibility.md)
-
----
 
 # Płaszcz niewidzialności
 

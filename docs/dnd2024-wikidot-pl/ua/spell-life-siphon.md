@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-life-siphon](spell-life-siphon.md)
-
----
 
 # Syfon życia (UA)
 

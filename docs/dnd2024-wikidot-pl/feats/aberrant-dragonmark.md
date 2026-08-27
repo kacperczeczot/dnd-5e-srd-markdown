@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [aberrant-dragonmark](aberrant-dragonmark.md)
-
----
 
 # Aberacyjne piętno smoka
 

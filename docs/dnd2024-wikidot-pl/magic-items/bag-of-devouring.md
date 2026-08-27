@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-devouring](bag-of-devouring.md)
-
----
 
 # Wór gębowy
 

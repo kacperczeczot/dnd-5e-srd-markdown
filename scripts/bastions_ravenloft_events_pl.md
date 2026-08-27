@@ -1,6 +1,3 @@
-[Strona główna](../README.md) > [scripts](README.md) > [bastions_ravenloft_events_pl](bastions_ravenloft_events_pl.md)
-
----
 
 # Ravenloft: obiekty Horrory wewnątrz
 

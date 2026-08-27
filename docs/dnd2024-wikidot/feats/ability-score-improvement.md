@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [ability-score-improvement](ability-score-improvement.md)
-
----
 
 # Ability Score Improvement
 

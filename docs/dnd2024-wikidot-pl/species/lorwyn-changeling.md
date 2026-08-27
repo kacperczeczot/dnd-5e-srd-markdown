@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [species](README.md) > [lorwyn-changeling](lorwyn-changeling.md)
-
----
 
 # Changeling z Lorwyn
 

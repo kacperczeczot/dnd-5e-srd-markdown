@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [enhance-ability](enhance-ability.md)
-
----
 
 # Enhance Ability
 

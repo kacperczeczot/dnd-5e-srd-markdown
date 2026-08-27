@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [harkon-s-bite](harkon-s-bite.md)
-
----
 
 # Harkon's Bite
 

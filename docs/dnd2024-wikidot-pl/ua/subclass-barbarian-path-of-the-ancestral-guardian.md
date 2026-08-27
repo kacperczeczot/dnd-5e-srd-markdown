@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-barbarian-path-of-the-ancestral-guardian](subclass-barbarian-path-of-the-ancestral-guardian.md)
-
----
 
 # Ścieżka Strażnika Przodków (UA)
 

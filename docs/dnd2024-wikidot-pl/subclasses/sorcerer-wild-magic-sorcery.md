@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [sorcerer-wild-magic-sorcery](sorcerer-wild-magic-sorcery.md)
-
----
 
 # Dzika magia
 

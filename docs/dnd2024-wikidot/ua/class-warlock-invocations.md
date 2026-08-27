@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [class-warlock-invocations](class-warlock-invocations.md)
-
----
 
 # Warlock Invocations (UA13)
 

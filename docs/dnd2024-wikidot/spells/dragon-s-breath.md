@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [dragon-s-breath](dragon-s-breath.md)
-
----
 
 # Dragon's Breath
 

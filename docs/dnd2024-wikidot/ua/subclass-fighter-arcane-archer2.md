@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-fighter-arcane-archer2](subclass-fighter-arcane-archer2.md)
-
----
 
 # Arcane Archer (UA8 - 18.09.25)
 

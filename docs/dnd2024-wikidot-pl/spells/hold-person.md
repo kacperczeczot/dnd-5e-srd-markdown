@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [hold-person](hold-person.md)
-
----
 
 # Unieruchomienie osoby
 

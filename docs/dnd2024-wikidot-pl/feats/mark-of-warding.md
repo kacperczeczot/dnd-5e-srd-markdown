@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-warding](mark-of-warding.md)
-
----
 
 # Piętno ochrony
 

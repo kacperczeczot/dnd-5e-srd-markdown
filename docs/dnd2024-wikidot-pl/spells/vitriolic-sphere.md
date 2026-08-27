@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [vitriolic-sphere](vitriolic-sphere.md)
-
----
 
 # Żrąca sfera
 

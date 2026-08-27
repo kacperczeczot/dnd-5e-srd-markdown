@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [thunderous-greatclub](thunderous-greatclub.md)
-
----
 
 # Thunderous Greatclub
 

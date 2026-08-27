@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [spike-growth](spike-growth.md)
-
----
 
 # Wzrost kolców
 

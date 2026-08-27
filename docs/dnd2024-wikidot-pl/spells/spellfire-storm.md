@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [spellfire-storm](spellfire-storm.md)
-
----
 
 # Burza ognia czarów
 

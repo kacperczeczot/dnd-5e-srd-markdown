@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [mark-of-shadow](mark-of-shadow.md)
-
----
 
 # Mark of Shadow
 

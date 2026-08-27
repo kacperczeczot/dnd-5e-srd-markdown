@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pipes-of-the-sewers](pipes-of-the-sewers.md)
-
----
 
 # Pipes of the Sewers
 

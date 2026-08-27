@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-spell-recall](boon-of-spell-recall.md)
-
----
 
 # Boon of Spell Recall
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [bard-college-of-dance](bard-college-of-dance.md)
-
----
 
 # Kolegium Tańca
 

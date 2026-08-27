@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [conjure-elemental](conjure-elemental.md)
-
----
 
 # Conjure Elemental
 

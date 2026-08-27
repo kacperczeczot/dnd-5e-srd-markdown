@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [wind-walk](wind-walk.md)
-
----
 
 # Spacer na wietrze
 

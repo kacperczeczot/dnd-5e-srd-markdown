@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [paladin-oath-of-the-noble-genies](paladin-oath-of-the-noble-genies.md)
-
----
 
 # Oath of the Noble Genies
 

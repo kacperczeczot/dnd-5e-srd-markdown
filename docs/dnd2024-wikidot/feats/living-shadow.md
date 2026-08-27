@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [living-shadow](living-shadow.md)
-
----
 
 # Living Shadow
 

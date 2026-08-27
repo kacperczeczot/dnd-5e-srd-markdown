@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [cold-caster](cold-caster.md)
-
----
 
 # Cold Caster
 

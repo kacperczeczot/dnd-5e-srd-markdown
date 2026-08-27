@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-secrets](wand-of-secrets.md)
-
----
 
 # Różdżka tajemnic
 

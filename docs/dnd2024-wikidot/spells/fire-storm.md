@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [fire-storm](fire-storm.md)
-
----
 
 # Fire Storm
 

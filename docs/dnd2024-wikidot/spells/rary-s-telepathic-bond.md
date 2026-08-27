@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [rary-s-telepathic-bond](rary-s-telepathic-bond.md)
-
----
 
 # Rary's Telepathic Bond
 

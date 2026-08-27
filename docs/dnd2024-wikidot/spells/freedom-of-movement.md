@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [freedom-of-movement](freedom-of-movement.md)
-
----
 
 # Freedom of Movement
 

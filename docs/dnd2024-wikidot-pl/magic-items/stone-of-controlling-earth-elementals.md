@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [stone-of-controlling-earth-elementals](stone-of-controlling-earth-elementals.md)
-
----
 
 # Kamień władania żywiołakami ziemi
 

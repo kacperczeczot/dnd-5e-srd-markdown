@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [aura-of-purity](aura-of-purity.md)
-
----
 
 # Aura czystości
 

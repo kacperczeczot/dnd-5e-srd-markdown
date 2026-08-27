@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [species](README.md) > [shifter](shifter.md)
-
----
 
 # Shifter
 

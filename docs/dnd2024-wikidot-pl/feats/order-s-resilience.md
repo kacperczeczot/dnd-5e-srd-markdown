@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [order-s-resilience](order-s-resilience.md)
-
----
 
 # Odporność Zakonu
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-psionic-blast](spell-psionic-blast.md)
-
----
 
 # Psioniczny wybuch (UA)
 

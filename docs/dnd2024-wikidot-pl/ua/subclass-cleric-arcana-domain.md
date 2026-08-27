@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-cleric-arcana-domain](subclass-cleric-arcana-domain.md)
-
----
 
 # Domena arkanów (UA)
 

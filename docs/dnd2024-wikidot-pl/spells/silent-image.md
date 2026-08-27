@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [silent-image](silent-image.md)
-
----
 
 # Milczący obraz
 

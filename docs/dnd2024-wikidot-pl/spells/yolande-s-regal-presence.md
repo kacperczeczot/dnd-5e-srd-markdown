@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [yolande-s-regal-presence](yolande-s-regal-presence.md)
-
----
 
 # Królewska obecność Yolande
 

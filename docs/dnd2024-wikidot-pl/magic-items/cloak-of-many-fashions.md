@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [cloak-of-many-fashions](cloak-of-many-fashions.md)
-
----
 
 # Płaszcz wielu mod
 

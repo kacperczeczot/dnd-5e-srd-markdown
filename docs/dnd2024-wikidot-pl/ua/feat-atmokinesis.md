@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-atmokinesis](feat-atmokinesis.md)
-
----
 
 # Atmokineza (UA)
 

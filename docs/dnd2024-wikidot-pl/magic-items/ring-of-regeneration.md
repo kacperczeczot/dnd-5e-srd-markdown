@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-regeneration](ring-of-regeneration.md)
-
----
 
 # Pierścień regeneracji
 

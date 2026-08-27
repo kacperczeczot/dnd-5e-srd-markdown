@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [echoing-soul](echoing-soul.md)
-
----
 
 # Echoing Soul
 

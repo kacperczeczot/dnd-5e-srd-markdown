@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [leomund-s-tiny-hut](leomund-s-tiny-hut.md)
-
----
 
 # Leomund's Tiny Hut
 

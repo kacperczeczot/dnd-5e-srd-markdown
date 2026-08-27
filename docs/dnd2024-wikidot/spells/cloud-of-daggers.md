@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [cloud-of-daggers](cloud-of-daggers.md)
-
----
 
 # Cloud Of Daggers
 

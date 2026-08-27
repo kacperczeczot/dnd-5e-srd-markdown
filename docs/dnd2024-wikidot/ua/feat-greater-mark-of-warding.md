@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-greater-mark-of-warding](feat-greater-mark-of-warding.md)
-
----
 
 # Greater Mark of Warding (UA)
 

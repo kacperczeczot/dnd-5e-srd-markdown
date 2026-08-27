@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [prismatic-wall](prismatic-wall.md)
-
----
 
 # Pryzmatyczny mur
 

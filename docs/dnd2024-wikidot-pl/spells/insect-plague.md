@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [insect-plague](insect-plague.md)
-
----
 
 # Plaga owadów
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-telekinetic-fling](spell-telekinetic-fling.md)
-
----
 
 # Telekinetyczne miotnięcie (UA)
 

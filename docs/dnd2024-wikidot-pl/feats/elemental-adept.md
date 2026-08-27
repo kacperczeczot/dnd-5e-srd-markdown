@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [elemental-adept](elemental-adept.md)
-
----
 
 # Adept żywiołów
 

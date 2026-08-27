@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [fighter-psi-warrior](fighter-psi-warrior.md)
-
----
 
 # Psi Warrior
 

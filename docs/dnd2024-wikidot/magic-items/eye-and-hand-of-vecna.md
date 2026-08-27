@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [eye-and-hand-of-vecna](eye-and-hand-of-vecna.md)
-
----
 
 # Eye and Hand of Vecna
 

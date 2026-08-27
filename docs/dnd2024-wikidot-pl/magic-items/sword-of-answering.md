@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sword-of-answering](sword-of-answering.md)
-
----
 
 # Miecz odpowiedzi
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [pl](README.md) > [character-origins](character-origins.md)
-
----
 
 # Pochodzenie postaci
 

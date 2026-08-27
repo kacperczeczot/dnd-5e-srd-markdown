@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-magic-missiles](wand-of-magic-missiles.md)
-
----
 
 # Różdżka magicznych pocisków
 

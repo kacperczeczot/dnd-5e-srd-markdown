@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [tasha-s-bubbling-cauldron](tasha-s-bubbling-cauldron.md)
-
----
 
 # Tasha's Bubbling Cauldron
 

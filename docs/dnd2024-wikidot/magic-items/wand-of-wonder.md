@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [wand-of-wonder](wand-of-wonder.md)
-
----
 
 # Wand of Wonder
 

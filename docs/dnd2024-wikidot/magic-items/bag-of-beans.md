@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [bag-of-beans](bag-of-beans.md)
-
----
 
 # Bag of Beans
 

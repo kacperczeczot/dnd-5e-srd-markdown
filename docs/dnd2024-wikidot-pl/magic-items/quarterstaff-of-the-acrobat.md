@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [quarterstaff-of-the-acrobat](quarterstaff-of-the-acrobat.md)
-
----
 
 # Drąg akrobaty
 

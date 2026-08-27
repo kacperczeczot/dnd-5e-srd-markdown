@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [reliquary-of-dawn](reliquary-of-dawn.md)
-
----
 
 # Relikwiarz świtu
 

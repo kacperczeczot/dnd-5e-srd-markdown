@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [melfs-acid-arrow](melfs-acid-arrow.md)
-
----
 
 # Melf's Acid Arrow
 

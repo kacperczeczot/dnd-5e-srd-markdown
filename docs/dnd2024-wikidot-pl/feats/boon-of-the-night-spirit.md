@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [feats](README.md) > [boon-of-the-night-spirit](boon-of-the-night-spirit.md)
-
----
 
 # Dar nocnego widma
 

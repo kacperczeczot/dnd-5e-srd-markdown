@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [ring-of-free-action](ring-of-free-action.md)
-
----
 
 # Ring of Free Action
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [arcane-vigor](arcane-vigor.md)
-
----
 
 # Arcane Vigor
 

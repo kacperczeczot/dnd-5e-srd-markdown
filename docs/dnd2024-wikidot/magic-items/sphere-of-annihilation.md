@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sphere-of-annihilation](sphere-of-annihilation.md)
-
----
 
 # Sphere of Annihilation
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [prismatic-spray](prismatic-spray.md)
-
----
 
 # Prismatic Spray
 

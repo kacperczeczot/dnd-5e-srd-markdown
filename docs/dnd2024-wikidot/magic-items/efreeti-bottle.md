@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [efreeti-bottle](efreeti-bottle.md)
-
----
 
 # Efreeti Bottle
 

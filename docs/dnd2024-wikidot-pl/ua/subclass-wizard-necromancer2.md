@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-wizard-necromancer2](subclass-wizard-necromancer2.md)
-
----
 
 # Nekromanta (UA8 — 18.09.2025)
 

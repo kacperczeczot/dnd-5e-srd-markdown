@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [equipment](README.md) > [mounts-and-vehicles](mounts-and-vehicles.md)
-
----
 
 # Mounts And Vehicles
 

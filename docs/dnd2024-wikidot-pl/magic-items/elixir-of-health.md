@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [elixir-of-health](elixir-of-health.md)
-
----
 
 # Eliksir zdrowia
 

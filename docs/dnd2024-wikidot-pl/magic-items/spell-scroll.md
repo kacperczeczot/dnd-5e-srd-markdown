@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [spell-scroll](spell-scroll.md)
-
----
 
 # Zwój z czarem
 

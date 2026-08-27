@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-life-inversion-field](spell-life-inversion-field.md)
-
----
 
 # Life Inversion Field (UA)
 

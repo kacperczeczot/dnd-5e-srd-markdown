@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [subclass-monk-tattooed-warrior](subclass-monk-tattooed-warrior.md)
-
----
 
 # Wojownik z tatuażami (UA6 — 26.06.2025)
 

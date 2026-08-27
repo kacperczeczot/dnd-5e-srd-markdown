@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [stinking-cloud](stinking-cloud.md)
-
----
 
 # Stinking Cloud
 

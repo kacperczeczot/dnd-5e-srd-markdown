@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [spirit-board](spirit-board.md)
-
----
 
 # Spirit Board
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [iron-bands-of-bilarro](iron-bands-of-bilarro.md)
-
----
 
 # Żelazne obręcze
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [sovereign-glue](sovereign-glue.md)
-
----
 
 # Klej absolutny
 

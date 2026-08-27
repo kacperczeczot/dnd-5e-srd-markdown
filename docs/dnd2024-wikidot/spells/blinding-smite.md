@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [blinding-smite](blinding-smite.md)
-
----
 
 # Blinding Smite
 

@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [pipe-of-smoke-monsters](pipe-of-smoke-monsters.md)
-
----
 
 # Fajka dymnych potworów
 

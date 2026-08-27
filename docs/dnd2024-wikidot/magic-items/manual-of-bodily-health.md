@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [manual-of-bodily-health](manual-of-bodily-health.md)
-
----
 
 # Manual of Bodily Health
 

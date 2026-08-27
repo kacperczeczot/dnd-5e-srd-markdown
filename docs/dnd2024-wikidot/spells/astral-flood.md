@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [astral-flood](astral-flood.md)
-
----
 
 # Astral Flood
 

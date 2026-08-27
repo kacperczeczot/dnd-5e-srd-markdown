@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [backgrounds](README.md) > [ice-fisher](ice-fisher.md)
-
----
 
 # Rybak lodowy
 

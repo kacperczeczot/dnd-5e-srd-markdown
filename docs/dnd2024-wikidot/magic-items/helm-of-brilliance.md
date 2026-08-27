@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [helm-of-brilliance](helm-of-brilliance.md)
-
----
 
 # Helm of Brilliance
 

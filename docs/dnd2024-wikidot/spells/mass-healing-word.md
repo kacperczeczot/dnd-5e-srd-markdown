@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [mass-healing-word](mass-healing-word.md)
-
----
 
 # Mass Healing Word
 

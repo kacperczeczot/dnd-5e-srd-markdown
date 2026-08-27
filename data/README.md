@@ -1,6 +1,3 @@
-[Strona główna](../README.md) > [data](README.md)
-
----
 
 # `data/` (Zasoby Danych, Źródła i Skompilowane Podręczniki)
 

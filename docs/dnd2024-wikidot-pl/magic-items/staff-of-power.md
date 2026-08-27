@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [staff-of-power](staff-of-power.md)
-
----
 
 # Kostur mocy
 

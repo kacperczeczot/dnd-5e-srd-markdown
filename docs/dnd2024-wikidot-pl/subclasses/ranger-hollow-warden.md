@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [subclasses](README.md) > [ranger-hollow-warden](ranger-hollow-warden.md)
-
----
 
 # Strażnik Pustki
 

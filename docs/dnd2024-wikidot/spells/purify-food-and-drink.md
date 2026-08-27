@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [spells](README.md) > [purify-food-and-drink](purify-food-and-drink.md)
-
----
 
 # Purify Food and Drink
 

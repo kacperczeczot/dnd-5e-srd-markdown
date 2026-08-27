@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [spell-intellect-fortress](spell-intellect-fortress.md)
-
----
 
 # Intellect Fortress (UA)
 

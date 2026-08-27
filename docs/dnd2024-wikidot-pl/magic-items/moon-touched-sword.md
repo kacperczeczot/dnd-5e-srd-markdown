@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [moon-touched-sword](moon-touched-sword.md)
-
----
 
 # Miecz dotknięty księżycem
 

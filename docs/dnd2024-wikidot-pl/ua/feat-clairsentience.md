@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [ua](README.md) > [feat-clairsentience](feat-clairsentience.md)
-
----
 
 # Klairsentencja (UA)
 

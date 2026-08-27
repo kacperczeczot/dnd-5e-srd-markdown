@@ -1,6 +1,3 @@
-[Strona główna](../../../README.md) > [magic-items](README.md) > [holy-avenger](holy-avenger.md)
-
----
 
 # Holy Avenger
 
