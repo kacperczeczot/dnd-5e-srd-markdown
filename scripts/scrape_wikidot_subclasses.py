@@ -35,7 +35,7 @@ SKIP_SLUGS = {
     "metamagic",
     "eldritch-invocation",
 }
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "dnd2024-wikidot"
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs/dnd2024-wikidot"
 REQUEST_DELAY = 0.5
 
 

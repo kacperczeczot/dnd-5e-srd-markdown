@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix PL terminology per docs/terminologia-tlumaczenie.md in srd-5.2.1/pl and dnd2024-wikidot-pl."""
+"""Fix PL terminology per docs/glossary/terminologia-tlumaczenie.md in srd-5.2.1/pl and dnd2024-wikidot-pl."""
 
 from __future__ import annotations
 
@@ -231,7 +231,7 @@ DAMAGE_TYPE_REPLACEMENTS: list[tuple[str, str]] = [
 
 TARGETS = {
     "srd": REPO / "srd-5.2.1" / "pl",
-    "wikidot": REPO / "dnd2024-wikidot-pl",
+    "wikidot": REPO / "docs" / "dnd2024-wikidot-pl",
 }
 
 

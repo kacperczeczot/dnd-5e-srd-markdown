@@ -4,7 +4,7 @@ from pathlib import Path
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
-UA = ROOT / "dnd2024-wikidot-pl/ua"
+UA = ROOT / "docs" / "dnd2024-wikidot-pl" / "ua"
 CLASSES = ROOT / "dnd2024-wikidot-pl/classes"
 
 PSION5 = """# Psionik (UA5 — 27.05.2025)

@@ -93,8 +93,8 @@ def main() -> None:
     args = parser.parse_args()
 
     roots = {
-        "en": REPO / "dnd2024-wikidot",
-        "pl": REPO / "dnd2024-wikidot-pl",
+        "en": REPO / "docs" / "dnd2024-wikidot",
+        "pl": REPO / "docs" / "dnd2024-wikidot-pl",
     }
     selected = list(roots.values()) if args.target == "all" else [roots[args.target]]
     total = 0

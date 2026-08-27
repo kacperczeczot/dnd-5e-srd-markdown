@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from pathlib import Path
 
-PATH = Path(__file__).resolve().parent.parent / "srd-5.2.1/pl/magic-items.md"
+PATH = Path(__file__).resolve().parent.parent / "docs/srd-5.2.1/pl/magic-items.md"
 
 REPLACEMENTS = [
     ("_Broń (dowolna prosta lub wojskowa), legendarny (wymaga zestrojenia by a Paladin)_", "_Broń (dowolna prosta lub wojskowa), legendarny (wymaga zestrojenia przez paladyna)_"),

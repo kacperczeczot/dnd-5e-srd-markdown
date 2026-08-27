@@ -2,7 +2,7 @@
 """Write fully translated UA spell files."""
 from pathlib import Path
 
-UA = Path(__file__).resolve().parents[1] / "dnd2024-wikidot-pl/ua"
+UA = Path(__file__).resolve().parents[1] / "docs/dnd2024-wikidot-pl/ua"
 
 SPELLS = {
 "spell-bleeding-darkness.md": """# Krwawiąca ciemność (UA)

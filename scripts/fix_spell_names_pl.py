@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix Polish spell names in srd-5.2.1/pl/ to match docs/czary-tlumaczenie.md."""
+"""Fix Polish spell names in srd-5.2.1/pl/ to match docs/glossary/czary-tlumaczenie.md."""
 
 from __future__ import annotations
 
@@ -8,9 +8,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 REF_PATH = ROOT / "docs" / "czary-tlumaczenie.md"
-PL_DIR = ROOT / "srd-5.2.1" / "pl"
-EN_SPELLS = ROOT / "srd-5.2.1" / "en" / "spells.md"
-PL_SPELLS = ROOT / "srd-5.2.1" / "pl" / "spells.md"
+PL_DIR = ROOT / "docs" / "srd-5.2.1" / "pl"
+EN_SPELLS = ROOT / "docs" / "srd-5.2.1" / "en" / "spells.md"
+PL_SPELLS = ROOT / "docs" / "srd-5.2.1" / "pl" / "spells.md"
 
 SKIP_HEADERS = {"Actions", "Traits", "Bonus Actions", "Animated Object"}
 

@@ -4,7 +4,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-UA = ROOT / "dnd2024-wikidot-pl/ua"
+UA = ROOT / "docs" / "dnd2024-wikidot-pl" / "ua"
 FEATS = ROOT / "dnd2024-wikidot-pl/feats"
 
 EBERRON_SRC = (

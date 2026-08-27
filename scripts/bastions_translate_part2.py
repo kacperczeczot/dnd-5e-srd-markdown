@@ -2,7 +2,7 @@
 """Replace bastions.md section: Special Facility Descriptions through Workshop."""
 from pathlib import Path
 
-PL = Path(__file__).resolve().parents[1] / "dnd2024-wikidot-pl/misc/bastions.md"
+PL = Path(__file__).resolve().parents[1] / "docs/dnd2024-wikidot-pl/misc/bastions.md"
 
 REPLACEMENT = r'''# Opisy specjalnych obiektów
 

@@ -3,7 +3,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-UA = ROOT / "dnd2024-wikidot-pl/ua"
+UA = ROOT / "docs" / "dnd2024-wikidot-pl" / "ua"
 
 FILES = {
     "subclass-artificer-alchemist.md": """# Alchemik (UA)

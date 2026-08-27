@@ -4,7 +4,7 @@
 Uses terminology and translations from:
 - DND-TLUMACZENIE (Foundry compendium)
 - srd-5.2.1/pl/
-- docs/czary-tlumaczenie.md
+- docs/glossary/czary-tlumaczenie.md
 - sources/5e-SRD_v1.0.md terminology conventions
 """
 
@@ -22,8 +22,8 @@ from metric_units import feet_to_meters
 from clean_wikidot_artifacts import clean_wikidot_artifacts
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-SOURCE_DIR = REPO_ROOT / "dnd2024-wikidot"
-OUTPUT_DIR = REPO_ROOT / "dnd2024-wikidot-pl"
+SOURCE_DIR = REPO_ROOT / "docs" / "dnd2024-wikidot"
+OUTPUT_DIR = REPO_ROOT / "docs" / "dnd2024-wikidot-pl"
 TLUMACZENIE = Path("/Users/kacper/Documents/GitHub/DND-TLUMACZENIE/lang-pl-dnd5")
 COMPENDIUM_DIR = TLUMACZENIE / "lang/pl/compendium"
 SRD_PL = REPO_ROOT / "srd-5.2.1/pl"
@@ -357,7 +357,7 @@ def slugify(text: str) -> str:
 
 def load_spell_name_map(names: dict[str, str]) -> dict[str, str]:
     mapping: dict[str, str] = dict(names)
-    czary = REPO_ROOT / "docs/czary-tlumaczenie.md"
+    czary = REPO_ROOT / "docs/glossary/czary-tlumaczenie.md"
     if czary.exists():
         for line in czary.read_text(encoding="utf-8").splitlines():
             m = re.match(r"\| (.+?) \| (.+?) \|", line)

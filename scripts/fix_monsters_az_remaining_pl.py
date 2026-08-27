@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from pathlib import Path
 
-path = Path(__file__).resolve().parent.parent / "srd-5.2.1/pl/monsters-A-Z.md"
+path = Path(__file__).resolve().parent.parent / "docs/srd-5.2.1/pl/monsters-A-Z.md"
 text = path.read_text(encoding="utf-8")
 
 REPLACEMENTS = [
@@ -100,7 +100,7 @@ print(f"Applied {len(REPLACEMENTS)} replacements")
 
 # Run batch 2 by re-reading and applying more replacements
 from pathlib import Path
-path = Path(__file__).resolve().parent.parent / "srd-5.2.1/pl/monsters-A-Z.md"
+path = Path(__file__).resolve().parent.parent / "docs/srd-5.2.1/pl/monsters-A-Z.md"
 text = path.read_text(encoding="utf-8")
 
 REPLACEMENTS = [

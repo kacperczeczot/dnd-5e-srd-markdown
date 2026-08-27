@@ -3,7 +3,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-UA = ROOT / "dnd2024-wikidot-pl/ua"
+UA = ROOT / "docs" / "dnd2024-wikidot-pl" / "ua"
 
 FILES = {
     "subclass-monk-tattooed-warrior.md": """# Wojownik z tatuażami (UA6 — 26.06.2025)

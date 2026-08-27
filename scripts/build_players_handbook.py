@@ -10,8 +10,8 @@ from functools import lru_cache
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRD = {"en": ROOT / "srd-5.2.1" / "en", "pl": ROOT / "srd-5.2.1" / "pl"}
-WIKI = {"en": ROOT / "dnd2024-wikidot", "pl": ROOT / "dnd2024-wikidot-pl"}
+SRD = {"en": ROOT / "docs" / "srd-5.2.1" / "en", "pl": ROOT / "docs" / "srd-5.2.1" / "pl"}
+WIKI = {"en": ROOT / "docs" / "dnd2024-wikidot", "pl": ROOT / "docs" / "dnd2024-wikidot-pl"}
 
 PHB_SOURCE_MARKERS = {
     "en": "Source: Player's Handbook",
@@ -936,7 +936,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=ROOT / "compiled",
+        default=ROOT / "data" / "compiled",
         help="Output directory (default: compiled/).",
     )
     return parser.parse_args()

@@ -7,8 +7,8 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-EN_DIR = ROOT / "dnd2024-wikidot" / "spells"
-PL_DIR = ROOT / "dnd2024-wikidot-pl" / "spells"
+EN_DIR = ROOT / "docs" / "dnd2024-wikidot" / "spells"
+PL_DIR = ROOT / "docs" / "dnd2024-wikidot-pl" / "spells"
 
 SCHOOL_TITLES = {
     "abjuration-school": "Czary odpychania",

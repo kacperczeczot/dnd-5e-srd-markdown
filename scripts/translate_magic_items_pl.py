@@ -2,7 +2,7 @@
 """Apply Polish translations to remaining English fragments in magic-items.md"""
 from pathlib import Path
 
-PATH = Path(__file__).resolve().parent.parent / "srd-5.2.1/pl/magic-items.md"
+PATH = Path(__file__).resolve().parent.parent / "docs/srd-5.2.1/pl/magic-items.md"
 
 # Order matters for overlapping strings — longer/more specific first
 REPLACEMENTS = [

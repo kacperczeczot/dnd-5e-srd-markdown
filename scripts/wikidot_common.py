@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 from clean_wikidot_artifacts import clean_wikidot_artifacts
 
 BASE_URL = "http://dnd2024.wikidot.com"
-DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent.parent / "dnd2024-wikidot"
+DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs/dnd2024-wikidot"
 REQUEST_DELAY = 0.5
 USER_AGENT = "dnd2024-wiki-scraper/1.0"
 
