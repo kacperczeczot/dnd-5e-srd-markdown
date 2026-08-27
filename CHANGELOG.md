@@ -4,27 +4,34 @@ Wszystkie istotne zmiany w projekcie są dokumentowane w tym pliku zgodnie ze st
 
 ---
 
-## [Unreleased]
-
-### Added
-- Dostosowanie repozytorium do standardów DevEx (Single-App).
-- Struktura dokumentacji `docs/` z certyfikatem `docs/STANDARDS.md` i rejestrem `docs/adr/`.
-- Pliki konfiguracyjne: `.editorconfig`, `.agents/rules/project.md`, `.github/pull_request_template.md`.
+## [0.1.2] - 2026-08-27
 
 ### Changed
-- Reorganizacja struktury do Kanonu Root:
-  - `srd-5.2.1/` ➡️ `docs/srd-5.2.1/`
-  - `dnd2024-wikidot/` ➡️ `docs/dnd2024-wikidot/`
-  - `dnd2024-wikidot-pl/` ➡️ `docs/dnd2024-wikidot-pl/`
-  - `sources/` ➡️ `data/sources/`
-  - `compiled/` ➡️ `data/compiled/`
-  - `docs/*-tlumaczenie.md` ➡️ `docs/glossary/`
-- Zaktualizowanie ścieżek we wszystkich skryptach w `scripts/`.
+- migrate repository layout and documentation to DevEx standards
+
+### Miscellaneous
+- fix relative links in scripts documentation and glossaries
+- remove self-referencing breadcrumb from root README.md
+- fix all remaining broken relative links
+- adapt README.md to project specific context, remove boilerplate
+- align PR templates with .agents/rules standard and specific repo context
+- enforce DevEx canonical breadcrumbs in all markdown files
 
 ---
 
-## [1.0.0] - 2026-07-10
+## [0.1.1] - 2026-07-11
 
-### Added
-- Baza reguł SRD 5.2.1 oraz zrzut zasad dnd2024 w Markdown.
-- Generator skompilowanych podręczników PHB i DMG.
+### Miscellaneous
+- Reorganize repository structure and add Polish SRD translation.
+- Ujednolic polska terminologie SRD 5.2.1 zgodnie z czary-tlumaczenie.
+- Dodaj polski wikidot, skrypty i poprawki struktury treści.
+- Dodaj skompilowany DMG i popraw polskie skróty w słowniku.
+
+---
+
+## [0.1.0] - 2026-01-09
+
+### Miscellaneous
+- D&D 5e (2024) SRD 5.2.1 Markdown - Complete 5th Edition Reference
+
+---
