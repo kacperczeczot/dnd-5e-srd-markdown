@@ -122,7 +122,7 @@ Za zgodą MG możesz dodać inne istoty. Koszt zależy od ST, jak w tabeli poni�
 
 Obserwatorium na szczycie bastionu ma teleskop skierowany w nocne niebo.
 
-**Urok obserwatorium.** Możesz używać obserwatorium, by spoglądać w odległe zakątki Dzikiej przestrzeni i Planu Astralnego. Po długim odpoczynku w obserwatorium zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala rzucić [Kontakt z inną sferą](../spells/contact-other-plane.md) bez zużywania miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
+**Urok obserwatorium.** Możesz używać obserwatorium, by spoglądać w odległe zakątki Dzikiej przestrzeni i Planu Astralnego. Po długim odpoczynku w obserwatorium zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala rzucić [Kontakt z inną sferą](../docs/dnd2024-wikidot/spells/contact-other-plane.md) bez zużywania miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
 
 **Wzmocnij: eldryczne odkrycie.** Gdy wydajesz rozkaz Wzmocnij, ty lub najemnik badacie tajemnice gwiazd przez 7 kolejnych nocy. Po tym czasie rzuć kością. Parzysty wynik — brak korzyści. Nieparzysty — nieznana moc obdarza ciebie lub inną istotę na tym samym planie jednym z uroków: widzenia w ciemności, heroizmu lub witalności (rozdział 3).
 
@@ -144,9 +144,9 @@ Ludzie przychodzą tu na napoje i rozmowy. Gospoda może być barem, kawiarnią 
 
 **Specjał gospody.** Na kranie jest jeden magiczny napój — wybierz z listy:
 
-**Brzemię Bigby'ego.** Pinta daje efekt powiększenia z czaru [Powiększenie/pomniejszenie](../spells/enlarge-reduce.md) na 24 godziny (bez rzutu obronnego).
+**Brzemię Bigby'ego.** Pinta daje efekt powiększenia z czaru [Powiększenie/pomniejszenie](../docs/dnd2024-wikidot/spells/enlarge-reduce.md) na 24 godziny (bez rzutu obronnego).
 
-**Pocałunek Królowej Pająków.** Pinta daje efekt [Pajęczej wspinaczki](../spells/spider-climb.md) na 24 godziny.
+**Pocałunek Królowej Pająków.** Pinta daje efekt [Pajęczej wspinaczki](../docs/dnd2024-wikidot/spells/spider-climb.md) na 24 godziny.
 
 **Nocna serenada.** Pinta daje widzenie w ciemności na 18,3 metra przez 24 godziny. Jeśli już masz widzenie w ciemności, zasięg rośnie o 18,3 metra.
 

@@ -10,7 +10,7 @@ Powiązane słowniki:
 
 | Skrót | Źródło | Rola |
 | --- | --- | --- |
-| **PG** | [`sources/5e-SRD_v1.0.md`](../sources/5e-SRD_v1.0.md) — oficjalne PL SRD 5.1 (Rebel / Galaktyka) | **Jedyne oficjalne źródło terminologii 5.1** |
+| **PG** | [`sources/5e-SRD_v1.0.md`](../../data/sources/5e-SRD_v1.0.md) — oficjalne PL SRD 5.1 (Rebel / Galaktyka) | **Jedyne oficjalne źródło terminologii 5.1** |
 | **proj.** | Ustalenia kuracji tego repozytorium | **Terminologia 2024** — brak polskiego PHB 2024; to jest właśnie cel projektu |
 | **Foundry** | `lang-pl-dnd5` — kompendium Foundry VTT | Uzupełnienie (np. typy istot, nazwy podklas) |
 | **srd** | `srd-5.2.1/pl/` — SRD 5.2.1 PL | Materiał wejściowy do korekty; **nie źródło** — błędy poprawiamy wg PG + **proj.** |

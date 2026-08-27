@@ -27,7 +27,7 @@ Starożytny ołtarz to uroczysta komnata, w której składasz ofiary tajemniczym
 
 **Wzmocnij: oczyszczenie nawiedzonego obiektu.** Zlecasz najemnikowi prowadzenie rytuału przez 7 dni — w tym czasie musisz pozostać w bastionie. Na koniec składasz godną ofiarę: pieniężną (1000 sz) lub krwawą (świeże zwłoki co najmniej jednej dużej istoty lub czterech średnich, które nie są konstruktami ani nieumarłymi). Przy ofierze krwi rzucasz na tabelę nawiedzeń bastionu. Po zakończeniu rytuału ofiara jest zniszczona. Wybierz nawiedzony specjalny obiekt w tym bastionie lub w połączonym bastionie — przestaje być nawiedzony.
 
-**Bluźnierczy urok.** Po długim odpoczynku w starożytnym ołtarzu zyskujesz magiczny urok na 7 dni lub do użycia. Możesz zużyć go akcją magiczną, by rzucić [Głód Hadara](../spells/hunger-of-hadar.md) bez komponentów materialnych. Nie możesz zyskać go ponownie, dopóki go posiadasz.
+**Bluźnierczy urok.** Po długim odpoczynku w starożytnym ołtarzu zyskujesz magiczny urok na 7 dni lub do użycia. Możesz zużyć go akcją magiczną, by rzucić [Głód Hadara](../docs/dnd2024-wikidot/spells/hunger-of-hadar.md) bez komponentów materialnych. Nie możesz zyskać go ponownie, dopóki go posiadasz.
 
 ### Gabinet curiozów []()
 
@@ -74,7 +74,7 @@ Szpitalek zapewnia nagłe leczenie i stałą opiekę rannym lub chorym mieszkań
 
 **Wytwórz: antytoksyna.** Najemnicy tworzą dwie fiolki antytoksyny. Praca trwa 7 dni i nie kosztuje pieniędzy. Możesz wydać 50 sz, by wzmocnić jedną fiolkę, lub 100 sz — obie. Wzmocniona antytoksyna kończy stan zatruty u istoty, która ją wypije. Wzmocnienie traci moc po 28 dniach.
 
-**Wytwórz: wzmocniona mikstura leczenia.** Najemnicy wzmacniają do dwóch [mikstur leczenia](../magic-items/potion-of-healing.md) — musisz je dostarczyć. Proces trwa 14 dni. Mikstura leczenia staje się miksturą leczenia (większą). Od 13. poziomu możesz dostarczyć dwie mikstury leczenia (większe) — każda staje się miksturą leczenia (znaczącą).
+**Wytwórz: wzmocniona mikstura leczenia.** Najemnicy wzmacniają do dwóch [mikstur leczenia](../docs/dnd2024-wikidot/magic-items/potion-of-healing.md) — musisz je dostarczyć. Proces trwa 14 dni. Mikstura leczenia staje się miksturą leczenia (większą). Od 13. poziomu możesz dostarczyć dwie mikstury leczenia (większe) — każda staje się miksturą leczenia (znaczącą).
 
 **Triage.** Gdy bastion jest atakowany i rzucasz kośćmi, by ustalić straty obrońców, możesz przerzucić tyle kości, ilu masz najemników w tym obiekcie. Musisz użyć nowego wyniku.
 
@@ -94,11 +94,11 @@ Szpitalek zapewnia nagłe leczenie i stałą opiekę rannym lub chorym mieszkań
 
 Generator błyskawic przekształca atmosferyczną elektryczność w użyteczne funkcje.
 
-**Urok elektromancji.** Po długim odpoczynku w generatorze otrzymujesz 8k6 obrażeń od błyskawic i zyskujesz magiczny urok na 7 dni (patrz Podręcznik Mistrza Gry — uroki). Urok ma 3 ładunki. Zużywając 1 ładunek, rzucasz [Telekineza](../spells/telekinesis.md). Gdy ładunki się wyczerpią, urok znika.
+**Urok elektromancji.** Po długim odpoczynku w generatorze otrzymujesz 8k6 obrażeń od błyskawic i zyskujesz magiczny urok na 7 dni (patrz Podręcznik Mistrza Gry — uroki). Urok ma 3 ładunki. Zużywając 1 ładunek, rzucasz [Telekineza](../docs/dnd2024-wikidot/spells/telekinesis.md). Gdy ładunki się wyczerpią, urok znika.
 
-**Rewitalizacja.** Rzucając [Wskrzeszenie](../spells/raise-dead.md) lub [Zmartwychwstanie](../spells/resurrection.md) w tym obiekcie, koszt komponentów materialnych spada o 1000 sz (minimum 0).
+**Rewitalizacja.** Rzucając [Wskrzeszenie](../docs/dnd2024-wikidot/spells/raise-dead.md) lub [Zmartwychwstanie](../docs/dnd2024-wikidot/spells/resurrection.md) w tym obiekcie, koszt komponentów materialnych spada o 1000 sz (minimum 0).
 
-**Wzmocnij: życie z pioruna.** Najemnik kieruje energią generatora, by rzucić [Animowanie obiektów](../spells/animate-objects.md) na jeden duży lub ogromny przedmiot w bastionie. Czas trwania: 7 dni, bez koncentracji.
+**Wzmocnij: życie z pioruna.** Najemnik kieruje energią generatora, by rzucić [Animowanie obiektów](../docs/dnd2024-wikidot/spells/animate-objects.md) na jeden duży lub ogromny przedmiot w bastionie. Czas trwania: 7 dni, bez koncentracji.
 
 ### Przestrzeń liminalna []()
 
@@ -156,7 +156,7 @@ W salonie seansowym zasłona między światem żywych a umarłych staje cienka.
 
 **Badaj: wróżenie.** Gdy wydajesz rozkaz Badaj, najemnik wróży — rzucając kośćmi, czytając fusy, rozkładając tarokkę lub inną metodą. Po wróżbie zyskujesz heroiczną inspirację. Nie możesz skorzystać ponownie przed długim odpoczynkiem.
 
-**Rozmowa z umarłymi.** Po długim odpoczynku w salonie seansowym możesz natychmiast rzucić [Rozmawianie z umarłymi](../spells/speak-with-dead.md) bez miejsca na czar i komponentów. Cel to zmarła istota, której imię znasz, o ile masz fragment szczątków (popiół, kość) lub przedmiot ważny dla niej za życia (broszka, charakterystyczna broń). Cel mówi przez przyrząd w salonie — np. kryształową kulę lub planszę spirytystyczną.
+**Rozmowa z umarłymi.** Po długim odpoczynku w salonie seansowym możesz natychmiast rzucić [Rozmawianie z umarłymi](../docs/dnd2024-wikidot/spells/speak-with-dead.md) bez miejsca na czar i komponentów. Cel to zmarła istota, której imię znasz, o ile masz fragment szczątków (popiół, kość) lub przedmiot ważny dla niej za życia (broszka, charakterystyczna broń). Cel mówi przez przyrząd w salonie — np. kryształową kulę lub planszę spirytystyczną.
 
 ### Skarbiec duchów []()
 
@@ -174,13 +174,13 @@ Skarbiec duchów jest magicznie zabezpieczony, by więzić i egzorcyzować zło�
 
 **Wiedza ezoteryczna.** Po długim odpoczynku w skarbcu duchów zyskujesz jeden z magicznych uroków:
 
-**Urok egzorcyzmu.** Zużywasz go akcją magiczną, by rzucić [Rozproszenie dobra i zła](../spells/dispel-evil-and-good.md) lub [Zdjęcie klątwy](../spells/remove-curse.md) bez komponentów materialnych.
+**Urok egzorcyzmu.** Zużywasz go akcją magiczną, by rzucić [Rozproszenie dobra i zła](../docs/dnd2024-wikidot/spells/dispel-evil-and-good.md) lub [Zdjęcie klątwy](../docs/dnd2024-wikidot/spells/remove-curse.md) bez komponentów materialnych.
 
-**Urok złorzeczenia.** Zużywasz go akcją magiczną, by rzucić [Klątwę](../spells/hex.md) (wersja 3. poziomu) lub [Nałożenie klątwy](../spells/bestow-curse.md) bez komponentów materialnych.
+**Urok złorzeczenia.** Zużywasz go akcją magiczną, by rzucić [Klątwę](../docs/dnd2024-wikidot/spells/hex.md) (wersja 3. poziomu) lub [Nałożenie klątwy](../docs/dnd2024-wikidot/spells/bestow-curse.md) bez komponentów materialnych.
 
 Urok trwa 7 dni lub do użycia. Inteligencja, Mądrość lub Charyzma to cecha rzucania czarów uroku (wybierasz przy każdym zdobyciu).
 
-**Badaj: pytanie okultystów.** Gdy wydajesz rozkaz Badaj, ty lub najemnik studiujecie relikwie i przesłuchujecie uwięzione istoty przez 7 dni. Rzuć 1k6. Na 1: praca jest wyczerpująca psychicznie — jeśli badasz ty, otrzymujesz 6k6 obrażeń psychicznych; jeśli najemnik — ginie, obiekt nie działa do następnej tury bastionu. W przeciwnym razie ty lub najemnik zdobywacie wiedzę jak po udanym [Kontakcie z inną sferą](../spells/contact-other-plane.md). Najemnik dzieli się wiedzą przy następnej rozmowie.
+**Badaj: pytanie okultystów.** Gdy wydajesz rozkaz Badaj, ty lub najemnik studiujecie relikwie i przesłuchujecie uwięzione istoty przez 7 dni. Rzuć 1k6. Na 1: praca jest wyczerpująca psychicznie — jeśli badasz ty, otrzymujesz 6k6 obrażeń psychicznych; jeśli najemnik — ginie, obiekt nie działa do następnej tury bastionu. W przeciwnym razie ty lub najemnik zdobywacie wiedzę jak po udanym [Kontakcie z inną sferą](../docs/dnd2024-wikidot/spells/contact-other-plane.md). Najemnik dzieli się wiedzą przy następnej rozmowie.
 
 # **Wydarzenia bastionu**
 
@@ -370,7 +370,7 @@ Widmowa scena z przeszłości się odtwarza. Zyskujesz wgląd w duchy bastionu l
 
 ##### Goście Vistani. []()
 
-Wędrowcy Vistani odwiedzają bastion, słysząc opowieści o duchach. Za nocleg oferują wróżbę — [Wróżba](../spells/augury.md) lub odczyt tarokki (załącznik A). Gdy ich odpędzisz, odchodzą, lecz najwyższy poziomem nienawiedzony specjalny obiekt staje się nawiedzony.
+Wędrowcy Vistani odwiedzają bastion, słysząc opowieści o duchach. Za nocleg oferują wróżbę — [Wróżba](../docs/dnd2024-wikidot/spells/augury.md) lub odczyt tarokki (załącznik A). Gdy ich odpędzisz, odchodzą, lecz najwyższy poziomem nienawiedzony specjalny obiekt staje się nawiedzony.
 
 # **Upadek bastionu**
 
@@ -380,6 +380,6 @@ Postać gracza może stracić bastion na następujące sposoby:
 
 **Zaniedbanie.** Gdy postać nie wydaje roskazów przez tyle kolejnych tur bastionu, ile ma poziomów (np. przez śmierć), najemnicy odchodzą, a miejsce zostaje splądrowane. Po powrocie postać może założyć nowy bastion — być może na ruinach starego.
 
-**Ruina.** Wyciągnięcie karty Ruina z [Talii rozmaitości](../magic-items/deck-of-many-things.md) natychmiast odbiera postaci bastion. Gracz decyduje o jego losie — splądrowanie przez wrogów, trzęsienie ziemi itd.
+**Ruina.** Wyciągnięcie karty Ruina z [Talii rozmaitości](../docs/dnd2024-wikidot/magic-items/deck-of-many-things.md) natychmiast odbiera postaci bastion. Gracz decyduje o jego losie — splądrowanie przez wrogów, trzęsienie ziemi itd.
 
 Niezależnie od przyczyny gracz wspólnie z MG może założyć nowy bastion. Użyj tabeli zdobywania specjalnych obiektów, by ustalić ich liczbę. Nowy bastion zaczyna też z dwoma podstawowymi obiektami (Ciasny i Przestronny) według wyboru gracza.

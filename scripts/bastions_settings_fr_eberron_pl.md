@@ -41,7 +41,7 @@ Legowisko ametystowego smoka to zamknięta, otwarta komnata z basenem; jedno z w
 
 Archiwum Kultu Smoka zawiera obszerne zapisy na określone tematy, w tym o smokach.
 
-**Badaj: pomocna wiedza.** Gdy wydajesz rozkaz Badaj, zlecasz najemnikowi przeszukanie archiwum. Praca trwa 7 dni. Najemnik zdobywa wiedzę, jakby rzucił czar [Legendarna wiedza](../spells/legend-lore.md), i dzieli się nią przy następnej rozmowie.
+**Badaj: pomocna wiedza.** Gdy wydajesz rozkaz Badaj, zlecasz najemnikowi przeszukanie archiwum. Praca trwa 7 dni. Najemnik zdobywa wiedzę, jakby rzucił czar [Legendarna wiedza](../docs/dnd2024-wikidot/spells/legend-lore.md), i dzieli się nią przy następnej rozmowie.
 
 **Księgi referencyjne.** Archiwum zawiera zbiór wiedzy o smokach. Masz ułatwienie w testach Inteligencji (Przyroda lub Religia) w bastionie, gdy wykonujesz akcję Nauka, by przypomnieć sobie wiedzę o smokach, Tiamat lub Kule Smoka.
 
@@ -96,7 +96,7 @@ Istoty w gaju liczą się jako obrońcy bastionu. Odejmuj straty z listy. Możes
 
 Masz kryjówkę ukrytą przy bastionie, połączoną tunelem długości do 400 metrów. Najemnik utrzymuje kryjówkę pod fałszywą tożsamością niezwiązaną z bastionem. Lokalizację kryjówki możesz zmienić przy każdym zdobytym poziomie.
 
-**Obrona kryjówki.** Kryjówka jest stale chroniona czarem [Alarm](../spells/alarm.md). Od 9. poziomu może łączyć się z bastionem magicznymi drzwiami zamiast tunelem; przechodzący z kryjówki wychodzą z wybranych drzwi w bastionie i odwrotnie — kryjówka może być w promieniu 160 km od bastionu. Od 13. poziomu — gdziekolwiek w Faerûn. Od 17. — drzwi działają między planami, kryjówka może być gdziekolwiek w multiversum.
+**Obrona kryjówki.** Kryjówka jest stale chroniona czarem [Alarm](../docs/dnd2024-wikidot/spells/alarm.md). Od 9. poziomu może łączyć się z bastionem magicznymi drzwiami zamiast tunelem; przechodzący z kryjówki wychodzą z wybranych drzwi w bastionie i odwrotnie — kryjówka może być w promieniu 160 km od bastionu. Od 13. poziomu — gdziekolwiek w Faerûn. Od 17. — drzwi działają między planami, kryjówka może być gdziekolwiek w multiversum.
 
 **Wzmocnij: szkolenie Harpersów.** Gdy wydajesz rozkaz Wzmocnij, najemnik zaprasza pobliskiego agenta Harpersów. Rzuć kością — nieparzysty: brak gościa, brak korzyści. Parzysty: przyjazny Harper zostaje w kryjówce na 7 dni.
 
@@ -351,9 +351,9 @@ Bastion ze strefą manifestacji przesiąknięty jest energią jednego z planów 
 
 - **Irian, Wieczny Świt.** Zużywając miejsce na czar przywracający PW lub zadający obrażenia od światła, możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
 
-- **Lamannia, Zmierzchowy Las.** Zużywając miejsce na czar przywołujący bestię, żywiołaka lub feya (w tym [Przywołanie zwierząt](../spells/conjure-animals.md), [Przywołanie żywiołaka](../spells/conjure-elemental.md), [Przywołanie feya](../spells/conjure-fey.md), [Przywołanie mniejszych żywiołaków](../spells/conjure-minor-elementals.md), [Przywołanie leśnych istot](../spells/conjure-woodland-beings.md), [Znalezienie wierzchowca](../spells/find-steed.md), [Przywołanie bestii](../spells/summon-beast.md), [Przywołanie żywiołaka](../spells/summon-elemental.md) lub [Przywołanie feya](../spells/summon-fey.md)), możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
+- **Lamannia, Zmierzchowy Las.** Zużywając miejsce na czar przywołujący bestię, żywiołaka lub feya (w tym [Przywołanie zwierząt](../docs/dnd2024-wikidot/spells/conjure-animals.md), [Przywołanie żywiołaka](../docs/dnd2024-wikidot/spells/conjure-elemental.md), [Przywołanie feya](../docs/dnd2024-wikidot/spells/conjure-fey.md), [Przywołanie mniejszych żywiołaków](../docs/dnd2024-wikidot/spells/conjure-minor-elementals.md), [Przywołanie leśnych istot](../docs/dnd2024-wikidot/spells/conjure-woodland-beings.md), [Znalezienie wierzchowca](../docs/dnd2024-wikidot/spells/find-steed.md), [Przywołanie bestii](../docs/dnd2024-wikidot/spells/summon-beast.md), [Przywołanie żywiołaka](../docs/dnd2024-wikidot/spells/summon-elemental.md) lub [Przywołanie feya](../docs/dnd2024-wikidot/spells/summon-fey.md)), możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
 
-- **Mabar, Nieskończona Noc.** Zużywając miejsce na czar ożywiający lub przywołujący nieumarłego (w tym [Ożywienie umarłych](../spells/animate-dead.md), [Stworzenie nieumarłego](../spells/create-undead.md) lub [Przywołanie nieumarłego](../spells/summon-undead.md)), możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
+- **Mabar, Nieskończona Noc.** Zużywając miejsce na czar ożywiający lub przywołujący nieumarłego (w tym [Ożywienie umarłych](../docs/dnd2024-wikidot/spells/animate-dead.md), [Stworzenie nieumarłego](../docs/dnd2024-wikidot/spells/create-undead.md) lub [Przywołanie nieumarłego](../docs/dnd2024-wikidot/spells/summon-undead.md)), możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
 
 - **Risia, Równina Lodu.** Zużywając miejsce na czar zadający obrażenia od zimna, możesz zużyć urok (bez akcji), by traktować go jak rzucany o poziom wyżej.
 
@@ -381,15 +381,15 @@ Przy mobilnym bastionie więź z planem zawiesza się w ruchu — nie wydajesz r
 
 Muzeum przechowuje relikty i skarby z wypraw, w których uczestniczyłeś lub które sponsorowałeś — skatalogowane i wystawione.
 
-**Badaj: wiedza specjalistyczna.** Gdy wydajesz rozkaz Badaj, najemnik studiuje wybrane eksponaty przez 7 dni. Zdobywa wiedzę o pytaniu starożytnej historii, jakby rzucił [Legendarna wiedza](../spells/legend-lore.md), i dzieli się nią przy następnej rozmowie.
+**Badaj: wiedza specjalistyczna.** Gdy wydajesz rozkaz Badaj, najemnik studiuje wybrane eksponaty przez 7 dni. Zdobywa wiedzę o pytaniu starożytnej historii, jakby rzucił [Legendarna wiedza](../docs/dnd2024-wikidot/spells/legend-lore.md), i dzieli się nią przy następnej rozmowie.
 
 **Tajemnice przeszłości.** Muzeum ma jeden skarb, który po 7 dniach studiów i długim odpoczynku w bastionie daje magiczny urok (patrz „Dary nadprzyrodzone” w Podręczniku Mistrza Gry) na 7 dni lub do użycia. Nie zyskujesz kolejnego, dopóki posiadasz obecny. Efekt zależy od pochodzenia skarbu — wybierz opcję (MG może dodać lub ograniczyć):
 
-- **Urok Argonnessen.** Znasz język smoczy. Możesz zużyć urok, by rzucić [Smoczy oddech](../spells/dragon-s-breath.md) (wersja 4. poziomu) — tylko na siebie.
+- **Urok Argonnessen.** Znasz język smoczy. Możesz zużyć urok, by rzucić [Smoczy oddech](../docs/dnd2024-wikidot/spells/dragon-s-breath.md) (wersja 4. poziomu) — tylko na siebie.
 
-- **Urok Ashtakali.** Znasz języki otchłanny i infernalny. Możesz zużyć urok, by rzucić [Promień choroby](../spells/ray-of-sickness.md) (wersja 4. poziomu).
+- **Urok Ashtakali.** Znasz języki otchłanny i infernalny. Możesz zużyć urok, by rzucić [Promień choroby](../docs/dnd2024-wikidot/spells/ray-of-sickness.md) (wersja 4. poziomu).
 
-- **Urok Dhakaan.** Znasz język goblinów. Możesz zużyć urok, by rzucić [Ogłuszające uderzenie](../spells/staggering-smite.md).
+- **Urok Dhakaan.** Znasz język goblinów. Możesz zużyć urok, by rzucić [Ogłuszające uderzenie](../docs/dnd2024-wikidot/spells/staggering-smite.md).
 
 - **Urok Khyber.** Masz widzenie w ciemności na 36,6 metra. Możesz zużyć urok, by zyskać prawdziwe widzenie na 18,3 metra przez 1 minutę.
 

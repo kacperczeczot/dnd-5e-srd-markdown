@@ -12,7 +12,7 @@
 
 Skarbiec przechowuje święte przedmioty.
 
-**Urok relikwiarza.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone”), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Większe przywrócenie](../spells/greater-restoration.md) bez miejsca na czar ani komponentów materialnych. Nie możesz zyskać go ponownie, dopóki go posiadasz.
+**Urok relikwiarza.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone”), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Większe przywrócenie](../docs/dnd2024-wikidot/spells/greater-restoration.md) bez miejsca na czar ani komponentów materialnych. Nie możesz zyskać go ponownie, dopóki go posiadasz.
 
 **Zbierz: talizman.** Gdy wydajesz rozkaz Zbierz, zlecasz najemnikowi przygotowanie talizmanu — zwykle amulet, rzeźbioną skrzynkę lub statuetkę; może to być dowolny drobny niemagiczny przedmiot o znaczeniu religijnym. Praca trwa 7 dni i nie kosztuje pieniędzy. Talizman zastępuje komponenty materialne jednego czaru o wartości do 1000 sz. Jeśli czar normalnie zużywa komponenty, talizman nie jest zużywany. Po użyciu trzeba zwrócić go do relikwiarza i ponownie wydać rozkaz Zbierz, by go przygotować.
 
@@ -52,7 +52,7 @@ Sakristia służy do przechowywania świętych przedmiotów i szat liturgicznych
 
 Ikony twojej religii i ciche miejsce modlitwy.
 
-**Urok sanktuarium.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Kojące słowo](../spells/healing-word.md) bez miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
+**Urok sanktuarium.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Kojące słowo](../docs/dnd2024-wikidot/spells/healing-word.md) bez miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
 
 **Wytwórz: święty fokus.** Gdy wydajesz rozkaz Wytwórz, zlecasz najemnikowi wytworzenie druidzkiego fokusu (drewniany kostur) lub symbolu wiary. Praca trwa 7 dni i nie kosztuje pieniędzy. Przedmiot pozostaje w bastionie, dopóki go nie odbierzesz.
 
@@ -70,11 +70,11 @@ Ikony twojej religii i ciche miejsce modlitwy.
 
 Sanktum to miejsce wytchnienia i uzdrowienia.
 
-**Urok sanktum.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Leczenie](../spells/heal.md) bez miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
+**Urok sanktum.** Po długim odpoczynku w bastionie zyskujesz magiczny urok (patrz „Dary nadprzyrodzone” w rozdziale 3), który trwa 7 dni lub do użycia. Urok pozwala raz rzucić [Leczenie](../docs/dnd2024-wikidot/spells/heal.md) bez miejsca na czar. Nie możesz zyskać go ponownie, dopóki go posiadasz.
 
 **Wzmocnij: wzmacniające obrzędy.** Gdy wydajesz rozkaz Wzmocnij, najemnicy przez 7 dni wykonują codzienne obrzędy na korzyść ciebie lub wskazanej postaci — beneficjent nie musi być w bastionie. Po każdym długim odpoczynku beneficjent zyskuje tymczasowe PW równe twojemu poziomowi. Efekt trwa 7 dni.
 
-**Powrót do sanktum.** Dopóki sanktum istnieje, zawsze masz przygotowany czar [Słowo powrotu](../spells/word-of-recall.md). Rzucając go, możesz wskazać sanktum jako cel zamiast wcześniej wyznaczonego miejsca. Jedna wybrana istota, która przez czar trafi do sanktum, zyskuje efekt czaru [Leczenie](../spells/heal.md).
+**Powrót do sanktum.** Dopóki sanktum istnieje, zawsze masz przygotowany czar [Słowo powrotu](../docs/dnd2024-wikidot/spells/word-of-recall.md). Rzucając go, możesz wskazać sanktum jako cel zamiast wcześniej wyznaczonego miejsca. Jedna wybrana istota, która przez czar trafi do sanktum, zyskuje efekt czaru [Leczenie](../docs/dnd2024-wikidot/spells/heal.md).
 
 ### Skryptorium []()
 
@@ -94,7 +94,7 @@ Skryptorium ma biurka i przybory do pisania.
 
 **Wytwórz: kopia książki.** Najemnik robi kopię niemagicznej książki — potrzebna pusta książka. Praca trwa 7 dni.
 
-**Wytwórz: magiczny zwój.** Najemnik przepisuje [magiczny zwój](../magic-items/spell-scroll.md) z czarem kleryka lub maga 3. poziomu lub niższym. Obiekt ma przybory kaligraficzne; najemnik spełnia wymagania przepisywania. Patrz „Tworzenie wyposażenia” w Podręczniku Gracza co do czasu i kosztu — który ty ponosisz.
+**Wytwórz: magiczny zwój.** Najemnik przepisuje [magiczny zwój](../docs/dnd2024-wikidot/magic-items/spell-scroll.md) z czarem kleryka lub maga 3. poziomu lub niższym. Obiekt ma przybory kaligraficzne; najemnik spełnia wymagania przepisywania. Patrz „Tworzenie wyposażenia” w Podręczniku Gracza co do czasu i kosztu — który ty ponosisz.
 
 **Wytwórz: druk.** Najemnik tworzy do pięćdziesięciu egzemplarzy gazety, broszury lub innego druku. Praca trwa 7 dni i kosztuje 1 sz za egzemplarz. Bez dodatkowego czasu i kosztu najemnik może roznieść druk w lokacje w promieniu 80 km od bastionu.
 
@@ -170,7 +170,7 @@ Sprzedając towary, kupujący płaci o 10% więcej; od 9. poziomu — 20%, od 13
 
 **Rozkaz:** Rekrutuj
 
-Na podłodze tego pomieszczenia wyryty jest stały krąg teleportacji utworzony czarem [Krąg teleportacji](../spells/teleportation-circle.md).
+Na podłodze tego pomieszczenia wyryty jest stały krąg teleportacji utworzony czarem [Krąg teleportacji](../docs/dnd2024-wikidot/spells/teleportation-circle.md).
 
 **Rekrutuj: zaklinacz.** Gdy wydajesz rozkaz Rekrutuj, najemnik zaprasza przyjaznego NPC-zaklinacza. Rzuć kością — nieparzysty wynik: odmowa, brak korzyści. Parzysty: gość przybywa przez krąg.
 

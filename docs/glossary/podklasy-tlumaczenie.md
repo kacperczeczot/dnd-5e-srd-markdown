@@ -8,7 +8,7 @@ Oficjalne i rekomendowane polskie nazwy podklas dla `dnd2024-wikidot-pl/subclass
 
 | Skrót | Źródło |
 | --- | --- |
-| **PG** | [`sources/5e-SRD_v1.0.md`](../sources/5e-SRD_v1.0.md) — oficjalne PL SRD 5.1 |
+| **PG** | [`sources/5e-SRD_v1.0.md`](../../data/sources/5e-SRD_v1.0.md) — oficjalne PL SRD 5.1 |
 | **PG14** | [TESGIR — PG 2014](http://tesgir.pl/dnd-5ed-rasy-klasy-i-pochodzenia/) — wyd. Galaktyki |
 | **Xan** | [Rebel — Xanathar](https://www.wydawnictworebel.pl/pages/przewodnik-po-wielu-podklasach-1586.html) |
 | **Foundry** | `lang-pl-dnd5` — kompendium Foundry VTT |
