@@ -1,7 +1,3 @@
-[Strona główna](README.md)
-
----
-
 # D&D 5e SRD & 2024 Rules Markdown
 
 > Kompletna baza wiedzy, zbiór reguł System Reference Document 5.2.1 oraz edycji D&D 2024 w formacie Markdown (wersje EN i PL), słowniki terminologiczne oraz kompilator podręczników.
