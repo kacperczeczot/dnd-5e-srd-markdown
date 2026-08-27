@@ -24,7 +24,7 @@ Ponadto natychmiast po zadaniu trafienia krytycznego możesz przemieścić się 
 
 ### Poziom 7: Dodatkowy styl walki
 
-Zyskujesz kolejny [atut stylu walki](../feats/all.md) według własnego wyboru.
+Zyskujesz kolejny `atut stylu walki` według własnego wyboru.
 
 ### Poziom 10: Heroiczny wojownik
 
